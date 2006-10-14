@@ -1,66 +1,165 @@
-{{Infobox_Country
-| common_name  = Austria
-| native_name  = {{lang|de|''Republik Österreich''}}
-| conventional_long_name  = Republic of Austria
-| image_flag  = Flag of Austria.svg
-| image_coat  = Austria Bundesadler.svg
-| image_map  = LocationAustria.png
-| national_motto  = ''none''
-| national_anthem  = {{lang|de|''[[Land der Berge, Land am Strome]]''}}<br>([[German language|German]] for "Land of Mountains, Land on the River")
-| official_languages  = [[German language|German]] (official)<br>[[Slovenian language|Slovenian]]&nbsp;([[regional language|reg.]]) [[Croatian language|Croatian]]&nbsp;(reg.) [[Hungarian language|Hungarian]]&nbsp;(reg.) <br>[[Austrian Sign Language]] (in constitution)&nbsp;
-| capital  = [[Vienna]]
-| latd=48|latm=12|latNS=N|longd=16|longm=21|longEW=E
-| largest_city  = [[Vienna]]
-| government_type  = [[Republic]]
-| leader_title1  = [[Federal President of Austria|President]]
-| leader_name1   = [[Heinz Fischer]]
-| leader_title2  = [[Chancellor of Austria|Chancellor]]
-| leader_name2   = [[Wolfgang Schüssel]]
-| sovereignty_type = [[Austrian State Treaty|Independence]]
-| established_date1 = [[July 27]] [[1955]]
-| established_date2 = [[October 26]] [[1955]] 
-| established_event1 = [[Austrian State Treaty]] in force 
-| established_event2 = [[Declaration of Neutrality]]
-| accessionEUdate         = [[January 1]], [[1995]]
-| area  = 83,871
-| area_rank               = 115th
-| area_magnitude          = 1 E10
-| percent_water           = 1.3
-| areami²                 = 32,378 <!-- Do not remove [[WP:MOSNUM]] -->
-| population_estimate  = 8,280,703
-| population_estimate_year= 2006
-| population_estimate_rank= 92nd
-| population_density   = 99
-| population_density_rank = 99th
-| population_densitymi²   = 256<!-- Do not remove [[WP:MOSNUM]] -->
-| population_census  = 8,032,926
-| population_census_year  = 2001
-| GDP_PPP  = $275.02 billion
-| GDP_PPP_year            = 2005
-| GDP_PPP_rank            = 34th
-| GDP_nominal = $318 billion
-| GDP_nominal_year        = 2005
-| GDP_nominal_rank        = 22nd
-| GDP_PPP_per_capita  = $33,615
-| GDP_PPP_per_capita_rank = 8th
-| GDP_nominal_per_capita  = $39,292
-| GDP_nominal_per_capita_rank=10th
-| HDI_year                = 2003
-| HDI                     = 0.936
-| HDI_rank                = 17th
-| HDI_category            = <font color="#009900">high</font>
-| currency                = [[Euro]] ([[Euro sign|€]]) <sup>1</sup>
-| currency_code           = EUR
-| time_zone               = [[Central European Time|CET]]
-| utc_offset              = +1
-| time_zone_DST           = [[Central European Summer Time|CEST]]
-| utc_offset_DST          = +2
-| cctld                   = [[.at]] <sup>2</sup>
-| calling_code   = 43
-| footnotes    = <sup>1</sup> Prior to 1999: Austrian [[Schilling]].<br />
-<sup>2</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+{{Infobox_Country|
+common_name 		= Austria|
+native_name 		= ''Republik Österreich''|
+conventional_long_name  = Republic of Austria|
+image_flag 		= Flag of Austria.svg|
+image_coat 		= Austria Bundesadler.svg|
+image_map 		= LocationAustria.png|
+national_motto 		= wala|
+national_anthem 	= ''[[Land der Berge, Land am Strome]]''<br>("Land of Mountains, Land on the River")|
+official_languages 	= [[Wikang Aleman|Aleman]] (opisyal)<br>[[Wikang Slovenian|Slovenian]]&nbsp;([[wikang panrehiyon|reh.]]) [[Wikang Croatian|Croatian]]&nbsp;(reh.) [[Wikang Hungarian|Hungarian]]&nbsp;(reh.) <br>[[Austrian Sign Language]]&nbsp;|
+capital 		= [[Vienna]]|
+latd=48|latm=12|latNS=N|longd=16|longm=21|longEW=E|
+largest_city 		= Vienna|
+government_type 	= [[Republika]]|
+leader_title1 		= [[Pangunong Pederal ng Austria|Pangulo]] |
+leader_title2             = [[Chancellor ng Austria|Chancellor]]|
+leader_name1    	= [[Heinz Fischer]] |
+leader_name2           = [[Wolfgang Schüssel]]|
+sovereignty_type = [[Austrian State Treaty|Kalayaan]]|
+established_date1 = [[Oktubre 26]], [[1955]] |
+established_event1 = [[Austrian State Treaty]] |
+accessionEUdate         = [[Enero 1]], [[1995]]|
+area 			= 83,871|
+area_rank               = ika-113|
+area_magnitude          = 1 E10|
+percent_water           = 1.3|
+areami²                 = 32,383|<!-- Do not remove [[WP:MOSNUM]] -->
+population_estimate 	= 8,189,000|
+population_estimate_year= 2005|
+population_estimate_rank= ika-92|
+population_density   = 97|
+population_density_rank = ika-78|
+population_densitymi²   = 251|<!-- Do not remove [[WP:MOSNUM]] -->
+population_census 	= 8,032,926|
+population_census_year  = 2001|
+GDP_PPP 		= $267 bilyon|
+GDP_PPP_year            = 2005|
+GDP_PPP_rank            = ika-34|
+GDP_nominal		= $318 bilyon|
+GDP_nominal_year        = 2005|
+GDP_nominal_rank        = ika-22|
+GDP_PPP_per_capita 	= $32,962|
+GDP_PPP_per_capita_rank = ika-8|
+GDP_nominal_per_capita 	= $39,292|
+GDP_nominal_per_capita_rank=ika-10|
+HDI_year                = 2003|
+HDI                     = 0.936|
+HDI_rank                = ika-17|
+HDI_category            = <font color="#009900">high</font>|
+currency 	 	= [[Austrian euro coins|Euro]]<sup>[1]</sup>|
+currency_code           = EUR|
+time_zone 	 	= [[Central European Time|CET]]|
+utc_offset              = +1|
+time_zone_DST	 	= [[Central European Summer Time|CEST]]|
+utc_offset_DST          = +2|
+cctld		 	= [[.at]]|
+calling_code	 	= 43|
+footnotes 	 	= <sup>[1]</sup> Bago ang 2002: Austrian [[Schilling]]|
 }}
 
-'''Austria''' ({{lang-de|Österreich}}, {{lang-sl|Avstrija}}; {{lang-hr|Austrija}}; {{lang-sr|Aустрија}}; {{lang-hu|Ausztria}}; see also [[List of country names in various languages (A-C)|other languages]]) is a [[landlocked]] country in central [[Central Europe|Europe]]. It borders [[Germany]] and the [[Czech Republic]] to the north, [[Slovakia]] and [[Hungary]] to the east, [[Slovenia]] and [[Italy]] to the south, and [[Switzerland]] and [[Liechtenstein]] to the west. Its capital [[city]] is [[Vienna]]. 
+Ang '''Austria''' (bigkas: /ós·tri·ya/) ay isang bansa sa [[Gitnang Europa]]. [[Vienna]] ang kabisera nito. Napapaligiran ito ng mga bansang [[Alemanya]] at [[Czech Republic]] sa hilaga, [[Slovakia]] at [[Hungary]] sa silangan, [[Slovenia]] at [[Italya]] at timog at [[Switzerland]] at [[Liechtenstein]] sa kanluran.
 
-Austria is a [[parliament]]ary [[representative democracy]] consisting of nine federal states and is one of six European countries that have declared permanent [[neutral country|neutrality]] and one of the few countries that included the concept of everlasting neutrality in their constitution. Austria is a member of the [[United Nations]] (since 1955) and the [[European Union]] (since 1995).
+{{stub}}{{EU countries and candidates}}
+{{Europa}}
+[[Category:Mga estadong-kasapi ng Kaisahang Europeo]]
+[[Category:Mga bansa sa Europa]]
+[[Category:Austria]]
+
+[[af:Oostenryk]]
+[[als:Österreich]]
+[[am:ኦስትሪያ]]
+[[an:Austria]]
+[[ang:Ēastrīce]]
+[[ar:نمسا]]
+[[arc:ܢܡܣܐ]]
+[[ast:Austria]]
+[[be:Аўстрыя]]
+[[bg:Австрия]]
+[[bn:অস্ট্রিয়া]]
+[[br:Aostria]]
+[[bs:Austrija]]
+[[ca:Àustria]]
+[[cs:Rakousko]]
+[[cy:Awstria]]
+[[da:Østrig]]
+[[de:Österreich]]
+[[el:Αυστρία]]
+[[en:Austria]]
+[[eo:Aŭstrio]]
+[[es:Austria]]
+[[et:Austria]]
+[[eu:Austria]]
+[[fa:اتریش]]
+[[fi:Itävalta]]
+[[fiu-vro:Austria]]
+[[fo:Eysturríki]]
+[[fr:Autriche]]
+[[fur:Austrie]]
+[[fy:Eastenryk]]
+[[ga:An Ostair]]
+[[gd:An Ostair]]
+[[gl:Austria - Österreich]]
+[[gu:ઑસ્ટ્રિયા]]
+[[he:אוסטריה]]
+[[hi:ऑस्ट्रिया]]
+[[hr:Austrija]]
+[[hu:Ausztria]]
+[[hy:Ավստրիա]]
+[[ia:Austria]]
+[[id:Austria]]
+[[io:Austria]]
+[[is:Austurríki]]
+[[it:Austria]]
+[[ja:オーストリア]]
+[[ka:ავსტრია]]
+[[km:អូត្រីហ្ស]]
+[[ko:오스트리아]]
+[[ku:Avûstûrya]]
+[[kw:Estrych]]
+[[la:Austria]]
+[[lb:Éisträich]]
+[[li:Oesteriek]]
+[[lt:Austrija]]
+[[lv:Austrija]]
+[[mk:Австрија]]
+[[ms:Austria]]
+[[mt:Awstrija]]
+[[na:Austria]]
+[[nds:Öösterriek]]
+[[nds-nl:Oostnriek]]
+[[ne:अष्ट्रीया]]
+[[nl:Oostenrijk]]
+[[nn:Austerrike]]
+[[no:Østerrike]]
+[[nrm:Autriche]]
+[[oc:Àustria]]
+[[os:Австри]]
+[[pam:Austria]]
+[[pdc:Eestereich]]
+[[pl:Austria]]
+[[ps:اطريش]]
+[[pt:Áustria]]
+[[rm:Austria]]
+[[ro:Austria]]
+[[ru:Австрия]]
+[[sa:आस्ट्रिया]]
+[[scn:Austria]]
+[[se:Nuortariika]]
+[[sh:Austrija]]
+[[simple:Austria]]
+[[sk:Rakúsko]]
+[[sl:Avstrija]]
+[[sq:Austria]]
+[[sr:Аустрија]]
+[[sv:Österrike]]
+[[ta:ஆஸ்திரியா]]
+[[tet:Áustria]]
+[[th:ประเทศออสเตรีย]]
+[[tr:Avusturya]]
+[[ug:ئاۋسترىيە]]
+[[uk:Австрія]]
+[[vi:Áo]]
+[[yi:עסטרייך]]
+[[zh:奥地利]]
+[[zh-min-nan:Tang-kok]]

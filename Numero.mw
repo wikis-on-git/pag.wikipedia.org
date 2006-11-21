@@ -1,21 +1,43 @@
-Bilang na numero
-1 - sakey
-2 - dwara
-3 - talora
-4 - apatera
-5 - limara
-6 - animmira
-7 - pitora
-8 - walora
-9 - siyammera
-10 - samplora
-11 - labinsakey
-12 - labindwa
-13 -labintalo
-14 -labin-apat
-15 - labinlima
-16 - labin-anem
-17 - labinpito
-18 - labinwalo
-19 - labinsiyam
-20 - dwamplo
+Bilang na numero <br>
+1 - sakey <br>
+2 - dwara <br>
+3 - talora <br>
+4 - apatera <br>
+5 - limara <br>
+6 - animmira <br>
+7 - pitora <br>
+8 - walora <br>
+9 - siammera <br>
+10 - samplora <br>
+11 - labinsakey <br>
+12 - labindwa <br>
+13 - labintalo <br>
+14 - labin-apat <br>
+15 - labinlima <br>
+16 - labin-anem <br>
+17 - labinpito <br>
+18 - labinwalo <br>
+19 - labinsiam <br>
+20 - dwamplo <br>
+21 - dwamplo san sakey <br>
+22 - dwamplo san dwa
+30 - talomplo
+40 - apataplo
+50 - limamplo
+60 - anemaplo
+70 - pitomplo
+80 - walomplo
+90 - siamaplo
+100 - sanlasus
+101 - sanlasus san sakey
+102 - sanlasus san dwa
+200 - dwanlasus
+300 - talonlasus
+400 - apatyalasus
+500 - limamlasus
+600 - anemyalasus
+700 - pitonlasus
+800 - walonlasus
+900 - siamyalasus
+1000 - sanlibo
+1,000,000 - sanlaksa

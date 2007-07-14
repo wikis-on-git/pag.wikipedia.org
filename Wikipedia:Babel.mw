@@ -41,3 +41,487 @@ On Wikipedia, the noun '''Babel''' (in reference to the [[Tower of Babel]]) refe
 |-
 |style="text-align: center"|[[:Category:Wikipedians by language|Search user languages]]
 |}
+
+So, for example, '''<nowiki>{{Babel|en|de-1}}</nowiki>''' would indicate a native speaker of English with basic knowledge of German.
+'''<nowiki>{{Babel|en-5|sv|no-4|he-3|lt-2|es-1|an-0}}</nowiki>''' would indicate a professional proficiency of the English language, a native speaker of Swedish with an almost-native knowledge of Norwegian, advanced knowledge of Hebrew, an intermediate knowledge of Lithuanian, a basic knowledge of Spanish and no knowledge of Aragonese.
+
+These templates add you to the category associated with your level of understanding, and to the overall category for that language.
+
+To find someone who speaks a particular language, see '''[[:Category:Wikipedians by language|Wikipedians by languages]]''', and follow the links. For the most part, the two and three letter codes are taken from [[ISO 639]], but see [[meta:Complete list of language wikis available|this list]] for a comprehensive guide.
+
+You can help expand this system by creating templates for your language. Categories have already been created for most languages which have editions of Wikipedia containing over a hundred articles; they just need labelling up! It's recommended to copy the English or French versions when expanding the scheme, as most of the languages listed here are incomplete.
+
+Note that many [[list of sign languages|sign languages]] currently use the same template with language code "sgn", with the exception of [[:Category:User ase|American Sign Language]] users who should use the [[Wikipedia:Babel#ase|American Sign Language template]]. Other sign languages can be specified within the <nowiki>{{User sgn}}</nowiki> template itself. The use of this parameter requires the user to perform an extra step when using the <nowiki>{{Babel-#}}</nowiki> templates, described [[:Category:User sgn|here]].
+
+==Alternatives==
+There are other options for achieving results the same as or similar to the standard Babel-X template above.
+
+#You can add stand-alone language templates. Format: '''<nowiki>{{User xx-1}}{{User yy-1}}{{User zz-1}}</nowiki>'''.
+#You can use the Babel-N template. Format: '''<nowiki>{{Babel-N|1={{User xx-1}}{{User yy-1}}{{User zz-1}}}}</nowiki>'''.
+#You can use top and bottom templates to make the box. Format: '''<nowiki>{{Userboxtop}}{{User xx-1}}{{User yy-1}}{{User zz-1}}{{Userboxbottom}}</nowiki>'''.
+
+==Natural languages==
+__NOEDITSECTION__
+==A==
+{{babels|aa|Afar|Afar}}
+{{babels|ab|Аҧсуа|Abkhaz}}
+{{babels|aeb|Tounsi|Tunisian Arabic}}
+{{babels|af|Afrikaans|Afrikaans}}
+{{babels|ain|Aynu itak|Ainu}}
+{{babels|ak|Akan|Akan}}
+{{babels|akk|lišānum akkadītum|Akkadian}} (including Assyrian and Babylonian)
+{{babels|als|Alemannisch|Alemannic German}}
+{{babels|am|አማርኛ|Amharic}}
+{{babels|an|Aragonés|Aragonese}}
+{{babels/Old|ang|Englisc|Anglo Saxon}}
+{{babels|ar|العربية|Arabic}}
+{{babels|arc|ܐܪܡܝܐ|Aramaic}}
+====See also====
+*[[#tmr|Talmudic Aramaic]]
+
+{{babels|arn|Mapudungun|Araucanian}}
+{{babels|as|অসমীয়া|Assamese}}
+{{babels|ase|American Sign Language|American Sign Language}}
+{{babels|ast|Asturianu|Asturian}}
+{{babels|av|Авар|Avar}}
+{{babels|ay|Aymar|Aymara}}
+{{babels|az|Azərbaycan dili|Azerbaijani}}
+==B==
+{{babels|ba|Башқорт|Bashkir}}
+{{babels|bar|Boarisch|Austro-Bavarian}}
+{{babels|be|Беларуская|Belarusian}}
+{{babels|bg|Български|Bulgarian}}
+{{babels|bh|भोजपुरी|Bhojpuri}}
+{{babels|bi|Bislama|Bislama}}
+{{babels|bm|Bamanankan|Bambara}}
+{{babels|bn|বাংলা|Bengali}}
+{{babels|bpy|বিষ্ণুপ্রিয়া মণিপুরী|Bishnupriya Manipuri}}
+{{babels|bo|བོད་ཡིག|Tibetan}}
+{{babels|br|Brezhoneg|Breton}}
+{{babels|bs|Bosanski|Bosnian}}
+==C==
+{{babels|ca|Català|Catalan}}
+{{babels|ce|Нохчийн|Chechen}}
+{{babels|ceb|Sugbuanon|Cebuano}}
+{{babels|ch|Chamoru|Chamorro}}
+{{babels|cho|Choctaw|Choctaw}}
+{{babels|chr|ᏣᎳᎩ|Cherokee}}
+{{babels|chy|Tsetsêhestâhese|Cheyenne}}
+{{babels|co|Corsu|Corsican}}
+{{babels|cr|Nehiyaw|Cree}}
+{{babels|crh|Qırımtatar|Crimean Tatar}}
+{{babels|cs|Čeština|Czech}}
+{{babels|csb|Kaszëbsczi|Kashubian}}
+{{babels|cv|Чӑваш|Chuvash}}
+{{babels|cy|Cymraeg|Welsh}}
+==D==
+{{babels|da|Dansk|Danish}}
+{{babels|ddo|Цез мец / Cez mec|Tsez}}
+{{babels|de|Deutsch|German}}
+{{babels|dsb|Dolnoserbski|Lower Sorbian}}
+{{babels|dv|Dhivehi|Dhivehi}}
+{{babels|dz|རྫོང་ཁ|Dzongkha}}
+==E==
+{{babels|ee|Ɛʋɛ|Ewe}}
+{{babels|egy|<hiero>r:Z1 n km m t:O49</hiero>|Egyptian}}
+{{babels|el|Ελληνικά|Greek}}
+{{babels|en|English|English}}
+{{babels/Old|en-me|English|Middle English}}
+{{babels|eo|Esperanto|Esperanto}}
+{{babels|er|Europanto|Europanto}}
+{{babels|es|Español|Spanish}}
+{{babels|et|Eesti|Estonian}}
+{{babels|eu|Euskara|Basque}}
+==F==
+{{babels|fa|Farsi|Persian}}
+{{babels|ff|Fulfulde|Fula}}
+{{babels|fi|Suomi|Finnish}}
+{{babels|fil|Filipino|Filipino}}
+{{babels|fiu-liv|Līvõ|Livonian}}
+{{babels|fiu-vro|Võro|Võro}}
+{{babels|fj|Vosa vaka-Viti|Fijian}}
+{{babels|fo|Føroyskt|Faroese}}
+{{babels|fr|Français|French}}
+{{babels/Old|fro|Ancien Français|Old French}}
+{{babels|fur|Furlan|Friulian}}
+{{babels|fy|Frysk|Frisian}}
+==G==
+{{babels|ga|Gaeilge|Irish Gaelic}}
+{{babels|gd|Gàidhlig|Scottish Gaelic}}
+{{babels|gil|Kiribati|Gilbertese}}
+{{babels|gl|Galego|Galician}}
+{{babels|gn|Avañe'ẽ|Guaraní}}
+{{babels|got|𐌲𐌿𐍄𐌹𐍃𐌺𐌰 𐍂𐌰𐌶𐌳𐌰|Gothic}}
+{{babels|grc|Αρχαία Ελληνική (Ελληνιστί)|Classical Greek}}
+{{babels|gu|ગુજરાતી|Gujarati}}
+{{babels|gv|Gaelg|Manx Gaelic}}
+==H==
+{{babels|ha|Hausa|Hausa}}
+{{babels|haw|Hawai‘i|Hawaiian}}
+{{babels|he|עברית|Hebrew}}
+{{babels|hess|Hessisch|Hessian}}
+{{babels|hi|हिन्दी|Hindi}}
+{{babels|hil|Hiligaynon/Ilonggo|Hiligaynon}}
+{{babels|hmn|Hmong|Hmong}}
+{{babels|ho|Hiri Motu|Hiri Motu}}
+{{babels|hr|Hrvatski|Croatian}}
+{{babels|ht|Krèyol ayisyen|Haitian Creole language|Haitian}}
+{{babels|hu|Magyar|Hungarian language|Hungarian}}
+{{babels|hwc|Pidgin|Hawaiian Pidgin}}
+{{babels|hy|Հայերեն|Armenian}}
+==I==
+{{babels|ia|Interlingua|Interlingua}}
+{{babels|id|Bahasa Indonesia|Indonesian}}
+{{babels|ie|Interlingue|Occidental}}
+{{babels|ig|Igbo|Igbo}}
+{{babels|ii|ꆇꉙ|Yi}}
+{{babels|ik|Iñupiak|Inupiak}}
+{{babels|ilo|Ilokano|Ilokano}}
+{{babels|io|Ido|Ido}}
+{{babels|is|Íslenska|Icelandic}}
+{{babels|it|Italiano|Italian}}
+{{babels|iu|ᐃᓄᒃᑎᑐᑦ|Inuktitut}}
+==J==
+{{babels|ja|日本語|Japanese}}
+{{babels|jbo|Lojban|Lojban}}
+{{babels|jer|Jèrriais|Jèrriais}}
+{{babels|jv|Basa Jawa/Basa Jawi|Javanese}}
+==K==
+{{babels|ka|ქართული|Georgian}}
+{{babels|kab|Taqbaylit|Kabyle}}
+{{babels|kb|Къарачай-Малкъар|Karachay-Balkar}}
+{{babels|ke|Κοινή Ελληνική|Koine Greek}}
+{{babels|kg|Kikong|Kongo}}
+{{babels|ki|Gĩkũyũ|Kikuyu}}
+{{babels|kj|Kuanyama|Kuanyama}}
+{{babels|kk|Қазақша|Kazakh}}
+{{babels|kl|Kalaallisut|Kalaallisut}}
+{{babels|km|ភាសាខ្មែរ|Khmer}}
+{{babels|kn|ಕನ್ನಡ|Kannada}}
+{{babels|knn|ಕೊಂಕಣ/कोंकणी/കൊംകണീ|Konkani}}
+{{babels|ko|한국어|Korean}}
+*{{[[Template:User ko alternative]]}}
+
+{{babels|kr|Kanuri|Kanuri}}
+{{babels|ks|कश्मीरी / كشميري|Kashmiri}}
+{{babels|ksh|Ripoarisch|Ripuarian}}
+{{babels|ku|Kurdî / كوردی|Kurdish}}
+{{babels|kv|Коми|Komi}}
+{{babels|kw|Kernewek|Cornish}}
+{{babels|ky|Кыргызча|Kyrgyz}}
+==L==
+{{babels/Old|la|Latina|Latin}}
+{{babels|lad|Djudeo-espanyol|Ladino}}
+{{babels|lb|Lëtzebuergesch|Luxembourgish}}
+{{babels|lg|Luganda|Luganda}}
+{{babels|li|Lèmburgs|Limburgish}}
+{{babels|lk|Lakhota|Lakota}}
+{{babels|lfn|Lingua Franca Nova|Lingua Franca Nova}}
+{{babels|ln|Lingála|Lingala}}
+{{babels|lo|ພາສາລາວ|Lao}}
+{{babels|lt|Lietuvių|Lithuanian}}
+{{babels|lv|Latviešu|Latvian}}
+{{babels|lmo|Lumbaart|Lombard}}
+{{babels|lzz|Lazuri Nena/Chanuri|Laz}}
+==M==
+{{babels|ma|مصري|Masri}}
+{{babels|mad|Basa Madhura|Madurese}}
+{{babels|mg|Malagasy|Malagasy}}
+{{babels|mh|Ebon|Marshallese}}
+{{babels|mi|Māori|Maori}}
+{{babels|mk|Македонски|Macedonian}}
+{{babels|ml|മലയാളം|Malayalam}}
+{{babels|mn|Монгол|Mongolian}}
+{{babels|mnc|ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ ᠪᡝ|Manchu}}
+{{babels/Old|mnl|Middelnederlands|Middle Dutch}}
+{{babels|mni|Meiteilon|Meitei}}
+{{babels|mo|Moldovenească|Moldovan}}
+{{babels|mr|मराठी|Marathi}}
+{{babels|ms|Bahasa Melayu|Malay}}
+{{babels|mt|Malti|Maltese}}
+{{babels|mth|Maithili|Maithili}}
+{{babels|mvs|Mvskoke|Creek}}
+{{babels|my|ဗမာစာ|Burmese}}
+{{babels|mzn|مازرونی/تبری|Mazanderani}}
+{{babels|map-bms|Basa Banyumasan|Banyumasan}}
+==N==
+{{babels|na|Ekakairũ Naoero|Nauruan}}
+{{babels|nah|Nawatl|Nahuatl}}
+{{babels|nap|Nnapulitano|Neapolitan}}
+{{babels|nds|Plattdüütsch|Low German}}
+{{babels|new|नेपाल भाषा|Nepal Bhasa}}
+{{babels|ne|नेपाली|Nepali}}
+{{babels|ng|Oshiwambo|Ndonga}}
+{{babels|nl|Nederlands|Dutch}}
+{{babels|nn|Nynorsk|Nynorsk}}
+{{babels|no|Norsk|Norwegian}}
+{{babels/Old|non|Norrœnt|Old Norse}}
+{{babels|nov|Novial|Novial}}
+{{babels|nv|Diné bizaad|Navajo}}
+{{babels|ny|Chi Chewa|Chichewa}}
+==O==
+{{babels|oc|Langue d'Oc|Occitan}}
+{{babels|oj|ᐊᓂᐦᔑᓈᐯᒧᐎᓐ|Anishinaabe}}
+(includes '''alq''', '''ciw''', '''oji''', '''ojb''', '''ojc''', '''ojg''', '''ojs''', '''ojw''', '''otw''' and '''pot''')
+{{babels/Old|cu|Ѩзыкъ словѣньскъ|Old Church Slavonic}}
+{{babels/Old|Old Persian|پارسی کهن|Old Persian}}
+{{babels|om|Oromifaa|Oromo}}
+{{babels|or|ଓଡ଼ିଆ|Oriya}}
+{{babels|os|Ирон æвзаг|Ossetian}}
+{{babels|osm|Lisân-i Osmânî / لسان عثمانى|Ottoman Turkish}}
+==P==
+{{babels|pa|ਪੰਜਾਬੀ پنجابی|Punjabi}}
+{{babels|pam|Kapampangan|Kapampangan}}
+{{babels|pap|Papiamentu|Papiamento}}
+{{babels|pfl|Pälzisch|Palatinate German}}
+{{babels|pdc|Pennsilfaanisch Deitsch|Pennsylvania German}}
+{{babels|fa|فارسی|Persian}}
+{{babels|pi|pāli|Pali}}
+{{babels|pig|Igpay Atinlay|Pig Latin}}
+{{babels|pl|Polski|Polish}}
+{{babels|pms|Piemontèis|Piedmontese}}
+{{babels|ps|پښتو|Pashto}}
+{{babelsExt|pt|Português|Portuguese}}
+==Q==
+{{babels|qu|Runa Simi|Quechua}}
+{{babels|qya|Quenya|Quenya}}
+==R==
+{{babels|rm|Rumantsch|Romansh}}
+{{babels|rn|Kirundi|Kirundi}}
+{{babels|ro|Română|Romanian}}
+{{babels|ru|Русский|Russian}}
+{{babels|rup|Armâneaşti|Aromanian}}
+{{babels|rw|Kinyarwandi|Kinyarwanda}}
+{{babels|ry|Русинскый|Rusyn}}
+{{babels|ryu|うちなーぐち|Ryukyuan}}
+==S==
+{{babels|sa|संस्कृत|Sanskrit}}
+{{babels|sah|Саха|Sakha}}
+{{babels|sc|Sardu|Sardinian}}
+{{babels|scn|Sicilianu|Sicilian}}
+{{babels|sco|Scots|Scots}}
+{{babels|sd|सिनधि|Sindhi}}
+{{babels|se|Sámegiella|Northern Sami}}
+{{babels|sg|Sängö|Sango}}
+===sgn - <span id=sgn lang=sgn>Sign Languages</span> ([[Sign Language]])===
+Category: '''[[:Category:user sgn|user sgn]]'''
+:''Note that these require a a different syntax from that of other language templates; see [[:Category:User sgn]]. American Sign Language users should use the [[Wikipedia:Babel#ase|American Sign Language template]].''
+*{{tl|user sgn-1}} &mdash; [[:Category:user sgn-1|basic]]
+*{{tl|user sgn-2}} &mdash; [[:Category:user sgn-2|intermediate]]
+*{{tl|user sgn-3}} &mdash; [[:Category:user sgn-3|advanced]]
+*{{tl|user sgn}} &mdash; [[:Category:user sgn-N|native]]
+{{babels|si|සිංහල|Sinhala}}
+{{babels|sjn|Sindarin|Sindarin}}
+=== simple - <span id=simple lang=simple>Simple English</span> ([http://simple.wikipedia.org/wiki/Main_Page Simple English ])===
+Category: '''[[:Category:user simple|user simple]]'''
+*{{tl|user simple-1}} &mdash; [[:Category:user en-1|basic]]
+*{{tl|user simple-2}} &mdash; [[:Category:user en-2|intermediate]]
+*{{tl|user simple-3}} &mdash; [[:Category:user en-3|advanced]]
+*{{tl|user simple-4}} &mdash; [[:Category:user en-4|near native]]
+{{babels|sk|Slovenčina|Slovak}}
+{{babels|sl|Slovenščina|Slovene}}
+{{babels|sm|Gagana Samoa|Samoan}}
+{{babels|sn|Chishona|Shona}}
+{{babels|so|Soomaaliga|Somali}}
+{{babels|sq|Shqip|Albanian}}
+{{babels|sh|Srpskohrvatski/Српскохрватски|Serbocroatian}}
+{{babels|sr|Српски|Serbian}}
+{{babels|ss|SiSwati|Swati}}
+{{babels|st|Sesotho|Sesotho}}
+{{babels|su|Basa Sunda|Sundanese}}
+{{babels|sv|Svenska|Swedish}}
+{{babels|sw|Kiswahili|Swahili}}
+{{babels/Old|sxu|Sächs'sch|Upper Saxon}}
+==T==
+{{babels|ta|தமிழ்|Tamil}}
+{{babels|te|తెలుగు|Telugu}}
+=== tet - <span id=tet lang=tet>Tetun</span> ([[Tetum language|Tetum]])===
+Category: '''[[:Category:User tet|User tet]]'''
+*{{[[Template:User tet-0|User tet-0]]}} &mdash; unable to contribute in Tetum
+*{{[[Template:User tet-1|User tet-1]]}} &mdash; [[:Category:User tet-1|basic]]
+*{{[[Template:User tet-2|User tet-2]]}} &mdash; [[:Category:User tet-2|intermediate]]
+*{{[[Template:User tet-3|User an-3]]}} &mdash; [[:Category:User tet-3|advanced]]
+*{{[[Template:User tet-4|User an-4]]}} &mdash; [[:Category:User tet-4|near native]]
+*{{[[Template:User tet|User tet]]}} &mdash; [[:Category:User tet-N|native]]
+{{babels|tg|Тоҷикӣ|Tajik}}
+{{babels|th|ภาษาไทย|Thai}}
+{{babels|ti|ትግርኛ|Tigrinya}}
+{{babels|tk|Türkmençe|Turkmen}}
+{{babels|tl|Tagalog|Tagalog}}
+{{babels|tlh|tlhIngan Hol|Klingon}}
+
+===<span id="tmr">tmr</span> - Talmudic [[Aramaic]]===
+Category: '''[[:Category:user tmr|user tmr]]'''
+*{{tl|user tmr-1}} &mdash; [[:Category:user tmr-1|basic]]
+*{{tl|user tmr-2}} &mdash; [[:Category:user tmr-2|intermediate]]
+*{{tl|user tmr-3}} &mdash; [[:Category:user tmr-3|advanced]]
+*{{tl|user tmr}} &mdash; [[:Category:user tmr-N|native]]
+====See also====
+*[[#arc|Aramaic]]
+{{babels|tn|Setswana|Tswana}}
+{{babels|to|lea fakatonga|Tongan}}
+{{babels|tpi|Tok Pisin|Tok Pisin}}
+{{babels|tr|Türkçe|Turkish}}
+{{babels|ts|Xitsonga|Tsonga}}
+{{babels|tt|Tatarça|Tatar}}
+{{babels|tum|chiTumbuka|Tumbuka}}
+{{babels|tcy|ತುಳು|Tulu}}
+{{babels|tvl|Tuvalu|Tuvaluan}}
+{{babels|tw|Twi|Twi}}
+{{babels|ty|Reo Mā`ohi|Tahitian}}
+{{babels|tyv|Тыва Дыл|Tyvan}}
+==U==
+{{babels|uby|atʷaχəbza|Ubykh}}
+{{babels|ug|ئۇيغۇرچە|Uyghur}}
+{{babels|uk|Українська|Ukrainian}}
+{{babels|ur|اردو|Urdu}}
+{{babels|uz|Ўзбек|Uzbek}}
+==V==
+{{babels|ve|Tshivenda|Venda}}
+{{babels|vec|Vèneto|Venetian}}
+{{babels|vi|Tiếng Việt|Vietnamese}}
+{{babels|vls|West-Vlams|West Flemish}}
+{{babels|vo|Volapük|Volapük}}
+==W==
+{{babels|wa|Walon|Walloon}}
+{{babels|wam|Wôpanâak|Massachusett / Wampanoag}}
+{{babels|war|Winaray|Waray-Waray}}
+{{babels|wo|Wolof|Wolof}}
+==X==
+{{babels|xh|isiXhosa|Xhosa}}
+==Y==
+{{babels|yi|ייִדיש|Yiddish}}
+{{babels|yo|Yorùbá|Yorùbá}}
+==Z==
+{{babels|za|Cuengh|Zhuang}}
+===zh - <span id=zh lang=zh>中文</span> ([[Chinese language|Chinese]], generic)===
+Category: '''[[:Category:user zh|user zh]]'''
+
+* {{tl|user zh-1}} &mdash; [[:Category:user zh-1|basic]]
+* {{tl|user zh-2}} &mdash; [[:Category:user zh-2|intermediate]]
+* {{tl|user zh-3}} &mdash; [[:Category:user zh-3|advanced]]
+* {{tl|user zh-4}} &mdash; [[:Category:user zh-4|near native]]
+* {{tl|user zh}} &mdash; [[:Category:user zh-N|native]]
+{{babels|zh-cmn|北方話(官話)/北方话(官话)|Mandarin}}
+{{babels|zh-xi'nan|西南官話/西南官话|Southwestern Mandarin}}
+{{babels|zh-hakka|客家話/客家话|Hakka}}
+{{babels|zh-min-dong|閩東語/闽东语|Min Dong}}
+{{babels|zh-min-nan|Bân-lâm-gú|Min Nan}}
+<!--{{babels|zh-wen|文言文|Classical Chinese}} This is not ISO language. See [[Wikipedia:Userboxes/Non-ISO_Languages#Classical_Chinese]]-->
+{{babels|zh-wuu|吳語/吴语|Wu}}
+{{babels|zh-yue|粵語/粤语|Cantonese}}
+{{babels|zh-teochew|潮州話/潮州话|Teochew}}
+{{babels|zu|isiZulu|Zulu}}
+==Other Babel-like entries==
+''See [[WP:UBX|Templates for making babel style templates]].''
+
+For information on wikifying this language section, see [[Wikipedia:Hindi language user tag project]]
+
+{{WP:UBS}}
+
+[[Category:Wikipedia multilingual coordination]]
+[[Category:Wikipedia userboxes|Babel]]
+
+<!-- DISCLAIMERS: (1) The languages in the sample Babelbox were chosen arbitrarily. They illustrate ONLY the rules of Babelbox coding, NOT typical skills in the Wikimedia community or the outside world. (2) The ranking scale used in Babelboxes describes ONLY fluency in those languages, not the relative value of those languages to Wikimedia or the outside world. Like any real user's Babelbox, the sample lists some languages higher than others...not because those languages are inherently better, but because the sample speaker knows them better. The absence of any specific language, similarly, does not imply that it is inherently worse than the ones listed. -->
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:Wikipedia:ልሳናት]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[an:Wikipedia:Babel]]
+[[ast:Uiquipedia:Babel]]
+[[az:Vikipediya:Babil]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[be:Вікіпэдыя:Бабілёнская вежа]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bs:Wikipedia:Babel]]
+[[br:Wikipedia:Babel]]
+[[bg:Уикипедия:Вавилон]]
+[[ca:Viquipèdia:Babel]]
+[[cr:Wikipedia:Babel]]
+[[cs:Wikipedie:Babylón]]
+[[cv:Википеди:Вавилон]]
+[[cy:Wicipedia:Babel]]
+[[de:Wikipedia:Babel]]
+[[et:Vikipeedia:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[es:Wikipedia:Babel]]
+[[eo:Vikipedio:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fo:Wikipedia:Babel]]
+[[fr:Wikipédia:Babel]]
+[[fy:Wikipedy:Babel]]
+[[fur:Vichipedie:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[zh-classical:Wikipedia:Babel]]
+[[ko:위키백과:바벨]]
+[[hsb:Wikipedija:Babel]]
+[[hr:Wikipedija:Babilon]]
+[[io:Wikipedio:Babel]]
+[[id:Wikipedia:Babel]]
+[[zu:Wikipedia:Babel]]
+[[is:Wikipedia:Snið/Tungumál]]
+[[it:Wikipedia:Babel]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[ky:Wikipedia:Babel]]
+[[ku:Wîkîpediya:Babel]]
+[[la:Vicipaedia:Babel formulae]]
+[[lv:Wikipedia:Babel]]
+[[lb:Wikipedia:Babel]]
+[[lt:Wikipedia:Babel]]
+[[li:Wikipedia:Babel]]
+[[ln:Wikipedia:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[mk:Википедија:Вавилон]]
+[[mg:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[mi:Wikipedia:Babel]]
+[[ms:Wikipedia:Babel]]
+[[mo:Wikipedia:Babel]]
+[[nah:Wikipedia:Babel]]
+[[na:Wikipedia:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[ja:Wikipedia:バベル]]
+[[no:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[oc:Wikipèdia:Babèl]]
+[[uz:Wikipedia:Bobil]]
+[[nds:Wikipedia:Babel]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipedia:Babel]]
+[[ksh:Wikipedia:Babel]]
+[[ro:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[qu:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[ru-sib:Википеддя:Вавилон]]
+[[scn:Wikipedia:Babeli]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[sl:Wikipedija:Babilon]]
+[[so:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[sh:Wikipedia:Babel]]
+[[su:Wikipedia:Babel]]
+[[fi:Wikipedia:Babylon]]
+[[sv:Wikipedia:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[tpi:Wikipedia:Babel]]
+[[tr:Vikipedi:Babil]]
+[[uk:Вікіпедія:Вавілон]]
+[[vec:Wikipedia:Babel]]
+[[wa:Wikipedia:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:Babel]]
+[[yi:מוסטער:באבעל]]
+[[zh-yue:Wikipedia:Babel]]
+[[zh:Wikipedia:巴別]]

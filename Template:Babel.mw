@@ -103,7 +103,7 @@
 }}{{#if:{{{99|}}}|{{User {{{99}}}}}
 }}{{#if:{{{100|}}}|{{User {{{100}}}}}}}
 |-
-| style="background-color: {{{color|}}}; text-align: center" colspan="10" | {{{footer|[[:Category:User languages|Anamet so arom ran salita na manag-usar]]}}}
+| style="background-color: {{{color|}}}; text-align: center" colspan="10" | {{{footer|[[:Category:User languages|Anapen so arom ran salita na manag-usar]]}}}
 |}<noinclude>
 [[de:Vorlage:Babel]]
 </noinclude>

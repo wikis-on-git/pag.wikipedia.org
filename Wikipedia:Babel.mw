@@ -1,0 +1,43 @@
+{| align="right"
+|-
+|{{Shortcut|[[WP:BBL]]<br />[[WP:BABEL]]}}
+|-
+|{{Translation department}}
+|}
+On Wikipedia, the noun '''Babel''' (in reference to the [[Tower of Babel]]) refers to the '''user language templates''' aiding multilingual communication by making it easier to contact someone who speaks a certain language. The idea originated on the [[commons:Commons:Babel|Wikimedia Commons]] and has also been implemented on [[meta:Meta:Babel templates|Meta-Wiki]] and some of the other Wikipedias, to varying extents. To participate, you can add the Babel template to your user page by following these instructions:
+
+*Start off with '''<nowiki>{{Babel|</nowiki>'''
+*Next add one of the following codes for each language you speak or understand, separated by '''|''', where '''xx''' is the Wikipedia code for the language. The general usage of each code level is as follows (note that not all languages have all levels, but you may create the template you are missing):
+**'''xx-0''' if you don't understand the language at all. Use it ''not'' for every language that you don't know, but only when there is some reason why you might be expected to know it. For example, you may be of Italian descent, but you do not speak the Italian language, or if you are Canadian, and you do not speak French.
+***'''Note:''' Consensus has been determined at [[Wikipedia:User categories for discussion]] that 0-level [[:Category:Wikipedians|user categories]] [[Wikipedia:User_categories_for_discussion#0-level_categories.2C_part_2_.26_3|should not exist]], except for en-0, for which there is, [[Wikipedia:User_categories_for_discussion#Category:User_en-0|currently]], no consensus.
+**'''xx-1''' for basic ability - enough to understand written material or simple questions in this language.
+**'''xx-2''' for intermediate ability - enough for editing or discussions.
+**'''xx-3''' for advanced level - though you can write in this language with no problem, some small errors might occur.
+**'''xx-4''' for 'near-native' level - although it's not your first language from birth, your ability is something like that of a native speaker.
+**'''xx-5''' for professional proficiency. Note that this template is currently only available for English, French, German, Icelandic, Italian, Spanish, Portuguese, Polish, Arabic, and American Sign Language.
+**'''xx-6''' for professorial proficiency. Note that this template is currently only available for English.
+**'''xx''' (no hyphen or number) for native speakers who use a language every day and have a thorough grasp of it, including colloquialisms and idioms.
+*[[Wikipedia:Babel/Levels|Expanded definitions of these levels]] are also available.
+*Then finish by adding closing braces: '''<nowiki>}}</nowiki>'''
+
+{|style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: #99B3FF solid 1px"
+|<center>'''[[Wikipedia:Babel]]'''</center>
+|-
+|{{User en}}
+|-
+|{{User en-6}}
+|-
+|{{User de-5}}
+|-
+|{{User fa-4}}
+|-
+|{{User pl-3}}
+|-
+|{{User it-2}}
+|-
+|{{User zh-1}}
+|-
+|{{User ar-0}}
+|-
+|style="text-align: center"|[[:Category:Wikipedians by language|Search user languages]]
+|}

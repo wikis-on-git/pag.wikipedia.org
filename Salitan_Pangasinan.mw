@@ -152,213 +152,214 @@ Swadesh List ed English - Pangasinan
 
 '''English - Pangasinan'''
 
-# I - siak, ak
-# you (singular) - sika, ka
-# he - sikato (he/she), to
-# we - sikami, kami, mi, sikatayo, tayo, sikata, ta
-# you (plural) - sikayo, kayo, yo
-# they - sikara, ra
-# this - aya
-# that - aman, atan
-# here - dia
-# there - diman, ditan
-# who - siopa, opa, si
-# what - anto, a
-# where - iner
-# when - kapigan, pigan
-# how - pano, panon
-# not - ag, andi, aleg, aliwa
-# all - amin
-# many - amayamay, dakel
-# some - pigara
-# few - daiset
-# other - arom
-# one - isa, sakey
-# two - dua, duara
-# three - talo, talora
-# four - apat, apatira
-# five - lima, limara
-# big - baleg
-# long - andokey
-# wide - maawang, malapar
-# thick - makapal
-# heavy - ambelat
-# small - melag, melanting, tingot, daiset
-# short - melag, melanting, tingot, antikey, kulang, abeba
-# narrow - mainget
-# thin - mabeng, maimpis
-# woman - bii
-# man (adult male) - laki, bolog
-# man (human being) - too
-# child - ogaw, anak
-# wife - asawa, kaamong, akolaw
-# husband - asawa, kaamong, masiken
-# mother - ina
-# father - ama
-# animal - ayep
-# fish - sira
-# bird - manok, siwsiw
-# dog - aso
-# louse - kuto
-# snake - oleg
-# worm - biges, alumbayar
-# tree - kiew, tanem
-# forest - kakiewan, katakelan
-# stick - bislak, sanga
-# fruit - bunga
-# seed - bokel
-# leaf - bulong
-# root - lamot
-# bark - obak
-# flower - bulaklak
-# grass - dika
-# rope - singer, lubir
-# skin - baog, katat
-# meat - laman
-# blood - dala
-# bone - pokel
-# fat (n.) - mataba, taba
-# egg - iknol
-# horn - saklor
-# tail - ikol
-# feather - bago
-# hair - buek
-# head - ulo
-# ear - layag
-# eye - mata
-# nose - eleng
-# mouth - sangi
-# tooth - ngipen
-# tongue - dila
-# fingernail - kuko
-# foot - sali
-# leg - bikking
-# knee - pueg
-# hand - lima
-# wing - payak
-# belly - eges
-# guts - pait
-# neck - beklew
-# back - beneg
-# breast - pagew, suso
-# heart - puso
-# liver - altey
-# drink - inom
-# eat - mangan, akan, kamot
-# bite - ketket
-# suck - supsup, suso
-# spit - lutda
-# vomit - uta
-# blow - sibok
-# breathe - engas, ingas, dongap, linawa
-# laugh - elek
-# see - nengneng
-# hear - dengel
-# know - amta, kabat
-# think - isip, nonot
-# smell - angob, amoy
-# fear - takot
-# sleep - ogip
-# live - bilay
-# die - onpatey, patey
-# kill - manpatey, patey
-# fight - laban, kolkol, bakal
-# hunt - managnop, anop, manpana, pana, manpaltog, paltog
-# hit - tira, nakna, pekpek
-# cut - tegteg, sugat
-# split - pisag, puter
-# stab - saksak, doyok
-# scratch - gugo, gorgor
-# dig - kotkot
-# swim - langoy
-# fly (v.) - tekyab
-# walk - akar
-# come - gala, gali, onsabi, sabi
-# lie - dokol (lie down)
-# sit - yorong
-# stand - alagey
-# turn - liko, telek
-# fall - pelag
-# give - iter, itdan
-# hold - benben
-# squeeze - pespes
-# rub - kuskos, gorgor
-# wash - oras
-# wipe - punas
-# pull - goyor
-# push - tolak
-# throw - topak
-# tie - singer
-# sew - dait
-# count - bilang
-# say - ibaga
-# sing - togtog
-# play - galaw
-# float - letaw
-# flow - agos
-# freeze - kigtel
-# swell - larag
-# sun - agew, banua, ugto (noon)
-# moon - bulan
-# star - bitewen
-# water - danum
-# rain - uran
-# river - ilog, kalayan
-# lake - ilog, look
-# sea - dayat
-# salt - asin
-# stone - bato
-# sand - buer
-# dust - dabok
-# earth - dalin
-# cloud - lorem
-# fog - kelpa
-# sky - tawen
-# wind - dagem
-# snow - linew
-# ice - pakigtel
-# smoke - asiwek, asewek
-# fire - apoy, pool, dalang, sinit
-# ashes - dapol
-# burn - pool
-# road - dalan, basbas
-# mountain - palandey
-# red - ambalanga
-# green - ampasiseng, pasiseng, maeta, eta
-# yellow - duyaw
-# white - amputi, puti
-# black - andeket, deket
-# night - labi
-# day - agew
-# year - taon
-# warm - ampetang, petang
-# cold - ambetel, betel
-# full - naksel, napno
-# new - balo
-# old - daan
-# good - duga, maong, abig
-# bad - aliwa, mauges
-# rotten - abolok, bolok
-# dirty - maringot, dingot, marutak, dutak
-# straight - maptek, petek
-# round - malimpek, limpek
-# sharp - matdem, tarem
-# dull - mangmang, epel
-# smooth - patad
-# wet - ambasa, basa
-# dry - amaga, maga
-# correct - duga, tua
-# near - asinger, abay
-# far - arawi, biek (other side)
-# right - kawanan
-# left - kawigi
-# at - ed
-# in - ed
-# with - iba
-# and - tan
-# if - no
-# because - ta, lapu ed
-# name - ngaran
+#	all - amin
+#	and - tan
+#	animal - ayep
+#	ashes - dapol
+#	at - ed
+#	back - beneg
+#	bad - aliwa, mauges
+#	bark - obak
+#	because - ta, lapu ed
+#	belly - eges
+#	big - baleg
+#	bird - manok, siwsiw
+#	bite - ketket
+#	black - andeket, deket
+#	blood - dala
+#	blow - sibok
+#	bone - pokel
+#	breast - pagew, suso
+#	breathe - engas, ingas, dongap, linawa
+#	burn - pool
+#	child - ogaw, anak
+#	cloud - lorem
+#	cold - ambetel, betel
+#	come - gala, gali, onsabi, sabi
+#	correct - duga, tua
+#	count - bilang
+#	cut - tegteg, sugat
+#	day - agew
+#	die - onpatey, patey
+#	dig - kotkot
+#	dirty - maringot, dingot, marutak, dutak
+#	dog - aso
+#	drink - inom
+#	dry - amaga, maga
+#	dull - mangmang, epel
+#	dust - dabok
+#	ear - layag
+#	earth - dalin
+#	eat - mangan, akan, kamot
+#	egg - iknol
+#	eye - mata
+#	fall - pelag
+#	far - arawi, biek (other side)
+#	fat (n.) - mataba, taba
+#	father - ama
+#	fear - takot
+#	feather - bago
+#	few - daiset
+#	fight - laban, kolkol, bakal
+#	fingernail - kuko
+#	fire - apoy, pool, dalang, sinit
+#	fish - sira
+#	five - lima, limara
+#	float - letaw
+#	flow - agos
+#	flower - bulaklak
+#	fly (v.) - tekyab
+#	fog - kelpa
+#	foot - sali
+#	forest - kakiewan, katakelan
+#	four - apat, apatira
+#	freeze - kigtel
+#	fruit - bunga
+#	full - naksel, napno
+#	give - iter, itdan
+#	good - duga, maong, abig
+#	grass - dika
+#	green - ampasiseng, pasiseng, maeta, eta
+#	guts - pait
+#	hair - buek
+#	hand - lima
+#	he - sikato (he/she), to
+#	head - ulo
+#	hear - dengel
+#	heart - puso
+#	heavy - ambelat
+#	here - dia
+#	hit - tira, nakna, pekpek
+#	hold - benben
+#	horn - saklor
+#	how - pano, panon
+#	hunt - managnop, anop, manpana, pana, manpaltog, paltog
+#	husband - asawa, kaamong, masiken
+#	I - siak, ak
+#	ice - pakigtel
+#	if - no
+#	in - ed
+#	kill - manpatey, patey
+#	knee - pueg
+#	know - amta, kabat
+#	lake - ilog, look
+#	laugh - elek
+#	leaf - bulong
+#	left - kawigi
+#	leg - bikking
+#	lie - dokol (lie down)
+#	live - bilay
+#	liver - altey
+#	long - andokey
+#	louse - kuto
+#	man (adult male) - laki, bolog
+#	man (human being) - too
+#	many - amayamay, dakel
+#	meat - laman
+#	moon - bulan
+#	mother - ina
+#	mountain - palandey
+#	mouth - sangi
+#	name - ngaran
+#	narrow - mainget
+#	near - asinger, abay
+#	neck - beklew
+#	new - balo
+#	night - labi
+#	nose - eleng
+#	not - ag, andi, aleg, aliwa
+#	old - daan
+#	one - isa, sakey
+#	other - arom
+#	play - galaw
+#	pull - goyor
+#	push - tolak
+#	rain - uran
+#	red - ambalanga
+#	right - kawanan
+#	river - ilog, kalayan
+#	road - dalan, basbas
+#	root - lamot
+#	rope - singer, lubir
+#	rotten - abolok, bolok
+#	round - malimpek, limpek
+#	rub - kuskos, gorgor
+#	salt - asin
+#	sand - buer
+#	say - ibaga
+#	scratch - gugo, gorgor
+#	sea - dayat
+#	see - nengneng
+#	seed - bokel
+#	sew - dait
+#	sharp - matdem, tarem
+#	short - melag, melanting, tingot, antikey, kulang, abeba
+#	sing - togtog
+#	sit - yorong
+#	skin - baog, katat
+#	sky - tawen
+#	sleep - ogip
+#	small - melag, melanting, tingot, daiset
+#	smell - angob, amoy
+#	smoke - asiwek, asewek
+#	smooth - patad
+#	snake - oleg
+#	snow - linew
+#	some - pigara
+#	spit - lutda
+#	split - pisag, puter
+#	squeeze - pespes
+#	stab - saksak, doyok
+#	stand - alagey
+#	star - bitewen
+#	stick - bislak, sanga
+#	stone - bato
+#	straight - maptek, petek
+#	suck - supsup, suso
+#	sun - agew, banua, ugto (noon)
+#	swell - larag
+#	swim - langoy
+#	tail - ikol
+#	that - aman, atan
+#	there - diman, ditan
+#	they - sikara, ra
+#	thick - makapal
+#	thin - mabeng, maimpis
+#	think - isip, nonot
+#	this - aya
+#	three - talo, talora
+#	throw - topak
+#	tie - singer
+#	tongue - dila
+#	tooth - ngipen
+#	tree - kiew, tanem
+#	turn - liko, telek
+#	two - dua, duara
+#	vomit - uta
+#	walk - akar
+#	warm - ampetang, petang
+#	wash - oras
+#	water - danum
+#	we - sikami, kami, mi, sikatayo, tayo, sikata, ta
+#	wet - ambasa, basa
+#	what - anto, a
+#	when - kapigan, pigan
+#	where - iner
+#	white - amputi, puti
+#	who - siopa, opa, si
+#	wide - maawang, malapar
+#	wife - asawa, kaamong, akolaw
+#	wind - dagem
+#	wing - payak
+#	wipe - punas
+#	with - iba
+#	woman - bii
+#	worm - biges, alumbayar
+#	year - taon
+#	yellow - duyaw
+#	you (plural) - sikayo, kayo, yo
+#	you (singular) - sika, ka
+
 
 ==Dictionaries san References==
 Listaan na dictionary san nabasan libro nipakar ed Pangasinan.

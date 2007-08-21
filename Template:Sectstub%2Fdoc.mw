@@ -1,0 +1,19 @@
+<includeonly>{{template doc page transcluded}}</includeonly><noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+This is the per-section equivalent to the article-wide [[Template:Stub]] for Start class articles that are missing significant details and require expansion of short subsections. Note that, for specific expansion requests, it is important to also specify what needs to be expanded on the article's talk page. To add this template to an excessively short section, simply add the following text just below the section title:
+
+'''<nowiki>{{sectstub}}</nowiki>'''
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Cleanup templates|{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[bg:Шаблон:Секция мъниче]]
+[[fi:Malline:Tynkä/Osa]]
+[[no:Mal:Seksjonstubb]]
+[[pl:Szablon:Sekcja stub]]
+[[ro:Format:Sect-ciot]]
+[[vi:Tiêu bản:Phần sơ khai]]
+[[sv:Mall:Stubavsnitt]]
+</includeonly>

@@ -1,0 +1,36 @@
+<div class="messagebox cleanup metadata plainlinks">
+{| style="background:none;"
+| style="width:72px;text-align:center;vertical-align:center;padding:.5em;"| [[Image:Translation arrow.svg|60px|Translation arrow icon]]
+| '''This article needs [[Wikipedia:translation|translation]] {{#if:{{{1|}}}| from {{{1}}} to|into}} Pangasinan.''' <br />Please see '''[[Wikipedia:Pages needing translation into Pangasinan#{{PAGENAME}}|this article's entry]]''' on [[Wikipedia:Pages needing translation into Pangasinan|Pages needing translation into Pangasinan]] for discussion. If the article is not [{{fullurl:{{FULLPAGENAME}}|action=edit}} rewritten in Pangasinan] within the next two weeks it will be [[Wikipedia:articles for deletion|listed for deletion]] and/or possibly moved to [[meta:List of Wikipedias|a Wikipedia in {{{1|its current language}}}]].
+|-
+|
+|style="font-size: {{{info-s|8}}}pt; padding: 4pt; line-height: 1.25em;" |
+----
+If ''you'' have just labeled this page as needing translation, please add<br/>&#123;&#123;<tt>subst:Needtrans| pg={{PAGENAME}}| Language={{{1|unknown}}}| Comments=</tt>&#125;&#125;&#160;<nowiki>~~~~</nowiki><br />to the bottom of [{{fullurl:Wikipedia:Pages_needing_translation_into_Pangasinan|action=edit&section=3}} this section of Pages needing translation into Pangasinan].
+|}</div><includeonly>{{{category|[[Category:Wikipedia articles needing translation]]}}}</includeonly><noinclude>
+----
+This template will categorise tagged articles into [[:Category:Wikipedia articles needing translation]].
+
+This [[Wikipedia:Template|template]] is a [[Wikipedia:Avoid self-references|self-reference]].
+
+This template is not useful for [[Wikipedia:Subst]].
+
+You can now specify the language like this: <code><nowiki>{{Notpangasinan|language}}</nowiki></code>.
+==See also==
+* [[Template:Notpangasinan]]
+* [[Template:Cleanup-translation]]
+* [[Template:RoughTranslation]]
+* [[Template:Cleanup-ipa]]
+* [[Wikipedia:Template messages/Cleanup]]
+* [[Wikipedia:Translation]]
+
+[[Category:Wikipedia translation templates|{{PAGENAME}}]]
+[[Category:Wikipedia:Translation]]
+[[Category:Templates using ParserFunctions]]
+[[ar:قالب:ترجمة]]
+[[cs:Šablona:Přeložit]]
+[[pt:Predefinição:Emtradução2]]
+[[vi:Tiêu bản:Đang dịch]]
+[[zh:template:notchinese]]
+[[zh-yue:Template:NotCantonese]]
+</noinclude>

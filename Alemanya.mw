@@ -1,54 +1,86 @@
-{| border="1" align="right" cellpadding="4" cellspacing="0" width="300" style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Bundesrepublik Deutschland'''</big>
-|-
-| align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0" style="background: #f9f9f9; text-align: center;"
-| width="130px" | [[Image:Flag of Germany.svg|125px|Laylay na Germany]]
-| width="130px" | [[Image:Coat of Arms of Germany.svg|100px|Simbolo na dalin na Germany]]
-|-
-| Laylay na Federal || Simbolo na Dalin
-|}
-|-
-| align="center" colspan="2" | ''[[motto]] na dalin: Einigkeit und Recht und Freiheit<br/>([[Salitan German|German]]: “Pantitipon tan katonongan tan Inkabolos”)''
-|-
-| align="center" colspan="2" style="background:#f9f9f9;" | [[image:LocationGermany.png|Napan-anapan na Germany]]
-|-
-| [[Kabesera]] || [[Berlin]]
-|-
-| [[Salitan Uusarin na Gobiyerno]] || [[Salitan German|German]]<sup>1</sup>
-|-
-| [[Kansion na dalin]] || ''[[Das Lied der Deutschen]]''
-|-
-| valign="top" | Pantitipon<br/><br/>Kumadwan Pantitipon
-| [[Treaty na Verdun]] ([[843]])<br/>[[Enero 18]], [[1871]]<br/>[[Mayo 23]], [[1949]]<br/>[[October 3]], [[1990]]
-|-
-| Kabesera || [[Berlin]]
-|-
-| [[Listaan na saray dalin onong ed gobiyerno|Ocsoy na gobiyerno]] || Republic
-|-
-| [[Politics na Germany|Saray lider]]<br/>&nbsp;- [[Listaan na saray Chancellor na Germany]]<br/>&nbsp;- [[Listaan na saray Pangolo na Germany|Pangolo]] || <br/>[[Angela Merkel (CDU)]]<br/>[[Horst Köhler]] 
-|-
-| [[Awang]]<br/>&nbsp;- Katiponan<br/>&nbsp;- % danom || [[Listaan na saray dalin onong ed awang|Kuma-61]]<br/>[[1 E11 m2|349 223 km²]]<br/>2416%
-|-
-| [[Bilang na too]]<br/>&nbsp;- Katiponan<br/>&nbsp;- [[Density]] || [[Listaan na saray dalin onong ed bilang na too|Kuma-13]]<br/>83 251 851<br/>238 hab./km²
-|-
-| [[Gross Domestic Product|GDP]]<br/>&nbsp;- Katiponan ([[2003]])<br/>&nbsp;- GDP/capita || [[Listaan na saray dalin onong ed GDP|kuma-4]]<br/>1.62 billion €<br/>19.714€
-|-
-| [[Kwarta]] || [[Euro]] ([[ISO 4217|€ EUR]])<sup>2</sup>
-|-
-| <i>[[Zone na Oras]]</i><br/>&nbsp;- en [[Oras no tiagew|tiagew]] || [[CET]] ([[Coordinated Universal Time|UTC]]+1)<br/>[[CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| [[Listaan na saray calling code na saray dalin|Calling Code]] || +49
-|-
-| [[Listaan na saray internet top-level domain|ccTLD]] || [[.de]]
-|-
-| align="left" colspan="2" 
-|- 
-Mikabiangan ed: [[UE]], [[UN]], [[NATO]], [[CBSS]]
-|}
+{{Infobox Country
+|native_name                 = <span style="line-height:1.33em;">{{lang|de|''Bundesrepublik Deutschland''}}</span>
+|conventional_long_name      = <span style="line-height:1.33em;">Federal Republic of Germany</span>
+|common_name                 = Germany 
+|national_motto              = "{{lang|de|Einigkeit und Recht und Freiheit}}"<br/><small>"Unity and justice and freedom"</small>
+|national_anthem             = {{lang|de|''[[Das Lied der Deutschen]]''}} (third [[stanza]])<br/><small>also called {{lang|de|''Einigkeit und Recht und Freiheit''}} </small><!--The official national anthem of Germany is ONLY the third stanza! Source: http://www.bundesregierung.de/Bundesregierung/-,8394/Nationalhymne.htm-->
+|image_flag                  = Flag of Germany.svg‎
+|image_coat                  = Coat of Arms of Germany.svg
+|image_map                   = Location Germany EU Europe.png
+|capital                     = [[Berlin]]
+|latd=52 |latm=31 |latNS=N |longd=13 |longm=24 |longEW=E
+|largest_city                = capital
+|official_languages          = [[Salitan German|German]]<sup>1</sup>
+|government_type             = [[Parliamentary]] [[Federal republic|Federal Republic]]
+|leader_title1               = [[President of Germany|President]]
+|leader_name1                = [[Horst Köhler]]
+|leader_title2               = [[Chancellor of Germany|Chancellor]]
+|leader_name2                = [[Angela Merkel]] ([[Christian Democratic Union (Germany)|CDU]])
+|sovereignty_type            = [[Kingdom of Germany|Formation]]
+|sovereignty_note            = 843
+|established_event1          = [[Eastern Francia]]
+|established_date1           = 843
+|established_event2          = [[Holy Roman Empire]]
+|established_date2           = 962
+|established_event3          = [[German Confederation]]
+|established_date3           = [[8 June]] [[1815]]
+|established_event4          = [[German Empire]]
+|established_date4           = [[18 January]] [[1871]]
+|established_event5          = [[History of Germany|Federal Republic]]
+|established_date5           = [[23 May]] [[1949]]
+|established_event6          = [[German reunification|Reunification]]
+|established_date6           = [[3 October]] [[1990]]
+|accessionEUdate             = [[25 March]] [[1957]]
+|EUseats                     = 99
+|area                        = 357,021
+|areami²                     = 137,858 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                   = 63rd
+|area_magnitude              = 1 E11
+|percent_water               = 2.416
+|population_estimate         = 82,314,900<ref>{{cite web |url=http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/Navigation/Statistics/Bevoelkerung/Bevoelkerungsstand/Bevoelkerungsstand.psml|title=Current population|author=[[Federal Statistical Office of Germany|Destatis]]|accessdate=2007-07-02}}</ref>
+|population_estimate_year    = Dec.&nbsp;2006
+|population_estimate_rank    = 14th
+|population_census           = 82,797,408 (July 2000 est.)
+|population_census_year      = 2000
+|population_density          = 230.9
+|population_densitymi²       = 598.5 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 50th
+|GDP_PPP_year                = 2006
+|GDP_PPP                     = $2.585 trillion 
+|GDP_PPP_rank                = 5th
+|GDP_PPP_per_capita          = $31,400
+|GDP_PPP_per_capita_rank     = 17th
+|GDP_nominal                 = $2.89 trillion
+|GDP_nominal_rank            = 3rd
+|GDP_nominal_year            = 2006
+|GDP_nominal_per_capita      = $35,072
+|GDP_nominal_per_capita_rank = 19th
+|HDI_year                    = 2004
+|HDI                         = {{increase}} 0.932
+|HDI_rank                    = 21st
+|HDI_category                = <font color="#009900">high</font>
+|Gini                        = 28.3
+|Gini_year                   = 2000
+|Gini_category               = <font color="#009900">low</font>
+|currency                    = [[Euro]] ([[Euro sign|€]])
+|currency_code               = EUR
+|time_zone                   = CET
+|utc_offset                  = +1
+|time_zone_DST               = CEST
+|utc_offset_DST              = +2
+|cctld                       = [[.de]]
+|calling_code                = [[Area codes in Germany|49]]
+|ISO_3166-1_alpha2           = DE
+|ISO_3166-1_alpha3           = DEU
+|ISO_3166-1_numeric          = ?
+|alt_sport_code              = GER
+|vehicle_code                = D
+|aircraft_code               = D
+|demonym                     = German
+|footnote1                   = [[Salitan Danish|Danish]], [[Salitan Low German|Low German]], [[Salita Sorbian|Sorbian]], [[Salitan Romani|Romani]] and [[Salitan Frisian|Frisian]] are officially recognized and protected by the [[European Charter for Regional or Minority Languages|ECRML]].
+}}
 
-Say '''Federal Republic na Germany''' odino ''Bundesrepublik Deutschland'' (diad salitan German), naanap ed [[Pegley na Europe]]. Aliktoben na [[Baybay Dayat]], [[Denmark]] tan [[Baltic Dayat]] ed baybay, [[Poland]] tan [[Czech Republic]] ed bokig, [[Austria]] tan [[Switzerland]] ed abalaten,  san [[France]], [[Luxembourg]], [[Belgium]] tan [[Netherlands]] ed sagor.
-
+'''Germany''' or '''Alemanya''', say '''Federal Republic na Germany''' odino ''Bundesrepublik Deutschland'' (diad salitan German), naanap ed [[Pegley na Europe]]. Aliktoben na [[Baybay Dayat]], [[Denmark]] tan [[Baltic Dayat]] ed baybay, [[Poland]] tan [[Czech Republic]] ed bokig, [[Austria]] tan [[Switzerland]] ed abalaten, san [[France]], [[Luxembourg]], [[Belgium]] tan [[Netherlands]] ed sagor.
 
 {{stub}}{{EU countries and candidates}}
 {{Europe}}

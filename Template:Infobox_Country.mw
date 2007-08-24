@@ -1,0 +1,185 @@
+<div style="float: right; margin: 0 0 1em 1em; width: auto; text-align: center; font-size: 90%; line-height: 1.4em;">
+
+<!-- start of floated right section -->
+<div style="border: 1px solid #ccd2d9; width: 24em; background: #f9f9f9; text-align: left; padding: 0.5em 1em 0.5em 1em; text-align: center;">
+
+<!-- start of slate grey box -->
+{| style="background: transparent; text-align: left; table-layout: auto; border-collapse: collapse; padding: 0; font-size: 100%;" cellspacing="0" cellpadding="0"
+|+ style="margin-left: inherit; font-size: 135%; padding-bottom: 0.5em; line-height: 1.1em;" |  '''{{{native_name}}}'''{{#if:{{{conventional_long_name|}}}|<br />'''{{{conventional_long_name|}}}'''}}
+|- style="border-top-style: hidden;"
+| colspan="2" |
+    {| style="text-align: center; margin: 0 auto; background: none;"
+    |-
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[Image:{{{image_flag}}}|125px|Laylay na {{{common_name}}}]]</span>
+    | style="border: 0; vertical-align: middle;" | [[Image:{{{image_coat}}}|110px|{{{symbol_type|Simbolo}}} na {{{common_name}}}]]
+    |- style="font-size: 95%;"
+    | style="border: 0;text-align: center;" | [[Laylay na {{{common_name}}}|Laylay]]
+    | style="border: 0;text-align: center;" | [[{{{symbol_type_article|{{{symbol_type|Simbolo}}}}}} na {{{common_name}}}|{{{symbol_type|Simbolo}}}]]
+    |}
+{{#if: {{{national_motto|}}} |
+{{!}}-
+<!----- Motto ----->
+{{!}} colspan="2" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: center; font-size: 95%;" {{!}} [[Listaan na saray motto|Motto]]: {{{national_motto}}}
+}}
+|-
+<!----- Anthem ----->
+| colspan="2" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: center; font-size: 95%;" | [[Kansion na Dalin]]: {{{national_anthem}}}
+|-
+<!----- Map ----->
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 95%;" | [[Image:{{{image_map}}}|250px|center|Lokasyon na {{{common_name}}}]]
+|-
+<!----- Capital ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | '''[[Listaan na saray kabesera na saray dalin|Kabesera]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{capital}}}<br /> <small>{{coor dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country({{{area}}})}}</small>
+|-
+<!----- Largest city----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Demografiya na {{{common_name}}}|{{{largest_settlement_type|Sankabalgan ya siyudad}}}]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{largest_settlement|{{{largest_city}}}}}}
+|-
+<!----- Official language(s) ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Salita ya uusarin na gobiyerno]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{official_languages}}}
+|-
+<!----- Government ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''[[Listaan na saray dalin onong ed sayan ocsoy na gobiyerno|Gobiyerno]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{government_type}}}
+|- 
+{{#if:{{{leader_titles|}}} |
+{{!}} style="padding: 0 1em 0.4em 0; text-align:left;" {{!}} {{{leader_titles}}} 
+{{!}} style="padding: 0 1em 0.4em 0; text-align:left;" {{!}} {{{leader_names}}} }}
+|- 
+{{#if:{{{leader_title1|}}} |
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} &nbsp;- {{{leader_title1}}} 
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} {{{leader_name1}}} }}
+|- 
+{{#if:{{{leader_title2|}}} |
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} &nbsp;- {{{leader_title2}}} 
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} {{{leader_name2}}} }}
+|- 
+{{#if:{{{leader_title3|}}} |
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} &nbsp;- {{{leader_title3}}} 
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} {{{leader_name3}}} }}
+|- 
+{{#if:{{{leader_title4|}}} |
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} &nbsp;- {{{leader_title4}}} 
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} {{{leader_name4}}} }}
+|- 
+{{#if:{{{leader_title5|}}} |
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} &nbsp;- {{{leader_title5}}} 
+{{!}} style="padding: 0 1em 0.2em 0; text-align:left; vertical-align: top" {{!}} {{{leader_name5}}} }}
+|-
+<!----- Sovereignty type, events  ----->
+{{#if:{{{established_event1|}}}{{{sovereignty_note|}}} |
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" {{!}} '''{{{sovereignty_type}}}'''
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" {{!}} {{{sovereignty_note|}}}&nbsp; 
+{{!}}-
+|
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" {{!}} '''{{{sovereignty_type}}}'''<br />{{{established_events}}}
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top;" {{!}} {{{established_dates}}}
+{{!}}-
+}}
+{{#if: {{{established_event1|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event1}}} {{!}}{{!}} {{{established_date1|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{established_event2|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event2}}} {{!}}{{!}} {{{established_date2|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{established_event3|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event3}}} {{!}}{{!}} {{{established_date3|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{established_event4|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event4}}} {{!}}{{!}} {{{established_date4|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{established_event5|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event5}}} {{!}}{{!}} {{{established_date5|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{established_event6|}}} |
+{{!}} style="padding: 0em 1em 0.2em 0; vertical-align: top" {{!}} &nbsp;- {{{established_event6}}} {{!}}{{!}} {{{established_date6|}}}&nbsp;
+{{!}}-
+}}
+{{#if: {{{accessionEUdate|}}} |
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" {{!}} '''[[European Union|Accession to EU]]'''
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top;" {{!}} {{{accessionEUdate|}}} }}
+|-
+<!----- Area ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''[[Listaan na saray dalin onong ed awang|Awang]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; " | &nbsp;
+|- style="padding: 0 1em 0 0; text-align:left;" 
+| &nbsp;- Katiponan || [[{{{area_magnitude}}} m²|{{{area}}}&nbsp;km&sup2;]]&nbsp;([[Listaan na saray dalin onong ed awang|{{{area_rank}}}]])
+{{ #if: {{{areami²|}}} |
+{{!}}- style="padding: 0 1em 0 0; text-align:left;" 
+{{!}} &nbsp; {{!}}{{!}} {{{areami²}}}&nbsp;sq&nbsp;mi&nbsp; 
+}}
+|- 
+| style="padding: 0 1em 0.4em 0; text-align:left;"  | &nbsp;- Danom (%) || {{{percent_water}}}
+|-
+<!----- Population ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''[[Listaan na saray dalin onong ed bilang na too|Bilang na Too]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | &nbsp;
+|- 
+| style="padding: 0 1em 0 0; text-align:left;" | &nbsp;- Nen {{{population_estimate_year}}} || {{{population_estimate}}}&nbsp;([[Listaan na bilang na too|{{{population_estimate_rank}}}]])
+|- 
+{{#if: {{{population_census|}}} |
+{{!}} style="padding: 0 1em 0 0; text-align:left; vertical-align: top;"  {{!}} &nbsp;- Census nen {{{population_census_year}}}
+{{!}} {{{population_census}}} }}
+|-  
+| style="padding: 0 1em 0.4em 0; text-align:left; vertical-align: top;"  | &nbsp;- [[Density na bilang na too|Density]]
+| style="padding: 0 1em 0.4em 0; text-align:left; vertical-align: top;"  | {{{population_density}}}/km&sup2;&nbsp;([[Listaan na saray dalin onong ed density na bilang na too|{{{population_density_rank}}}]]){{ #if: {{{population_densitymi²|}}} | <br />{{{population_densitymi²}}}/sq&nbsp;mi&nbsp; }}
+|-
+<!----- Economy ----->
+{{ #if: {{{economy|}}} |
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" {{!}} '''[[Economy]]'''
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" {{!}} {{{economy}}}
+{{!}}-
+}}
+<!----- GDP ----->
+{{ #if: {{{GDP_PPP|}}} |
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" {{!}} '''[[Gross domestic product{{!}}GDP]]''' ([[Purchasing power parity{{!}}PPP]])
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top" {{!}} Nen {{{GDP_PPP_year}}}
+{{!}}-style="padding: 0 1em 0 0; text-align:left; vertical-align: top;"
+{{!}} &nbsp;- Katiponan {{!}}{{!}} {{{GDP_PPP}}}&nbsp;([[Listaan na saray dalin onong ed GDP (PPP){{!}}{{{GDP_PPP_rank}}}]])
+{{!}}- 
+{{!}} style="padding: 0 1em 0.4em 0; text-align:left; vertical-align: top;" {{!}} &nbsp;- Per capita {{!}}{{!}} {{{GDP_PPP_per_capita}}}&nbsp;([[Listaan na saray bansa onong ed GDP (PPP) per capita{{!}}{{{GDP_PPP_per_capita_rank}}}]])
+{{!}}-
+}}
+<!----- HDI ----->
+{{ #if: {{{HDI|}}} |
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" {{!}} '''[[Human Development Index{{!}}HDI]]''' ({{{HDI_year}}})
+{{!}} style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" {{!}} {{{HDI}}}&nbsp;([[Tala ng bansa ayon sa Human Development Index{{!}}{{{HDI_rank}}}]])&nbsp;–&nbsp;{{{HDI_category}}}
+}}
+|- 
+<!----- Currency ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Kwarta]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top;" | {{{currency}}} (<code>[[ISO 4217|{{{currency_code}}}]]</code>)
+|-
+<!----- Time zone ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Zone na oras]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{time_zone}}} ([[Coordinated Universal Time|UTC]]{{{utc_offset}}})
+|- style="padding: 0 1em 0 0; text-align:left; vertical-align: top;"
+{{#if: {{{utc_offset_DST|}}} |
+{{!}}&nbsp;- Summer&nbsp;([[Daylight saving time|DST]])
+{{!}}{{{DST|{{{time_zone_DST}}} ([[Coordinated Universal Time|UTC]]{{{utc_offset_DST}}})}}}}}
+|- style="padding: 0 1em 0 0; text-align:left; vertical-align: top;"
+{{#if:{{{DST_note|}}} |
+{{!}}&nbsp; {{!}}{{!}} {{{DST_note}}}}}
+|-
+<!----- Internet TLD ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Listaan na saray Internet top-level domain|Internet TLD]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{cctld}}}
+|-
+<!----- Calling code ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''[[Listaan na saray calling code na saray dalin|Calling code]]'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | <code>+{{{calling_code}}}</code>
+|-
+<!----- footnotes ----->
+{{#if: {{{footnotes|}}} |
+{{!}} colspan="2" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" {{!}} {{{footnotes|}}} }}
+|}
+</div>
+<!-- end of slate grey box -->
+</div>

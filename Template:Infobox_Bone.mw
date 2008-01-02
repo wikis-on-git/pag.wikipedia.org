@@ -1,0 +1,57 @@
+{| class="toccolours" style="width:20em; margin:0 0 0.5em 1em; float:right;"
+|- style="text-align:center;"
+!style="background:#E0E0E0; " colspan="3"|'''''Bone: {{{Name}}}'''''
+|- style="text-align: center;"
+{{#if: {{{Image<includeonly>|</includeonly>}}} |
+{{!}} colspan="2" {{!}} [[Image:{{{Image}}}|{{{Width|250}}}px|center|]] }}
+|- style="text-align: center; line-height: 1;"
+{{#if: {{{Caption<includeonly>|</includeonly>}}} |
+{{!}} colspan="2" {{!}} <small>{{{Caption}}}</small> }}
+|- style="text-align: center;"
+{{#if: {{{Image2<includeonly>|</includeonly>}}} |
+{{!}} colspan="2" {{!}} [[Image:{{{Image2}}}|{{{Width|250}}}px|center|]] }}
+|- style="text-align: center; line-height: 1;"
+{{#if: {{{Caption2<includeonly>|</includeonly>}}} |
+{{!}} colspan="2" {{!}} <small>{{{Caption2}}}</small> }}
+|- style="text-align: center;" 
+{{#if:{{{Map<includeonly>|</includeonly>}}}|
+{{!}} colspan="2" {{!}} <noinclude><span style="float:left;">†</span></noinclude>{{ {{{Map}}} | {{{MapPos}}} | Inline=1 }}
+{{!}}- style="text-align: center; line-height: 1;" 
+{{#if:{{{MapCaption<includeonly>|</includeonly>}}}|
+{{!}} colspan="2" {{!}} <small>{{{MapCaption}}}</small>
+}}
+}}
+|-
+{{#if: {{{Latin<includeonly>|</includeonly>}}} |
+{{!}} '''[[Latin]]'''
+{{!}} colspan="2" {{!}} ''{{{Latin}}}'' }}
+|-
+{{#if: {{{GraySubject<includeonly>|</includeonly>}}} |
+{{!}} '''[[List of subjects in Gray's Anatomy:{{{GraySubject}}}#Gray.27s_page_.23{{{GrayPage<includeonly>|</includeonly>}}}|Gray's]]'''
+{{!}} colspan="2" {{!}} ''[http://education.yahoo.com/reference/gray/subjects/subject?id={{{GraySubject}}}#p{{{GrayPage|}}} subject #{{{GraySubject}}} {{{GrayPage|}}}]'' }}
+|-
+{{#if: {{{Origins<includeonly>|</includeonly>}}} |
+{{!}} '''Origins'''
+{{!}} colspan="2" {{!}} {{{Origins}}} }}
+|-
+{{#if: {{{Insertions<includeonly>|</includeonly>}}} |
+{{!}} '''Insertions'''
+{{!}} colspan="2" {{!}} {{{Insertions}}} }}
+|-
+{{#if: {{{Articulations<includeonly>|</includeonly>}}} |
+{{!}} '''Articulations'''
+{{!}} colspan="2" {{!}} {{{Articulations}}} }}
+|- style="background:Thistle" 
+{{#if: {{{Precursor<includeonly>|</includeonly>}}} |
+{{!}} '''Precursor'''
+{{!}} colspan="2" {{!}} {{{Precursor}}} }}
+|- style="text-align: left;" 
+{{#if:{{{MeshName<includeonly>|</includeonly>}}}|
+! [[Medical Subject Headings|MeSH]]
+{{!}} style="white-space: nowrap;" {{!}} <noinclude>†&nbsp;</noinclude>''[http://www.nlm.nih.gov/cgi/mesh/{{{MeshYear|2006}}}/MB_cgi?mode=&term={{{MeshName}}} {{{MeshName}}}]''
+}}
+|-
+{{#if: {{{DorlandsPre<includeonly>|</includeonly>}}} |
+{{!}} '''[[Elsevier|Dorlands/Elsevier]] '''
+{{!}} colspan="2"{{!}}  ''[http://www.mercksource.com/pp/us/cns/cns_hl_dorlands.jspzQzpgzEzzSzppdocszSzuszSzcommonzSzdorlandszSzdorlandzSzdmd_{{{DorlandsPre}}}zPzhtm#{{{DorlandsSuf}}} {{{DorlandsPre}}}/{{{DorlandsSuf}}}]'' }}
+|}

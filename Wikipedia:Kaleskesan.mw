@@ -133,3 +133,12 @@ Hi, I request a bot bit for [[User:SieBot|SieBot]].
 * List of botflags on others Wikipedias: Almost every Wikipedia (some 25 missing). See [http://toolserver.org/~vvv/sulutil.php?user=SieBot current list of user status and edits]
 * Purpose: Interwiki (pywikipedia)
 * Technical details : [[User:SieBot|SieBot]] is an interwiki bot starting at any Wikipedia. The bot uses the pywikipedia framework and runs day and night in autonomous mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts. It has made over 5 million edits since it started. [[User:Siebrand|Siebrand]] 22:35, 26 June 2008 (UTC)
+
+== [[User:Synthebot|Synthebot]] ==
+Dear all, this is to request a bot flag for [[User:Synthebot|Synthebot]]. Its technical information is summarized below.
+*'''Operator''': [[:en:User:Julian Mendez|Julian Mendez]]
+*'''Automatic or Manually Assisted''': mostly automatic in autonomous mode; sometimes manually assisted to solve interwiki conflicts
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]] ([http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia source code])
+*'''Function Summary''': interwiki links
+*'''Already has a bot flag on''': more than 100 wikipedias ([http://toolserver.org/~vvv/sulutil.php?user=Synthebot SUL]), and approved in many others as [{{fullurl:meta:Special:GlobalUsers|group=Global_bot&username=Synthebot&limit=1}} global bot]
+Further technical information is available on its [[:ia:User:Synthebot|main page]]. Thank you in advance. Regards, --[[User:Julian Mendez|Julian]] 10:25, 11 October 2008 (UTC)

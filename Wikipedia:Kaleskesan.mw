@@ -142,3 +142,12 @@ Dear all, this is to request a bot flag for [[User:Synthebot|Synthebot]]. Its te
 *'''Function Summary''': interwiki links
 *'''Already has a bot flag on''': more than 100 wikipedias ([http://toolserver.org/~vvv/sulutil.php?user=Synthebot SUL]), and approved in many others as [{{fullurl:meta:Special:GlobalUsers|group=Global_bot&username=Synthebot&limit=1}} global bot]
 Further technical information is available on its [[:ia:User:Synthebot|main page]]. Thank you in advance. Regards, --[[User:Julian Mendez|Julian]] 10:25, 11 October 2008 (UTC)
+
+== [[User:Luckas-bot|Luckas-bot]] ==
+Dear all, this is to request a bot flag for [[User:Luckas-bot|Luckas-bot]]. Its technical information is summarized below.
+*'''Operator''': [[:pt:User:Luckas Blade|Luckas Blade]]
+*'''Automatic or Manually Assisted''': mostly automatic 
+*'''Programming Language(s)''': [[:m:Using the python wikipediabot|pywikipedia]] ([http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia source code])
+*'''Function Summary''': interwiki links
+*'''Already has a bot flag on''': [http://toolserver.org/~vvv/sulutil.php?user=Luckas-bot +/-70 wikis]
+Thanks. --[[User:Luckas Blade|Luckas Blade]] 23:34, 18 November 2008 (UTC)

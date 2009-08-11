@@ -1,0 +1,26 @@
+<includeonly>{{mbox
+| demospace = {{{demospace|}}}
+| type = style
+| image = [[Image:Symbol opinion vote.svg|40px]]
+| text =
+  {{#if:{{{new|{{{2|}}} }}}
+  | <!-- New usage (with or without date) 
+    -->The template {{[[Template:{{{1}}}|{{{1}}}]]}} is deprecated. Please use {{{new|{{[[Template:{{{2}}}|{{{2}}}]]{{#if:{{{3|}}}
+    | <nowiki>|</nowiki>{{{3}}}
+    }}}} }}} instead.
+  | <!-- Old usage (deprecated, being switched) 
+    -->The template {{[[Template:{{PAGENAME}}|{{PAGENAME}}]]}} is [[:Category:Deprecated templates|deprecated]]. Please use {{{use|{{[[Template:{{{1}}}|{{{1}}}]]}}}}} instead. <br> <small>This usage is deprecated. Please replace it with <nowiki>{{tdeprecated|</nowiki>{{PAGENAME}}<nowiki>|</nowiki>{{{1}}}<nowiki>}}</nowiki>.</small>{{{category|[[Category:Deprecated use of tdeprecated]]}}}
+  }}
+}}{{{category|{{#ifeq:{{ARTICLESPACE}}|Template
+| {{#ifeq:{{PAGENAME}}|{{BASEPAGENAME}}<!--Don't categorise /doc pages -->
+   |{{#if:{{{date|}}}
+     | [[Category:Templates deprecated from {{{date}}}|{{PAGENAME}}]]
+     | [[Category:Deprecated templates|{{PAGENAME}}]]
+   }}
+  }}
+| [[Category:Pages using deprecated templates]]
+}} }}}</includeonly><noinclude>
+
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

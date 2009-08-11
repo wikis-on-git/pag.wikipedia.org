@@ -1,0 +1,10 @@
+<tr><td style="padding:2px 0;">[[:Image:{{{filename}}}|{{{title}}}]]</td>
+</tr><tr>
+<td style="padding-right:4px;>
+{{#ifeq:{{{play|}}}|no||[[Image:{{{filename}}}|180px|noicon]]}}
+</td>
+</tr><tr>
+<td style="padding:0;">{{{description|}}}</td>
+</tr><tr>
+<td><hr></td>
+</tr>

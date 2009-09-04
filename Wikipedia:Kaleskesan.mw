@@ -164,3 +164,10 @@ Thanks in advance. [[User:Nakor|Nakor]] 01:22, 22 June 2009 (UTC)
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I suggest implementing the [[m:Bot policy|standard bot policy]] on this wiki. In particular, this policy allows stewards to automatically flag known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. The policy also enables [[m:Bot policy#Global_bots|global bots]] on this wiki (if this page says that is acceptable), which are trusted bots that will be given bot access on every wiki that allows global bots.
 
 This policy makes bot access requesting much easier for local users, operators, and stewards. To implement it we only need to create a redirect to this page from [[Project:Bot policy]], and add a line at the top noting that it is used here. Please read the text at [[m:Bot policy]] before commenting. If you object, please say so; I hope to implement in one week if there is no objection, since it is particularly written to streamline bot requests on wikis with little or no community interested in bot access requests. [[User:Rubin16|Rubin16]] 07:55, 7 July 2009 (UTC)
+== [[:User:H|Almabot]] ==
+Hello, I would like to request the bot flag for my bot:
+* '''Operator:''' [[:fr:User:HerculeBot|HerculeBot]]
+* '''Programming language:''' pywikipedia, updated daily from SVN
+* '''Tasks:''' maintain interwiki links
+* '''Already has botflag on:''' [[:meta:User:HerculeBot|about 60 wikis]] + global flag
+Thanks in advance. --[[User:Hercule|Hercule]] 08:46, 4 September 2009 (UTC)

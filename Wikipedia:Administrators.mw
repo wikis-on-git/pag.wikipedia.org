@@ -14,12 +14,12 @@ Things administrators can do:
 * Stop users who damage pages - [[Wikipedia:Bans and blocks]], [[Wikipedia:Vandalism in progress]]
 :''See also: Administrator logs'' - [[Special:Log/block|Blocks]], [[Special:Log/protect|Page protection]], [[Special:Log/delete|Deletions]]
 ----
-A '''bureaucrat''' is a slightly higher administrative level that can perform a few additional functions. Bureaucrats can give administrator or bureaucrat status to other users following a successful request on this page. Bureaucrats can also help users who want to [[:meta:Changing username|change user names]].  They can also "flag" [[Wikipedia:Bot|bots]], which means to hide their contributions from the new changes and put them in the bot group. Requests for name changes should be made directly to the talk page of one of the listed bureaucrats.
+A '''bureaucrat''' is a slightly higher administrative level that can perform a few additional functions. Bureaucrats can give administrator or bureaucrat status to other users following a successful request on this page. Bureaucrats can also help users who want to [[:meta:Changing username|change user names]]. They can also "flag" [[Wikipedia:Bot|bots]], which means to hide their contributions from the new changes and put them in the bot group. Requests for name changes should be made directly to the talk page of one of the listed bureaucrats.
 
 :''See also: Bureaucrat logs'' - [[Special:Log/rights|User rights]], [[Special:Log/renameuser|User rename]]
 
 
-==Listaan na saray administrator==
+== Listaan na saray administrator ==
 :''Sakey ya automated ya listaan ya amin na account ya walay admin status so nanengneng ed saya [[Special:Listadmins]].''
 
 === Actibo ===
@@ -27,19 +27,19 @@ A '''bureaucrat''' is a slightly higher administrative level that can perform a 
 === Aga Actibo ===
 
 == Requests for bureaucratship ==
-===[[User:Arikasikis|Arikasikis]]===
+=== [[User:Arikasikis|Arikasikis]] ===
 
 Since there are many articles here, I request this status.
 
 
 == Requests for adminship ==
 
-===[[User:Arikasikis|Arikasikis]]===
+=== [[User:Arikasikis|Arikasikis]] ===
 I was the main contributor and test administrator of the Test-wp/pag. I want to translate the buttons into Pangasinan. How do I become an administrator? [[User:Arikasikis]]
 
 : ''[[/Archive1|Archive of older requests for administrator status]]''
 
-==Current issues and requests==
+== Current issues and requests ==
 [[/Current issues and requests archive 1]]
 
 Users can contact sysops on this page to ask them to protect pages. Requests for deletion should be made on [[Wikipedia:Requests for deletion]] and requests for blocking on [[Wikipedia:Vandalism in progress]].
@@ -165,6 +165,7 @@ All sysops should watch this section for issues that sysops must be aware of, an
 [[lt:Vikipedija:Administratoriai]]
 [[lv:Vikipēdija:Administrācija]]
 [[map-bms:Wikipedia:Pengurus]]
+[[mdf:Википедие:Системонь вятиксне]]
 [[mg:Wikipedia:Mpandrindra]]
 [[mhr:Википедий:Сайтвиктарыше-влак]]
 [[mi:Wikipedia:Kaiwhakahaere]]
@@ -174,6 +175,7 @@ All sysops should watch this section for issues that sysops must be aware of, an
 [[mr:विकिपीडिया:प्रचालक]]
 [[ms:Wikipedia:Penyelia]]
 [[mt:Wikipedija:Amministraturi]]
+[[mwl:Biquipédia:Admenistradores]]
 [[my:Wikipedia:Administrators]]
 [[myv:Википедиясь:Администраторт]]
 [[mzn:Wikipedia:Serareman]]
@@ -211,7 +213,7 @@ All sysops should watch this section for issues that sysops must be aware of, an
 [[sco:Wikipedia:Administrators]]
 [[sd:Wikipedia:Administrators]]
 [[se:Wikipedia:Hálddašeaddjit]]
-[[sg:Wikipedia:Administrators]]
+[[sg:Wikipedia:Wa tî dalisoro]]
 [[sh:Wikipedia:Administratori]]
 [[si:Wikipedia:Administrators]]
 [[simple:Wikipedia:Administrators]]
@@ -236,7 +238,7 @@ All sysops should watch this section for issues that sysops must be aware of, an
 [[to:Wikipedia:Administrators]]
 [[tr:Vikipedi:Hizmetliler]]
 [[ts:Wikipedia:Administrators]]
-[[tt:Wikipedia:İdäräçelär]]
+[[tt:Википедия:İdäräçelär]]
 [[tum:Wikipedia:Administrators]]
 [[tw:Wikipedia:Administrators]]
 [[udm:Wikipedia:Администраторъёс]]

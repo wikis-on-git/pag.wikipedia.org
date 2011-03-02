@@ -1,0 +1,48 @@
+{| class="toccolours" style="float: right; margin: 0 0 1em 1em;" width="300px"
+|+colspan="2" style="text-align: center; font-size: larger;"| '''{{{infoboxtitle}}}'''
+|-
+|colspan="2" style="text-align: center;"| [[Image:{{{sealfile}}}|center|110px|Opisial a selio ti {{{infoboxtitle}}}]]
+<!--
+| colspan="2" style="text-align: center; background: #e0e0e0;;"| '''Selio'''
+|-
+| colspan="2" style="text-align: center; font-size: 0.9em;"| [[Image:{{{sealfile}}}]]
+-->
+|-
+| colspan="2" style="text-align: center; background: #e0e0e0;;"| '''Lokasion'''
+|-
+| colspan="2" style="text-align: center; font-size: 0.9em;"| {{{locatormapfile}}}
+|- style="vertical-align:top;"
+| colspan="2" style="text-align: center; background: #e0e0e0;;"| '''Gobierno'''
+|- style="vertical-align:top;"
+| width="100px" | '''[[Regions of the Philippines|Region]]:'''
+| width="200px" | {{{region}}}
+|- style="vertical-align:top;"
+| '''[[Luyag]]:'''
+| {{{province}}}
+|- style="vertical-align:top;"
+| '''[[:ilo:Kongreso ti Pilipinas|Distrito iti Kongreso]]:'''
+| {{{districts}}}
+|- style="vertical-align:top;"
+| '''[[Barangay]]:'''
+| {{{barangays}}}
+|- style="vertical-align:top;"
+| '''[[:ilo:Klase (ili)|Klase ti kita]]:'''
+| {{{class}}}
+|- style="vertical-align:top;"
+| '''[[Mayor]]:'''
+| {{{mayor}}}
+|-
+| colspan="2" style="text-align: center; background: #e0e0e0;;"| '''Pisikal a gupit'''
+|- style="vertical-align:top;"
+| '''[[:ilo:Kalawa|Kalawa]]:'''
+| {{{areakm2}}} [[Kuadrado kilometro|km²]]
+|- style="vertical-align:top;"
+| '''[[Populasion]]:'''
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total ([[2007]])
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Densidad ti Populasion|Densidad]]
+| <br />{{{pop2000}}}<br />{{{popden2000}}}/km²
+|- class{{{latNS|}}}="hiddenStructure"
+! [[Heograpikal a nagtutumpongan|Nagtumpongan]]
+| <span class="plainlinksneverexpand"
+>[http://kvaleberg.com/extensions/mapsources/index.php?params={{{latd}}}_{{{latm}}}_{{{lats|0}}}_{{{latNS}}}_{{{longd}}}_{{{longm}}}_{{{longs|0}}}_{{{longEW}}}<!--_type:city({{{population_total}}})-->   {{{latd}}}°{{{latm}}}′{{{lats|0}}}″&nbsp;{{{latNS}}} <br/>   {{{longd}}}°{{{longm}}}′{{{longs|0}}}″&nbsp;{{{longEW}}}]</span>
+|}

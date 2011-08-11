@@ -47,7 +47,7 @@
 {{ #if: {{{areakm2|}}} |
 {{!}}- style="vertical-align:top;"
 {{!}} '''[[Awang]]'''
-{{!}} {{{areakm2}}} [[Square kilometre|km²]]
+{{!}} {{{areakm2}}}
 }}
 |- style="vertical-align:top;"
 | '''[[Bilang na Too]]'''

@@ -45,9 +45,8 @@
 | colspan="2" style="text-align: center; background: #e0e0e0;;"| '''Physical characteristics'''
 |- style="vertical-align:top;"
 {{ #if: {{{areakm2|}}} |
-{{!}}- style="vertical-align:top;"
 {{!}} '''[[Awang]]'''
-{{!}} {{{areakm2}}}
+{{!}} {{{areakm2}}} [[Square kilometre|km²]]
 }}
 |- style="vertical-align:top;"
 | '''[[Bilang na Too]]'''

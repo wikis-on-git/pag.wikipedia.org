@@ -11,7 +11,7 @@
 |+ style="font-size: larger;" | '''{{{name}}}'''
 |-{{!}}-
 | colspan="2" style="text-align: center;" |
-[[Image:{{{map_file}}}|200px|center|Map of the Philippines showing the location of {{{name}}}]]
+[[Image:{{{map_file}}}|222px|center|Map of the Philippines showing the location of {{{name}}}]]
 |-
 ! style="white-space: nowrap;" | Regional center
 | {{{center}}}

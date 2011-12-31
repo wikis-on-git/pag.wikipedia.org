@@ -1,0 +1,33 @@
+<onlyinclude><span class="unicode audiolink">[[:Media:{{{1|}}}|{{{2|{{{1|}}}}}}]]</span>&nbsp;<span class="metadata audiolinkinfo"><small>([[Wikipedia:Media help|help]]·[[:Image:{{{1|}}}|info]])</small></span></onlyinclude>
+__NOTOC__
+
+== Purpose ==
+
+This template links to an audio file for quick listening.  It is meant to be used inline with text, for pronunciations and the like.
+
+== Usage ==
+
+<code><nowiki>{{Audio|name of sound file|text to use as link to soundfile}}</nowiki></code>
+
+Example:
+:<code><nowiki>'''Bordeaux''' ({{Audio|Fr-Bordeaux.ogg|pronunciation}}) is a [[Seaport|port]] city in...</nowiki></code>
+gives this:
+:'''Bordeaux''' ({{Audio|Fr-Bordeaux.ogg|pronunciation}}) is a [[Seaport|port]] city in...
+
+== See also ==
+
+* {{tl|Audio-nohelp}}, a variant of this template with no help links.
+* {{tl|Audio-IPA}}, a variant of this template to be used with [[International Phonetic Alphabet|IPA]] notation.
+**{{tl|Audio-IPA-nohelp}}, a variant with no help links.
+* {{tl|Spoken}}, which adds only the small icon with no links.
+* {{tl|Listen}}, which sets an audio clip off from the main text.
+
+[[de:Vorlage:Audio]]
+[[es:Plantilla:Audio]]
+[[fa:الگو:صدا]]
+[[ko:틀:듣기]]
+[[mk:Шаблон:Аудио]]
+[[no:Mal:Audio]]
+[[pt:Predefinição:Áudio]]
+[[th:Template:เสียง]]
+[[vi:Tiêu bản:Âm thanh]]

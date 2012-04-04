@@ -10,9 +10,9 @@ This template links to an audio file for quick listening.  It is meant to be use
 <code><nowiki>{{Audio|name of sound file|text to use as link to soundfile}}</nowiki></code>
 
 Example:
-:<code><nowiki>'''Bordeaux''' ({{Audio|Fr-Bordeaux.ogg|pronunciation}}) is a [[Seaport|port]] city in...</nowiki></code>
+:<code><nowiki>'''Bordeaux''' ({{Audio||pronunciation}}) is a [[Seaport|port]] city in...</nowiki></code>
 gives this:
-:'''Bordeaux''' ({{Audio|Fr-Bordeaux.ogg|pronunciation}}) is a [[Seaport|port]] city in...
+:'''Bordeaux''' ({{Audio||pronunciation}}) is a [[Seaport|port]] city in...
 
 == See also ==
 

@@ -1,0 +1,38 @@
+<table {{#if:{{{id|}}}|id="{{{id|}}}"}} class="plainlinks fmbox
+{{#switch:{{{type|}}}
+| warning    = fmbox-warning
+| editnotice = fmbox-editnotice
+| system          <!-- system = default -->
+| #default   = fmbox-system
+}} {{{class|}}}" style="{{{style|}}}">
+<tr>
+{{#ifeq:{{{image|}}}|none
+| <!-- No image. -->
+| <td class="mbox-image">
+  {{#if:{{{image|}}}
+  | {{{image}}}
+  | [[File:{{#switch:{{{type|}}}
+    | warning    = Cmbox deletion.png
+    | editnotice = Imbox notice.png
+    | system          <!-- system = default -->
+    | #default   = Imbox notice.png
+    }}|40x40px|link=|alt=]]
+  }}</td>
+}}
+<td class="mbox-text" style="{{{textstyle|}}}"> {{{text}}} </td>
+{{#if:{{{imageright|}}}
+| <td class="mbox-imageright"> {{{imageright}}} </td>
+}}
+</tr>
+</table><!--
+  Kitaen ken ireporta dagiti panag-usar nga addaan kadagiti nadadael a "kita" a parametro:
+-->{{#switch:{{{type|}}}
+|   <!-- No type fed, is also valid input -->
+| warning
+| editnotice
+| system     =    <!-- Do nothing, valid "type" -->
+| #default   = <div style="text-align: center;">Daytoy a kahon ti mensahe ket agus-usar ti imbalido a "type={{{type|}}}" parametro ken nasken a masimpa.</div>[[Category:Wikipedia a kahon ti mensahe a nasken a masimpa ti parametro|{{main other|Main:}}{{FULLPAGENAME}}]]<!-- Sort on namespace -->
+}}<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

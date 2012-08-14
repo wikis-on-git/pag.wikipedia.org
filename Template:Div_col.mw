@@ -1,0 +1,17 @@
+<includeonly><div class="<!--
+ -->{{#if: {{{colwidth|{{{2|}}}}}}
+    | column-width
+    | column-count column-count-{{{cols|{{{1|2}}}}}} }}" style="<!--
+ -->{{#if: {{{colwidth|{{{2|}}}}}}
+    | {{column-width|{{{colwidth|{{{2}}}}}}}}
+    | {{column-count|{{{cols|{{{1|2}}}}}}}} }} <!--
+ -->{{#if: {{{rules|}}}
+    | {{#ifeq:{{{rules}}}|yes
+      | {{column-rule}}
+      | {{column-rule|{{{rules}}}}} }} }} <!--
+ -->{{#ifeq: {{lc:{{{small|}}}}}|yes
+    | font-size:90%; }} <!--
+ -->{{#if: {{{style|}}}
+    | {{{style}}} }}"></includeonly><noinclude>
+{{Documentation}}
+</noinclude>

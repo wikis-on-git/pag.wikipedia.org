@@ -1,17 +1,17 @@
 {{#iferror:<!--
 
    -->{{Salitan/<!--
-       -->{{#ifexist:Template:Salitan/{{lc:{{{2|en}}}}}<!-- If the target language has a list
-       -->|{{lc:{{{2|en}}}}}<!-- use it 
-       -->|en<!-- else use English
+       -->{{#ifexist:Template:Salitan/{{lc:{{{2|pag}}}}}<!-- If the target language has a list
+       -->|{{lc:{{{2|pag}}}}}<!-- use it 
+       -->|pag<!-- else use English
        -->}}<!--
    -->|{{{1}}}<!--
    -->}}<!--
 -->|<!-- Use alternate list if not found
    -->{{Language/<!--
        -->{{#ifexist:Template:Salitan/{{lc:{{{2|en}}}+}}<!-- If the target language has a list
-       -->|{{lc:{{{2|en}}}+}}<!-- use it 
-       -->|en+<!-- else use English
+       -->|{{lc:{{{2|pag}}}+}}<!-- use it 
+       -->|pag+<!-- else use English
        -->}}<!--
    -->|{{{1}}}<!--
    -->}}<!--

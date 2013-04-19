@@ -1,7 +1,7 @@
 {{#iferror:<!--
 
  -->{{Salitan/<!--
-   -->{{#switch:{{lc:{{{2|pag}}}}}
+   -->{{#switch:{{lc:{{{2|en}}}}}
        ||pag|#default = pag
       }}<!--
  --> | {{{1|}}} }}<!--

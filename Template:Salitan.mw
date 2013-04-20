@@ -9,7 +9,7 @@
    -->}}<!--
 -->|<!-- Use alternate list if not found
    -->{{Language/<!--
-       -->{{#ifexist:Template:Salitan/{{lc:{{{2|en}}}+}}<!-- If the target language has a list
+       -->{{#ifexist:Template:Salitan/{{lc:{{{2|pag}}}+}}<!-- If the target language has a list
        -->|{{lc:{{{2|pag}}}+}}<!-- use it 
        -->|pag+<!-- else use English
        -->}}<!--

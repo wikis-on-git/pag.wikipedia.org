@@ -1,0 +1,3 @@
+{{formatnum:{{#expr:({{uspop}}/1000) round 0}}000}}<noinclude>
+[[Category:Population templates]]
+</noinclude>

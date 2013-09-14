@@ -1,0 +1,81 @@
+{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1 }} round -3}} <noinclude>
+
+<nowiki>
+{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -3}}
+</nowiki>
+
+*Present value of <nowiki>{{Uspop commas}}</nowiki> for today (UTC) is {{Uspop commas}}
+*Present value of <nowiki>{{Uspop-base}}</nowiki> is {{formatnum:{{Uspop-base}} }}
+*Present value of <nowiki>{{Uspop-daily-inc}}</nowiki>  is {{formatnum:{{Uspop-daily-inc}} }}
+*Present value of <nowiki>{{Uspop-startyear}}</nowiki> is {{Uspop-startyear}}
+*Present value of <nowiki>{{Uspop-startmonth}}</nowiki> is {{Uspop-startmonth}}
+
+*Last UPDATE: 2011-JUN-07
+
+*TO UPDATE:
+*# edit template:uspop-daily-inc
+*# edit template:uspop-base
+*# edit template:Uspop-startmonth (if needed)
+*# edit template:Uspop-startyear (if needed)
+*The figure here is refreshed automatically once a day at 00:00 UTC
+**at that time it aims to be in agreement with http://www.census.gov/population/www/popclockus.html to the nearest thousand
+
+*Figure is rounded to 3 places to reduce false precision, and to reduce chance of output in scientific notation
+*Rounding that ends in 5 zeroes (even if only rounded to units place) intermittently outputs scientific notation.
+**see source code for table below for method to prevent output in scientific notation
+
+*EVERY month, US Census Bureau changes the # per day & the base population for start of the month.
+**Daily increment at last update was {{uspop-daily-inc}}
+**By extrapolation, population at midnight UTC at start of month of last update was {{formatnum: {{uspop-base}} }}
+
+{|class=wikitable style="text-align:center"
+! Places<br>rounded<br>to !! result !! "textified" !! with commas !! Comment
+|-
+|0||{{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -0 }} }}
+|
+|
+|-
+| 1 
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -1 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10 round 0}}0
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10 round 0}}0}}
+|-
+| 2
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -2 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100 round 0}}00
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100 round 0}}00}}
+|-
+| 3
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -3 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /1000 round 0}}000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /1000 round 0}}000}}
+| At {{formatnum:{{#expr:{{uspop-daily-inc}} }} }} people per day, this value will change daily.
+|-
+| 4
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -4 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10000 round 0}}0000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10000 round 0}}0000}}
+|-
+| 5
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -5 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100000 round 0}}00000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100000 round 0}}00000}}
+|-
+|6
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -6 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /1000000 round 0}}000000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /1000000 round 0}}000000}}
+|-
+|7
+| {{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -7 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10000000 round 0}}0000000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /10000000 round 0}}0000000}}
+|-
+|8
+|{{formatnum:{{#expr: {{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} round -8 }} }}
+| {{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100000000 round 0}}00000000
+| {{formatnum:{{#expr:({{uspop-base}} + {{uspop-daily-inc}} * {{Age in days|{{Uspop-startyear}}|{{Uspop-startmonth}}|day1=1}} ) /100000000 round 0}}00000000}}
+|}
+
+[[Category:Population templates]]
+</noinclude>

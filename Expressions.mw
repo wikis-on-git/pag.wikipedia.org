@@ -14,7 +14,7 @@
 *Where are you from? (What is your hometown?)
 ::Taga iner ka?
 *I am from (place).
-*Taga (place).
+::Taga (place).
 *Where do you go to school?
 ::Iner ka unnuurong?
 ::Iner ka unloloob?
@@ -37,7 +37,7 @@
 ::Piga tan?
 *Is the price negotiable?
 ::Sarag toy untawal?
-::Yes, the price is negotiable.
+*Yes, the price is negotiable.
 ::On, sarag to.
 
 [[Category:Learning Salitan Pangasinan]]

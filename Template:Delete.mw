@@ -6,5 +6,4 @@
 <span class="plainlinks">''Administrators, remember to check  [[Special:Whatlinkshere/{{FULLPAGENAME}}|if anything links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} last edit]) before [{{fullurl:{{FULLPAGENAME}}|action=delete}} deletion].''</span>
 |}<includeonly>{{{category|[[Category:Candidates for speedy deletion]]}}}</includeonly><noinclude>
 [[eo:Ŝablono:Forigu]]
-[[mzn:شابلون:حذف سریع]]
 </noinclude>

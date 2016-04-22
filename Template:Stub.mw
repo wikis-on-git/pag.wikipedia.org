@@ -1,4 +1,3 @@
-<div class="notice metadata plainlinks" id="stub">''This article is a [[Wikipedia:Stub|stub]]. You can help Wikipedia by [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it]. ''</div><includeonly>[[Category:Stubs]]</includeonly>
-<noinclude>''This template will categorize articles that include it into [[:Category:Stubs]].''
-<!-- interwiki -->
-</noinclude>
+{{-}}
+{{#if:{{{1|}}}|[[Filr:{{Stub/{{{1}}}}}|35px|{{{1}}}]]|[[Image:Wiki_letter_w.svg|35px|Usbong]]}}{{#if:{{{2|}}}|[[File:{{Stub/{{{2}}}}}|35px|{{{2}}}]]}}{{#if:{{{3|}}}|[[File:{{Stub/{{{3}}}}}|35px|{{{3}}}]]}} ''This article is a {{#if:{{{1|}}}|about '''{{{1}}}'''{{#if:{{{3|}}}|, '''{{{2}}}''' at '''{{{3}}}'''|{{#if:{{{2|}}}|&nbsp;at '''{{{2}}}'''}}}}}} is a [[Wikipedia:Stub|stub]]. You can help [[Wikipedia]] by [http://pam.wikipedia.org/w/index.php?title={{FULLPAGENAMEE}}&action=edit expanding] it.''{{#if:{{{1|}}}|[[Category:Stub ({{Stub/{{{1}}}|category}})]]|[[Category:Stub]]}}{{#if:{{{2|}}}|[[Category:Stub ({{Stub/{{{2}}}|category}})]]}}{{#if:{{{3|}}}|[[Category:Stub ({{Stub/{{{3}}}|category}})]]}}<noinclude>
+<includeonly>[[Category:Stub]]</includeonly>

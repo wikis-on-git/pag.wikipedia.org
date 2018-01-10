@@ -1,0 +1,25 @@
+{{big|'''Initial visibility'''}}
+
+To set the template's initial visibility, the {{para|state}} [[Help:Template#Parameters|parameter]] may be used:
+<ul>
+<li>{{para|state|collapsed}}: <nowiki>{{</nowiki><includeonly>{{</includeonly>{{#if:{{{nobase|}}}| |BASE}}PAGENAME<includeonly>}}</includeonly><nowiki>|state=collapsed}}</nowiki> to show the template collapsed, i.e., hidden apart from its title bar</li>
+<li>{{para|state|expanded}}: <nowiki>{{</nowiki><includeonly>{{</includeonly>{{#if:{{{nobase|}}} | |BASE}}PAGENAME<includeonly>}}</includeonly><nowiki>|state=expanded}}</nowiki> to show the template expanded, i.e., fully visible</li>
+<li>{{para|state|autocollapse}}: <nowiki>{{</nowiki><includeonly>{{</includeonly>{{#if:{{{nobase|}}} | |BASE}}PAGENAME<includeonly>}}</includeonly><nowiki>|state=autocollapse}}</nowiki>
+<ul>
+<li>shows the template collapsed to the title bar if there is a <nowiki>{{navbar}}, a {{sidebar}}</nowiki>, or some other table on the page with the collapsible attribute</li>
+<li>shows the template in its expanded state if there are no other collapsible items on the page</li>
+</ul></li></ul>
+If the {{para|state}} parameter is not set, the template's initial visibility is taken from the {{para|default}} parameter in the template. For this template, that currently evaluates to <code>{{#switch:{{{default|}}}|collapsed=collapsed|expanded=expanded|autocollapse|#default=autocollapse}}</code>.<!--
+-->{{#if:{{{align|}}}|
+:{{para|align|''value''}} is also available; where ''value'' can be either <code>right</code> or <code>left</code>. The default is <code>center</code>
+}}{{#if:{{{title-background|}}}|:{{para|title-background|''value''}} is also available; where ''value'' can be either <code>navbox</code> or a <code>color</code>. The default is <code>none</code> and <code>navbox</code> defaults to the default navbox color.
+}}{{#if:{{{width|}}}|
+:{{para|width|''value''}} is also available; where ''value'' can be either <code>N [em/%/px]</code> or <code>auto</code>. The default is <code>100%</code>
+}}<!--
+Add {{pp-template}} if template page where this template is transcluded is protected:
+-->{{template other
+    | {{#if:{{PROTECTIONLEVEL:edit}} |{{pp-template|docusage=yes}}
+       | {{#if:{{PROTECTIONLEVEL:move}} |{{pp-move|docusage=yes|small=yes}} }}
+   }} }}<noinclude>
+{{Documentation}}
+</noinclude>

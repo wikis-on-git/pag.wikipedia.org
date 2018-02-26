@@ -50,9 +50,9 @@
 }}
 |- style="vertical-align:top;"
 | '''[[Bilang na Too]]'''
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total ([[2000]])
-{{ #if: {{{popden2000|}}} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Population density|Density]] }}
-| <br />{{{pop2000}}}{{ #if: {{{popden2000|}}} |<br />{{{popden2000}}}/[[Square kilometre|km²]] }}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total ([[2015]])
+{{ #if: {{{popden2015|}}} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Population density|Density]] }}
+| <br />{{{pop2015}}}{{ #if: {{{popden2015|}}} |<br />{{{popden2015}}}/[[Square kilometre|km²]] }}
 {{ #if: {{{coordinates|}}} |
 {{!}}- style="vertical-align:top;"
 {{!}} '''[[Geographic coordinate system|Coordinates]]'''

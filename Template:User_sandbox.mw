@@ -33,7 +33,7 @@
    -->{{#if: {{{selectskin|}}}
        | <div style="font-size:x-small; text-align:center;">{{selectskin}}</div>
       }}<!--
-   -->{{#ifeq: {{{afc|}}} | no 
+   -->{{#ifeq: {{{afc|no}}} | no 
        | <!-- blank -->
        | {{#if: {{{plain|}}}
           | <!-- blank -->

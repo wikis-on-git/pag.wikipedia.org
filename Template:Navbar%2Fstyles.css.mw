@@ -1,0 +1,38 @@
+/* Default styling for Navbar template */
+.navbar {
+	display: inline;
+	font-size: 88%;
+	font-weight: normal;
+}
+.navbar ul {
+	display: inline;
+	white-space: nowrap;
+}
+.mw-body-content .navbar ul {
+	line-height: inherit;
+}
+.navbar li {
+	word-spacing: -0.125em;
+}
+.navbar.mini li abbr[title] {
+	font-variant: small-caps;
+	border-bottom: none;
+	text-decoration: none;
+	cursor: inherit;
+}
+/* Navbar styling when nested in infobox and navbox */
+.infobox .navbar {
+	font-size: 100%;
+}
+.navbox .navbar {
+	display: block;
+	font-size: 100%;
+}
+.navbox-title .navbar {
+	/* @noflip */
+	float: left;
+	/* @noflip */
+	text-align: left;
+	/* @noflip */
+	margin-right: 0.5em;
+}

@@ -8,7 +8,7 @@
 |
 |style="font-size: {{{info-s|8}}}pt; padding: 4pt; line-height: 1.25em;" |
 ----
-If ''you'' have just labeled this page as needing translation, please add<br/>&#123;&#123;<tt>subst:Needtrans| pg={{PAGENAME}}| Language={{{1|unknown}}}| Comments=</tt>&#125;&#125;&#160;<nowiki>~~~~</nowiki><br />to the bottom of [{{fullurl:Wikipedia:Pages_needing_translation_into_Pangasinan|action=edit&section=3}} this section of Pages needing translation into Pangasinan].
+If ''you'' have just labeled this page as needing translation, please add<br/>&#123;&#123;<kbd>subst:Needtrans| pg={{PAGENAME}}| Language={{{1|unknown}}}| Comments=</kbd>&#125;&#125;&#160;<nowiki>~~~~</nowiki><br />to the bottom of [{{fullurl:Wikipedia:Pages_needing_translation_into_Pangasinan|action=edit&section=3}} this section of Pages needing translation into Pangasinan].
 |}</div><includeonly>{{{category|[[Category:Wikipedia articles needing translation]]}}}</includeonly><noinclude>
 ----
 This template will categorise tagged articles into [[:Category:Wikipedia articles needing translation]].

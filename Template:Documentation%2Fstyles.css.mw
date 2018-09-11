@@ -1,0 +1,7 @@
+.template-documentation {
+    clear: both;
+    margin: 1em 0 0 0;
+    border: 1px solid #aaa; 
+    background-color: #F0F8FF; 
+    padding: 1em;
+}

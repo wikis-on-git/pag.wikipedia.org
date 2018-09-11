@@ -1,0 +1,75 @@
+/* Default style for navigation boxes */
+.navbox {                     /* Navbox container style */
+	box-sizing: border-box;
+	border: 1px solid #a2a9b1;
+	width: 100%;
+	clear: both;
+	font-size: 88%;
+	text-align: center;
+	padding: 1px;
+	margin: 1em auto 0;       /* Prevent preceding content from clinging to navboxes */
+}
+.navbox .navbox {
+	margin-top: 0;            /* No top margin for nested navboxes */
+}
+.navbox + .navbox {
+	margin-top: -1px;         /* Single pixel border between adjacent navboxes */
+}
+.navbox-inner,
+.navbox-subgroup {
+	width: 100%;
+}
+.navbox-group,
+.navbox-title,
+.navbox-abovebelow {
+	padding: 0.25em 1em;      /* Title, group and above/below styles */
+	line-height: 1.5em;
+	text-align: center;
+}
+th.navbox-group {             /* Group style */
+	white-space: nowrap;
+	/* @noflip */
+	text-align: right;
+}
+.navbox,
+.navbox-subgroup {
+	background-color: #fdfdfd; /* Background color */
+}
+.navbox-list {
+	line-height: 1.5em;
+	border-color: #fdfdfd;    /* Must match background color */
+}
+/* cell spacing for navbox cells */
+tr + tr > .navbox-abovebelow,
+tr + tr > .navbox-group,
+tr + tr > .navbox-image,
+tr + tr > .navbox-list {    /* Borders above 2nd, 3rd, etc. rows */
+	border-top: 2px solid #fdfdfd; /* Must match background color */
+}
+.navbox th,
+.navbox-title {
+	background-color: #ccccff;      /* Level 1 color */
+}
+.navbox-abovebelow,
+th.navbox-group,
+.navbox-subgroup .navbox-title {
+	background-color: #ddddff;      /* Level 2 color */
+}
+.navbox-subgroup .navbox-group,
+.navbox-subgroup .navbox-abovebelow {
+	background-color: #e6e6ff;      /* Level 3 color */
+}
+.navbox-even {
+	background-color: #f7f7f7;      /* Even row striping */
+}
+.navbox-odd {
+	background-color: transparent;  /* Odd row striping */
+}
+.navbox .hlist td dl,
+.navbox .hlist td ol,
+.navbox .hlist td ul,
+.navbox td.hlist dl,
+.navbox td.hlist ol,
+.navbox td.hlist ul {
+	padding: 0.125em 0;       /* Adjust hlist padding in navboxes */
+}

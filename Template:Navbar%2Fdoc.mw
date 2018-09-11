@@ -1,0 +1,17 @@
+{| class="wikitable"
+! Options !! Parameters !! Produces... !! "Shortcut" template
+|-
+| Basic || <code><nowiki>{{navbar|Template Name}}</nowiki></code> || {{navbar|Navbar/doc}} ||
+|-
+| Different text || <code><nowiki>{{navbar|Template Name|</nowiki>'''text'''<nowiki>=This template:}}</nowiki></code> || {{navbar|Navbar/doc|text=This template:}} ||
+|-
+| Without "This box:" text || <code><nowiki>{{navbar|Template Name|</nowiki>'''plain'''<nowiki>=y}}</nowiki></code> || {{navbar|Navbar/doc|plain=y}} || {{tl|view}}
+|-
+| Short version || <code><nowiki>{{navbar|Template Name|</nowiki>'''mini'''<nowiki>=y}}</nowiki></code> || {{navbar|Navbar/doc|mini=y}} || {{tl|v}}
+|-
+| With brackets || <code><nowiki>{{navbar|Template Name|</nowiki>'''brackets'''<nowiki>=y}}</nowiki></code> || {{navbar|Navbar/doc|brackets=y}} ||
+|-
+| With font styling examples ([[Span and div|span]]) || <code><nowiki>{{navbar|Template Name|</nowiki>'''fontstyle'''<nowiki>=color: green; font-style: italic;}}</nowiki></code> || {{navbar|Navbar/doc|fontstyle=color: green; font-style: italic;}} ||
+|-
+| With whole-template styling examples ([[Span and div|div]]) || <code><nowiki>{{navbar|Template Name|</nowiki>'''style'''<nowiki>=float:right; background: Beige; padding: 5px; border: 1px solid;}}</nowiki></code> || {{navbar|Navbar/doc|style=float:right; background: Beige; padding: 5px; border: 1px solid;}} ||
+|}

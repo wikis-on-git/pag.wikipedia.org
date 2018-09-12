@@ -1,305 +1,260 @@
-{{infobox
+{{Infobox
+| child = {{yesno|{{{embed|}}}}}
 | bodyclass = geography vcard
 | bodystyle = width:23em
 
 | headerstyle = text-align:left
 
 | abovestyle = font-size:1.25em; white-space:nowrap
-| above = <span class="fn org">{{#if:{{{name|}}}|{{{name}}}|{{#if:{{{official_name|}}}|{{{official_name}}}|{{PAGENAME}}}}}}</span>{{#if:{{{native_name|}}}|<br /><span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}{{#if:{{{other_name|}}}|<br /><span class="nickname" style="font-size:78%">{{{other_name}}}</span>}}<!--
-** names, type, and transliterations **
--->{{infobox|child=yes|decat=yes<!-- Remove from [[Category:Articles which use infobox templates with no data rows]] -->
+| {{#ifeq:{{yesno|{{{embed|}}}}}|yes|title|above}} = {{#ifeq:{{yesno|{{{embed|}}}}}|yes|
+    |<span class="fn org">{{if empty|{{{name|}}}|{{{official_name|}}}|{{PAGENAMEBASE}}}}</span>
+    }}{{#if:{{{native_name|}}}|<br /><span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}{{#if:{{{other_name|}}}|<br /><span class="nickname" style="font-size:78%">{{{other_name}}}</span>}}
+
+<!--** names, type, and transliterations ** -->
 
 | subheaderstyle = background-color:#cddeff; font-weight:bold;
-| subheader = {{#if:{{both|{{{name|}}}{{{official_name|}}}|{{{settlement_type|{{{type|}}}}}}}}|<span class="category">{{{settlement_type|{{{type}}}}}}</span>}}
+| subheader = {{#if:{{both|{{{name|}}}{{{official_name|}}}{{#ifeq:{{yesno|{{{embed|}}}}}|yes|1}}|{{{settlement_type|{{{type|}}}}}}}}|<span class="category">{{{settlement_type|{{{type}}}}}}</span>}}
 
 | rowclass1 = mergedtoprow
-| header1 = {{#if:{{{name|}}}|{{{official_name|}}}}}
+| rowcellstyle1 = font-weight:bold;
+| data1 = {{#if:{{{name|}}}|{{{official_name|}}}}}
 
+<!-- ***Transliteration language 1*** -->
 | rowclass2 = mergedtoprow
-| header2 = {{#if:{{{translit_lang1|}}}|{{{translit_lang1}}}&nbsp;transcription(s)<!-- 
-***Transliteration language 1*** 
--->{{infobox|child=yes
-  |rowclass1 = {{#if:{{{translit_lang1_type1|}}}|mergedrow|mergedbottomrow}}
-  |label1 = &nbsp;•&nbsp;{{{translit_lang1_type}}}
-  |data1 = {{#if:{{{translit_lang1_type|}}}|{{{translit_lang1_info|}}}}}
+| header2 = {{#if:{{{translit_lang1|}}}|{{{translit_lang1}}}&nbsp;transcription(s)}}
 
-  |rowclass2 = {{#if:{{{translit_lang1_type2|}}}|mergedrow|mergedbottomrow}}
-  |label2 = &nbsp;•&nbsp;{{{translit_lang1_type1}}}
-  |data2 = {{#if:{{{translit_lang1_type1|}}}|{{{translit_lang1_info1|}}}}}
+| rowclass3 = {{#if:{{{translit_lang1_type1|}}}|mergedrow|mergedbottomrow}}
+| label3 = &nbsp;•&nbsp;{{{translit_lang1_type}}}
+| data3 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type|}}}|{{{translit_lang1_info|}}}}}}}
 
-  |rowclass3 = {{#if:{{{translit_lang1_type3|}}}|mergedrow|mergedbottomrow}}
-  |label3 =&nbsp;•&nbsp;{{{translit_lang1_type2}}}
-  |data3 = {{#if:{{{translit_lang1_type2|}}}|{{{translit_lang1_info2|}}}}}
+| rowclass4 = {{#if:{{{translit_lang1_type2|}}}|mergedrow|mergedbottomrow}}
+| label4 = &nbsp;•&nbsp;{{{translit_lang1_type1}}}
+| data4 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type1|}}}|{{{translit_lang1_info1|}}}}}}}
 
-  |rowclass4 = {{#if:{{{translit_lang1_type4|}}}|mergedrow|mergedbottomrow}}
-  |label4 = &nbsp;•&nbsp;{{{translit_lang1_type3}}}
-  |data4 = {{#if:{{{translit_lang1_type3|}}}|{{{translit_lang1_info3|}}}}}
+| rowclass5 = {{#if:{{{translit_lang1_type3|}}}|mergedrow|mergedbottomrow}}
+| label5 =&nbsp;•&nbsp;{{{translit_lang1_type2}}}
+| data5 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type2|}}}|{{{translit_lang1_info2|}}}}}}}
 
-  |rowclass5 = {{#if:{{{translit_lang1_type5|}}}|mergedrow|mergedbottomrow}}
-  |label5 = &nbsp;•&nbsp;{{{translit_lang1_type4}}}
-  |data5 = {{#if:{{{translit_lang1_type4|}}}|{{{translit_lang1_info4|}}}}}
+| rowclass6 = {{#if:{{{translit_lang1_type4|}}}|mergedrow|mergedbottomrow}}
+| label6 = &nbsp;•&nbsp;{{{translit_lang1_type3}}}
+| data6 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type3|}}}|{{{translit_lang1_info3|}}}}}}}
 
-  |rowclass6 = {{#if:{{{translit_lang1_type6|}}}|mergedrow|mergedbottomrow}}
-  |label6 = &nbsp;•&nbsp;{{{translit_lang1_type5}}}
-  |data6 = {{#if:{{{translit_lang1_type5|}}}|{{{translit_lang1_info5|}}}}}
+| rowclass7 = {{#if:{{{translit_lang1_type5|}}}|mergedrow|mergedbottomrow}}
+| label7 = &nbsp;•&nbsp;{{{translit_lang1_type4}}}
+| data7 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type4|}}}|{{{translit_lang1_info4|}}}}}}}
 
-  |rowclass7 = mergedbottomrow
-  |label7 = &nbsp;•&nbsp;{{{translit_lang1_type6}}}
-  |data7 = {{#if:{{{translit_lang1_type6|}}}|{{{translit_lang1_info6|}}} }}
- }} }}
+| rowclass8 = {{#if:{{{translit_lang1_type6|}}}|mergedrow|mergedbottomrow}}
+| label8 = &nbsp;•&nbsp;{{{translit_lang1_type5}}}
+| data8 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type5|}}}|{{{translit_lang1_info5|}}}}}}}
 
-| rowclass3 = mergedtoprow
-| header3 = {{#if:{{{translit_lang2|}}}|{{{translit_lang2}}}&nbsp;transcription(s)<!-- 
-***Transliteration language 2*** 
--->{{infobox|child=yes
-  |rowclass1 = {{#if:{{{translit_lang2_type1|}}}|mergedrow|mergedbottomrow}}
-  |label1 = &nbsp;•&nbsp;{{{translit_lang2_type}}}
-  |data1 = {{#if:{{{translit_lang2_type|}}}|{{{translit_lang2_info|}}}}}
+| rowclass9 = mergedbottomrow
+| label9 = &nbsp;•&nbsp;{{{translit_lang1_type6}}}
+| data9 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type6|}}}|{{{translit_lang1_info6|}}}}}}}
 
-  |rowclass2 = {{#if:{{{translit_lang2_type2|}}}|mergedrow|mergedbottomrow}}
-  |label2 = &nbsp;•&nbsp;{{{translit_lang2_type1}}}
-  |data2 = {{#if:{{{translit_lang2_type1|}}}|{{{translit_lang2_info1|}}}}}
+<!-- ***Transliteration language 2*** -->
+| rowclass10 = mergedtoprow
+| header10 = {{#if:{{{translit_lang2|}}}|{{{translit_lang2}}}&nbsp;transcription(s)}}
 
-  |rowclass3 = {{#if:{{{translit_lang2_type3|}}}|mergedrow|mergedbottomrow}}
-  |label3 =&nbsp;•&nbsp;{{{translit_lang2_type2}}}
-  |data3 = {{#if:{{{translit_lang2_type2|}}}|{{{translit_lang2_info2|}}}}}
+| rowclass11 = {{#if:{{{translit_lang2_type1|}}}|mergedrow|mergedbottomrow}}
+| label11 = &nbsp;•&nbsp;{{{translit_lang2_type}}}
+| data11 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type|}}}|{{{translit_lang2_info|}}}}}}}
 
-  |rowclass4 = {{#if:{{{translit_lang2_type4|}}}|mergedrow|mergedbottomrow}}
-  |label4 = &nbsp;•&nbsp;{{{translit_lang2_type3}}}
-  |data4 = {{#if:{{{translit_lang2_type3|}}}|{{{translit_lang2_info3|}}}}}
+| rowclass12 = {{#if:{{{translit_lang2_type2|}}}|mergedrow|mergedbottomrow}}
+| label12 = &nbsp;•&nbsp;{{{translit_lang2_type1}}}
+| data12 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type1|}}}|{{{translit_lang2_info1|}}}}}}}
 
-  |rowclass5 = {{#if:{{{translit_lang2_type5|}}}|mergedrow|mergedbottomrow}}
-  |label5 = &nbsp;•&nbsp;{{{translit_lang2_type4}}}
-  |data5 = {{#if:{{{translit_lang2_type4|}}}|{{{translit_lang2_info4|}}}}}
+| rowclass13 = {{#if:{{{translit_lang2_type3|}}}|mergedrow|mergedbottomrow}}
+| label13 =&nbsp;•&nbsp;{{{translit_lang2_type2}}}
+| data13 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type2|}}}|{{{translit_lang2_info2|}}}}}}}
 
-  |rowclass6 = {{#if:{{{translit_lang2_type6|}}}|mergedrow|mergedbottomrow}}
-  |label6 = &nbsp;•&nbsp;{{{translit_lang2_type5}}}
-  |data6 = {{#if:{{{translit_lang2_type5|}}}|{{{translit_lang2_info5|}}}}}
+| rowclass14 = {{#if:{{{translit_lang2_type4|}}}|mergedrow|mergedbottomrow}}
+| label14 = &nbsp;•&nbsp;{{{translit_lang2_type3}}}
+| data14 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type3|}}}|{{{translit_lang2_info3|}}}}}}}
 
-  |rowclass7 = mergedbottomrow
-  |label7 = &nbsp;•&nbsp;{{{translit_lang2_type6}}}
-  |data7 = {{#if:{{{translit_lang2_type6|}}}|{{{translit_lang2_info6|}}} }}
- }} }}
-}}<!-- end ** names, type, and transliterations ** -->
+| rowclass15 = {{#if:{{{translit_lang2_type5|}}}|mergedrow|mergedbottomrow}}
+| label15 = &nbsp;•&nbsp;{{{translit_lang2_type4}}}
+| data15 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type4|}}}|{{{translit_lang2_info4|}}}}}}}
+
+| rowclass16 = {{#if:{{{translit_lang2_type6|}}}|mergedrow|mergedbottomrow}}
+| label16 = &nbsp;•&nbsp;{{{translit_lang2_type5}}}
+| data16 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type5|}}}|{{{translit_lang2_info5|}}}}}}}
+
+| rowclass17 = mergedbottomrow
+| label17 = &nbsp;•&nbsp;{{{translit_lang2_type6}}}
+| data17 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type6|}}}|{{{translit_lang2_info6|}}}}}}}
+<!-- end ** names, type, and transliterations ** -->
 
 <!-- ***Skyline Image*** -->
-| imagestyle = padding:0.7em 0.8em
-| image = {{#if:{{{image_skyline|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_skyline}}}|size={{{imagesize|}}}|sizedefault=250px|alt={{{image_alt|}}}|title={{{image_caption|Skyline of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{image_caption|}}}|<br /><small>{{{image_caption}}}</small>}}}}
-
-<!-- ***Other Image*** -->
-| image2 = {{{image|}}}
+| rowclass18 = mergedtoprow
+<!--| rowcellstyle18 = padding:0.7em 0.8em-->
+| data18 = {{#if:{{{image_skyline|}}}{{{image|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{#if:{{{image_skyline|}}}|{{{image_skyline}}}|{{{image|}}}}}|size={{{image_size|{{{imagesize|}}}}}}|sizedefault=250px|alt={{{image_alt|{{{alt|}}}}}}|title={{{image_caption|{{{caption|Skyline of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}}}}{{#if:{{{image_caption|{{{caption|}}}}}}|<div>{{{image_caption|{{{caption|}}}}}}</div>}} }}
 
 <!-- ***Flag, Seal, Shield and Coat of arms*** -->
-| rowclass1 = mergedtoprow
-| class1 = maptable
-| data1 = {{#if:{{{image_flag|}}}{{{image_seal|}}}{{{image_shield|}}}{{{image_blank_emblem|}}}{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}
+| rowclass19 = mergedtoprow
+| class19 = maptable
+|  data19 = {{#if:{{{image_flag|}}}{{{image_seal|}}}{{{image_shield|}}}{{{image_blank_emblem|}}}{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}
 |{{Infobox settlement/columns
-| 1 = {{#if:{{{image_flag|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_flag}}}|size={{{flag_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|border={{yesno |{{{flag_border|}}}|yes=yes|blank=yes}}|alt={{{flag_alt|}}}|title=Flag of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>'''{{Infobox settlement/link|type=Flag|link={{{flag_link|}}}|name={{{official_name}}}}}'''</small>}}
-| 2 = {{#if:{{{image_seal|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_seal|}}}|size={{{seal_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{seal_alt|}}}|title=Official seal of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>'''{{Infobox settlement/link|type={{#if:{{{seal_type|}}}|{{{seal_type}}}|Seal}}|link={{{seal_link|}}}|name={{{official_name}}}}}'''</small>}}
-| 3 = {{#if:{{{image_shield|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_shield|}}}||size={{{shield_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{shield_alt|}}}|title=Coat of arms of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>'''{{Infobox settlement/link|type=Coat of arms|link={{{shield_link|}}}|name={{{official_name}}}}}'''</small>}}
-| 4 = {{#if:{{{image_blank_emblem|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_blank_emblem|}}}|size={{{blank_emblem_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{blank_emblem_alt|}}}|title=Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>'''{{Infobox settlement/link|type={{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}|link={{{blank_emblem_link|}}}|name={{{official_name}}}}}'''</small>}}
-| 5 = {{#if:{{{image_map|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=100px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption|}}}|<br /><small>{{{map_caption}}}</small>}} }}
-| 0 = {{#if:{{{pushpin_map_narrow|}}}|{{#if:{{both| {{{pushpin_map|}}} | {{both|{{{latd|}}}|{{{longd|}}}}} }}|
-<center>
+| 1 = {{#if:{{{image_flag|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_flag}}}|size={{{flag_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|border={{yesno |{{{flag_border|}}}|yes=yes|blank=yes}}|alt={{{flag_alt|}}}|title=Flag of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>{{Infobox settlement/link|type=Flag|link={{{flag_link|}}}|name={{{official_name}}}}}</small>}}
+| 2 = {{#if:{{{image_seal|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_seal|}}}|size={{{seal_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{seal_alt|}}}|title=Official seal of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>{{Infobox settlement/link|type={{#if:{{{seal_type|}}}|{{{seal_type}}}|Seal}}|link={{{seal_link|}}}|name={{{official_name}}}}}</small>}}
+| 3 = {{#if:{{{image_shield|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_shield|}}}||size={{{shield_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{shield_alt|}}}|title=Coat of arms of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>{{Infobox settlement/link|type=Coat of arms|link={{{shield_link|}}}|name={{{official_name}}}}}</small>}}
+| 4 = {{#if:{{{image_blank_emblem|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_blank_emblem|}}}|size={{{blank_emblem_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{blank_emblem_alt|}}}|title=Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br /><small>{{Infobox settlement/link|type={{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}|link={{{blank_emblem_link|}}}|name={{{official_name}}}}}</small>}}
+| 5 = {{#if:{{{image_map|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=100px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption|}}}|<br />{{{map_caption}}}}} }}
+| 0 = {{#if:{{{pushpin_map_narrow|}}}|{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
 {{location map|{{{pushpin_map|}}}
-|border = none
-|alt = {{{pushpin_map_alt|}}}
-|caption =
-|float = none
-|width = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize}}}|150}}
-|default_width = 250
-|relief= {{{pushpin_relief|}}}
-|AlternativeMap = {{{pushpin_image|}}}
+ |border = infobox
+ |alt = {{{pushpin_map_alt|}}}
+ |caption ={{#if:{{{pushpin_map_caption_notsmall|}}}|{{{pushpin_map_caption_notsmall|}}}|{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}}}
+ |float = center
+ |width = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize}}}|150}}
+ |default_width = 250
+ |relief= {{{pushpin_relief|}}}
+ |AlternativeMap = {{{pushpin_image|}}}
+ |overlay_image = {{{pushpin_overlay|}}}
+ |coordinates = {{{coordinates|}}}
  |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
- |lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}
- |long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }}
- |lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}} }}
- |lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}} }}
- |lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}} }}
- |lat_dir={{{latNS|}}}
- |lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}} }}
- |lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}} }}
- |lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}} }}
- |lon_dir={{{longEW|}}}
  |marksize =6
+ |outside = {{{pushpin_outside|}}}<!-- pin is outside the map --> 
  |position = {{{pushpin_label_position|}}}
-}}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}
-</center>}} }}
+}}
 }} }}
+}} }}
+
+<!-- ***Etymology*** -->
+| rowclass20 = mergedtoprow
+|  data20 = {{#if:{{{etymology|}}}|Etymology: {{{etymology}}} }}
 <!-- ***Nickname*** -->
-| rowclass2 = mergedrow
-| data2 = {{#if:{{{nickname|}}}|Nickname(s): <span class="nickname">{{{nickname}}}</span>}}
+| rowclass21 = {{#if:{{{etymology|}}}|mergedrow|mergedtoprow}}
+|  data21 = {{#if:{{{nickname|}}}|Nickname(s): <span class="nickname">{{{nickname}}}</span>}}
 <!-- ***Motto*** -->
-| rowclass3 = mergedrow
-| data3 = {{#if:{{{motto|}}}|Motto: {{{motto}}} }}
+| rowclass22 = {{#if:{{{etymology|}}}{{{nickname|}}}|mergedrow|mergedtoprow}}
+|  data22 = {{#if:{{{motto|}}}|Motto(s): {{{motto}}} }}
 <!-- ***Anthem*** -->
-| rowclass4 = mergedrow
-| data4 = {{#if:{{{anthem|}}}|Anthem: {{{anthem}}} }}
+| rowclass23 = {{#if:{{{etymology|}}}{{{nickname|}}}{{{motto|}}}|mergedrow|mergedtoprow}}
+|  data23 = {{#if:{{{anthem|}}}|Anthem: {{{anthem}}} }}
 <!-- ***Map*** -->
-| rowclass5 = mergedrow
-| data5 = {{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}||{{#if:{{{image_map|}}}
+| rowclass24 = mergedtoprow
+|  data24 = {{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}||{{#if:{{{image_map|}}}
 |{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=250px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption|}}}|<br /><small>{{{map_caption}}}</small>}}
 }}}}
-| rowclass6 = mergedrow
-| data6 = {{#if:{{{image_map1|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map1}}}|size={{{mapsize1|}}}|sizedefault=250px|alt={{{map_alt1|}}}|title={{{map_caption1|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption1|}}}|<br /><small>{{{map_caption1}}}</small>}} }}
-
-<!--***Dot Map*** -->
-| rowclass7 = mergedrow
-| data7 = {{#if:{{{image_dot_map|}}}
-|<center>{{superimpose
-|base = {{{image_dot_map|}}}
-|base_width = {{{{{|safesubst:}}}#if:{{{dot_mapsize|}}}
- |{{{dot_mapsize}}}{{#iferror:{{#expr:{{{dot_mapsize}}}>0}}||px}}
- |180px}}
-|base_alt = {{{dot_map_base_alt|}}}
-|base_caption = {{#if:{{{official_name|}}}|{{{official_name|}}}|{{{name}}}}}
-|float = Red pog.svg
-|float_width = 6px
-|float_alt = {{{dot_map_alt|}}}
-|float_caption = {{{dot_map_caption|}}}
-|x = {{{dot_x|}}}
-|y = {{{dot_y|}}}
-}}{{#if:{{{dot_map_caption|}}}|<small>{{{dot_map_caption}}}</small>}}</center>
-}}
+| rowclass25 = mergedrow
+|  data25 = {{#if:{{{image_map1|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map1}}}|size={{{mapsize1|}}}|sizedefault=250px|alt={{{map_alt1|}}}|title={{{map_caption1|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption1|}}}|<br /><small>{{{map_caption1}}}</small>}} }}
 
 <!-- ***Pushpin Map*** -->
-| rowclass8 = mergedtoprow
-| data8 = {{#if:{{{pushpin_map_narrow|}}}||{{#if:{{both| {{{pushpin_map|}}} | {{both|{{{latd|}}}|{{{longd|}}}}} }}|
-<center>
+| rowclass26 = mergedtoprow
+|  data26 = {{#if:{{{pushpin_map_narrow|}}}||{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
 {{location map|{{{pushpin_map|}}}
-|border = none
-|alt = {{{pushpin_map_alt|}}}
-|caption =
-|float = none
-|width = {{{pushpin_mapsize|}}}
-|default_width = 250
-|relief= {{{pushpin_relief|}}}
-|AlternativeMap = {{{pushpin_image|}}}
+ |border = infobox
+ |alt = {{{pushpin_map_alt|}}}
+ |caption ={{#if:{{{pushpin_map_caption_notsmall|}}}|{{{pushpin_map_caption_notsmall|}}}|{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}}}
+ |float = center
+ |width = {{{pushpin_mapsize|}}}
+ |default_width = 250
+ |relief= {{{pushpin_relief|}}}
+ |AlternativeMap = {{{pushpin_image|}}}
+ |overlay_image = {{{pushpin_overlay|}}}
+ |coordinates = {{{coordinates|}}}
  |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
- |lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}
- |long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }}
- |lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}} }}
- |lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}} }}
- |lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}} }}
- |lat_dir={{{latNS|}}}
- |lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}} }}
- |lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}} }}
- |lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}} }}
- |lon_dir={{{longEW|}}}
  |marksize =6
+ |outside = {{{pushpin_outside|}}}<!-- pin is outside the map --> 
  |position = {{{pushpin_label_position|}}}
-}}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}
-</center>}} }}
-
-| rowclass9 = mergedrow
-| data9 = {{#if:{{both|{{{pushpin_map1|}}}|{{both|{{{latd|}}}|{{{longd|}}}}}}}|
-<center>
-{{location map|{{{pushpin_map1|}}}
-|border = none
-|alt = {{{pushpin_map_alt1|}}}
-|caption =
-|float = none
-|width = {{{pushpin_mapsize1|}}}
-|default_width = 250
-|relief= {{{pushpin_relief1|}}}
-|AlternativeMap = {{{pushpin_image1|}}}
- |label = {{#ifeq: {{lc: {{{pushpin_label_position1|}}} }} | none | | {{#if:{{{pushpin_label1|}}}|{{{pushpin_label1}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
- |lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}
- |long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }}
- |lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}} }}
- |lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}} }}
- |lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}} }}
- |lat_dir={{{latNS|}}}
- |lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}} }}
- |lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}} }}
- |lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}} }}
- |lon_dir={{{longEW|}}}
- |marksize =6
- |position = {{{pushpin_label_position1|}}}
-}}{{#if:{{{pushpin_map_caption1|}}}|<small>{{{pushpin_map_caption1|}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}
-</center>
 }}
+}} }}
 
 <!-- ***Coordinates*** -->
-| rowclass10 = {{#if:{{{image_map|}}}{{{image_map1|}}}{{{image_dot_map|}}}{{{pushpin_map|}}}{{{pushpin_map1|}}}|mergedbottomrow}}
-| data10 = {{#if:{{both|{{{latd|}}}|{{{longd|}}}}}
-  |Coordinates{{#if:{{{coor_pinpoint|{{{coor_type|}}}}}}|&#32;({{{coor_pinpoint|{{{coor_type|}}}}}})|}}: {{Geobox coor|{{{latd|}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{longd|}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|{{#if:{{{coordinates_type|}}}|{{{coordinates_type}}}|type:city{{#if:{{{population_total|}}}|{{#iferror:{{#expr:{{formatnum:{{{population_total}}}|R}}+1}}||({{formatnum:{{{population_total}}}|R}})}}|}}{{#if:{{{coordinates_region|}}}|_region:{{{coordinates_region}}}|{{#if:{{{subdivision_name|}}}|_region:{{CountryAbbr|{{{subdivision_name|}}}|{{{subdivision_name1|}}} }} }} }} }}|{{#ifeq:{{{coordinates_display|}}}|inline|μ|{{#if:{{{coordinates_display|}}}|title|μ}}}}={{{coordinates_display|}}}|{{#if:{{{coordinates_format|}}}|format|μ}}={{{coordinates_format|}}}}}{{{coordinates_footnotes|}}}
-}}
+| rowclass27 = {{#if:{{{image_map|}}}{{{image_map1|}}}{{{pushpin_map|}}}|{{#if:{{{grid_position|}}}|mergedrow|mergedbottomrow}}}}
+|  data27 = {{#if:{{{coordinates|}}}
+  |Coordinates{{#if:{{{coor_pinpoint|{{{coor_type|}}}}}}|&#32;({{{coor_pinpoint|{{{coor_type|}}}}}})}}: {{#invoke:Coordinates|coordinsert|{{{coordinates|}}}|type:city{{#if:{{{population_total|}}}|{{#iferror:{{#expr:{{formatnum:{{{population_total}}}|R}}+1}}||({{formatnum:{{{population_total}}}|R}})}}}}|{{#if:{{{subdivision_name|}}}|region:{{Country abbreviation|{{{subdivision_name}}}|{{{subdivision_name1|{{{subdivision_name2|{{{subdivision_name3|}}}}}}}}} }} }} }}{{{coordinates_footnotes|}}} }}
+
+| rowclass28 = {{#if:{{{image_map|}}}{{{image_map1|}}}{{{pushpin_map|}}}|mergedbottomrow|mergedrow}}
+| label28 = {{ifempty|{{{grid_name|}}}|Grid&nbsp;position}}
+|  data28 = {{{grid_position|}}}
 
 <!-- ***Subdivisions*** -->
-| rowclass11 = mergedtoprow
-| label11 = {{{subdivision_type}}}
-| data11 = {{#if:{{{subdivision_type|}}}|{{{subdivision_name|}}} }}
+| rowclass29 = mergedtoprow
+| label29 = {{{subdivision_type}}}
+|  data29 = {{#if:{{{subdivision_type|}}}|{{{subdivision_name|}}} }}
 
-| rowclass12 = mergedrow
-| label12 = {{{subdivision_type1}}}
-| data12 = {{#if:{{{subdivision_type1|}}}|{{{subdivision_name1|}}} }}
+| rowclass30 = mergedrow
+| label30 = {{{subdivision_type1}}}
+|  data30 = {{#if:{{{subdivision_type1|}}}|{{{subdivision_name1|}}} }}
 
-| rowclass13 = mergedrow
-| label13 = {{{subdivision_type2}}}
-| data13 = {{#if:{{{subdivision_type2|}}}|{{{subdivision_name2|}}} }}
+| rowclass31 = mergedrow
+| label31 = {{{subdivision_type2}}}
+|  data31 = {{#if:{{{subdivision_type2|}}}|{{{subdivision_name2|}}} }}
 
-| rowclass14 = mergedrow
-| label14 = {{{subdivision_type3}}}
-| data14 = {{#if:{{{subdivision_type3|}}}|{{{subdivision_name3|}}} }}
+| rowclass32 = mergedrow
+| label32 = {{{subdivision_type3}}}
+|  data32 = {{#if:{{{subdivision_type3|}}}|{{{subdivision_name3|}}} }}
 
-| rowclass15 = mergedrow
-| label15 = {{{subdivision_type4}}}
-| data15 = {{#if:{{{subdivision_type4|}}}|{{{subdivision_name4|}}} }}
+| rowclass33 = mergedrow
+| label33 = {{{subdivision_type4}}}
+|  data33 = {{#if:{{{subdivision_type4|}}}|{{{subdivision_name4|}}} }}
 
-| rowclass16 = mergedrow
-| label16 = {{{subdivision_type5}}}
-| data16 = {{#if:{{{subdivision_type5|}}}|{{{subdivision_name5|}}} }}
+| rowclass34 = mergedrow
+| label34 = {{{subdivision_type5}}}
+|  data34 = {{#if:{{{subdivision_type5|}}}|{{{subdivision_name5|}}} }}
 
-| rowclass17 = mergedrow
-| label17 = {{{subdivision_type6}}}
-| data17 = {{#if:{{{subdivision_type6|}}}|{{{subdivision_name6|}}} }}
+| rowclass35 = mergedrow
+| label35 = {{{subdivision_type6}}}
+|  data35 = {{#if:{{{subdivision_type6|}}}|{{{subdivision_name6|}}} }}
 
 <!--***Established*** -->
-| rowclass18 = mergedtoprow
-| label18 = {{{established_title}}}
-| data18 = {{#if:{{{established_title|}}}|{{{established_date|}}} }}
+| rowclass36 = mergedtoprow
+| label36 = {{{established_title}}}
+|  data36 = {{#if:{{{established_title|}}}|{{{established_date|}}} }}
 
-| rowclass19 = mergedrow
-| label19 = {{{established_title1}}}
-| data19 = {{#if:{{{established_title1|}}}|{{{established_date1|}}} }}
+| rowclass37 = mergedrow
+| label37 = {{{established_title1}}}
+|  data37 = {{#if:{{{established_title1|}}}|{{{established_date1|}}} }}
 
-| rowclass20 = mergedrow
-| label20 = {{{established_title2}}}
-| data20 = {{#if:{{{established_title2|}}}|{{{established_date2|}}} }}
+| rowclass38 = mergedrow
+| label38 = {{{established_title2}}}
+|  data38 = {{#if:{{{established_title2|}}}|{{{established_date2|}}} }}
 
-| rowclass21 = mergedrow
-| label21 = {{{established_title3}}}
-| data21 = {{#if:{{{established_title3|}}}|{{{established_date3|}}} }}
+| rowclass39 = mergedrow
+| label39 = {{{established_title3}}}
+|  data39 = {{#if:{{{established_title3|}}}|{{{established_date3|}}} }}
 
-| rowclass22 = mergedrow
-| label22 = {{{established_title4}}}
-| data22 = {{#if:{{{established_title4|}}}|{{{established_date4|}}} }}
+| rowclass40 = mergedrow
+| label40 = {{{established_title4}}}
+|  data40 = {{#if:{{{established_title4|}}}|{{{established_date4|}}} }}
 
-| rowclass23 = mergedrow
-| label23 = {{{extinct_title}}}
-| data23 = {{#if:{{{extinct_title|}}}|{{{extinct_date|}}} }}
+| rowclass41 = mergedrow
+| label41 = {{{established_title5}}}
+|  data41 = {{#if:{{{established_title5|}}}|{{{established_date5|}}} }}
 
-| rowclass24 = mergedrow
-| label24 = Founded by
-| data24 = {{{founder|}}}
+| rowclass42 = mergedrow
+| label42 = {{{established_title6}}}
+|  data42 = {{#if:{{{established_title6|}}}|{{{established_date6|}}} }}
 
-| rowclass25 = mergedrow
-| label25 = [[Namesake|Named for]]
-| data25 = {{{named_for|}}}
+| rowclass43 = mergedrow
+| label43 = {{{established_title7}}}
+|  data43 = {{#if:{{{established_title7|}}}|{{{established_date7|}}} }}
+
+| rowclass44 = mergedrow
+| label44 = {{{extinct_title}}}
+|  data44 = {{#if:{{{extinct_title|}}}|{{{extinct_date|}}} }}
+
+| rowclass45 = mergedrow
+| label45 = Founded by
+|  data45 = {{{founder|}}}
+
+| rowclass46 = mergedrow
+| label46 = [[Namesake|Named for]]
+|  data46 = {{{named_for|}}}
 
 <!-- ***Seat of government and subdivisions within the settlement*** -->
-| rowclass26 = mergedtoprow
-| label26 = {{#if:{{{seat_type|}}}|{{{seat_type}}}|Seat}}
-| data26 = {{{seat|}}}
+| rowclass47 = mergedtoprow
+| label47 = {{#if:{{{seat_type|}}}|{{{seat_type}}}|Seat}}
+|  data47 = {{{seat|}}}
 
-| rowclass27 = mergedrow
-| label27 = {{#if:{{{seat1_type|}}}|{{{seat1_type}}}|Former seat}}
-| data27 = {{{seat1|}}}
+| rowclass48 = mergedrow
+| label48 = {{#if:{{{seat1_type|}}}|{{{seat1_type}}}|Former seat}}
+|  data48 = {{{seat1|}}}
 
-| rowclass28 = {{#if:{{{seat|}}}{{{seat1|}}}|mergedrow|mergedtoprow}}
-| label28 = {{#if:{{{parts_type|}}}|{{{parts_type}}}|Boroughs}}
-| data28 = {{#if:{{{parts|}}}{{{p1|}}}
+| rowclass49 = {{#if:{{{seat|}}}{{{seat1|}}}|mergedrow|mergedtoprow}}
+| label49 = {{#if:{{{parts_type|}}}|{{{parts_type}}}|Boroughs}}
+|  data49 = {{#if:{{{parts|}}}{{{p1|}}}
 |{{#ifeq:{{{parts_style|}}}|para
   |<b>{{{parts|}}}{{#if:{{both|{{{parts|}}}|{{{p1|}}}}}|&#58;&nbsp;|}}</b>{{comma separated entries|{{{p1|}}}|{{{p2|}}}|{{{p3|}}}|{{{p4|}}}|{{{p5|}}}|{{{p6|}}}|{{{p7|}}}|{{{p8|}}}|{{{p9|}}}|{{{p10|}}}|{{{p11|}}}|{{{p12|}}}|{{{p13|}}}|{{{p14|}}}|{{{p15|}}}|{{{p16|}}}|{{{p17|}}}|{{{p18|}}}|{{{p19|}}}|{{{p20|}}}|{{{p21|}}}|{{{p22|}}}|{{{p23|}}}|{{{p24|}}}|{{{p25|}}}|{{{p26|}}}|{{{p27|}}}|{{{p28|}}}|{{{p29|}}}|{{{p30|}}}|{{{p31|}}}|{{{p32|}}}|{{{p33|}}}|{{{p34|}}}|{{{p35|}}}|{{{p36|}}}|{{{p37|}}}|{{{p38|}}}|{{{p39|}}}|{{{p40|}}}|{{{p41|}}}|{{{p42|}}}|{{{p43|}}}|{{{p44|}}}|{{{p45|}}}|{{{p46|}}}|{{{p47|}}}|{{{p48|}}}|{{{p49|}}}|{{{p50|}}}}}
   |{{#if:{{{p1|}}}|{{Collapsible list|title={{{parts|}}}|expand={{#switch:{{{parts_style|}}}|coll=|list=y|{{#if:{{{p6|}}}||y}}}}|1={{{p1|}}}|2={{{p2|}}}|3={{{p3|}}}|4={{{p4|}}}|5={{{p5|}}}|6={{{p6|}}}|7={{{p7|}}}|8={{{p8|}}}|9={{{p9|}}}|10={{{p10|}}}|11={{{p11|}}}|12={{{p12|}}}|13={{{p13|}}}|14={{{p14|}}}|15={{{p15|}}}|16={{{p16|}}}|17={{{p17|}}}|18={{{p18|}}}|19={{{p19|}}}|20={{{p20|}}}|21={{{p21|}}}|22={{{p22|}}}|23={{{p23|}}}|24={{{p24|}}}|25={{{p25|}}}|26={{{p26|}}}|27={{{p27|}}}|28={{{p28|}}}|29={{{p29|}}}|30={{{p30|}}}|31={{{p31|}}}|32={{{p32|}}}|33={{{p33|}}}|34={{{p34|}}}|35={{{p35|}}}|36={{{p36|}}}|37={{{p37|}}}|38={{{p38|}}}|39={{{p39|}}}|40={{{p40|}}}|41={{{p41|}}}|42={{{p42|}}}|43={{{p43|}}}|44={{{p44|}}}|45={{{p45|}}}|46={{{p46|}}}|47={{{p47|}}}|48={{{p48|}}}|49={{{p49|}}}|50={{{p50|}}}}}
@@ -308,50 +263,50 @@
   }} }}
 
 <!-- ***Government type and Leader*** -->
-| rowclass29 = mergedtoprow
-| header29 = {{#if:{{{government_type|}}}{{{governing_body|}}}{{{leader_name|}}}{{{leader_name1|}}}{{{leader_name2|}}}{{{leader_name3|}}}{{{leader_name4|}}}|Government<span style="font-weight:normal">{{{government_footnotes|}}}</span>}}
+| rowclass50 = mergedtoprow
+| header50 = {{#if:{{{government_type|}}}{{{governing_body|}}}{{{leader_name|}}}{{{leader_name1|}}}{{{leader_name2|}}}{{{leader_name3|}}}{{{leader_name4|}}}|Government<span style="font-weight:normal">{{{government_footnotes|}}}</span>}}
 <!-- ***Government*** -->
-| rowclass30 = mergedrow
-| label30 = &nbsp;•&nbsp;Type
-| data30 = {{{government_type|}}}
+| rowclass51 = mergedrow
+| label51 = &nbsp;•&nbsp;Type
+|  data51 = {{{government_type|}}}
 
-| rowclass31 = mergedrow
-| label31 = &nbsp;•&nbsp;Body
-| class31 = agent
-| data31 = {{{governing_body|}}}
+| rowclass52 = mergedrow
+| label52 = &nbsp;•&nbsp;Body
+| class52 = agent
+|  data52 = {{{governing_body|}}}
 
-| rowclass32 = mergedrow
-| label32 = &nbsp;•&nbsp;{{{leader_title}}}
-| data32 = {{#if:{{{leader_title|}}}|{{{leader_name|}}} {{#if:{{{leader_party|}}}|({{Polparty|{{{subdivision_name}}}|{{{leader_party}}}}})}}}}
-| rowclass33 = mergedrow
-| label33 = &nbsp;•&nbsp;{{{leader_title1}}}
-| data33 = {{#if:{{{leader_title1|}}}|{{{leader_name1|}}}}}
-| rowclass34 = mergedrow
-| label34 = &nbsp;•&nbsp;{{{leader_title2}}}
-| data34 = {{#if:{{{leader_title2|}}}|{{{leader_name2|}}}}}
-| rowclass35 = mergedrow
-| label35 = &nbsp;•&nbsp;{{{leader_title3}}}
-| data35 = {{#if:{{{leader_title3|}}}|{{{leader_name3|}}}}}
-| rowclass36 = mergedrow
-| label36 = &nbsp;•&nbsp;{{{leader_title4}}}
-| data36 = {{#if:{{{leader_title4|}}}|{{{leader_name4|}}}}}
+| rowclass53 = mergedrow
+| label53 = &nbsp;•&nbsp;{{{leader_title}}}
+|  data53 = {{#if:{{{leader_title|}}}|{{{leader_name|}}} {{#if:{{{leader_party|}}}|({{Polparty|{{{subdivision_name}}}|{{{leader_party}}}}})}}}}
+| rowclass54 = mergedrow
+| label54 = &nbsp;•&nbsp;{{{leader_title1}}}
+|  data54 = {{#if:{{{leader_title1|}}}|{{{leader_name1|}}}}}
+| rowclass55 = mergedrow
+| label55 = &nbsp;•&nbsp;{{{leader_title2}}}
+|  data55 = {{#if:{{{leader_title2|}}}|{{{leader_name2|}}}}}
+| rowclass56 = mergedrow
+| label56 = &nbsp;•&nbsp;{{{leader_title3}}}
+|  data56 = {{#if:{{{leader_title3|}}}|{{{leader_name3|}}}}}
+| rowclass57 = mergedrow
+| label57 = &nbsp;•&nbsp;{{{leader_title4}}}
+|  data57 = {{#if:{{{leader_title4|}}}|{{{leader_name4|}}}}}
 
 <!-- ***Geographical characteristics*** -->
 <!-- ***Area*** -->
-| rowclass37 = mergedtoprow
-| header37 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_ha|}}}{{{area_urban_acre|}}}{{{area_urban_sq_mi|}}}{{{area_rural_sq_mi|}}}{{{area_rural_ha|}}}{{{area_rural_acre|}}}{{{area_rural_km2|}}}{{{area_metro_km2|}}}{{{area_metro_ha|}}}{{{area_metro_acre|}}}{{{area_blank1_km2|}}}{{{area_blank1_ha|}}}{{{area_blank1_acre|}}}{{{area_metro_sq_mi|}}}{{{area_blank1_sq_mi|}}}
+| rowclass58 = mergedtoprow
+| header58 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_ha|}}}{{{area_urban_acre|}}}{{{area_urban_sq_mi|}}}{{{area_rural_sq_mi|}}}{{{area_rural_ha|}}}{{{area_rural_acre|}}}{{{area_rural_km2|}}}{{{area_metro_km2|}}}{{{area_metro_ha|}}}{{{area_metro_acre|}}}{{{area_blank1_km2|}}}{{{area_blank1_ha|}}}{{{area_blank1_acre|}}}{{{area_metro_sq_mi|}}}{{{area_blank1_sq_mi|}}}
  |{{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}
    |<!-- displayed below -->
    |Area<span style="font-weight:normal">{{{area_footnotes|}}}</span>
   }}
  }}
 
-| rowclass38 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}|mergedtoprow|mergedrow}}
-| label38 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}
+| rowclass59 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}|mergedtoprow|mergedrow}}
+| label59 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}
   |Area<span style="font-weight:normal">{{{area_footnotes|}}}</span>
   |&nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|City}}|Total}}}}
   }}
-| data38 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}
+|  data59 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_total_km2|}}}
    |ha   ={{{area_total_ha|}}}
@@ -364,9 +319,9 @@
    |mag  ={{{area_magnitude|}}}
  }}}}
 
-| rowclass39 = mergedrow
-| label39 = &nbsp;•&nbsp;Land
-| data39 = {{#if:{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_land_dunam|}}}
+| rowclass60 = mergedrow
+| label60 = &nbsp;•&nbsp;Land
+|  data60 = {{#if:{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_land_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_land_km2|}}}
    |ha   ={{{area_land_ha|}}}
@@ -377,9 +332,9 @@
    |pref ={{{unit_pref}}}
    |name ={{{subdivision_name}}}
  }}}}
-| rowclass40 = mergedrow
-| label40 = &nbsp;•&nbsp;Water
-| data40 = {{#if:{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_water_dunam|}}}
+| rowclass61 = mergedrow
+| label61 = &nbsp;•&nbsp;Water
+|  data61 = {{#if:{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_water_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_water_km2|}}}
    |ha   ={{{area_water_ha|}}}
@@ -390,9 +345,9 @@
    |pref ={{{unit_pref}}}
    |name ={{{subdivision_name}}}
  }} {{#if:{{{area_water_percent|}}}| &nbsp;{{{area_water_percent}}}%}}}}
-| rowclass41 = mergedrow
-| label41 = &nbsp;•&nbsp;Urban<span style="font-weight:normal">{{{area_urban_footnotes|}}}</span>
-| data41 = {{#if:{{{area_urban_km2|}}}{{{area_urban_ha|}}}{{{area_urban_acre|}}}{{{area_urban_sq_mi|}}}{{{area_urban_dunam|}}}
+| rowclass62 = mergedrow
+| label62 = &nbsp;•&nbsp;Urban<span style="font-weight:normal">{{{area_urban_footnotes|}}}</span>
+|  data62 = {{#if:{{{area_urban_km2|}}}{{{area_urban_ha|}}}{{{area_urban_acre|}}}{{{area_urban_sq_mi|}}}{{{area_urban_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_urban_km2|}}}
    |ha   ={{{area_urban_ha|}}}
@@ -404,9 +359,9 @@
    |name ={{{subdivision_name}}}
  }}}}
 
-| rowclass42 = mergedrow
-| label42 = &nbsp;•&nbsp;Rural<span style="font-weight:normal">{{{area_rural_footnotes|}}}</span>
-| data42 = {{#if:{{{area_rural_km2|}}}{{{area_rural_ha|}}}{{{area_rural_acre|}}}{{{area_rural_sq_mi|}}}{{{area_rural_dunam|}}}
+| rowclass63 = mergedrow
+| label63 = &nbsp;•&nbsp;Rural<span style="font-weight:normal">{{{area_rural_footnotes|}}}</span>
+|  data63 = {{#if:{{{area_rural_km2|}}}{{{area_rural_ha|}}}{{{area_rural_acre|}}}{{{area_rural_sq_mi|}}}{{{area_rural_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_rural_km2|}}}
    |ha   ={{{area_rural_ha|}}}
@@ -417,9 +372,9 @@
    |pref ={{{unit_pref}}}
    |name ={{{subdivision_name}}}
  }}}}
-| rowclass43 = mergedrow
-| label43 =&nbsp;•&nbsp;Metro<span style="font-weight:normal">{{{area_metro_footnotes|}}}</span>
-| data43 = {{#if:{{{area_metro_km2|}}}{{{area_metro_ha|}}}{{{area_metro_acre|}}}{{{area_metro_sq_mi|}}}{{{area_metro_dunam|}}}
+| rowclass64 = mergedrow
+| label64 =&nbsp;•&nbsp;Metro<span style="font-weight:normal">{{{area_metro_footnotes|}}}</span>
+|  data64 = {{#if:{{{area_metro_km2|}}}{{{area_metro_ha|}}}{{{area_metro_acre|}}}{{{area_metro_sq_mi|}}}{{{area_metro_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_metro_km2|}}}
    |ha   ={{{area_metro_ha|}}}
@@ -431,13 +386,13 @@
    |name ={{{subdivision_name}}}
  }}}}
 <!-- ***Area rank*** -->
-| rowclass44 = mergedrow
-| label44 = Area rank
-| data44 = {{{area_rank|}}}
+| rowclass65 = mergedrow
+| label65 = Area rank
+|  data65 = {{{area_rank|}}}
 
-| rowclass45 = mergedrow
-| label45 = &nbsp;•&nbsp;{{{area_blank1_title}}}
-| data45 = {{#if:{{{area_blank1_km2|}}}{{{area_blank1_ha|}}}{{{area_blank1_acre|}}}{{{area_blank1_sq_mi|}}}{{{area_blank1_title|}}}{{{area_blank1_dunam|}}}
+| rowclass66 = mergedrow
+| label66 = &nbsp;•&nbsp;{{{area_blank1_title}}}
+|  data66 = {{#if:{{{area_blank1_km2|}}}{{{area_blank1_ha|}}}{{{area_blank1_acre|}}}{{{area_blank1_sq_mi|}}}{{{area_blank1_dunam|}}}
   |{{infobox_settlement/areadisp
    |km2  ={{{area_blank1_km2|}}}
    |ha   ={{{area_blank1_ha|}}}
@@ -449,9 +404,9 @@
    |name ={{{subdivision_name}}}
  }}}}
 
-| rowclass46 = mergedrow
-| label46 = &nbsp;•&nbsp;{{{area_blank2_title}}}
-| data46 = {{#if:{{{area_blank2_km2|}}}{{{area_blank2_ha|}}}{{{area_blank2_acre|}}}{{{area_blank2_sq_mi|}}}{{{area_blank2_title|}}}{{{area_blank2_dunam|}}}
+| rowclass67 = mergedrow
+| label67 = &nbsp;•&nbsp;{{{area_blank2_title}}}
+|  data67 = {{#if:{{{area_blank2_km2|}}}{{{area_blank2_ha|}}}{{{area_blank2_acre|}}}{{{area_blank2_sq_mi|}}}{{{area_blank2_dunam|}}}
   |{{infobox_settlement/areadisp
    |km2  ={{{area_blank2_km2|}}}
    |ha   ={{{area_blank2_ha|}}}
@@ -463,17 +418,17 @@
    |name ={{{subdivision_name}}}
  }}}}
 
-| rowclass47 = mergedrow
-| label47 = &nbsp;
-| data47 =  {{#if:{{{area_note|}}}|<small>{{{area_note}}}</small>}}
+| rowclass68 = mergedrow
+| label68 = &nbsp;
+|  data68 =  {{#if:{{{area_note|}}}|<small>{{{area_note}}}</small>}}
 
 <!-- ***Dimensions*** -->
-| rowclass48 = mergedtoprow
-| header48 = {{#if:{{{length_km|}}}{{{length_mi|}}}{{{width_km|}}}{{{width_mi|}}}|Dimensions<span style="font-weight:normal">{{{dimensions_footnotes|}}}</span>}}
+| rowclass69 = mergedtoprow
+| header69 = {{#if:{{{length_km|}}}{{{length_mi|}}}{{{width_km|}}}{{{width_mi|}}}|Dimensions<span style="font-weight:normal">{{{dimensions_footnotes|}}}</span>}}
 
-| rowclass49 = mergedrow
-| label49 = &nbsp;•&nbsp;Length
-| data49 = {{#if:{{{length_km|}}}{{{length_mi|}}}
+| rowclass70 = mergedrow
+| label70 = &nbsp;•&nbsp;Length
+|  data70 = {{#if:{{{length_km|}}}{{{length_mi|}}}
  | {{infobox_settlement/lengthdisp
       |km  ={{{length_km|}}}
       |mi  ={{{length_mi|}}}
@@ -481,9 +436,9 @@
       |name={{{subdivision_name}}}
     }} }}
 
-| rowclass50 = mergedrow
-| label50 = &nbsp;•&nbsp;Width
-| data50 = {{#if:{{{width_km|}}}{{{width_mi|}}}
+| rowclass71 = mergedrow
+| label71 = &nbsp;•&nbsp;Width
+|  data71 = {{#if:{{{width_km|}}}{{{width_mi|}}}
  |{{infobox_settlement/lengthdisp
       |km  ={{{width_km|}}}
       |mi  ={{{width_mi|}}}
@@ -492,9 +447,9 @@
     }} }}
 
 <!-- ***Elevation*** -->
-| rowclass51 = mergedtoprow
-| label51 = Elevation<span style="font-weight:normal">{{{elevation_footnotes|}}}{{#if:{{{elevation_point|}}}|&#32;({{{elevation_point}}})}}</span>
-| data51 = {{#if:{{{elevation_m|}}}{{{elevation_ft|}}}
+| rowclass72 = mergedtoprow
+| label72 = Elevation<span style="font-weight:normal">{{{elevation_footnotes|}}}{{#if:{{{elevation_point|}}}|&#32;({{{elevation_point}}})}}</span>
+|  data72 = {{#if:{{{elevation_m|}}}{{{elevation_ft|}}}
  |{{infobox_settlement/lengthdisp
       |m   ={{{elevation_m|}}}
       |ft  ={{{elevation_ft|}}}
@@ -502,9 +457,9 @@
       |name={{{subdivision_name}}}
     }} }}
 
-| rowclass52 = mergedtoprow
-| label52 = Highest&nbsp;elevation<span style="font-weight:normal">{{{elevation_max_footnotes|}}}{{#if:{{{elevation_max_point|}}}|&#32;({{{elevation_max_point}}})}}</span>
-| data52 = {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}
+| rowclass73 = mergedtoprow
+| label73 = Highest&nbsp;elevation<span style="font-weight:normal">{{{elevation_max_footnotes|}}}{{#if:{{{elevation_max_point|}}}|&#32;({{{elevation_max_point}}})}}</span>
+|  data73 = {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}
  |{{infobox_settlement/lengthdisp
       |m   ={{{elevation_max_m|}}}
       |ft  ={{{elevation_max_ft|}}}
@@ -512,13 +467,13 @@
       |name={{{subdivision_name}}}
     }} }}
 <!-- ***Elevation max rank*** -->
-| rowclass53 = mergedrow
-| label53 = &nbsp;•&nbsp;Rank
-| data53 =  {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}| {{{elevation_max_rank|}}} }}
+| rowclass74 = mergedrow
+| label74 = &nbsp;•&nbsp;Rank
+|  data74 =  {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}| {{{elevation_max_rank|}}} }}
 
-| rowclass54 = {{#if:{{{elevation_min_rank|}}}|mergedrow|mergedbottomrow}}
-| label54 = Lowest&nbsp;elevation<span style="font-weight:normal">{{{elevation_min_footnotes|}}}{{#if:{{{elevation_min_point|}}}|&#32;({{{elevation_min_point}}})}}</span>
-| data54 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}
+| rowclass75 = {{#if:{{{elevation_min_rank|}}}|mergedrow|mergedbottomrow}}
+| label75 = Lowest&nbsp;elevation<span style="font-weight:normal">{{{elevation_min_footnotes|}}}{{#if:{{{elevation_min_point|}}}|&#32;({{{elevation_min_point}}})}}</span>
+|  data75 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}
   |{{infobox_settlement/lengthdisp
       |m   ={{{elevation_min_m|}}}
       |ft  ={{{elevation_min_ft|}}}
@@ -526,14 +481,14 @@
       |name={{{subdivision_name}}}
     }} }}
 <!-- ***Elevation min rank*** -->
-| rowclass55 = mergedrow
-| label55 = &nbsp;•&nbsp;Rank
-| data55 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}|{{{elevation_min_rank|}}}}}
+| rowclass76 = mergedrow
+| label76 = &nbsp;•&nbsp;Rank
+|  data76 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}|{{{elevation_min_rank|}}}}}
 
 <!-- ***Population*** -->
-| rowclass56 = mergedtoprow
-| label56 = Population <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
-| data56 = {{#if:{{{population|}}}
+| rowclass77 = mergedtoprow
+| label77 = Population <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
+|  data77 = {{#if:{{{population|}}}
   | {{formatnum:{{{population}}}}}
   | {{#ifeq:{{{total_type}}}|&nbsp;
     | {{#if:{{{population_total|}}}
@@ -542,8 +497,8 @@
     }}
   }}
 
-| rowclass57 = mergedtoprow
-| header57 = {{#if:{{{population|}}}
+| rowclass78 = mergedtoprow
+| header78 = {{#if:{{{population|}}}
   |
   |{{#ifeq:{{{total_type}}}|&nbsp;
      |
@@ -553,9 +508,9 @@
     }}
   }}
 
-| rowclass58 = mergedrow
-| label58 = &nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|City}}|Total}}}}
-| data58 = {{#if:{{{population|}}}
+| rowclass79 = mergedrow
+| label79 = &nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|City}}|Total}}}}
+|  data79 = {{#if:{{{population|}}}
   |
   |{{#ifeq:{{{total_type}}}|&nbsp;
      |
@@ -565,18 +520,18 @@
     }}
   }}
 
-| rowclass59 = mergedrow
-| label59 = &nbsp;•&nbsp;Estimate&nbsp;<span style="font-weight:normal">({{{pop_est_as_of}}}){{{pop_est_footnotes|}}}</span>
-| data59 = {{#if:{{{population_est|}}}|{{formatnum:{{{population_est}}}}} }}
+| rowclass80 = mergedrow
+| label80 = &nbsp;•&nbsp;Estimate&nbsp;<span style="font-weight:normal">({{{pop_est_as_of}}}){{{pop_est_footnotes|}}}</span>
+|  data80 = {{#if:{{{population_est|}}}|{{formatnum:{{{population_est}}}}} }}
 
 <!-- ***Population rank*** -->
-| rowclass60 = mergedrow
-| label60 =&nbsp;•&nbsp;Rank
-| data60 = {{{population_rank|}}}
+| rowclass81 = mergedrow
+| label81 =&nbsp;•&nbsp;Rank
+|  data81 = {{{population_rank|}}}
 
-| rowclass61 = mergedrow
-| label61 = &nbsp;•&nbsp;Density
-| data61 = {{#if:{{{population_density_km2|}}}{{{population_density_sq_mi|}}}{{{population_total|}}}
+| rowclass82 = mergedrow
+| label82 = &nbsp;•&nbsp;Density
+|  data82 = {{#if:{{{population_density_km2|}}}{{{population_density_sq_mi|}}}{{{population_total|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_km2|}}}
       |/sqmi={{{population_density_sq_mi|}}}
@@ -591,17 +546,17 @@
     }}}}
 
 <!-- ***Population density rank*** -->
-| rowclass62 = mergedrow
-| label62 = &nbsp;•&nbsp;Density&nbsp;rank
-| data62 = {{{population_density_rank|}}}
+| rowclass83 = mergedrow
+| label83 = &nbsp;•&nbsp;Density&nbsp;rank
+|  data83 = {{{population_density_rank|}}}
 
-| rowclass63 = mergedrow
-| label63 = &nbsp;•&nbsp;[[Urban area|Urban]]<span style="font-weight:normal">{{{population_urban_footnotes|}}}</span>
-| data63 = {{#if:{{{population_urban|}}}| {{formatnum:{{{population_urban}}}}} }}
+| rowclass84 = mergedrow
+| label84 = &nbsp;•&nbsp;[[Urban area|Urban]]<span style="font-weight:normal">{{{population_urban_footnotes|}}}</span>
+|  data84 = {{#if:{{{population_urban|}}}| {{formatnum:{{{population_urban}}}}} }}
 
-| rowclass64 = mergedrow
-| label64 = &nbsp;•&nbsp;Urban&nbsp;density
-| data64 = {{#if:{{{population_density_urban_km2|}}}{{{population_density_urban_sq_mi|}}}{{{population_urban|}}}
+| rowclass85 = mergedrow
+| label85 = &nbsp;•&nbsp;Urban&nbsp;density
+|  data85 = {{#if:{{{population_density_urban_km2|}}}{{{population_density_urban_sq_mi|}}}{{{population_urban|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_urban_km2|}}}
       |/sqmi={{{population_density_urban_sq_mi|}}}
@@ -615,13 +570,13 @@
       |name ={{{subdivision_name}}}
     }}}}
 
-| rowclass65 = mergedrow
-| label65 = &nbsp;•&nbsp;[[Rural area|Rural]]<span style="font-weight:normal">{{{population_rural_footnotes|}}}</span>
-| data65 = {{#if:{{{population_rural|}}}|{{formatnum:{{{population_rural}}}}}}}
+| rowclass86 = mergedrow
+| label86 = &nbsp;•&nbsp;[[Rural area|Rural]]<span style="font-weight:normal">{{{population_rural_footnotes|}}}</span>
+|  data86 = {{#if:{{{population_rural|}}}|{{formatnum:{{{population_rural}}}}}}}
 
-| rowclass66 = mergedrow
-| label66 = &nbsp;•&nbsp;Rural&nbsp;density
-| data66 = {{#if:{{{population_density_rural_km2|}}}{{{population_density_rural_sq_mi|}}}{{{population_rural|}}}
+| rowclass87 = mergedrow
+| label87 = &nbsp;•&nbsp;Rural&nbsp;density
+|  data87 = {{#if:{{{population_density_rural_km2|}}}{{{population_density_rural_sq_mi|}}}{{{population_rural|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_rural_km2|}}}
       |/sqmi={{{population_density_rural_sq_mi|}}}
@@ -635,13 +590,13 @@
       |name ={{{subdivision_name}}}
     }}}}
 
-| rowclass67 = mergedrow
-| label67 =&nbsp;•&nbsp;[[Metropolitan area|Metro]]<span style="font-weight:normal">{{{population_metro_footnotes|}}}</span>
-| data67 = {{#if:{{{population_metro|}}}| {{formatnum:{{{population_metro}}}}} }}
+| rowclass88 = mergedrow
+| label88 =&nbsp;•&nbsp;[[Metropolitan area|Metro]]<span style="font-weight:normal">{{{population_metro_footnotes|}}}</span>
+|  data88 = {{#if:{{{population_metro|}}}| {{formatnum:{{{population_metro}}}}} }}
 
-| rowclass68 = mergedrow
-| label68 = &nbsp;•&nbsp;Metro&nbsp;density
-| data68 =  {{#if:{{{population_density_metro_km2|}}}{{{population_density_metro_sq_mi|}}}{{{population_metro|}}}
+| rowclass89 = mergedrow
+| label89 = &nbsp;•&nbsp;Metro&nbsp;density
+|  data89 =  {{#if:{{{population_density_metro_km2|}}}{{{population_density_metro_sq_mi|}}}{{{population_metro|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_metro_km2|}}}
       |/sqmi={{{population_density_metro_sq_mi|}}}
@@ -655,13 +610,13 @@
       |name ={{{subdivision_name}}}
     }}}}
 
-| rowclass69 = mergedrow
-| label69 = &nbsp;•&nbsp;{{{population_blank1_title|}}}<span style="font-weight:normal">{{{population_blank1_footnotes|}}}</span>
-| data69 = {{#if:{{{population_blank1|}}}|{{formatnum:{{{population_blank1}}}}}}}
+| rowclass90 = mergedrow
+| label90 = &nbsp;•&nbsp;{{{population_blank1_title|}}}<span style="font-weight:normal">{{{population_blank1_footnotes|}}}</span>
+|  data90 = {{#if:{{{population_blank1|}}}|{{formatnum:{{{population_blank1}}}}}}}
 
-| rowclass70 = mergedrow
-| label70 = &nbsp;•&nbsp;{{#if:{{{population_blank1_title|}}}|{{{population_blank1_title}}} density|Density}}
-| data70 =  {{#if:{{{population_density_blank1_km2|}}}{{{population_density_blank1_sq_mi|}}}{{{population_blank1|}}}
+| rowclass91 = mergedrow
+| label91 = &nbsp;•&nbsp;{{#if:{{{population_blank1_title|}}}|{{{population_blank1_title}}} density|Density}}
+|  data91 =  {{#if:{{{population_density_blank1_km2|}}}{{{population_density_blank1_sq_mi|}}}{{{population_blank1|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_blank1_km2|}}}
       |/sqmi={{{population_density_blank1_sq_mi|}}}
@@ -675,13 +630,13 @@
       |name ={{{subdivision_name}}}
     }}}}
 
-| rowclass71 = mergedrow
-| label71 = &nbsp;•&nbsp;{{{population_blank2_title|}}}<span style="font-weight:normal">{{{population_blank2_footnotes|}}}</span>
-| data71 = {{#if:{{{population_blank2|}}}|{{formatnum:{{{population_blank2}}}}}}}
+| rowclass92 = mergedrow
+| label92 = &nbsp;•&nbsp;{{{population_blank2_title|}}}<span style="font-weight:normal">{{{population_blank2_footnotes|}}}</span>
+|  data92 = {{#if:{{{population_blank2|}}}|{{formatnum:{{{population_blank2}}}}}}}
 
-| rowclass72 = mergedrow
-| label72 = &nbsp;•&nbsp;{{#if:{{{population_blank2_title|}}}|{{{population_blank2_title}}} density|Density}}
-| data72 = {{#if:{{{population_density_blank2_km2|}}}{{{population_density_blank2_sq_mi|}}}{{{population_blank2|}}}
+| rowclass93 = mergedrow
+| label93 = &nbsp;•&nbsp;{{#if:{{{population_blank2_title|}}}|{{{population_blank2_title}}} density|Density}}
+|  data93 = {{#if:{{{population_density_blank2_km2|}}}{{{population_density_blank2_sq_mi|}}}{{{population_blank2|}}}
    |{{infobox_settlement/densdisp
       |/km2 ={{{population_density_blank2_km2|}}}
       |/sqmi={{{population_density_blank2_sq_mi|}}}
@@ -695,221 +650,254 @@
       |name ={{{subdivision_name}}}
     }}}}
 
-| rowclass73 = mergedrow
-| label73 = &nbsp;
-| data73 = {{#if:{{{population_note|}}}|<small>{{{population_note}}}</small>}}
+| rowclass94 = mergedrow
+| label94 = &nbsp;
+|  data94 = {{#if:{{{population_note|}}}|<small>{{{population_note}}}</small>}}
 
-| rowclass74 = mergedtoprow
-| label74 = [[Demonym]]
-| data74 = {{{population_demonym|}}}
+| rowclass95 = mergedtoprow
+| label95 = [[Demonym|Demonym(s)]]
+|  data95 = {{{population_demonym|}}}
 
-| rowclass75 = mergedtoprow
-| header75 = {{#if:{{{demographics_type1|}}}
-|{{{demographics_type1}}}<span style="font-weight:normal">{{{demographics1_footnotes|}}}</span><!-- 
- ***Demographics 1*** 
--->{{infobox|child=yes
+<!-- ***Demographics 1*** -->
+| rowclass96 = mergedtoprow
+| header96 = {{#if:{{{demographics_type1|}}}
+ |{{{demographics_type1}}}<span style="font-weight:normal">{{{demographics1_footnotes|}}}</span>}}
+| rowclass97 = mergedrow
+| label97 = &nbsp;•&nbsp;{{{demographics1_title1}}}
+|  data97 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title1|}}}|{{{demographics1_info1|}}}}}}}
+| rowclass98 = mergedrow
+| label98 = &nbsp;•&nbsp;{{{demographics1_title2}}}
+|  data98 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title2|}}}|{{{demographics1_info2|}}}}}}}
+| rowclass99 = mergedrow
+| label99 = &nbsp;•&nbsp;{{{demographics1_title3}}}
+|  data99 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title3|}}}|{{{demographics1_info3|}}}}}}}
+| rowclass100 = mergedrow
+| label100 = &nbsp;•&nbsp;{{{demographics1_title4}}}
+|  data100 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title4|}}}|{{{demographics1_info4|}}}}}}}
+| rowclass101 = mergedrow
+| label101 = &nbsp;•&nbsp;{{{demographics1_title5}}}
+|  data101 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title5|}}}|{{{demographics1_info5|}}}}}}}
+| rowclass102 = mergedrow
+| label102 = &nbsp;•&nbsp;{{{demographics1_title6}}}
+|  data102 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title6|}}}|{{{demographics1_info6|}}}}}}}
+| rowclass103 = mergedrow
+| label103 = &nbsp;•&nbsp;{{{demographics1_title7}}}
+|  data103 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title7|}}}|{{{demographics1_info7|}}}}}}}
+| rowclass104 = mergedrow
+| label104 = &nbsp;•&nbsp;{{{demographics1_title8}}}
+|  data104 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title8|}}}|{{{demographics1_info8|}}}}}}}
+| rowclass105 = mergedrow
+| label105 = &nbsp;•&nbsp;{{{demographics1_title9}}}
+|  data105 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title9|}}}|{{{demographics1_info9|}}}}}}}
+| rowclass106 = mergedrow
+| label106 = &nbsp;•&nbsp;{{{demographics1_title10}}}
+|  data106 = {{#if:{{{demographics_type1|}}}
+ |{{#if:{{{demographics1_title10|}}}|{{{demographics1_info10|}}}}}}}
 
-| rowclass1 = mergedrow
-| label1 = &nbsp;•&nbsp;{{{demographics1_title1}}}
-| data1 = {{#if:{{{demographics1_title1|}}}|{{{demographics1_info1}}}}}
-| rowclass2 = mergedrow
-| label2 = &nbsp;•&nbsp;{{{demographics1_title2}}}
-| data2 = {{#if:{{{demographics1_title2|}}}|{{{demographics1_info2}}}}}
-| rowclass3 = mergedrow
-| label3 = &nbsp;•&nbsp;{{{demographics1_title3}}}
-| data3 = {{#if:{{{demographics1_title3|}}}|{{{demographics1_info3}}}}}
-| rowclass4 = mergedrow
-| label4 = &nbsp;•&nbsp;{{{demographics1_title4}}}
-| data4 = {{#if:{{{demographics1_title4|}}}|{{{demographics1_info4}}}}}
-| rowclass5 = mergedrow
-| label5 = &nbsp;•&nbsp;{{{demographics1_title5}}}
-| data5 = {{#if:{{{demographics1_title5|}}}|{{{demographics1_info5}}}}}
-}}}}
+<!-- ***Demographics 2*** -->
+| rowclass107 = mergedtoprow
+| header107 = {{#if:{{{demographics_type2|}}}
+ |{{{demographics_type2}}}<span style="font-weight:normal">{{{demographics2_footnotes|}}}</span>}}
+| rowclass108 = mergedrow
+| label108 = &nbsp;•&nbsp;{{{demographics2_title1}}}
+|  data108 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title1|}}}|{{{demographics2_info1|}}}}}}}
+| rowclass109 = mergedrow
+| label109 = &nbsp;•&nbsp;{{{demographics2_title2}}}
+|  data109 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title2|}}}|{{{demographics2_info2|}}}}}}}
+| rowclass110 = mergedrow
+| label110 = &nbsp;•&nbsp;{{{demographics2_title3}}}
+|  data110 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title3|}}}|{{{demographics2_info3|}}}}}}}
+| rowclass111 = mergedrow
+| label111 = &nbsp;•&nbsp;{{{demographics2_title4}}}
+|  data111 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title4|}}}|{{{demographics2_info4|}}}}}}}
+| rowclass112 = mergedrow
+| label112 = &nbsp;•&nbsp;{{{demographics2_title5}}}
+|  data112 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title5|}}}|{{{demographics2_info5|}}}}}}}
+| rowclass113 = mergedrow
+| label113 = &nbsp;•&nbsp;{{{demographics2_title6}}}
+|  data113 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title6|}}}|{{{demographics2_info6|}}}}}}}
+| rowclass114 = mergedrow
+| label114 = &nbsp;•&nbsp;{{{demographics2_title7}}}
+|  data114 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title7|}}}|{{{demographics2_info7|}}}}}}}
+| rowclass115 = mergedrow
+| label115 = &nbsp;•&nbsp;{{{demographics2_title8}}}
+|  data115 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title8|}}}|{{{demographics2_info8|}}}}}}}
+| rowclass116 = mergedrow
+| label116 = &nbsp;•&nbsp;{{{demographics2_title9}}}
+|  data116 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title9|}}}|{{{demographics2_info9|}}}}}}}
+| rowclass117 = mergedrow
+| label117 = &nbsp;•&nbsp;{{{demographics2_title10}}}
+|  data117 = {{#if:{{{demographics_type2|}}}
+ |{{#if:{{{demographics2_title10|}}}|{{{demographics2_info10|}}}}}}}
 
-| rowclass76 = mergedtoprow
-| header76 = {{#if:{{{demographics_type2|}}}
-|{{{demographics_type2}}}<span style="font-weight:normal">{{{demographics2_footnotes|}}}</span><!-- 
-***Demographics 2*** 
--->{{infobox|child=yes
-| rowclass1 = mergedrow
-| label1 = &nbsp;•&nbsp;{{{demographics2_title1}}}
-| data1 = {{#if:{{{demographics2_title1|}}}|{{{demographics2_info1}}}}}
-| rowclass2 = mergedrow
-| label2 = &nbsp;•&nbsp;{{{demographics2_title2}}}
-| data2 = {{#if:{{{demographics2_title2|}}}|{{{demographics2_info2}}}}}
-| rowclass3 = mergedrow
-| label3 = &nbsp;•&nbsp;{{{demographics2_title3}}}
-| data3 = {{#if:{{{demographics2_title3|}}}|{{{demographics2_info3}}}}}
-| rowclass4 = mergedrow
-| label4 = &nbsp;•&nbsp;{{{demographics2_title4}}}
-| data4 = {{#if:{{{demographics2_title4|}}}|{{{demographics2_info4}}}}}
-| rowclass5 = mergedrow
-| label5 = &nbsp;•&nbsp;{{{demographics2_title5}}}
-| data5 = {{#if:{{{demographics2_title5|}}}|{{{demographics2_info5}}}}}
-}}}}
 
 <!-- ***Time Zones*** -->
-| rowclass77 = mergedtoprow
-| label77 = {{#if:{{{timezone2|}}}|[[Time zone]]s|[[Time zone]]}}
-| data77 = {{#if:{{{timezone1|{{{timezone|}}}}}}|{{{timezone1|{{{timezone}}}}}} {{#if:{{{utc_offset1|{{{utc_offset|}}} }}}|([[UTC{{{utc_offset1|{{{utc_offset}}}}}}]])}} }}
+| rowclass118 = mergedtoprow
+| label118 = {{#if:{{{timezone2|}}}|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]s|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]}}
+|  data118 = {{#if:{{{utc_offset1|{{{utc_offset|}}} }}}
+ |[[UTC{{{utc_offset1|{{{utc_offset}}}}}}]] {{#if:{{{timezone1|{{{timezone|}}}}}}|({{{timezone1|{{{timezone}}}}}})}}
+ |{{{timezone1|{{{timezone|}}}}}}
+ }} 
 
-| rowclass78 = mergedrow
-| label78 = <nowiki />
-| data78 = {{#if:{{{timezone1|{{{timezone|}}}}}}|{{#if:{{{timezone2|}}}|{{{timezone2}}} {{#if:{{{utc_offset2|{{{utc_offset2|}}} }}}|([[UTC{{{utc_offset2|{{{utc_offset2}}}}}}]])}} }} }}
+| rowclass119 = mergedrow
+| label119 = <nowiki />
+|  data119 = {{#if:{{{timezone1|{{{timezone|}}}}}}{{{utc_offset1|{{{utc_offset|}}}}}}
+ |{{#if:{{{utc_offset2|{{{utc_offset2|}}} }}}
+   |[[UTC{{{utc_offset2|{{{utc_offset2}}}}}}]] {{#if:{{{timezone2|}}}|({{{timezone2}}})}}
+   |{{{timezone2|}}}
+   }}
+ }}
 
-| rowclass79 = mergedrow
-| label79 = <span style="white-space:nowrap">&nbsp;•&nbsp;Summer ([[Daylight saving time|DST]])</span>
-| data79 = {{#if:{{{timezone1|{{{timezone|}}}}}}|{{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}|{{{timezone1_DST|{{{timezone_DST|}}}}}} ([[UTC{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}]])}} }}
+| rowclass120 = mergedrow
+| label120 = <span style="white-space:nowrap">&nbsp;•&nbsp;Summer ([[Daylight saving time|DST]])</span>
+|  data120 = {{#if:{{{timezone1|{{{timezone|}}}}}}{{{utc_offset1|{{{utc_offset|}}}}}}
+  |{{#if:{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}
+     |[[UTC{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}]] {{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}|({{{timezone1_DST|{{{timezone_DST}}}}}})}}
+     |{{{timezone1_DST|{{{timezone_DST|}}}}}}
+    }}
+  }}
 
-| rowclass80 = mergedrow
-| label80 = <nowiki />
-| data80 = {{#if:{{{timezone1|{{{timezone|}}}}}}|{{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}|{{#if:{{{timezone2_DST|}}}|{{{timezone2_DST}}} ([[UTC{{{utc_offset2_DST|}}}]])}} }} }}
+| rowclass121 = mergedrow
+| label121 = <nowiki />
+|  data121 = {{#if:{{{timezone1|{{{timezone|}}}}}}{{{utc_offset1|{{{utc_offset|}}}}}}|{{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}
+  |{{#if:{{{utc_offset2_DST|}}}
+     |[[UTC{{{utc_offset2_DST|}}}]] {{#if:{{{timezone2_DST|}}}|({{{timezone2_DST}}})}}
+     |{{{timezone2_DST|}}}
+   }}
+ }}}}
 
 <!-- ***Postal Code(s)*** -->
-| rowclass81 = mergedtoprow
-| label81 = {{{postal_code_type}}}
-| class81 = adr
-| data81 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|<span class="postal-code">{{{postal_code}}}</span>}}}}
+| rowclass122 = mergedtoprow
+| label122 = {{{postal_code_type}}}
+| class122 = adr
+|  data122 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|<span class="postal-code">{{{postal_code}}}</span>}}}}
 
-| rowclass82 = mergedbottomrow
-| label82 = {{{postal2_code_type}}}
-| class82 = adr
-| data82 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|<span class="postal-code">{{{postal2_code}}}</span>}} }} }}
+| rowclass123 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}|mergedbottomrow|mergedtoprow}}
+| label123 = {{{postal2_code_type}}}
+| class123 = adr
+|  data123 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|<span class="postal-code">{{{postal2_code}}}</span>}} }} }}
 
 <!-- ***Area Code(s)*** -->
-| rowclass83 = mergedrow
-| label83 = {{#if:{{{area_code_type|}}}|{{{area_code_type}}}|[[Telephone numbering plan|Area code(s)]]}}
-| data83 = {{{area_code|}}}
+| rowclass124 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}{{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|1}}}}}}|mergedrow|mergedtoprow}}
+| label124 = {{#if:{{{area_code_type|}}}|{{{area_code_type}}}|[[Telephone numbering plan|Area code(s)]]}}
+|  data124 = {{{area_code|}}}
 
 <!-- Geocode-->
-| rowclass84 = mergedrow
-| label84 = [[Geocode]]
-| class84 = nickname
-| data84 = {{{geocode|}}}
+| rowclass125 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}{{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|1}}}}}}{{{area_code|}}}|mergedrow|mergedtoprow}}
+| label125 = [[Geocode]]
+| class125 = nickname
+|  data125 = {{{geocode|}}}
 
 <!-- ISO Code-->
-| rowclass85 = mergedrow
-| label85 = [[ISO 3166|ISO 3166 code]]
-| class85 = nickname
-| data85 = {{{iso_code|}}}
+| rowclass126 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}{{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|1}}}}}}{{{area_code|}}}{{{geocode|}}}|mergedrow|mergedtoprow}}
+| label126 = [[ISO 3166|ISO 3166 code]]
+| class126 = nickname
+|  data126 = {{{iso_code|}}}
 
 <!-- Vehicle registration plate-->
-| rowclass86 = mergedrow
-| label86 = [[Vehicle registration plate|Vehicle registration]]
-| data86 = {{{registration_plate|}}}
-
-
-| rowclass87 = mergedtoprow
-| header87 = {{#if:{{{twin1|}}}
- |[[List of twin towns and sister cities|Twin cities]]<!-- 
- ***Twin Cities*** 
--->{{infobox|child=yes
-
-| rowclass1 = mergedrow
-| label1 = &nbsp;•&nbsp;{{{twin1}}}
-| data1 = {{#if:{{{twin1|}}}|{{{twin1_country}}}}}
-| rowclass2 = mergedrow
-| label2 = &nbsp;•&nbsp;{{{twin2}}}
-| data2 = {{#if:{{{twin2|}}}|{{{twin2_country}}}}}
-| rowclass3 = mergedrow
-| label3 = &nbsp;•&nbsp;{{{twin3}}}
-| data3 = {{#if:{{{twin3|}}}|{{{twin3_country}}}}}
-| rowclass4 = mergedrow
-| label4 = &nbsp;•&nbsp;{{{twin4}}}
-| data4 = {{#if:{{{twin4|}}}|{{{twin4_country}}}}}
-| rowclass5 = mergedrow
-| label5 = &nbsp;•&nbsp;{{{twin5}}}
-| data5 = {{#if:{{{twin5|}}}|{{{twin5_country}}}}}
-| rowclass6 = mergedrow
-| label6 = &nbsp;•&nbsp;{{{twin6}}}
-| data6 = {{#if:{{{twin6|}}}|{{{twin6_country}}}}}
-| rowclass7 = mergedrow
-| label7 = &nbsp;•&nbsp;{{{twin7}}}
-| data7 = {{#if:{{{twin7|}}}|{{{twin7_country}}}}}
-| rowclass8 = mergedrow
-| label8 = &nbsp;•&nbsp;{{{twin8}}}
-| data8 = {{#if:{{{twin8|}}}|{{{twin8_country}}}}}
-| rowclass9 = mergedrow
-| label9 = &nbsp;•&nbsp;{{{twin9}}}
-| data9 = {{#if:{{{twin9|}}}|{{{twin9_country}}}}}
-}} }}
+| rowclass127 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}{{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|1}}}}}}{{{area_code|}}}{{{geocode|}}}{{{iso_code|}}}|mergedrow|mergedtoprow}}
+| label127 = {{#if:{{{registration_plate_type|}}}|{{{registration_plate_type}}}|[[Vehicle registration plate|Vehicle registration]]}}
+|  data127 = {{{registration_plate|}}}
 
 <!-- ***Blank Fields (two sections)*** -->
-| rowclass88 = mergedtoprow
-| label88 = {{{blank_name_sec1|{{{blank_name|}}}}}}
-| data88 = {{#if:{{{blank_name_sec1|{{{blank_name|}}}}}}|{{{blank_info_sec1|{{{blank_info|}}}}}}}}
+| rowclass128 = mergedtoprow
+| label128 = {{{blank_name_sec1|{{{blank_name|}}}}}}
+|  data128 = {{#if:{{{blank_name_sec1|{{{blank_name|}}}}}}|{{{blank_info_sec1|{{{blank_info|}}}}}}}}
 
-| rowclass89 = mergedrow
-| label89 = {{{blank1_name_sec1|{{{blank1_name|}}}}}}
-| data89 = {{#if:{{{blank1_name_sec1|{{{blank1_name|}}}}}}|{{{blank1_info_sec1|{{{blank1_info|}}}}}}}}
+| rowclass129 = mergedrow
+| label129 = {{{blank1_name_sec1|{{{blank1_name|}}}}}}
+|  data129 = {{#if:{{{blank1_name_sec1|{{{blank1_name|}}}}}}|{{{blank1_info_sec1|{{{blank1_info|}}}}}}}}
 
-| rowclass90 = mergedrow
-| label90 = {{{blank2_name_sec1|{{{blank2_name|}}}}}}
-| data90 = {{#if:{{{blank2_name_sec1|{{{blank2_name|}}}}}}|{{{blank2_info_sec1|{{{blank2_info|}}}}}}}}
+| rowclass130 = mergedrow
+| label130 = {{{blank2_name_sec1|{{{blank2_name|}}}}}}
+|  data130 = {{#if:{{{blank2_name_sec1|{{{blank2_name|}}}}}}|{{{blank2_info_sec1|{{{blank2_info|}}}}}}}}
 
-| rowclass91 = mergedrow
-| label91 = {{{blank3_name_sec1|{{{blank3_name|}}}}}}
-| data91 = {{#if:{{{blank3_name_sec1|{{{blank3_name|}}}}}}|{{{blank3_info_sec1|{{{blank3_info|}}}}}}}}
+| rowclass131 = mergedrow
+| label131 = {{{blank3_name_sec1|{{{blank3_name|}}}}}}
+|  data131 = {{#if:{{{blank3_name_sec1|{{{blank3_name|}}}}}}|{{{blank3_info_sec1|{{{blank3_info|}}}}}}}}
 
-| rowclass92 = mergedrow
-| label92 = {{{blank4_name_sec1|{{{blank4_name|}}}}}}
-| data92 = {{#if:{{{blank4_name_sec1|{{{blank4_name|}}}}}}|{{{blank4_info_sec1|{{{blank4_info|}}}}}}}}
+| rowclass132 = mergedrow
+| label132 = {{{blank4_name_sec1|{{{blank4_name|}}}}}}
+|  data132 = {{#if:{{{blank4_name_sec1|{{{blank4_name|}}}}}}|{{{blank4_info_sec1|{{{blank4_info|}}}}}}}}
 
-| rowclass93 = mergedrow
-| label93 = {{{blank5_name_sec1|{{{blank5_name|}}}}}}
-| data93 = {{#if:{{{blank5_name_sec1|{{{blank5_name|}}}}}}|{{{blank5_info_sec1|{{{blank5_info|}}}}}}}}
+| rowclass133 = mergedrow
+| label133 = {{{blank5_name_sec1|{{{blank5_name|}}}}}}
+|  data133 = {{#if:{{{blank5_name_sec1|{{{blank5_name|}}}}}}|{{{blank5_info_sec1|{{{blank5_info|}}}}}}}}
 
-| rowclass94 = mergedrow
-| label94 = {{{blank6_name_sec1|{{{blank6_name|}}}}}}
-| data94 = {{#if:{{{blank6_name_sec1|{{{blank6_name|}}}}}}|{{{blank6_info_sec1|{{{blank6_info|}}}}}}}}
+| rowclass134 = mergedrow
+| label134 = {{{blank6_name_sec1|{{{blank6_name|}}}}}}
+|  data134 = {{#if:{{{blank6_name_sec1|{{{blank6_name|}}}}}}|{{{blank6_info_sec1|{{{blank6_info|}}}}}}}}
 
-| rowclass95 = mergedrow
-| label95 = {{{blank7_name_sec1|{{{blank7_name|}}}}}}
-| data95 = {{#if:{{{blank7_name_sec1|{{{blank7_name|}}}}}}|{{{blank7_info_sec1|{{{blank7_info|}}}}}}}}
+| rowclass135 = mergedrow
+| label135 = {{{blank7_name_sec1|{{{blank7_name|}}}}}}
+|  data135 = {{#if:{{{blank7_name_sec1|{{{blank7_name|}}}}}}|{{{blank7_info_sec1|{{{blank7_info|}}}}}}}}
 
-| rowclass96 = mergedtoprow
-| label96 = {{{blank_name_sec2}}}
-| data96 = {{#if:{{{blank_name_sec2|}}}|{{{blank_info_sec2|}}}}}
+| rowclass136 = mergedtoprow
+| label136 = {{{blank_name_sec2}}}
+|  data136 = {{#if:{{{blank_name_sec2|}}}|{{{blank_info_sec2|}}}}}
 
-| rowclass97 = mergedrow
-| label97 = {{{blank1_name_sec2}}}
-| data97 = {{#if:{{{blank1_name_sec2|}}}|{{{blank1_info_sec2|}}}}}
+| rowclass137 = mergedrow
+| label137 = {{{blank1_name_sec2}}}
+|  data137 = {{#if:{{{blank1_name_sec2|}}}|{{{blank1_info_sec2|}}}}}
 
-| rowclass98 = mergedrow
-| label98 = {{{blank2_name_sec2}}}
-| data98 = {{#if:{{{blank2_name_sec2|}}}|{{{blank2_info_sec2|}}}}}
+| rowclass138 = mergedrow
+| label138 = {{{blank2_name_sec2}}}
+|  data138 = {{#if:{{{blank2_name_sec2|}}}|{{{blank2_info_sec2|}}}}}
 
-| rowclass99 = mergedrow
-| label99 = {{{blank3_name_sec2}}}
-| data99 = {{#if:{{{blank3_name_sec2|}}}|{{{blank3_info_sec2|}}}}}
+| rowclass139 = mergedrow
+| label139 = {{{blank3_name_sec2}}}
+|  data139 = {{#if:{{{blank3_name_sec2|}}}|{{{blank3_info_sec2|}}}}}
 
-| rowclass100 = mergedrow
-| label100 = {{{blank4_name_sec2}}}
-| data100 = {{#if:{{{blank4_name_sec2|}}}|{{{blank4_info_sec2|}}}}}
+| rowclass140 = mergedrow
+| label140 = {{{blank4_name_sec2}}}
+|  data140 = {{#if:{{{blank4_name_sec2|}}}|{{{blank4_info_sec2|}}}}}
 
-| rowclass101 = mergedrow
-| label101 = {{{blank5_name_sec2}}}
-| data101 = {{#if:{{{blank5_name_sec2|}}}|{{{blank5_info_sec2|}}}}}
+| rowclass141 = mergedrow
+| label141 = {{{blank5_name_sec2}}}
+|  data141 = {{#if:{{{blank5_name_sec2|}}}|{{{blank5_info_sec2|}}}}}
 
-| rowclass102 = mergedrow
-| label102 = {{{blank6_name_sec2}}}
-| data102 = {{#if:{{{blank6_name_sec2|}}}|{{{blank6_info_sec2|}}}}}
+| rowclass142 = mergedrow
+| label142 = {{{blank6_name_sec2}}}
+|  data142 = {{#if:{{{blank6_name_sec2|}}}|{{{blank6_info_sec2|}}}}}
 
-| rowclass103 = mergedrow
-| label103 = {{{blank7_name_sec2}}}
-| data103 = {{#if:{{{blank7_name_sec2|}}}|{{{blank7_info_sec2|}}}}}
+| rowclass143 = mergedrow
+| label143 = {{{blank7_name_sec2}}}
+|  data143 = {{#if:{{{blank7_name_sec2|}}}|{{{blank7_info_sec2|}}}}}
 
 <!-- ***Website*** -->
-| rowclass104 = mergedtoprow
-| label104 = Website
-| data104 = {{#if:{{{website|}}}|{{{website}}}}}
+| rowclass146 = mergedtoprow
+| label146 = Website
+|  data146 = {{#if:{{{website|}}}|{{{website}}}}}
 
 <!-- ***Footnotes*** -->
 | belowstyle = text-align:left; font-size:smaller
 | belowrowclass = mergedtoprow
 | below = {{{footnotes|}}}
-}}<!--For deprecated parameter names--><includeonly>{{#ifeq:{{{coor_type|♠}}}{{{city_logo|♠}}}{{{area_total|♠}}}{{{area_land|♠}}}{{{area_water|♠}}}{{{TotalArea_sq_mi|♠}}}{{{LandArea_sq_mi|♠}}}{{{WaterArea_sq_mi|♠}}}{{{area_urban|♠}}}{{{UrbanArea_sq_mi|♠}}}{{{area_metro|♠}}}{{{MetroArea_sq_mi|♠}}}{{{elevation|♠}}}{{{population_density|♠}}}{{{population_density_mi2|♠}}}{{{population_density_metro_mi2|♠}}}{{{population_density_urban_mi2|♠}}}|♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠||[[Category:Settlement articles requiring maintenance]]}}{{#switch:{{{coordinates_region|}}}|CA-X|US-X|IN-X=[[Category:Infobox settlement uses with imprecise region codes]]}}{{#if:{{{image_dot_map|}}}{{{dot_mapsize|}}}{{{dot_map_base_alt|}}}{{{dot_map_alt|}}}{{{dot_map_caption|}}}{{{dot_x|}}}{{{dot_y|}}}
-|[[Category:Settlement articles with dot maps]]
-}}</includeonly><noinclude>
-{{documentation}}
+}}<includeonly>{{#switch:{{{coordinates_region|}}}|CA-X|US-X|IN-X=[[Category:Infobox settlement uses with imprecise region codes]]
+}}{{#if:{{{image_dot_map|}}}{{{dot_mapsize|}}}{{{dot_map_base_alt|}}}{{{dot_map_alt|}}}{{{dot_map_caption|}}}{{{dot_x|}}}{{{dot_y|}}}|[[Category:Pages using infobox settlement with a dot map]]
+}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox settlement with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview = Page using [[Template:Infobox settlement]] with unknown parameter "_VALUE_"|ignoreblank=y
+| alt | anthem | area_blank1_acre | area_blank1_dunam | area_blank1_ha | area_blank1_km2 | area_blank1_sq_mi | area_blank1_title | area_blank2_acre | area_blank2_dunam | area_blank2_ha | area_blank2_km2 | area_blank2_sq_mi | area_blank2_title | area_code | area_code_type | area_footnotes | area_land_acre | area_land_dunam | area_land_ha | area_land_km2 | area_land_sq_mi | area_magnitude | area_metro_acre | area_metro_dunam | area_metro_footnotes | area_metro_ha | area_metro_km2 | area_metro_sq_mi | area_note | area_rank | area_rural_acre | area_rural_dunam | area_rural_footnotes | area_rural_ha | area_rural_km2 | area_rural_sq_mi | area_total_acre | area_total_dunam | area_total_ha | area_total_km2 | area_total_sq_mi | area_urban_acre | area_urban_dunam | area_urban_footnotes | area_urban_ha | area_urban_km2 | area_urban_sq_mi | area_water_acre | area_water_dunam | area_water_ha | area_water_km2 | area_water_percent | area_water_sq_mi | blank_emblem_alt | blank_emblem_link | blank_emblem_size | blank_emblem_type | blank_info | blank_info_sec1 | blank_info_sec2 | blank_name | blank_name_sec1 | blank_name_sec2 | blank1_info | blank1_info_sec1 | blank1_info_sec2 | blank1_name | blank1_name_sec1 | blank1_name_sec2 | blank2_info | blank2_info_sec1 | blank2_info_sec2 | blank2_name | blank2_name_sec1 | blank2_name_sec2 | blank3_info | blank3_info_sec1 | blank3_info_sec2 | blank3_name | blank3_name_sec1 | blank3_name_sec2 | blank4_info | blank4_info_sec1 | blank4_info_sec2 | blank4_name | blank4_name_sec1 | blank4_name_sec2 | blank5_info | blank5_info_sec1 | blank5_info_sec2 | blank5_name | blank5_name_sec1 | blank5_name_sec2 | blank6_info | blank6_info_sec1 | blank6_info_sec2 | blank6_name | blank6_name_sec1 | caption | blank6_name_sec2 | blank7_info | blank7_info_sec1 | blank7_info_sec2 | blank7_name | blank7_name_sec1 | blank7_name_sec2 | coor_pinpoint | coor_type | coordinates |  coordinates_footnotes | demographics_type1 | demographics_type2 | demographics1_footnotes | demographics1_info1 | demographics1_info2 | demographics1_info3 | demographics1_info4 | demographics1_info5 | demographics1_info6 | demographics1_info7 | demographics1_info8 | demographics1_info9 | demographics1_info10 | demographics1_title1 | demographics1_title2 | demographics1_title3 | demographics1_title4 | demographics1_title5 | demographics1_title6 | demographics1_title7 | demographics1_title8 | demographics1_title9 | demographics1_title10 | demographics2_footnotes | demographics2_info1 | demographics2_info2 | demographics2_info3 | demographics2_info4 | demographics2_info5 | demographics2_info6 | demographics2_info7 | demographics2_info8 | demographics2_info9 | demographics2_info10 | demographics2_title1 | demographics2_title2 | demographics2_title3 | demographics2_title4 | demographics2_title5 | demographics2_title6 | demographics2_title7 | demographics2_title8 | demographics2_title9 | demographics2_title10 | dimensions_footnotes | dunam_link | elevation_footnotes | elevation_ft | elevation_m | elevation_max_footnotes | elevation_max_ft | elevation_max_m | elevation_max_point | elevation_max_rank | elevation_min_footnotes | elevation_min_ft | elevation_min_m | elevation_min_point | elevation_min_rank | elevation_point | embed | established_date | established_date1 | established_date2 | established_date3 | established_date4 | established_date5 | established_date6 | established_date7 | established_title | established_title1 | established_title2 | established_title3 | established_title4 | established_title5 | established_title6 | established_title7 | etymology | extinct_date | extinct_title | flag_alt | flag_border | flag_link | flag_size | footnotes| founder | geocode | governing_body | government_footnotes | government_type | grid_name | grid_position | image | image_alt | image_blank_emblem | image_caption | image_flag | image_map | image_map1 | image_seal | image_shield | image_skyline | image_size | imagesize | iso_code | leader_name | leader_name1 | leader_name2 | leader_name3 | leader_name4 | leader_party | leader_title | leader_title1 | leader_title2 | leader_title3 | leader_title4 | length_km | length_mi | map_alt | map_alt1 | map_caption | map_caption1 | mapsize | mapsize1 | motto | name | named_for | native_name | native_name_lang | nickname | official_name | other_name | p1 | p10 | p11 | p12 | p13 | p14 | p15 | p16 | p17 | p18 | p19 | p2 | p20 | p21 | p22 | p23 | p24 | p25 | p26 | p27 | p28 | p29 | p3 | p30 | p31 | p32 | p33 | p34 | p35 | p36 | p37 | p38 | p39 | p4 | p40 | p41 | p42 | p43 | p44 | p45 | p46 | p47 | p48 | p49 | p5 | p50 | p6 | p7 | p8 | p9 | parts | parts_style | parts_type | pop_est_as_of | pop_est_footnotes | population | population_as_of | population_blank1 | population_blank1_footnotes | population_blank1_title | population_blank2 | population_blank2_footnotes | population_blank2_title | population_demonym | population_density_blank1_km2 | population_density_blank1_sq_mi | population_density_blank2_km2 | population_density_blank2_sq_mi | population_density_km2 | population_density_metro_km2 | population_density_metro_sq_mi | population_density_rank | population_density_rural_km2 | population_density_rural_sq_mi | population_density_sq_mi | population_density_urban_km2 | population_density_urban_sq_mi | population_est | population_footnotes | population_metro | population_metro_footnotes | population_note | population_rank | population_rural | population_rural_footnotes | population_total | population_urban | population_urban_footnotes | postal_code | postal_code_type | postal2_code | postal2_code_type | pushpin_image | pushpin_label | pushpin_label_position | pushpin_map | pushpin_map_alt | pushpin_map_caption | pushpin_map_caption_notsmall | pushpin_map_narrow | pushpin_mapsize | pushpin_outside | pushpin_overlay | pushpin_relief | registration_plate | registration_plate_type | seal_alt | seal_link | seal_size | seal_type | seat | seat_type | seat1 | seat1_type | settlement_type | shield_alt | shield_link | shield_size | short_description | subdivision_name | subdivision_name1 | subdivision_name2 | subdivision_name3 | subdivision_name4 | subdivision_name5 | subdivision_name6 | subdivision_type | subdivision_type1 | subdivision_type2 | subdivision_type3 | subdivision_type4 | subdivision_type5 | subdivision_type6 | timezone | timezone_link | timezone_DST | timezone1 | timezone1_DST | timezone2 | timezone2_DST | total_type | translit_lang1 | translit_lang1_info | translit_lang1_info1 | translit_lang1_info2 | translit_lang1_info3 | translit_lang1_info4 | translit_lang1_info5 | translit_lang1_info6 | translit_lang1_type | translit_lang1_type1 | translit_lang1_type2 | translit_lang1_type3 | translit_lang1_type4 | translit_lang1_type5 | translit_lang1_type6 | translit_lang2 | translit_lang2_info | translit_lang2_info1 | translit_lang2_info2 | translit_lang2_info3 | translit_lang2_info4 | translit_lang2_info5 | translit_lang2_info6 | translit_lang2_type | translit_lang2_type1 | translit_lang2_type2 | translit_lang2_type3 | translit_lang2_type4 | translit_lang2_type5 | translit_lang2_type6 | type | unit_pref | utc_offset | utc_offset_DST | utc_offset1 | utc_offset1_DST | utc_offset2 | utc_offset2_DST | website | width_km | width_mi
+}}{{#if:{{{image|}}}|[[Category:Pages using infobox settlement with the image parameter|{{#if:{{{image_skyline|}}}|!}}{{PAGENAME}}]]}}{{#if:{{{coordinates_wikidata|}}}{{{wikidata|}}}
+ |[[Category:Pages using infobox settlement with the wikidata parameter]]
+}}<noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
 </noinclude>

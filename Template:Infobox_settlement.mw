@@ -141,7 +141,7 @@
 
 <!-- ***Pushpin Map*** -->
 | rowclass26 = mergedtoprow
-|  data26 = {{#if:{{{pushpin_map_narrow|}}}||{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
+|  data26 = {{#if:{{{pushpin_map2|}}}|{{{pushpin_map2|}}}|{{#if:{{{pushpin_map_narrow|}}}||{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
 {{location map|{{{pushpin_map|}}}
  |border = infobox
  |alt = {{{pushpin_map_alt|}}}
@@ -152,16 +152,16 @@
  |relief= {{{pushpin_relief|}}}
  |AlternativeMap = {{{pushpin_image|}}}
  |overlay_image = {{{pushpin_overlay|}}}
- |coordinates = {{{coordinates|}}}
+ |coordinates = {{#if:{{{pushpin_map2_coord|}}}|{{{pushpin_map2_coord|}}}|{{{coordinates|}}} }}
  |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
  |marksize =6
  |outside = {{{pushpin_outside|}}}<!-- pin is outside the map --> 
  |position = {{{pushpin_label_position|}}}
 }}
-}} }}
+}} }} }}
 
 <!-- ***Coordinates*** -->
-| rowclass27 = {{#if:{{{image_map|}}}{{{image_map1|}}}{{{pushpin_map|}}}|{{#if:{{{grid_position|}}}|mergedrow|mergedbottomrow}}}}
+| rowclass27 = {{#if:{{{image_map|}}}{{{image_map1|}}}{{{pushpin_map|}}}{{{pushpin_map2|}}}|{{#if:{{{grid_position|}}}|mergedrow|mergedbottomrow}}}}
 |  data27 = {{#if:{{{coordinates|}}}
   |Coordinates{{#if:{{{coor_pinpoint|{{{coor_type|}}}}}}|&#32;({{{coor_pinpoint|{{{coor_type|}}}}}})}}: {{#invoke:Coordinates|coordinsert|{{{coordinates|}}}|type:city{{#if:{{{population_total|}}}|{{#iferror:{{#expr:{{formatnum:{{{population_total}}}|R}}+1}}||({{formatnum:{{{population_total}}}|R}})}}}}|{{#if:{{{subdivision_name|}}}|region:{{Country abbreviation|{{{subdivision_name}}}|{{{subdivision_name1|{{{subdivision_name2|{{{subdivision_name3|}}}}}}}}} }} }} }}{{{coordinates_footnotes|}}} }}
 

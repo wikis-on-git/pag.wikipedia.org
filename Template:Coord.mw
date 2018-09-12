@@ -1,3 +1,4 @@
+<templatestyles src="Coord/styles.css" />
 <includeonly>{{#invoke:Coordinates|coord}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using coordinates template with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Coord]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9| display | format | name | nosave | notes }}<noinclude>
 {{Documentation}}
 </noinclude>

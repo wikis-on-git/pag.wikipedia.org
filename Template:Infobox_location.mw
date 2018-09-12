@@ -5,7 +5,7 @@
 |settlement_type = {{{settlement_type|{{#invoke:String2|label|{{#invoke:wd|property|linked|{{{qid|}}}|P31}}}}}}}
 |image_skyline = {{{image_skyline|{{#invoke:wd|property|raw|best|{{{qid|}}}|P18}}}}}
 |image_alt = {{{image_alt|}}}
-|image_caption = {{{image_caption|{{#if:{{{image_skyline|}}}|{{{image_caption|}}}|{{#if:{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA|id={{{qid|}}}}}|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA|id={{{qid|}}}}}|<!--Image taken from--> {{#if:{{{name|}}}|{{{name}}}|{{#invoke:wd|label|{{{qid|}}}}}}}}}}}}}}
+|image_caption = {{{image_caption|{{#if:{{{image_skyline|}}}|{{{image_caption|}}}|{{#if:{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA|id={{{qid|}}}}}|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA|id={{{qid|}}}}}|Image of {{#if:{{{name|}}}|{{{name}}}|{{#invoke:wd|label|{{{qid|}}}}}}}}}}}}}}
 |image_size = {{{image_size|280px}}}
 |image_flag = {{{image_flag|{{#invoke:wd|property|raw|best|{{{qid|}}}|P41}}}}}
 |flag_alt = {{{flag_alt|}}}
@@ -18,7 +18,7 @@
 |shield_size = {{{shield_size|100x80px}}}
 |nickname = {{{nickname|}}}
 |motto = {{{motto|}}}
-|image_map  = {{{image_map|{{#invoke:wd|property|raw|best|{{{qid|}}}|P242}} }}} 
+|image_map  = {{#if:{{{pushpin_map|}}}|{{{image_map|{{#invoke:wd|property|raw|best|{{{qid|}}}|P242}} }}} }}
 |mapsize = {{#if:{{{pushpin_map|}}}|{{{mapsize|280px}}} }}
 |map_alt = {{#if:{{{pushpin_map|}}}|{{{map_alt|Mapa a pakabirukan ti {{#invoke:wd|label|{{{qid|}}}}}}}} }}
 |map_caption  = {{#if:{{{pushpin_map|}}}|{{{map_caption|Lokasion ti {{#invoke:wd|label|{{{qid|}}}}}}}} }}
@@ -41,7 +41,7 @@
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [{{#invoke:WikidataIB |getValue |maxvals =1 |P625 |fwd=ALL |osd=no |qid={{{qid|}}} |noicon=true |show=longlat}}] },
   "properties": {
-    "title": "Location of {{#invoke:wd|label|{{{qid|}}}}}",
+    "title": "Lokasion ti {{#invoke:wd|label|{{{qid|}}}}}",
     "marker-color": "0050d0",
     "marker-symbol": "circle-stroked"
     }
@@ -55,7 +55,7 @@
 |align = center
 |frameless = yes
 |lang = {{{lang|}}}
-}}
+}}|}} }}
 |pushpin_map2_coord = {{#if:{{{pushpin_map|}}}|{{coord|{{#invoke:WikidataIB |getValue |maxvals =1|P625 |fwd=ALL |osd=no |qid={{{qid|}}} |noicon=true |show=lat}}|{{#invoke:WikidataIB |getValue |maxvals =1|P625 |fwd=ALL |osd=no |qid={{{qid|}}}|noicon=true |show=long}}}}}}
 |coordinates = {{{coordinates|{{#if:{{#invoke:Wikidata|pageId}}{{{qid|}}}|{{coord/display/{{main other|inline,title|inline}}|{{#tag:maplink|
 [

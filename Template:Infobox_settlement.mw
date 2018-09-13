@@ -264,7 +264,7 @@
 
 <!-- ***Government type and Leader*** -->
 | rowclass50 = mergedtoprow
-| header50 = {{#if:{{{government_type|}}}{{{governing_body|}}}{{{leader_name|}}}{{{leader_name1|}}}{{{leader_name2|}}}{{{leader_name3|}}}{{{leader_name4|}}}|Government<span style="font-weight:normal">{{{government_footnotes|}}}</span>}}
+| header50 = {{#if:{{{government_type|}}}{{{governing_body|}}}{{{leader_name|}}}{{{leader_name1|}}}{{{leader_name2|}}}{{{leader_name3|}}}{{{leader_name4|}}}|Gobiyerno<span style="font-weight:normal">{{{government_footnotes|}}}</span>}}
 <!-- ***Government*** -->
 | rowclass51 = mergedrow
 | label51 = &nbsp;•&nbsp;Type
@@ -297,14 +297,14 @@
 | header58 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_ha|}}}{{{area_urban_acre|}}}{{{area_urban_sq_mi|}}}{{{area_rural_sq_mi|}}}{{{area_rural_ha|}}}{{{area_rural_acre|}}}{{{area_rural_km2|}}}{{{area_metro_km2|}}}{{{area_metro_ha|}}}{{{area_metro_acre|}}}{{{area_blank1_km2|}}}{{{area_blank1_ha|}}}{{{area_blank1_acre|}}}{{{area_metro_sq_mi|}}}{{{area_blank1_sq_mi|}}}
  |{{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}
    |<!-- displayed below -->
-   |Area<span style="font-weight:normal">{{{area_footnotes|}}}</span>
+   |Awang<span style="font-weight:normal">{{{area_footnotes|}}}</span>
   }}
  }}
 
 | rowclass59 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}|mergedtoprow|mergedrow}}
 | label59 = {{#if:{{both|{{#ifeq:{{{total_type}}}|&nbsp;|1}}|{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}}}
-  |Area<span style="font-weight:normal">{{{area_footnotes|}}}</span>
-  |&nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|Siyudad}}|Total}}}}
+  |Awang<span style="font-weight:normal">{{{area_footnotes|}}}</span>
+  |&nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|Siyudad}}|Katiponan}}}}
   }}
 |  data59 = {{#if:{{{area_total_km2|}}}{{{area_total_ha|}}}{{{area_total_acre|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}
  |{{infobox_settlement/areadisp
@@ -320,7 +320,7 @@
  }}}}
 
 | rowclass60 = mergedrow
-| label60 = &nbsp;•&nbsp;Land
+| label60 = &nbsp;•&nbsp;Dalin
 |  data60 = {{#if:{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_acre|}}}{{{area_land_sq_mi|}}}{{{area_land_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_land_km2|}}}
@@ -333,7 +333,7 @@
    |name ={{{subdivision_name}}}
  }}}}
 | rowclass61 = mergedrow
-| label61 = &nbsp;•&nbsp;Water
+| label61 = &nbsp;•&nbsp;Danum
 |  data61 = {{#if:{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_acre|}}}{{{area_water_sq_mi|}}}{{{area_water_dunam|}}}
  |{{infobox_settlement/areadisp
    |km2  ={{{area_water_km2|}}}
@@ -427,7 +427,7 @@
 | header69 = {{#if:{{{length_km|}}}{{{length_mi|}}}{{{width_km|}}}{{{width_mi|}}}|Dimensions<span style="font-weight:normal">{{{dimensions_footnotes|}}}</span>}}
 
 | rowclass70 = mergedrow
-| label70 = &nbsp;•&nbsp;Length
+| label70 = &nbsp;•&nbsp;Karukey
 |  data70 = {{#if:{{{length_km|}}}{{{length_mi|}}}
  | {{infobox_settlement/lengthdisp
       |km  ={{{length_km|}}}
@@ -437,7 +437,7 @@
     }} }}
 
 | rowclass71 = mergedrow
-| label71 = &nbsp;•&nbsp;Width
+| label71 = &nbsp;•&nbsp;Kalapar
 |  data71 = {{#if:{{{width_km|}}}{{{width_mi|}}}
  |{{infobox_settlement/lengthdisp
       |km  ={{{width_km|}}}
@@ -487,7 +487,7 @@
 
 <!-- ***Population*** -->
 | rowclass77 = mergedtoprow
-| label77 = Population <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
+| label77 = Bilang na too <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
 |  data77 = {{#if:{{{population|}}}
   | {{formatnum:{{{population}}}}}
   | {{#ifeq:{{{total_type}}}|&nbsp;
@@ -503,13 +503,13 @@
   |{{#ifeq:{{{total_type}}}|&nbsp;
      |
      |{{#if:{{{population_total|}}}{{{population_urban|}}}{{{population_rural|}}}{{{population_metro|}}}{{{population_blank1|}}}{{{population_blank2|}}}{{{population_est|}}}
-       |Population <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
+       |Bilang na too <span style="font-weight:normal">{{#if:{{{population_as_of|}}}|({{{population_as_of}}})}}{{{population_footnotes|}}}</span>
       }}
     }}
   }}
 
 | rowclass79 = mergedrow
-| label79 = &nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|City}}|Total}}}}
+| label79 = &nbsp;•&nbsp;{{#if:{{{total_type|}}}|{{{total_type}}}|{{#if:{{{population_metro|}}}{{{population_urban|}}}{{{population_rural|}}}{{{area_metro_km2|}}}{{{area_metro_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_rural_km2|}}}{{{area_rural_sq_mi|}}}|{{#if:{{{settlement_type|{{{type|}}}}}}|{{{settlement_type|{{{type}}}}}}|Siyudad}}|Katiponan}}}}
 |  data79 = {{#if:{{{population|}}}
   |
   |{{#ifeq:{{{total_type}}}|&nbsp;

@@ -18,10 +18,10 @@
 |shield_size = {{{shield_size|100x80px}}}
 |nickname = {{{nickname|}}}
 |motto = {{{motto|}}}
-|image_map  = {{#if:{{{pushpin_map|}}}|{{{image_map|{{#invoke:wd|property|raw|best|{{{qid|}}}|P242}} }}} }}
-|mapsize = {{#if:{{{pushpin_map|}}}|{{{mapsize|280px}}} }}
-|map_alt = {{#if:{{{pushpin_map|}}}|{{{map_alt|Location map of {{#invoke:wd|label|{{{qid|}}}}}}}} }}
-|map_caption  = {{#if:{{{pushpin_map|}}}|{{{map_caption|Location of {{#invoke:wd|label|{{{qid|}}}}}}}} }}
+|image_map  = {{{image_map|{{#invoke:wd|property|raw|best|{{{qid|}}}|P242}} }}} 
+|mapsize = {{{mapsize|280px}}} 
+|map_alt = {{{map_alt|Lokasiyon na {{#invoke:wd|label|{{{qid|}}}}}}}} 
+|map_caption  = {{{map_caption|Lokasiyon na {{#invoke:wd|label|{{{qid|}}}}}}}} 
 |pushpin_map = {{{pushpin_map|}}}
 |pushpin_label_position  = {{{pushpin_label_position|}}}
 |pushpin_label = {{{pushpin_label|}}}
@@ -41,7 +41,7 @@
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [{{#invoke:WikidataIB |getValue |maxvals =1 |P625 |fwd=ALL |osd=no |qid={{{qid|}}} |noicon=true |show=longlat}}] },
   "properties": {
-    "title": "Lokasion ti {{#invoke:wd|label|{{{qid|}}}}}",
+    "title": "Lokasiyon na {{#invoke:wd|label|{{{qid|}}}}}",
     "marker-color": "0050d0",
     "marker-symbol": "circle-stroked"
     }
@@ -69,7 +69,7 @@
   "type": "Feature",
   "geometry": { "type": "Point", "coordinates": [{{#invoke:WikidataIB |getValue |maxvals =1 |P625 |fwd=ALL |osd=no |qid={{{qid|}}} |noicon=true |show=longlat}}] },
   "properties": {
-    "title": "Location of {{#invoke:wd|label|{{{qid|}}}}}",
+    "title": "Lokasiyon na {{#invoke:wd|label|{{{qid|}}}}}",
     "marker-color": "0050d0",
     "marker-symbol": "circle-stroked"
     }
@@ -101,7 +101,7 @@
 |postal_code = {{{postal_code|{{#invoke:wd|properties|raw|{{{qid|}}}|P281}}}}}
 |area_code = {{{area_code|{{#invoke:wd|properties|raw|{{{qid|}}}|P473}}}}}
 |website = {{{website|{{#if:{{main other|{{#property:P856}}|{{#property:P856|from={{{qid|}}}}}}}|{{URL|{{#invoke:wd|property|raw|best|{{{qid|}}}|P856}}}}|}}}}}
-|footnotes = {{{footnotes|{{#if:{{#invoke:Wikidata|pageId}}||{{#ifeq:{{NAMESPACE}}|{{ns:0}}|{{error|Notice!}} Data will appear when article is linked to Wikidata.[[Category:Articles using Template:Infobox location not linked to Wikidata]]}}}} }}}
+|footnotes = {{{footnotes|{{#if:{{#invoke:Wikidata|pageId}}||{{#ifeq:{{NAMESPACE}}|{{ns:0}}|{{error|Pasakbay!}} Data will appear when article is linked to Wikidata.[[Category:Articles using Template:Infobox location not linked to Wikidata]]}}}} }}}
 }}</includeonly><noinclude>
 {{documentation}}
 </noinclude>

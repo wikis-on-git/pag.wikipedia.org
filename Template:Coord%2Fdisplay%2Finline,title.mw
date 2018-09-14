@@ -1,2 +1,2 @@
 <templatestyles src="Coord/styles.css" />
-{{{1}}}<indicator name="coordinates"><span style="font-size: 80%;"><!--[[Geographic coordinate system|Coordinates]]:-->{{{1}}}</span></indicator><noinclude>{{documentation}}</noinclude>
+{{{1}}}<indicator name="coordinates"><span style="font-size: 80%;"><span id="coordinates"><!--[[Geographic coordinate system|Coordinates]]:-->{{{1}}}</span></span></indicator><noinclude>{{documentation}}</noinclude>

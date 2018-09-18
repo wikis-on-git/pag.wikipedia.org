@@ -1,0 +1,12 @@
+/* Make the list of references smaller */
+/* Keep in sync with Template:Refbegin/styles.css */
+ol.references,
+div.reflist {
+	font-size: 90%;            /* Default font-size */
+	margin-bottom: 0.5em;
+}
+div.reflist ol.references {
+	font-size: 100%;           /* Reset font-size when nested in div.reflist */
+	margin-bottom: 0;          /* Avoid double margin when nested in div.reflist */
+	list-style-type: inherit;  /* Enable custom list style types */
+}

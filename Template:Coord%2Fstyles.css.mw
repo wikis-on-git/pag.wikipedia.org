@@ -136,7 +136,6 @@ body.skin-timeless .ve-ce-surface-enabled #coordinates {
 /* Geographical coordinates defaults. See [[Template:Coord/link]]
    for how these are used. The classes "geo", "longitude", and
    "latitude" are used by the [[Geo microformat]]. */
-/* TemplateStyles */
 .geo-default, .geo-dms, .geo-dec {
 	display: inline;
 }

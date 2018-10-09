@@ -1,8 +1,24 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Saray Baley na Filipinas|Baley]] na [[Balon Vizcaya|Nueva Vizcaya]]/[[Balon Vizcaya|Balon Vizcaya]]'''
-|-
-|style="padding:0px 5px"; align="center"| [[Alfonso Castaneda, Nueva Vizcaya|Alfonso Castaneda]] | [[Ambaguio, Nueva Vizcaya|Ambaguio]] | [[Aritao, Nueva Vizcaya|Aritao]] | [[Bagabag, Nueva Vizcaya|Bagabag]] | [[Bambang, Nueva Vizcaya|Bambang]] | [[Bayombong, Nueva Vizcaya|Bayombong]] | [[Diadi, Nueva Vizcaya|Diadi]] | [[Dupax del Norte, Nueva Vizcaya|Dupax del Norte]] | [[Dupax del Sur, Nueva Vizcaya|Dupax del Sur]] | [[Kasibu, Nueva Vizcaya|Kasibu]] | [[Kayapa, Nueva Vizcaya|Kayapa]] | [[Quezon, Nueva Vizcaya|Quezon]] | [[Santa Fe, Nueva Vizcaya|Santa Fe]] | [[Solano, Nueva Vizcaya|Solano]] | [[Villaverde, Nueva Vizcaya|Villaverde]] 
-|}
-</div>
+{{Navbox
+|name = Nueva Vizcaya
+|title = Saray [[Saray Baley na Filipinas|Baley]] na [[Balon Vizcaya|Nueva Vizcaya]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Alfonso Castañeda, Nueva Vizcaya|Alfonso Castañeda]]
+* [[Ambaguio, Nueva Vizcaya|Ambaguio]]
+* [[Aritao, Nueva Vizcaya|Aritao]]
+* [[Bagabag, Nueva Vizcaya|Bagabag]]
+* [[Bambang, Nueva Vizcaya|Bambang]]
+* [[Bayombong, Nueva Vizcaya|Bayombong]]
+* [[Diadi, Nueva Vizcaya|Diadi]]
+* [[Dupax del Norte, Nueva Vizcaya|Dupax del Norte]]
+* [[Dupax del Sur, Nueva Vizcaya|Dupax del Sur]]
+* [[Kasibu, Nueva Vizcaya|Kasibu]]
+* [[Kayapa, Nueva Vizcaya|Kayapa]]
+* [[Quezon, Nueva Vizcaya|Quezon]]
+* [[Santa Fe, Nueva Vizcaya|Santa Fe]]
+* [[Solano, Nueva Vizcaya|Solano]]
+* [[Villaverde, Nueva Vizcaya|Villaverde]]
+
+}}

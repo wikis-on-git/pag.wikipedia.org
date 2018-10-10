@@ -1,0 +1,44 @@
+<!-- translation in Eng. for {{#time}} 
+-->{{#invoke:string|replace|<!--    Enero      → January
+-->{{#invoke:string|replace|<!--    Pebrero    → February
+-->{{#invoke:string|replace|<!--    Marso      → March
+-->{{#invoke:string|replace|<!--    Abril      → April
+-->{{#invoke:string|replace|<!--    Mayo       → May
+-->{{#invoke:string|replace|<!--    Hunyo      → June
+-->{{#invoke:string|replace|<!--    Hulyo      → July
+-->{{#invoke:string|replace|<!--    Agosto     → August
+-->{{#invoke:string|replace|<!--    Setyembre → September
+-->{{#invoke:string|replace|<!--    Oktubre    → October
+-->{{#invoke:string|replace|<!--    Nobyembre  → November
+-->{{#invoke:string|replace|<!--    Disyembre  → December
+-->{{#invoke:string|replace|<!--    Ene        → Jan
+-->{{#invoke:string|replace|<!--    Peb        → Feb
+-->{{#invoke:string|replace|<!--    Abr        → Apr
+-->{{#invoke:string|replace|<!--    Hun        → Jun
+-->{{#invoke:string|replace|<!--    Hul        → Jul
+-->{{#invoke:string|replace|<!--    Ago        → Aug
+-->{{#invoke:string|replace|<!--    Okt        → Oct
+-->{{#invoke:string|replace|<!--    Nob        → Nov
+-->{{#invoke:string|replace|<!--    Dis        → Dec
+-->{{#invoke:string|replace|{{{1|{{PAGENAME}}}}}}}<!-- 
+-->|Disyembre|December}}<!--
+-->|Nobyembre|November}}<!--
+-->|Oktubre|October}}<!--
+-->|Setyembre|September}}<!--
+-->|Agosto|August}}<!--
+-->|Hulyo|July}}<!--
+-->|Hunyo|June}}<!--
+-->|Mayo|May}}<!--
+-->|Abril|April}}<!--
+-->|Marso|March}}<!--
+-->|Pebrero|February}}<!--
+-->|Enero|January}}<!--
+-->|Dis|Dec}}<!--
+-->|Nob|Nov}}<!--
+-->|Okt|Oct}}<!--
+-->|Ago|Aug}}<!--
+-->|Hul|Jul}}<!--
+-->|Hun|Jun}}<!--
+-->|Abr|Apr}}<!--
+-->|Peb|Feb}}<!--
+-->|Ene|Jan}}<noinclude>{{documentation}}</noinclude>

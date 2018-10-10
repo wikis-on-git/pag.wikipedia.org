@@ -1,0 +1,14 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Martes}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=T
+|#default|abbr|2=Ma
+|3=Mar
+|day=Mart
+|0|no|name|full=Martes
+|symbol|astro=♂
+|code|PHP|number|ISO=2
+|US=3
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

@@ -1,0 +1,14 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Simba}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=S
+|#default|2=Si
+|3|day=Sim
+|0|no|full|name=Simba
+|symbol|astro=☉
+|code|PHP=0
+|number|ISO=7
+|US=1
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

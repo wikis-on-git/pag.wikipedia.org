@@ -1,0 +1,32 @@
+<templatestyles src="Navbox/styles.css" />
+{| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
+|- class="navbox-title" style="{{{titlestyle|}}}"
+|{{{prev_month|}}}
+!colspan="5" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
+|{{{next_month|}}}
+{{DOWs|start=Simba|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+|-
+|        ||{{{01}}}||{{{02}}}||{{{03}}}||{{{04}}}||{{{05}}}||{{{06}}}
+|-
+|{{{07}}}||{{{08}}}||{{{09}}}||{{{10}}}||{{{11}}}||{{{12}}}||{{{13}}}
+|-
+|{{{14}}}||{{{15}}}||{{{16}}}||{{{17}}}||{{{18}}}||{{{19}}}||{{{20}}}
+|-
+|{{{21}}}||{{{22}}}||{{{23}}}||{{{24}}}||{{{25}}}||{{{26}}}||{{{27}}}
+|-
+|{{{28}}}||{{{29|}}}||{{{30|}}}||{{{31|}}}
+|colspan=3|&nbsp;
+{{#if:{{{6row|}}}|
+{{!}}-
+{{!}}colspan=7{{!}}&nbsp;
+}}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{{EndNote|}}}|{{!}}colspan="7"{{!}}{{{EndNote}}} }}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{#ifeq:{{{show_year}}}|off||{{{year|}}}}}|{{!}}colspan=7{{!}}<b>{{#ifeq:{{{lk}}}|on
+  |[[{{{year}}}]]
+  |{{{year}}}
+ }}</b>}}
+|}<noinclude>
+{{documentation}}
+</noinclude>

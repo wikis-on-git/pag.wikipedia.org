@@ -1,5 +1,5 @@
 <noinclude>{| class="wikitable"
-!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Wednesday}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Mierkoles}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
 |1=M
 |#default|abbr|2=Mi
 |3=Mie

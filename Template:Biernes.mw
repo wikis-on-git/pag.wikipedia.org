@@ -1,0 +1,13 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Biernes}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=B
+|#default|abbr|2=Bi
+|3|day=Bie
+|0|no|name|full=Biernes
+|symbol|astro=♀
+|code|PHP|number|ISO=5
+|US=6
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

@@ -1,0 +1,13 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Sabado}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=S
+|#default|abbr|2=Sa
+|3|day=Sab
+|0|no|name|full=Sabado
+|symbol|astro=♄
+|code|PHP|number|ISO=6
+|US=7
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

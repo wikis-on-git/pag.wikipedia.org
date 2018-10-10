@@ -1,0 +1,13 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Lunes}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=M
+|#default|abbr|2=Lu
+|3|day=Lun
+|0|no|name|full=Lunes
+|symbol|astro=☽
+|code|PHP|number|ISO=1
+|US=2
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

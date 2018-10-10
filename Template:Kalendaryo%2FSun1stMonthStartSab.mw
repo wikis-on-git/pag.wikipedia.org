@@ -1,9 +1,10 @@
+<templatestyles src="Navbox/styles.css" />
 {| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
 |- class="navbox-title" style="{{{titlestyle|}}}"
 |{{{prev_month|}}}
 !colspan="5" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
 |{{{next_month|}}}
-{{DOWs|start=Sunday|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+{{DOWs|start=Simba|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
 |-
 |        ||        ||        ||        ||        ||        ||{{{01}}}
 |-

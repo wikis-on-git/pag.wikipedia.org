@@ -1,5 +1,5 @@
 <noinclude>{| class="wikitable"
-!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Thursday}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Huebes}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
 |1=H
 |#default|abbr|2=Hu
 |3=Hue

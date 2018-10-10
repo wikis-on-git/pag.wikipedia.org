@@ -1,0 +1,14 @@
+<noinclude>{| class="wikitable"
+!</noinclude>{{#ifeq:{{{2|}}}|!|!scope="{{{scope|col}}}" width="{{{3|{{{width|14%}}}}}}" title="{{{4|{{{title|Thursday}}}}}}"{{!}} | }}{{#switch:{{uc:{{{1|2}}}}}
+|1=H
+|#default|abbr|2=Hu
+|3=Hue
+|day=Huebe
+|0|no|name|full=Huebes
+|symbol|astro=♃
+|code|PHP|number|ISO=4
+|US=5
+}}
+<noinclude>|}
+{{documentation}}
+</noinclude>

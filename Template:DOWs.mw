@@ -1,0 +1,15 @@
+<noinclude>{| class="wikitable"
+</noinclude>|- class="header {{{class|}}}" style="{{{style|}}}"
+{{#if:{{{left|{{{colspan|}}}}}}|!colspan={{{colspan|1}}}{{!}} {{{left|}}} }}
+{{#ifeq:{{{start|}}}|Sunday|{{Sunday|{{{letters|2}}}|!|{{{width|*}}}}}|}}
+{{Lunes|{{{letters|2}}}|!|{{{width|*}}}}}
+{{Martes|{{{letters|2}}}|!|{{{width|*}}}}}
+{{Mierkoles|{{{letters|2}}}|!|{{{width|*}}}}}
+{{Huebes|{{{letters|2}}}|!|{{{width|*}}}}}
+{{Biernes|{{{letters|2}}}|!|{{{width|*}}}}}
+{{Sabado|{{{letters|2}}}|!|{{{width|*}}}}}{{#ifeq:{{{start|}}}|Sunday||
+{{Simba|{{{letters|2}}}|!|{{{width|*}}}}}}}
+|-<noinclude>
+|}
+{{documentation}}
+</noinclude>

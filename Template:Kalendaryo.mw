@@ -1,8 +1,8 @@
 <includeonly>{{#if:{{{1|}}}
   |{{kalendaryo/{{{1}}}
      |year={{{year|{{#time:Y}}}}}
-     |base={{{base|{{#titleparts:{{kalendaryo/bulan-en}}|2}}}}}
-     |sub={{#titleparts:{{kalendaryo/bulan-en}}/XXX|1|3}}
+     |base={{{base|{{#titleparts:{{title without disambig|{{PAGENAME}}}}|2}}}}}
+     |sub={{#titleparts:{{title without disambig|{{PAGENAME}}}}/XXX|1|3}}
      |zero={{{zero|{{0}}}}}
      |titlestyle={{#if:{{{title_colour|{{{colour|}}}}}}
         |background-color:{{{title_colour|{{{colour}}}}}};
@@ -13,8 +13,8 @@
    }}
   |{{#ifeq:{{NAMESPACE}}|Portal
      |{{kalendaryo/portal
-        |base={{{base|{{#titleparts:{{kalendaryo/bulan-en}}|2}}}}}
-        |sub={{#titleparts:{{kalendaryo/bulan-en}}/XXX|1|3}}
+        |base={{{base|{{#titleparts:{{title without disambig|{{PAGENAME}}}}|2}}}}}
+        |sub={{#titleparts:{{title without disambig|{{PAGENAME}}}}/XXX|1|3}}
         |title={{{title|}}}
         |col={{{col|4}}}
         |tm={{{txt_pref_m|}}}
@@ -27,7 +27,7 @@
         |ml<={{{lk_suff_mprev|{{{lk_suff_m|{{{lk_suff|}}}}}}}}}
         |ld={{{lk_pref_d|{{{lk_pref|}}}}}}
         |dl={{{lk_suff_d|{{{lk_suff|}}}}}}
-        |month={{kalendaryo/bulan-en|{{{month|}}}}}
+        |month={{{month|}}}
         |year={{{year|{{#time:Y}}}}}
         |show_year={{{show_year|off}}}
         |F={{#ifeq:{{{show_year|on}}}|with month|F Y|F}}
@@ -47,7 +47,7 @@
            |background-color:{{{wknum_colour}}};
          }}
       }}
-     |{{#iferror:{{#time:|{{kalendaryo/bulan-en}}}}
+     |{{#iferror:{{#time:|{{title without disambig|{{PAGENAME}}}}}}
         |{{#if:{{{month|}}}
            |{{kalendaryo/month/link {{#if:{{{lk_pref|}}}{{{lk_pref_d|}}}{{{lk_pref_m|}}}<!--
                         -->{{{lk_suff|}}}{{{lk_suff_d|}}}{{{lk_suff_m|}}}<!--
@@ -142,16 +142,16 @@
               |wk5253={{{wk5253|}}}
             }}
          }}
-        |{{kalendaryo/{{#ifeq:{{kalendaryo/bulan-en}}|{{#time:Y|{{kalendaryo/bulan-en}}}}
+        |{{kalendaryo/{{#ifeq:{{title without disambig|{{PAGENAME}}}}|{{#time:Y|{{title without disambig|{{PAGENAME}}}}}}
               |{{{row|{{{col|4}}}}}}-{{#if:{{{row|}}}|row|column}}
               |month/link {{{lk|on}}}
             }}
            |title={{{title|}}}
-           |year={{{year|{{#time:Y|{{kalendaryo/bulan-en}}}}}}
-           |show_year={{#ifeq:{{kalendaryo/bulan-en}}|{{#time:F Y|{{kalendaryo/bulan-en}}}|off|on}}
-           |F={{#ifeq:{{kalendaryo/bulan-en}}|{{#time:F Y|{{kalendaryo/bulan-en}}}}|F Y|F}}
+           |year={{{year|{{#time:Y|{{title without disambig|{{PAGENAME}}}}}}}}}
+           |show_year={{#ifeq:{{title without disambig|{{PAGENAME}}}}|{{#time:F Y|{{title without disambig|{{PAGENAME}}}}}}|off|on}}
+           |F={{#ifeq:{{title without disambig|{{PAGENAME}}}}|{{#time:F Y|{{title without disambig|{{PAGENAME}}}}}}|F Y|F}}
            |float={{{float|right}}}
-           |month={{{month|{{#time:F|{{kalendaryo/bulan-en}} 1}}}}}
+           |month={{{month|{{#time:F|{{title without disambig|{{PAGENAME}}}} 1}}}}}
            |lk={{{lk|on}}}
            |EndNote={{{EndNote|}}}
            |zero={{{zero|{{0}}}}}

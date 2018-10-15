@@ -1,12 +1,35 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Siyudad]] san [[Baley]] na [[Cavite|Cavite]]'''
-|-
-|style="padding:0px 5px" align="right"|'''Saray Siyudad:''' 
-|style="padding:0px 5px" | [[Bacoor, Cavite|Bacoor]] | [[Siyudad na Cavite|Cavite]] | [[Dasmariñas, Cavite|Dasmariñas]] | [[General Trias]] | [[Imus, Cavite|Imus]] | [[Siyudad na Tagaytay|Tagaytay]] | [[Siyudad na Trece Martires|Trece Martires]] 
-|-
-|style="padding:0px 5px" align="right"|'''Saray Baley:''' 
-|style="padding:0px 5px" | [[Alfonso, Cavite|Alfonso]] | [[Amadeo, Cavite|Amadeo]] | [[Carmona, Cavite|Carmona]] |  [[Gen. Mariano Alvarez, Cavite|Gen. Mariano Alvarez]] | [[Gen. Emilio Aguinaldo, Cavite|Gen. Emilio Aguinaldo]]  | [[Indang, Cavite|Indang]] | [[Kawit, Cavite|Kawit]] | [[Magallanes, Cavite|Magallanes]] | [[Maragondon, Cavite|Maragondon]] | [[Mendez, Cavite|Mendez]] | [[Naic, Cavite|Naic]] | [[Noveleta, Cavite|Noveleta]] | [[Rosario, Cavite|Rosario]] | [[Silang, Cavite|Silang]] | [[Tanza, Cavite|Tanza]] | [[Ternate, Cavite|Ternate]] 
-|}
-</div>
+{{Navbox
+|name = Cavite
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Cavite]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 =
+* [[Alfonso, Cavite|Alfonso]]
+* [[Amadeo, Cavite|Amadeo]]
+* [[Carmona, Cavite|Carmona]]
+* [[General Emilio Aguinaldo, Cavite|General Emilio Aguinaldo]]
+* [[General Mariano Alvarez, Cavite|General Mariano Alvarez]]
+* [[Indang, Cavite|Indang]]
+* [[Kawit, Cavite|Kawit]]
+* [[Magallanes, Cavite|Magallanes]]
+* [[Maragondon, Cavite|Maragondon]]
+* [[Mendez, Cavite|Mendez]]
+* [[Naic, Cavite||Naic]]
+* [[Noveleta]]
+* [[Rosario, Cavite|Rosario]]
+* [[Silang, Cavite|Silang]]
+* [[Tanza, Cavite|Tanza]]
+* [[Ternate, Cavite|Ternate]]
+|group2 = Saray siyudad
+|list2 =
+* [[Bacoor]]
+* [[Siyudad na Cavite]]
+* [[Dasmariñas]]
+* [[General Trias, Cavite|General Trias]]
+* [[Imus]]
+* [[Tagaytay]]
+* [[Trece Martires]]
+}}<noinclude>
+[[Category:Saray baley na Cavite| ]]
+</noinclude>

@@ -1,6 +1,6 @@
 {{Navbox
 |name  = Capiz
-|title = Saray [[Siyudad na Filipinas|Siyudad]] san  [[Baley na Filipinas|Baley]] na [[Capiz|Capiz]]
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Capiz|Capiz]]
 |state = {{{state|autocollapse}}}
 |listclass = hlist
 |group1 = Saray baley
@@ -21,6 +21,8 @@
 * [[Sapi-an, Capiz|Sapi-an]]
 * [[Sigma, Capiz|Sigma]]
 * [[Tapaz, Capiz|Tapaz]]
-|group3 = Saray siyudad
-|list3 = [[Roxas, Capiz|Roxas]]
+|group2 = Saray siyudad
+|list2 = [[Roxas, Capiz|Roxas]]
 }}<noinclude>
+[[Category:Saray baley na Capiz| ]]
+</noinclude>

@@ -1,12 +1,31 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Siyudad]] san [[Baley]] na [[Albay]]'''
-|-
-|style="padding:0px 5px" align="right"|'''Saray Siyudad:''' 
-|style="padding:0px 5px" | [[Siyudad na Legazpi|Legazpi]] | [[Ligao]] | [[Tabaco, Albay|Tabaco]]
-|-
-|style="padding:0px 5px" align="right"|'''Saray Baley:''' 
-|style="padding:0px 5px" | [[Bacacay, Albay|Bacacay]] | [[Camalig, Albay|Camalig]] | [[Daraga, Albay|Daraga]] | [[Guinobatan, Albay|Guinobatan]] | [[Jovellar, Albay|Jovellar]] | [[Libon, Albay|Libon]] | [[Malilipot, Albay|Malilipot]] | [[Malinao, Albay|Malinao]] | [[Manito, Albay|Manito]]&nbsp;| [[Oas, Albay| Oas]] | [[Pio Duran, Albay|Pio Duran]] | [[Polangui, Albay|Polangui]] | [[Rapu-Rapu, Albay|Rapu-Rapu]] | [[Santo Domingo, Albay|Santo Domingo]] | [[Tiwi, Albay|Tiwi]] 
-|}
-</div>
+{{Navbox
+|name = Albay
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Albay]]
+|image = 
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Bacacay, Albay|Bacacay]]
+* [[Camalig, Albay|Camalig]]
+* [[Daraga, Albay|Daraga]]
+* [[Guinobatan, Albay|Guinobatan]]
+* [[Jovellar, Albay|Jovellar]]
+* [[Libon, Albay|Libon]]
+* [[Malilipot, Albay|Malilipot]]
+* [[Malinao, Albay|Malinao]]
+* [[Manito, Albay|Manito]]
+* [[Oas, Albay|Oas]]
+* [[Pio Duran, Albay|Pio Duran]]
+* [[Polangui, Albay|Polangui]]
+* [[Rapu-Rapu, Albay|Rapu-Rapu]]
+* [[Santo Domingo, Albay|Santo Domingo]]
+* [[Tiwi, Albay|Tiwi]]
+|group2 = Saray siudad
+|list2 = 
+* [[Legazpi, Albay|Legazpi]]
+* [[Ligao]]
+* [[Tabaco]]
+}}<noinclude>
+[[Category:Saray baley na Albay| ]]
+</noinclude>

@@ -1,8 +1,19 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Baley]] na [[Apayao|Apayao]]'''
-|-
-|style="padding:0px 5px"; align="center" | [[Calanasan, Apayao|Calanasan]] | [[Conner, Apayao|Conner]] | [[Flora, Apayao|Flora]] | [[Kabugao, Apayao|Kabugao]] | [[Luna, Apayao|Luna]] | [[Pudtol, Apayao|Pudtol]] | [[Santa Marcela, Apayao|Santa Marcela]]
-|}
-</div>
+{{Navbox
+|name = Apayao
+|title = Saray [[:Category:Saray baley na Filipinas|baley]] na [[Apayao]]
+|image = 
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Calanasan, Apayao|Calanasan]]
+* [[Conner, Apayao|Conner]]
+* [[Flora, Apayao|Flora]]
+* [[Kabugao, Apayao|Kabugao]]
+* [[Luna, Apayao|Luna]]
+* [[Pudtol, Apayao|Pudtol]]
+* [[Santa Marcela, Apayao|Santa Marcela]]
+
+}}<noinclude>
+[[Category:Saray baley na Apayao| ]]
+</noinclude>

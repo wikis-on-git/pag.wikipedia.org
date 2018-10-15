@@ -1,6 +1,6 @@
 {{Navbox
 |name  = Cagayan
-|title = Saray [[Saray Siyudad na Filipinas|Siyudad]] san [[Saray baley na Filipinas|Baley]] na [[Cagayan|Cagayan]]
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Cagayan]]
 |state = {{{state|autocollapse}}}
 |listclass = hlist
 |group1 = Saray baley
@@ -33,7 +33,9 @@
 * [[Santo Niño, Cagayan|Santo Niño]]
 * [[Solana, Cagayan|Solana]]
 * [[Tuao, Cagayan|Tuao]]
-|group2 = Saray siyudad
+|group2 = Siyudad
 |list2 = 
 * [[Tuguegarao]]
-}}
+}}<noinclude>
+[[Category:Saray baley na Cagayan| ]]
+</noinclude>

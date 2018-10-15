@@ -1,8 +1,18 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Saray baley na Filipinas|Baley]] na [[Batanes|Batanes]]'''
-|-
-|style="padding:0px 5px"; align="center"| [[Basco, Batanes|Basco]] | [[Itbayat, Batanes|Itbayat]] | [[Ivana, Batanes|Ivana]] | [[Mahatao, Batanes|Mahatao]] | [[Sabtang, Batanes|Sabtang]] | [[Uyugan, Batanes|Uyugan]] 
-|}
-</div>
+{{Navbox
+|name = Batanes
+|title = Saray [[:Category:Saray baley na Filipinas|baley]] na [[Batanes]]
+|image = 
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Basco, Batanes|Basco]]
+* [[Itbayat, Batanes|Itbayat]]
+* [[Ivana, Batanes|Ivana]]
+* [[Mahatao, Batanes|Mahatao]]
+* [[Sabtang, Batanes|Sabtang]]
+* [[Uyugan, Batanes|Uyugan]]
+
+}}<noinclude>
+[[Category:Saray baley na Batanes| ]]
+</noinclude>

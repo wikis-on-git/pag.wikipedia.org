@@ -1,8 +1,22 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Baley]] na [[Ifugao|Ifugao]]'''
-|-
-|style="padding:0px 5px"; align="center"| [[Aguinaldo, Ifugao|Aguinaldo]] | [[Alfonso Lista, Ifugao|Alfonso Lista]] | [[Asipulo, Ifugao|Asipulo]] | [[Banaue, Ifugao|Banaue]] | [[Hingyon, Ifugao|Hingyon]] | [[Hungduan, Ifugao|Hungduan]] | [[Kiangan, Ifugao|Kiangan]] | [[Lagawe, Ifugao|Lagawe]] | [[Lamut, Ifugao|Lamut]] | [[Mayoyao, Ifugao|Mayoyao]] | [[Tinoc, Ifugao|Tinoc]] 
-|}
-</div>
+{{Navbox
+|name = Ifugao
+|title = Saray [[:Category:Saray baley na Filipinas|baley]] na [[Ifugao]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Aguinaldo, Ifugao|Aguinaldo]]
+* [[Alfonso Lista, Ifugao|Alfonso Lista]]
+* [[Asipulo, Ifugao|Asipulo]]
+* [[Banaue, Ifugao|Banaue]]
+* [[Hingyon, Ifugao|Hingyon]]
+* [[Hungduan, Ifugao|Hungduan]]
+* [[Kiangan, Ifugao|Kiangan]]
+* [[Lagawe, Ifugao|Lagawe]]
+* [[Lamut, Ifugao|Lamut]]
+* [[Mayoyao, Ifugao|Mayoyao]]
+* [[Tinoc, Ifugao|Tinoc]]
+
+}}<noinclude>
+[[Category:Saray baley na Ifugao| ]]
+</noinclude>

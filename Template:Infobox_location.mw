@@ -83,7 +83,7 @@
 |coordinates_footnotes = {{{coordinates_footnotes|{{#ifeq:{{{dateformat}}}|dmy|{{#invoke:wd|references|current|{{{qid|}}}|P625}}|{{#invoke:wd|references|mdy|current|{{{qid|}}}|P625}} }} }}}
 |subdivision_type = {{{subdivision_type|Dalin}}}
 |subdivision_name = {{{subdivision_name|{{#invoke:wd|property|linked|{{{qid|}}}|P17}}}}}
-|established_title  = {{{established_title|{{#if:{{main other|{{#property:P571}}|{{#property:P571|from={{{qid|}}}}}}}|Founded|}}}}}
+|established_title  = {{{established_title|{{#if:{{main other|{{#property:P571}}|{{#property:P571|from={{{qid|}}}}}}}|Angipaletnegan|}}}}}
 |established_date = {{{established_date|{{#ifeq:{{{dateformat}}}|dmy|{{PAGENAMEBASE|{{#invoke:wd|property|{{{qid|}}}|P571}}}}|{{PAGENAMEBASE|{{#invoke:wd|property|mdy|{{{qid|}}}|P571}}}} }} }}}
 |seat_type = {{{seat_type|{{#if:{{main other|{{#property:P36}}|{{#property:P36|from={{{qid|}}}}}}}|Kabesera|}}}}}
 |seat = {{{seat|{{#if:{{#invoke:wd|property|linked|{{{qid|}}}|P36}}|{{#invoke:wd|property|linked|{{{qid|}}}|P36}}|{{main other|{{#property:P36}}|{{#property:P36|from={{{qid|}}}}}}}}}}}}

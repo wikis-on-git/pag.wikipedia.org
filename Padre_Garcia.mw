@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Pueblo Municipio de<br>Padre Vicente García<br>''Baley na Ama Vicente Garsiya''|
- sealfile     = |
- locatormapfile = Ph_locator_batangas padre garcia.png |
- caption      = Map of [[Batangas]] showing the location of Padre García. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 4th district |
- barangays    = 18 |
- class        = 3rd class |
- mayor        = [[Prudencio Gutierrez]] |
- founded      = January 13, [[1949]] |
- cityhood     = - |
- areakm2      = 41.5100 |
- pop2000      = 42,942.00 |
- popden2000   = 1000 |
- coordinates  =  |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Padre Garcia, Batangas
 | 1990 = 25958		
@@ -122,8 +104,11 @@ Saray [[barangay]] ed Padre García walay 18:
 
 ==Saray too diad Padre García==
 
-* [[Jovit Baldivino]], [[kankanta]] tan inianak so baloy-baley (nen [[October 13|Oktobre 13]], [[1993]])
+* [[Jovit Baldivino]], [[kankanta]] tan inianak so baloy-baley (nen [[Oktubre 13]], [[1993]])
 * [[Prudencio Gutierrez]], [[mayor]] ed Padre García, Batangas
+
+== Saray reperensiya ==
+{{Reflist}}
 
 ==Saray nipaway ya gawing==
 
@@ -135,11 +120,12 @@ Saray [[barangay]] ed Padre García walay 18:
 
 {{Geographic location
 |Centre    = Padre García
-|Northeast = [[Santo Antônio (Quezon)]]
+|Northeast = [[San Antonio, Quezon|San Antonio]]
 |Southeast = [[Rosario (Batangas)|Márquez]]
 |Southwest = [[Rosario (Batangas)|Márquez]]
-|Northwest = [[Lipa City]]
+|Northwest = [[Lipa]]
 }}
+
 {{Batangas}}
 
 [[Category:Batangas]]

@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Santa Teresita<br>''Ville du Santa Terecita''|
- sealfile     =  |
- locatormapfile = Ph_locator_batangas santa teresita.png |
- caption      = Map of [[Batangas]] showing the location of Santa Teresita. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 3rd district |
- barangays    = 17 |
- class        = 4th class |
- mayor        = Aurea V. Segunial |
- founded      = [[1915]] |
- cityhood     = - |
- areakm2      = 16.3000 |
- pop2000      = 16,891 |
- popden2000   = 1000 |
- coordinates  = 
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Santa Teresita, Batangas
 | 1990 = 12005		
@@ -58,7 +40,8 @@ Saray [[barangay]] no seventeen:
 * Poblacion III
 </td></tr></table>
 
-
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{batangas}}

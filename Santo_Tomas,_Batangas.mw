@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Baley na Santo Tomás<br>''Municipality of Santo Thomas'' |
- sealfile     = |
- locatormapfile = Ph_locator_batangas santo tomas.png |
- caption      = Map of [[Batangas]] showing the location of the Santo Thomas. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = none |
- barangays    = 30 |
- class        = primere class |
- mayor        = Renato M. Federico |
- founded      = Abril 18, 1586|
- cityhood     = - |
- areakm2      = 95.41 |
- pop2000      = 113,105 |
- popden2000   = 1200 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Santo Tomas, Batangas
 | 1990 = 58209		
@@ -71,8 +53,10 @@ Saray [[barangay]] no thirty:
 * Santa Teresita
 </td></tr></table>
 
-== Problema sa Barangay ==
-Ayon sa survey ang problema sa barangay Santa Cruz bilang dulo at pinakamalayo sa kabihasnan ay ang mga basurang nakakalat sa daan na nagreresulta ng pagiging hindi disiplinado ng mga taong nakatira roon, wala rin silang pormal na schedule sa pagkolekta ng mga basura. {{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
+{{philippines-geo-stub}}
 {{batangas}}
 
 [[Category:Batangas]]

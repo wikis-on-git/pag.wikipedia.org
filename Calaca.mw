@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Calaca|
- sealfile     =  |
- locatormapfile = Ph_locator_batangas calaca.png |
- caption      = Map of [[Batangas]] showing the location of Calaca. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = first district |
- barangays    = 40 |
- class        = first class |
- mayor        = [[Sofronio Ona, Jr.]] |
- founded      = [[1835]] |
- cityhood     = - |
- areakm2      = 114.5800 |
- pop2000      = 81,859 <small>(2015)</small> |
- popden2000   = 714 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Calaca, Batangas
 | 1990 = 45377		
@@ -32,9 +14,7 @@
 |}}
 Say '''Calaca''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
 
-
 == Listaan na barangay ==
-
 
 Saray [[barangay]] no forty:
 
@@ -85,6 +65,8 @@ Saray [[barangay]] no forty:
 * Timbain
 |}
 
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{batangas}}

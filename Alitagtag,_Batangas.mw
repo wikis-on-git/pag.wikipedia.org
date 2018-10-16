@@ -1,21 +1,5 @@
-{{Infobox Philippine city |
- infoboxtitle = Alitagtag |
- sealfile     = |
- locatormapfile = Ph_locator_batangas alitagtag.png |
- caption      = Map of [[Batangas]] showing the location of the Alitagtag. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 3rd district |
- barangays    = 19 |
- class        = 4th class |
- mayor        = Anthony Gracieto Andal |
- founded      = [[January 1|Enero 1]], [[1910]]|
- cityhood     = - |
- areakm2      = 24.76  |
- pop2000      = 25,300 <small>(2015)</small> |
- popden2000   = 1021 |
- coordinates  = 13°52′N 121°00′E <br>"Alitagtagan" sakey ya saray too|
-}}
+{{Infobox location}}
+
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Alitagtag, Batangas
 | 1990 = 16016		
@@ -55,9 +39,10 @@ Saray [[barangay]] no nineteen:
 * Tadlac
 * São João
 
+== Saray reperensiya ==
+{{Reflist}}
+
 {{batangas}}
 
-[[Category:Batangas]]
-	
-															
+[[Category:Batangas]]														
 [[Category:Saray baley na Batangas]]

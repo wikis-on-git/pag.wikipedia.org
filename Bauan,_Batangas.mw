@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Bauan|
- sealfile     =  |
- locatormapfile = Ph_locator_batangas bauan.png |
- caption      = Map of [[Batangas]] showing the location of Bauan. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 2nd district |
- barangays    = 40 |
- class        = first class |
- mayor        = [[Ryanh M. Dolor]] |
- founded      = - |
- cityhood     = - |
- areakm2      = 53.31 |
- pop2000      = 91,297 <small>(2015)</small> |
- popden2000   = 1712.57 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Bauan, Batangas
 | 1990 = 59258		
@@ -85,6 +67,8 @@ Saray [[barangay]] no forty:
 * Sinala
 |}
 
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{batangas}}

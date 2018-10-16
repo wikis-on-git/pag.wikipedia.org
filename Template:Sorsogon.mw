@@ -1,12 +1,28 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray siyudad tan baley ed [[Sorsogon]]'''
-|-
-|style="padding:0px 5px" align="right"|'''Siyudad:''' 
-|style="padding:0px 5px" | [[Siyudad na Sorsogon|Sorsogon]] 
-|-
-|style="padding:0px 5px" align="right"|'''Saray baley:''' 
-|style="padding:0px 5px" | [[Barcelona, Sorsogon|Barcelona]] | [[Bulan, Sorsogon|Bulan]] | [[Bulusan, Sorsogon|Bulusan]] | [[Casiguran, Sorsogon|Casiguran]] | [[Castilla, Sorsogon|Castilla]] | [[Donsol, Sorsogon|Donsol]] | [[Gubat, Sorsogon|Gubat]] | [[Irosin, Sorsogon|Irosin]] | [[Juban, Sorsogon|Juban]] | [[Magallanes, Sorsogon|Magallanes]] | [[Matnog, Sorsogon|Matnog]] | [[Pilar, Sorsogon|Pilar]] | [[Prieto Diaz, Sorsogon|Prieto Diaz]] | [[Santa Magdalena, Sorsogon|Santa Magdalena]] 
-|}
-</div>
+{{Navbox
+|name = Sorsogon
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Sorsogon]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|image = 
+|group1 = Saray baley
+|list1 = 
+* [[Barcelona, Sorsogon|Barcelona]]
+* [[Bulan, Sorsogon|Bulan]]
+* [[Bulusan, Sorsogon|Bulusan]]
+* [[Casiguran, Sorsogon|Casiguran]]
+* [[Castilla, Sorsogon|Castilla]]
+* [[Donsol, Sorsogon|Donsol]]
+* [[Gubat, Sorsogon|Gubat]]
+* [[Irosin, Sorsogon|Irosin]]
+* [[Juban, Sorsogon|Juban]]
+* [[Magallanes, Sorsogon|Magallanes]]
+* [[Matnog, Sorsogon|Matnog]]
+* [[Pilar, Sorsogon|Pilar]]
+* [[Prieto Diaz, Sorsogon|Prieto Diaz]]
+* [[Santa Magdalena, Sorsogon|Santa Magdalena]]
+|group2 = Siyudad
+|list2 = 
+* [[Siyudad na Sorsogon|Sorsogon]]
+}}<noinclude>
+[[Category:Saray baley na Sorsogon| ]]
+</noinclude>

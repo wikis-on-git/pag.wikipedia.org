@@ -1,8 +1,21 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| id="toc" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[Baley]] na [[Kalinga|Kalinga]]'''
-|-
-|style="padding:0px 5px"; align="center"| [[Balbalan, Kalinga|Balbalan]] | [[Lubuagan, Kalinga|Lubuagan]] | [[Pasil, Kalinga|Pasil]] | [[Pinukpuk, Kalinga|Pinukpuk]] | [[Rizal, Kalinga|Rizal]] | [[Tabuk, Kalinga|Tabuk]] | [[Tanudan, Kalinga|Tanudan]] | [[Tinglayan, Kalinga|Tinglayan]] 
-|}
-</div>
+{{Navbox
+|name = Kalinga
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Kalinga]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Balbalan, Kalinga|Balbalan]]
+* [[Lubuagan, Kalinga|Lubuagan]]
+* [[Pasil, Kalinga|Pasil]]
+* [[Pinukpuk, Kalinga|Pinukpuk]]
+* [[Rizal, Kalinga|Rizal]]
+* [[Tanudan, Kalinga|Tanudan]]
+* [[Tinglayan, Kalinga|Tinglayan]]
+|group2 = Siyudad
+|list2 = 
+* [[Tabuk, Kalinga|Tabuk]]
+
+}}<noinclude>
+[[Category:Saray baley na Leyte| ]]
+</noinclude>

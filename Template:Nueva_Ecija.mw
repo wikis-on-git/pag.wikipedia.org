@@ -1,14 +1,45 @@
-<div style="text-align: center; clear:both; margin: 1.5em 0em">
-{| class="toccolours" style="margin: auto; line-height: 1.5; font-size: smaller; text-align: left;"
-|-
-| colspan="2" style="background:#ccccff; font-size: larger;" align="center" | '''Saray [[siyudad]] tan [[baley]] na [[Nueva Ecija|Balon Ecija]] (Nueva Ecija)'''
-|-
-|style="padding:0px 5px" align="right"|'''Lakanbalen:''' 
-|style="padding:0px 5px" | [[Gapán]] | [[Kabanatuan]] | [[Maduyo]] | [[San José (Balon Écija)|San José]] | [[Kabihasnan diad Siyudad na Muñoz]] 
-|-
-|style="padding:0px 5px" align="right"|'''Balen:''' 
-|style="padding:0px 5px" | [[Aliaga]] | [[Bongabon]] | [[Cabiao]] | [[Carranglan]] | [[Cuyapo|Kayaco]] | [[Gabaldon]] | [[Heneral Mamerto Natividad|General Mamerto Natividad]] | [[Heneral Tinio|General Tinio]] | [[Guimba]] | [[Jaén, Filipinas|Jaén]] | [[Laur]] | [[Licab]] | [[Llanera (Balon Écija)|Llanera]] | [[Lupao]] | [[Nampicuan]] | [[Pantabangan]] | [[Peñaranda]] | [[Quezon (Balon Écija)|Quezon]] | [[Rizal (Balon Écija)|Rizal]] | [[San Isidro Labrador (Balon Écija)|San Isidro Labrador]] | [[San Leonardo, Filipinas|San Leonardo]] | [[Santa Rosa, (Balon Écija)|Santa Rosa]] | [[Santo Antônio (Balon Écija)|Santo Antônio]] | [[Santo Domuingo, (Balon Écija)|Santo Domuingo]] | [[Talavera, Filipinas|Talavera]] | [[Talogtog]] | [[Zaragosa (Balon Écija)|Zaragosa]] 
-|}
-</div>
-<noinclude>
+{{Navbox
+|name = Nueva Ecija
+|title = Saray [[:Category:Saray siyudad na Filipinas|siyudad]] san [[:Category:Saray baley na Filipinas|baley]] na [[Nueva Ecija]]
+|state = {{{state|autocollapse}}}
+|listclass = hlist
+|group1 = Saray baley
+|list1 = 
+* [[Aliaga, Nueva Ecija|Aliaga]]
+* [[Bongabon, Nueva Ecija|Bongabon]]
+* [[Cabiao, Nueva Ecija|Cabiao]]
+* [[Carranglan, Nueva Ecija|Carranglan]]
+* [[Cuyapo, Nueva Ecija|Cuyapo]]
+* [[Gabaldon, Nueva Ecija|Gabaldon]]
+* [[General Mamerto Natividad, Nueva Ecija|General Mamerto Natividad]]
+* [[General Tinio, Nueva Ecija|General Tinio]]
+* [[Guimba, Nueva Ecija|Guimba]]
+* [[Jaen, Nueva Ecija|Jaen]]
+* [[Laur, Nueva Ecija|Laur]]
+* [[Licab, Nueva Ecija|Licab]]
+* [[Llanera, Nueva Ecija|Llanera]]
+* [[Lupao, Nueva Ecija|Lupao]]
+* [[Nampicuan, Nueva Ecija|Nampicuan]]
+* [[Pantabangan, Nueva Ecija|Pantabangan]]
+* [[Peñaranda, Nueva Ecija|Peñaranda]]
+* [[Quezon, Nueva Ecija|Quezon]]
+* [[Rizal, Nueva Ecija|Rizal]]
+* [[San Antonio, Nueva Ecija|San Antonio]]
+* [[San Isidro, Nueva Ecija|San Isidro]]
+* [[San Leonardo, Nueva Ecija|San Leonardo]]
+* [[Santa Rosa, Nueva Ecija|Santa Rosa]]
+* [[Santo Domingo, Nueva Ecija|Santo Domingo]]
+* [[Talavera, Nueva Ecija|Talavera]]
+* [[Talugtug, Nueva Ecija|Talugtug]]
+* [[Zaragoza, Nueva Ecija|Zaragoza]]
+|group2 = Saray siyudad
+|list2 = 
+* [[Cabanatuan]]
+* [[Gapan]]
+* [[Muñoz]]
+* [[Palayan]]
+* [[San Jose, Nueva Ecija|San Jose]]
+
+}}<noinclude>
+[[Category:Saray baley na Nueva Ecija| ]]
 </noinclude>

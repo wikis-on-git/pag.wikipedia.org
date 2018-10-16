@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Balayan|
- sealfile     = Municpality of Balayan logo.png |
- locatormapfile = Ph_locator_batangas balayan.png |
- caption      = Map of [[Batangas]] showing the location of Balayan. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = first district |
- barangays    = 48 |
- class        = - |
- mayor        = Emmanuel S. Fronda |
- founded      = - |
- cityhood     = - |
- areakm2      = 108.73 |
- pop2000      = 90,699 <small>(2015)</small> |
- popden2000   = 834 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Balayan, Batangas
 | 1990 = 53870		
@@ -32,9 +14,7 @@
 |}}
 Say '''Balayan''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
 
-
 == Listaan na barangay ==
-
 
 Saray [[barangay]] no 48:
 
@@ -96,6 +76,8 @@ Saray [[barangay]] no 48:
 * Tanggoy
 |}
 
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{batangas}}

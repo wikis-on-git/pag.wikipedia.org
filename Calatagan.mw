@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Calatagan<br>''Kalatagan''|
- sealfile     = |
- locatormapfile = Ph_locator_batangas calatagan.png |
- caption      = Map of [[Batangas]] showing the location of Calatagan. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 1st district |
- barangays    = 25 |
- class        = 3rd class |
- mayor        = [[Sophia G. Palacio]] |
- founded      = [[1912]] |
- cityhood     = - |
- areakm2      = 112 |
- pop2000      = 56,449 <small>(2015)</small> |
- popden2000   = 504.01 |
- coordinates  =  |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Calatagan, Batangas
 | 1990 = 35543		
@@ -66,9 +48,12 @@ Saray [[barangay]] ed Calatagan no twenty five:
 * [[Talisay (Calatagan)|Talisay]]
 * [[Tanagan]]
 |}
+}
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{Batangas}}
-[[Category:Saray baley na Batangas]]
 
+[[Category:Saray baley na Batangas]]
 [[Category:Batangas]]

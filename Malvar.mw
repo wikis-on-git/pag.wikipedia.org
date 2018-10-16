@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Malvar |
- sealfile     = |
- locatormapfile = Ph_locator_batangas malvar.png |
- caption      = Map of [[Batangas]] showing the location of Malvar. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Batangas]] |
- districts    = 3rd district |
- barangays    = 15 |
- class        = 2nd class |
- mayor        = Dr. Carolinito "Carlito" P. Reyes |
- founded      = Enero 10, [[1919]] |
- cityhood     =  |
- areakm2      = 33 |
- pop2000      = 56,270 <small>(2015)</small> |
- popden2000   = 1705 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Malvar, Batangas
 | 1990 = 24253		
@@ -30,7 +12,6 @@
 | 2025 = 		
 | 2030 = 		
 |}}
-: ''Para so protas diad magan: [[Malvar (ubas)]], tan Totoon ken [[Muigel Malvar]].''
 
 Say '''Malvar''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
 
@@ -151,7 +132,8 @@ Say Malvar walay 15 ya [[barangay]]:
 </tr>
 </table>
 
-
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{batangas}}

@@ -751,7 +751,7 @@
 
 <!-- ***Time Zones*** -->
 | rowclass118 = mergedtoprow
-| label118 = {{#if:{{{timezone2|}}}|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]s|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]}}
+| label118 = {{#if:{{{timezone2|}}}|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Sona na oras}}|Saray sona na oras]]|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Sona na oras}}|Sona na oras]]}}
 |  data118 = {{#if:{{{utc_offset1|{{{utc_offset|}}} }}}
  |[[UTC{{{utc_offset1|{{{utc_offset}}}}}}]] {{#if:{{{timezone1|{{{timezone|}}}}}}|({{{timezone1|{{{timezone}}}}}})}}
  |{{{timezone1|{{{timezone|}}}}}}
@@ -797,7 +797,7 @@
 
 <!-- ***Area Code(s)*** -->
 | rowclass124 = {{#if:{{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|1}}}}{{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|1}}}}}}|mergedrow|mergedtoprow}}
-| label124 = {{#if:{{{area_code_type|}}}|{{{area_code_type}}}|[[Telephone numbering plan|Area code(s)]]}}
+| label124 = {{#if:{{{area_code_type|}}}|{{{area_code_type}}}|Kodigo na lugar}}
 |  data124 = {{{area_code|}}}
 
 <!-- Geocode-->

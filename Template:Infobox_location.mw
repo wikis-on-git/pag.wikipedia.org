@@ -97,7 +97,7 @@
 |population_total = {{{population_total|{{#invoke:wd|property|current|{{{qid|}}}|P1082}} }}}
 |population_density_km2 = {{{population_density_km2|auto}}}
 |timezone   = {{{timezone|{{#invoke:wd|properties|linked|{{{qid|}}}|P421}}}}}
-|postal_code_type = {{{postal_code_type|Postal&nbsp;code}}}
+|postal_code_type = {{{postal_code_type|Kodigo&nbsp;na&nbsp;postal}}}
 |postal_code = {{{postal_code|{{#invoke:wd|properties|raw|{{{qid|}}}|P281}}}}}
 |area_code = {{{area_code|{{#invoke:wd|properties|raw|{{{qid|}}}|P473}}}}}
 |website = {{{website|{{#if:{{main other|{{#property:P856}}|{{#property:P856|from={{{qid|}}}}}}}|{{URL|{{#invoke:wd|property|raw|best|{{{qid|}}}|P856}}}}|}}}}}

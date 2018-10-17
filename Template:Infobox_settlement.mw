@@ -271,7 +271,7 @@
 |  data51 = {{{government_type|}}}
 
 | rowclass52 = mergedrow
-| label52 = &nbsp;•&nbsp;Body
+| label52 = &nbsp;•&nbsp;Ulop
 | class52 = agent
 |  data52 = {{{governing_body|}}}
 
@@ -448,7 +448,7 @@
 
 <!-- ***Elevation*** -->
 | rowclass72 = mergedtoprow
-| label72 = Elevation<span style="font-weight:normal">{{{elevation_footnotes|}}}{{#if:{{{elevation_point|}}}|&#32;({{{elevation_point}}})}}</span>
+| label72 = Elebasyon<span style="font-weight:normal">{{{elevation_footnotes|}}}{{#if:{{{elevation_point|}}}|&#32;({{{elevation_point}}})}}</span>
 |  data72 = {{#if:{{{elevation_m|}}}{{{elevation_ft|}}}
  |{{infobox_settlement/lengthdisp
       |m   ={{{elevation_m|}}}

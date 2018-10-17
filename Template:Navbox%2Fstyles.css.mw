@@ -73,3 +73,7 @@ th.navbox-group,
 .navbox td.hlist ul {
 	padding: 0.125em 0;       /* Adjust hlist padding in navboxes */
 }
+
+.mw-collapsible-toggle {
+	font-weight: normal;     /* Do not inherit the nabox title's font-weight */
+}

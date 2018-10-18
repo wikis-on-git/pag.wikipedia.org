@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Municipality of General Mariano Álvarez<br>''Baley na Heneral Mariano Álvarez''|
- sealfile     = |
- locatormapfile = Ph_locator_cavite_gen mariano alvarez.png |
- caption      = Map of [[Cavite]] showing the location of GMA. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Cavite]] |
- districts    = 5th district |
- barangays    = 27 |
- class        = urban |
- mayor        = [[Leonisa Virata]] |
- founded      = [[March 20]], [[1981]] |
- cityhood     = - |
- areakm2      = 42.1300 |
- pop2000      = 138,540 |
- popden2000   = 3288400|
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> General Mariano Alvarez, Cavite
@@ -32,7 +13,7 @@
 | 2030 = 		
 |}}
 
-Say '''Heneral Mariano Álvarez''' (daglat: '''[[GMA]]'''; a.k.a. ''Gen Mar Alvz''), sakey baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
+Say '''Heneral Mariano Álvarez''' sakey baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
 
 == Listaan na barangay ==
 
@@ -70,28 +51,7 @@ Saray [[barangay]] ed GMA no twenty seven:
 * Tiniente Tiago
 </td></tr></table>
 
-==Saray lokasiyon==
-
-===Puneraria===
-* [[Funeraria San Gabriel]]
-* [[Mel Chincuanco Funeral Homes]]
-
-===Eskuela===
-* [[Bulihan Elementary School]]
-* [[Vox Dei Academy]]
-
-===Kainan===
-* [[CHIC-BOY]] (Chicken & Baboy)
-* [[Chowking]]
-* [[Jollibee]] GMA
-* Jollibee [[Puregold]]
-* [[7-11]]
-
-===Sanglaan===
-* [[Cebuana Lhuillier]] Maderan
-
 ==Lokasiyon ed Hiyograpiko==
-
 
 {{Geographic Location
 |Centre    = General Mariano Álvarez
@@ -101,11 +61,16 @@ Saray [[barangay]] ed GMA no twenty seven:
 |Southeast = 
 |South     = Bulihan via<br>[[Silang, Cavite|Silang]]
 |Southwest = 
-|West      = [[Dasmariñas, Cavite|Dasmariñas]] via Paliparan<br>and Embarkadero Bridge
+|West      = [[Dasmariñas, Cavite|Dasmariñas]] 
 |Northwest = 
 }}
 
-{{philippines-geo-stub}}
+
+== Saray reperensiya ==
+{{Reflist}}
+
 {{Cavite}}
+
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Cavite]]

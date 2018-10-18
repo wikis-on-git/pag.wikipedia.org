@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Amadeo|
- sealfile     = |
- locatormapfile = Ph_locator_cavite_amadeo.png |
- caption      = Map of [[Cavite]] showing the location of the Amadeo. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Cavite]] |
- districts    = 6th district |
- barangays    = 26 |
- class        = 4th class |
- mayor        = Benjarde A. Villanueva |
- founded      = Hulio 15, [[1872]] |
- cityhood     = - |
- areakm2      = 46.9000 |
- pop2000      = 33,457 |
- popden2000   = 713400|
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Amadeo, Cavite
@@ -72,6 +53,9 @@ Saray [[barangay]] no twenty six:
 * Buho
 * Minantok Silangan
 |}
+
+== Saray reperensiya ==
+{{Reflist}}
 
 {{philippines-geo-stub}}
 {{Cavite}}

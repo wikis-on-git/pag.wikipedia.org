@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Indang |
- sealfile     = |
- locatormapfile = Ph_locator_cavite indang.png |
- caption      = Map of [[Cavite]] showing the location of Indang. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Cavite]] |
- districts    = 7th district of Cavite |
- barangays    = 36 |
- class        = ikatlo ya klase |
- mayor        = [[Bienvenido V. Dimero]] |
- founded      = [[1655]] |
- cityhood     = - |
- areakm2      =  |
- pop2000      = 10,608 |
- popden2000   =  |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Indang, Cavite
@@ -32,14 +13,9 @@
 | 2030 = 		
 |}}
 
-Say '''Indang''' ([[salitan Português|Português]]: ''Municipio do Indan''), sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Cavite]].
+Say '''Indang''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Cavite]].
 
-==Historiya==
-Indang (ursprünglich: ''Indan'') wurde 1655 eine selbstständige Gemeinde, nachdem der Ort zuvor zu [[Silang, Cavite|Silang]] gehört hatte. Der Name Indan leitet sich vom [[salitan Tagalog|Tagalog]] Wort ''indang'' oder ''inrang'' für eine Baumart, die in diesem Gebiet vorkam, ab.
-
-Im Baranggay Limbon wurde [[Andrés Bonifacio]] gefangengenommen, nachdem während der [[Rebolusiyon ed Pilipino|Philippinischen Revolution]] die [[Tejeros Convention]] besiegt wurde. Somit wurde er gehindert seine konterrevolutionären Pläne eine Regierung und Armee aufzubauen weiter zu verfolgen.
-
-== Listaan na Barangay ==
+== Listaan na barangay ==
  
 Say Indang walay 36 ya [[barangay]]:
 {| border="0"
@@ -86,8 +62,10 @@ Say Indang walay 36 ya [[barangay]]:
 * [[Mataas na Lupa (Checkpoint)]]
 |}
 
+== Saray reperensiya ==
+{{Reflist}}
 
-{{philippines-geo-stub}}
 {{cavite}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Cavite]]

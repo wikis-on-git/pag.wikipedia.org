@@ -1,0 +1,5 @@
+{{Kalendaryo|lk=on|show_year=on|float=right|month=current|format=iso}}
+
+{{Kalendaryo}}
+
+{{Kalendaryo|prevnext=true|format=iso|zero=0|row=3}}

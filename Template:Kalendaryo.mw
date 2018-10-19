@@ -27,7 +27,7 @@
         |ml<={{{lk_suff_mprev|{{{lk_suff_m|{{{lk_suff|}}}}}}}}}
         |ld={{{lk_pref_d|{{{lk_pref|}}}}}}
         |dl={{{lk_suff_d|{{{lk_suff|}}}}}}
-        |month={{{month|}}}
+        |month={{kalendaryo/bulan-en|{{{month}}}}}
         |year={{{year|{{#time:Y}}}}}
         |show_year={{{show_year|off}}}
         |F={{#ifeq:{{{show_year|on}}}|with month|F Y|F}}
@@ -71,10 +71,10 @@
               |ld={{{lk_pref_d|{{{lk_pref|}}}}}}
               |dl={{{lk_suff_d|{{{lk_suff|}}}}}}
               |month={{#switch:{{{month}}}
-                 |current={{#time:F}}
-                 |next={{#time:F|next month}}
-                 |last={{#time:F|last month}}
-                 |{{{month}}}
+                 |current={{#time:m}}
+                 |next={{#time:m|next month}}
+                 |last={{#time:m|last month}}
+                 |{{kalendario/bulan-en|{{{month}}}}}
                }}
               |year={{{year|{{#time:Y}}}}}
               |show_year={{#ifeq:{{{show_year|on}}}|on|on|off}}

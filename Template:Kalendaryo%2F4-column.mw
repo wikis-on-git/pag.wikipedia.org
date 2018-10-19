@@ -9,32 +9,32 @@
 }}
 |- style="vertical-align: top;"
 |{{Kalendaryo/month/link {{{lk|off}}}|month=01
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}|wk5253={{{wk5253|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=02
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=03
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=04
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
@@ -42,32 +42,32 @@
  }}
 |- style="vertical-align: top;"
 |{{Kalendaryo/month/link {{{lk|off}}}|month=05
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=06
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=07
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=08
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
@@ -75,32 +75,32 @@
  }}
 |- style="vertical-align: top;"
 |{{Kalendaryo/month/link {{{lk|off}}}|month=09
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=10
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=11
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}
    |tm={{{tm|}}}|mt={{{mt|}}}
  }}
 |{{Kalendaryo/month/link {{{lk|off}}}|month=12
-   |prevnext=off|6row=y|format={{{format|Sun1st}}}|lk={{{lk0|off}}}
-   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}
+   |prevnext=off|6row=y|format={{{format|Sun1st}}}|zero={{{zero|{{0}}}}}|lk={{{lk0|off}}}
+   |titlestyle={{{titlestyle|}}}|weekstyle={{{weekstyle|}}}|wknumstyle={{{wknumstyle|}}}
    |year={{{year|2000}}}|F={{{F|F}}}|FF={{{FF|F}}}
    |ld={{{ld|}}}|dl={{{dl|}}}
    |lm={{{lm|}}}|ml={{{ml|}}}

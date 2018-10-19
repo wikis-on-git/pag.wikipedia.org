@@ -74,7 +74,7 @@
                  |current={{#time:m}}
                  |next={{#time:m|next month}}
                  |last={{#time:m|last month}}
-                 |{{kalendario/bulan-en|{{{month}}}}}
+                 |{{kalendaryo/bulan-en|{{{month}}}}}
                }}
               |year={{{year|{{#time:Y}}}}}
               |show_year={{#ifeq:{{{show_year|on}}}|on|on|off}}

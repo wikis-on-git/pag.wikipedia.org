@@ -1,0 +1,40 @@
+<templatestyles src="Navbox/styles.css" />
+{| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
+|- class="navbox-title" style="{{{titlestyle|}}}"
+|{{{prev_month|}}}
+!colspan="6" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
+|{{{next_month|}}}
+{{DOWs|left=Sim|width=12%|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|1 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|        ||        ||        ||        ||        ||        ||{{{01}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|2 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{02}}}||{{{03}}}||{{{04}}}||{{{05}}}||{{{06}}}||{{{07}}}||{{{08}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|9 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{09}}}||{{{10}}}||{{{11}}}||{{{12}}}||{{{13}}}||{{{14}}}||{{{15}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|16 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{16}}}||{{{17}}}||{{{18}}}||{{{19}}}||{{{20}}}||{{{21}}}||{{{22}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|23 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{23}}}||{{{24}}}||{{{25}}}||{{{26}}}||{{{27}}}||{{{28}}}||{{{29|}}}
+|-
+{{#if:{{{30|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}{{{wk{{#time:W|30 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+{{!}}{{{30}}}{{!}}{{!}}{{{31|}}}
+{{!}}colspan=5{{!}}&nbsp;
+|{{#if:{{{6row|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}&nbsp;
+{{!}}colspan=7{{!}}&nbsp;
+}}
+}}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{{EndNote|}}}|{{!}}colspan="8"{{!}}{{{EndNote}}} }}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{#ifeq:{{{show_year}}}|off||{{{year|}}}}}|{{!}}colspan=8{{!}}<b>{{#ifeq:{{{lk}}}|on
+  |[[{{{year}}}]]
+  |{{{year}}}
+ }}</b>}}
+|}

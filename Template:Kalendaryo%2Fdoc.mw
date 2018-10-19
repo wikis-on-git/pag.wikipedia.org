@@ -1,5 +1,24 @@
-{{Kalendaryo|lk=on|show_year=on|float=right|month=current|format=iso}}
+__NOTOC__
 
+== Alimbawa 1 ==
+<code><nowiki>{{Kalendaryo|float=left|lk=on|month=Agosto|show_year=off}}</nowiki></code>
+{{Kalendaryo|float=left|lk=on|month=Agosto|show_year=off}}
+<div style="clear:both;"></div>
+
+== Alimbawa 2 ==
+<code><nowiki>{{Kalendaryo|float=left|lk=on|month=current|title_colour=#ffcccc|week_colour=#cccccc}}</nowiki></code>
+{{Kalendaryo|float=left|lk=on|month=current|title_colour=#ffcccc|week_colour=#cccccc}}
+<div style="clear:both;"></div>
+
+== Alimbawa 3 ==
+<code><nowiki>{{Kalendaryo|lk=on|show_year=on|float=left|month=current|format=iso}}</nowiki></code>
+{{Kalendaryo|lk=on|show_year=on|float=left|month=current|format=iso}}
+<div style="clear:both;"></div>
+
+== Alimbawa 4 ==
+<code><nowiki>{{Kalendaryo}}</nowiki></code>
 {{Kalendaryo}}
 
+== Alimbawa 5 ==
+<code><nowiki>{{Kalendaryo|prevnext=true|format=iso|zero=0|row=3}}</nowiki></code>
 {{Kalendaryo|prevnext=true|format=iso|zero=0|row=3}}

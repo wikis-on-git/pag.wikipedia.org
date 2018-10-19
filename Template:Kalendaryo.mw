@@ -3,6 +3,7 @@
      |year={{{year|{{#time:Y}}}}}
      |base={{{base|{{#titleparts:{{kalendaryo/bulan-en}}|2}}}}}
      |sub={{#titleparts:{{kalendaryo/bulan-en}}/XXX|1|3}}
+     |zero={{{zero|{{0}}}}}
      |titlestyle={{#if:{{{title_colour|{{{colour|}}}}}}
         |background-color:{{{title_colour|{{{colour}}}}}};
       }}
@@ -26,10 +27,11 @@
         |ml<={{{lk_suff_mprev|{{{lk_suff_m|{{{lk_suff|}}}}}}}}}
         |ld={{{lk_pref_d|{{{lk_pref|}}}}}}
         |dl={{{lk_suff_d|{{{lk_suff|}}}}}}
-        |month={{kalendaryo/bulan-en|{{{month}}}}}
+        |month={{kalendaryo/bulan-en|{{{month|}}}}}
         |year={{{year|{{#time:Y}}}}}
         |show_year={{{show_year|off}}}
         |F={{#ifeq:{{{show_year|on}}}|with month|F Y|F}}
+        |zero={{{zero|{{0}}}}}
         |format={{{format|Sun1st}}}
         |float={{{float|right}}}
         |clear={{{clear|none}}}
@@ -40,6 +42,9 @@
          }}
         |weekstyle={{#if:{{{week_colour|{{{colour|}}}}}}
            |background-color:{{{week_colour|{{{colour}}}}}};
+         }}
+        |wknumstyle={{#if:{{{wknum_colour|}}}
+           |background-color:{{{wknum_colour}}};
          }}
       }}
      |{{#iferror:{{#time:|{{kalendaryo/bulan-en}}}}
@@ -74,6 +79,7 @@
               |year={{{year|{{#time:Y}}}}}
               |show_year={{#ifeq:{{{show_year|on}}}|on|on|off}}
               |F={{#ifeq:{{{show_year|on}}}|with month|F Y|F}}
+              |zero={{{zero|{{0}}}}}
               |format={{{format|Sun1st}}}
               |float={{{float|none}}}
               |clear={{{clear|none}}}
@@ -89,12 +95,16 @@
               |weekstyle={{#if:{{{week_colour|{{{colour|}}}}}}
                  |background-color:{{{week_colour|{{{colour}}}}}};
                }}   
+              |wknumstyle={{#if:{{{wknum_colour|}}}
+                 |background-color:{{{wknum_colour}}};
+               }}
             }}
-           |{{kalendaryo/{{{col|4}}}-column
+           |{{kalendaryo/{{{row|{{{col|4}}}}}}-{{#if:{{{row|}}}|row|column}}
               |title={{{title|}}}
               |year={{{year|{{#time:Y}}}}}
               |show_year={{#ifeq:{{{show_year|on}}}|on|on|off}}
               |F={{#ifeq:{{{show_year|on}}}|with month|F Y|F}}
+              |zero={{{zero|{{0}}}}}
               |format={{{format|Sun1st}}} 
                  |lk={{#if:{{{lk_pref|}}}{{{lk_pref_d|}}}{{{lk_pref_m|}}}<!--
                         -->{{{lk_suff|}}}{{{lk_suff_d|}}}{{{lk_suff_m|}}}<!--
@@ -126,10 +136,14 @@
               |weekstyle={{#if:{{{week_colour|{{{colour|}}}}}}
                  |background-color:{{{week_colour|{{{colour}}}}}};
                }}   
+              |wknumstyle={{#if:{{{wknum_colour|}}}
+                 |background-color:{{{wknum_colour}}};
+               }}   
+              |wk5253={{{wk5253|}}}
             }}
          }}
         |{{kalendaryo/{{#ifeq:{{kalendaryo/bulan-en}}|{{#time:Y|{{kalendaryo/bulan-en}}}}
-              |{{{col|4}}}-column
+              |{{{row|{{{col|4}}}}}}-{{#if:{{{row|}}}|row|column}}
               |month/link {{{lk|on}}}
             }}
            |title={{{title|}}}
@@ -140,6 +154,7 @@
            |month={{kalendaryo/bulan-en|{{{month|{{#time:F|{{kalendaryo/bulan-en}} 1}}}}}}}
            |lk={{{lk|on}}}
            |EndNote={{{EndNote|}}}
+           |zero={{{zero|{{0}}}}}
            |titlestyle={{#if:{{{title_colour|{{{colour|}}}}}}
               |background-color:{{{title_colour|{{{colour}}}}}};
             }}

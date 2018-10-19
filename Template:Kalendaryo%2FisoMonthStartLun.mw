@@ -1,0 +1,41 @@
+<templatestyles src="Navbox/styles.css" />
+{| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
+|- class="navbox-title" style="{{{titlestyle|}}}"
+|{{{prev_month|}}}
+!colspan="6" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
+|{{{next_month|}}}
+{{DOWs|left=Sim|width=12%|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|1 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{01}}}||{{{02}}}||{{{03}}}||{{{04}}}||{{{05}}}||{{{06}}}||{{{07}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|8 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{08}}}||{{{09}}}||{{{10}}}||{{{11}}}||{{{12}}}||{{{13}}}||{{{14}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|15 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{15}}}||{{{16}}}||{{{17}}}||{{{18}}}||{{{19}}}||{{{20}}}||{{{21}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|22 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{22}}}||{{{23}}}||{{{24}}}||{{{25}}}||{{{26}}}||{{{27}}}||{{{28}}}
+|-
+{{#if:{{{29|}}}
+|{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}{{{wk{{#time:W|29 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+{{!}}{{{29}}}{{!!}}{{{30|}}}{{!!}}{{{31|}}}
+{{!}}colspan=4{{!}}&nbsp;
+|{{#if:{{{6row|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}&nbsp;
+}}
+}}
+|-
+{{#if:{{{6row|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}&nbsp;
+{{!}}colspan=7{{!}}&nbsp;
+}}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{{EndNote|}}}|{{!}}colspan="8"{{!}}{{{EndNote}}} }}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{#ifeq:{{{show_year}}}|off||{{{year|}}}}}|{{!}}colspan=8{{!}}<b>{{#ifeq:{{{lk}}}|on
+  |[[{{{year}}}]]
+  |{{{year}}}
+ }}</b>}}
+|}

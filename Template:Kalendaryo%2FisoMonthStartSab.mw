@@ -1,0 +1,44 @@
+<templatestyles src="Navbox/styles.css" />
+{| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
+|- class="navbox-title" style="{{{titlestyle|}}}"
+|{{{prev_month|}}}
+!colspan="6" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
+|{{{next_month|}}}
+{{DOWs|left=Sim|width=12%|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+|-
+{{#if:{{{wk5253|}}}|
+{{!}}colspan="2" class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}52/53&nbsp;&nbsp;
+{{!}}        {{!}}{{!}}        {{!}}{{!}}        {{!}}{{!}}        {{!}}{{!}}{{{01}}}{{!}}{{!}}{{{02}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}{{{wk{{#time:W|1 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+{{!}}        {{!}}{{!}}        {{!}}{{!}}        {{!}}{{!}}        {{!}}{{!}}        {{!}}{{!}}{{{01}}}{{!}}{{!}}{{{02}}}
+}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|3 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{03}}}||{{{04}}}||{{{05}}}||{{{06}}}||{{{07}}}||{{{08}}}||{{{09}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|10 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{10}}}||{{{11}}}||{{{12}}}||{{{13}}}||{{{14}}}||{{{15}}}||{{{16}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|17 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{17}}}||{{{18}}}||{{{19}}}||{{{20}}}||{{{21}}}||{{{22}}}||{{{23}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|24 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{24}}}||{{{25}}}||{{{26}}}||{{{27}}}||{{{28}}}||{{{29|}}}||{{{30|}}}
+|-
+{{#if:{{{31|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}{{{wk{{#time:W|31 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+{{!}}{{{31|}}}
+{{!}}colspan=6{{!}}&nbsp;
+|{{#if:{{{6row|}}}|
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}&nbsp;
+{{!}}colspan=7{{!}}&nbsp; 
+}}
+}}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{{EndNote|}}}|{{!}}colspan="8"{{!}}{{{EndNote}}} }}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{#ifeq:{{{show_year}}}|off||{{{year|}}}}}|{{!}}colspan=8{{!}}<b>{{#ifeq:{{{lk}}}|on
+  |[[{{{year}}}]]
+  |{{{year}}}
+ }}</b>}}
+|}

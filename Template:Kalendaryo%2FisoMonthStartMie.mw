@@ -1,0 +1,36 @@
+<templatestyles src="Navbox/styles.css" />
+{| class="toccolours {{#if:{{{float|}}}|float{{{float}}}|}}" style="text-align:center;" cellpadding=2 cellspacing=0
+|- class="navbox-title" style="{{{titlestyle|}}}"
+|{{{prev_month|}}}
+!colspan="6" style="text-align: center;"| '''{{{cur_month|Bulan}}}'''
+|{{{next_month|}}}
+{{DOWs|left=Sim|width=12%|class=navbox-title|style=border: none; {{{weekstyle|}}}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|1 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|        ||        ||{{{01}}}||{{{02}}}||{{{03}}}||{{{04}}}||{{{05}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|6 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{06}}}||{{{07}}}||{{{08}}}||{{{09}}}||{{{10}}}||{{{11}}}||{{{12}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|13 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{13}}}||{{{14}}}||{{{15}}}||{{{16}}}||{{{17}}}||{{{18}}}||{{{19}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|20 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{20}}}||{{{21}}}||{{{22}}}||{{{23}}}||{{{24}}}||{{{25}}}||{{{26}}}
+|-
+|class="navbox-abovebelow" style="{{{wknumstyle|}}}"|{{{wk{{#time:W|27 {{{month|{{kalendaryo/bulan-en|{{CURRENTMONTHNAME}}}}}}} {{{year|}}}}}}}}
+|{{{27}}}||{{{28}}}||{{{29|}}}||{{{30|}}}||{{{31|}}}
+{{!}}colspan=2{{!}}&nbsp;
+{{#if:{{{6row|}}}|
+{{!}}-
+{{!}}class="navbox-abovebelow" style="{{{wknumstyle|}}}"{{!}}&nbsp;
+{{!}}colspan=7{{!}}&nbsp;
+}}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{{EndNote|}}}|{{!}}colspan="8"{{!}}{{{EndNote}}} }}
+|- class="navbox-title" style="{{{titlestyle|}}}"
+{{#if:{{#ifeq:{{{show_year}}}|off||{{{year|}}}}}|{{!}}colspan=8{{!}}<b>{{#ifeq:{{{lk}}}|on
+  |[[{{{year}}}]]
+  |{{{year}}}
+ }}</b>}}
+|}

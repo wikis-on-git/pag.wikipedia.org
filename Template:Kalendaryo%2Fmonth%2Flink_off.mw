@@ -5,7 +5,7 @@
 |weekstyle={{{weekstyle|}}}
 |wknumstyle={{{wknumstyle|}}}
 |wk5253={{{wk5253|}}}
-|month={{kalendario/bulan-en|{{#time:F|2000-{{{month|jan}}}}}}}
+|month={{kalendaryo/bulan-en|{{#time:F|2000-{{{month|jan}}}}}}}
 |cur_month={{#time:{{{F|F}}}|{{{year|2000}}}-{{{month|jan}}}}}
 |6row={{{6row|}}}
 |01={{{zero|{{0}}}}}1|02={{{zero|{{0}}}}}2|03={{{zero|{{0}}}}}3|04={{{zero|{{0}}}}}4|05={{{zero|{{0}}}}}5|06={{{zero|{{0}}}}}6|07={{{zero|{{0}}}}}7|08={{{zero|{{0}}}}}8|09={{{zero|{{0}}}}}9|10=10|11=11|12=12|13=13|14=14|15=15

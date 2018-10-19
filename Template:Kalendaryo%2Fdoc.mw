@@ -6,13 +6,13 @@ __NOTOC__
 <div style="clear:both;"></div>
 
 == Alimbawa 2 ==
-<code><nowiki>{{Kalendaryo|float=left|lk=on|month=current|title_colour=#ffcccc|week_colour=#cccccc}}</nowiki></code>
-{{Kalendaryo|float=left|lk=on|month=current|title_colour=#ffcccc|week_colour=#cccccc}}
+<code><nowiki>{{Kalendaryo|float=left|lk=on|month=Disyembre|title_colour=#ffcccc|week_colour=#cccccc}}</nowiki></code>
+{{Kalendaryo|float=left|lk=on|month=Disyembre|title_colour=#ffcccc|week_colour=#cccccc}}
 <div style="clear:both;"></div>
 
 == Alimbawa 3 ==
-<code><nowiki>{{Kalendaryo|lk=on|show_year=on|float=left|month=current|format=iso}}</nowiki></code>
-{{Kalendaryo|lk=on|show_year=on|float=left|month=current|format=iso}}
+<code><nowiki>{{Kalendaryo|lk=on|show_year=on|float=left|month=Disyembre|format=iso}}</nowiki></code>
+{{Kalendaryo|lk=on|show_year=on|float=left|month=Disyembre|format=iso}}
 <div style="clear:both;"></div>
 
 == Alimbawa 4 ==

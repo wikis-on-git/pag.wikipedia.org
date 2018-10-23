@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Nagcarlan|
- sealfile     = |
- locatormapfile = Ph_locator_laguna_nagcarlan.png |
- caption      = Map of [[Laguna]] showing the location of Nagcarlan. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = 3rd district of Laguna |
- barangays    = 52 |
- class        = 2nd class |
- mayor        = Carolyn Grace Miranda Reyes |
- founded      = 1583 |
- cityhood     = -|
- areakm2      = 78.10 |
- pop2000      = 59,726 |
- popden2000   = 760 |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Nagcarlan, Laguna
@@ -32,7 +13,7 @@
 | 2030 = 		
 |}}
 
-Say '''Nagcarlan''' (abe suraten ed '''''Nag'''oya '''Carla N'''oralyn'') sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
+Say '''Nagcarlan''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
 
 == Listaan na Barangay ==
 
@@ -114,7 +95,10 @@ File:Nagcarlan Underground Cemetery archway.jpg|Archway in the Underground Cemet
 File:Nagcarlan Underground Cemetery ceiling.jpg|Ceiling of the Nagcarlan Underground Cemetery
 </gallery>
 
-{{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
 {{Laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

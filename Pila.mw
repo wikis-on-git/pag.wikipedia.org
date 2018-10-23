@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Pila|
- sealfile     = |
- locatormapfile = Ph_locator_laguna pila.png |
- caption      = Map of [[Laguna]] showing the location of Pila. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = none |
- barangays    = 17 |
- class        = 3rd class |
- mayor        = Wilfredo M. Quiat |
- founded      = - |
- cityhood     = - |
- areakm2      = 31.20 |
- pop2000      = 37,427 |
- popden2000   =|
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Pila, Laguna
@@ -34,13 +15,9 @@
 
 Say '''Pila''' sakey baley diad [[Filipinas|Pilipino]] ed [[Laguna]].
 
-Lugar ang bayan ng Pila ng mga bahay bato na nagawa pa noong panahon ng mga Kastila at ang Lumang Simbahan ng ''Santo Antônio na Paduwa'', ang kauna-unahanga simbahang Antonino sa Pilipinas.
-
 == Listaan na barangay ==
 
-
 Saray [[barangay]] no seventeen:
-
 
 <table border=0><tr>
 <td valign=top>
@@ -64,7 +41,10 @@ Saray [[barangay]] no seventeen:
 * Tubuan
 </td></tr></table>
 
-{{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
 {{laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

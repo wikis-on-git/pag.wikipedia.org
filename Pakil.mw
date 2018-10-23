@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Baley na Pakil<br />''Pueblo Municipal de Paquil'' |
- sealfile     = |
- locatormapfile = Ph_locator_laguna pakil.png |
- caption      = Map of [[Laguna]] showing the location of Pakil. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = none |
- barangays    = 13 |
- class        = 5th class |
- mayor        = Vipops R. Martinez |
- founded      = 1676 |
- cityhood     = - |
- areakm2      = 46.50 |
- pop2000      = 20,822 |
- popden2000   = 4500 |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Pakil, Laguna
@@ -52,7 +33,10 @@ Saray [[barangay]] no thirteen:
 * Taft (Poblacion)
 * Tavera (Poblacion)
 
-{{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
 {{laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

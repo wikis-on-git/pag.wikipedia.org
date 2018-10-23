@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Baley na Santa María<br>''Pueblo Municipio de Santa María'' |
- sealfile     = |
- locatormapfile = Ph_locator_laguna santa maria.png |
- caption      = Map of [[Laguna]] showing the location of Santa María. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = 4th district |
- barangays    = 25 |
- class        = 5th class |
- mayor        = Antonio Carolino |
- founded      = [[1602]]|
- cityhood     = |
- areakm2      = 108.40 |
- pop2000      = 26,839 |
- popden2000   = 250 |
- coordinates  = 14°28′12″N 121°25′34″E |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Santa Maria, Laguna
@@ -32,7 +13,7 @@
 | 2030 = 		
 |}}
 
-Say '''Santa María''' sakey 4th class na baley diad [[Filipinas|Pilipino]] ed luyag na [[Laguna]].
+Say '''Santa María''' sakey kuma-4 klase na baley diad [[Filipinas|Pilipino]] ed luyag na [[Laguna]].
 
 == Listaan na Barangay ==
 
@@ -68,7 +49,10 @@ Say Santa Maria walay 25 ya [[barangay]]:
 * Tungkod
 </td></tr></table>
 
-{{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
 {{laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

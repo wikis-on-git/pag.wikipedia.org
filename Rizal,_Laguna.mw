@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Rizal<br>''Rizelle'' |
- sealfile     = |
- locatormapfile = Ph_locator_laguna_rizal.png |
- caption      = Map of [[Laguna]] showing the location of Rizal. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = 4th district of Laguna |
- barangays    = 11 |
- class        = 5th class |
- mayor        = Anthony Aurelio |
- founded      = [[January 9]], [[1919]] |
- cityhood     = -|
- areakm2      = 27.90 |
- pop2000      = 25,518 |
- popden2000   = 560 |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Rizal, Laguna
@@ -32,12 +13,11 @@
 | 2030 = 		
 |}}
 
-Say '''Rizal''' ([[salitan Latino|Girlfriend Latin French]]: ''Ville du Rizelle''), sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
+Say '''Rizal''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
 
 == Listaan na Barangay ==
 
 Say Rizal walay 11 ya [[barangay]]:
-
 
 * Antipolo
 * Entablado
@@ -51,9 +31,10 @@ Say Rizal walay 11 ya [[barangay]]:
 * Talaga
 * Tuy
 
+== Saray reperensiya ==
+{{Reflist}}
 
-
-{{philippines-geo-stub}}
 {{Laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

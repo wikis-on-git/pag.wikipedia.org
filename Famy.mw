@@ -1,23 +1,5 @@
-{{translation}}
+{{Infobox location}}
 
-{{Infobox Philippine city |
- infoboxtitle = Baley na Famy<br>''Balen ning Famiy''|
- sealfile     = |
- locatormapfile = Ph_locator_laguna_famy.png |
- caption      = Map of [[Laguna]] showing the location of Famy. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = 4th district of Laguna |
- barangays    = 20 |
- class        = 5th class |
- mayor        = Renonia B. Muramatsu |
- founded      = 1910 |
- cityhood     = -|
- areakm2      = 53.06 |
- pop2000      = 15,021 |
- popden2000   = 280 |
- coordinates  = |
-}}
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Famy, Laguna
 | 1990 = 7928		
@@ -30,13 +12,12 @@
 | 2025 = 		
 | 2030 = 		
 |}}
-Say '''Famy''' ([[salitan Kapampangan|Pampango]]: ''Famiy'') sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
+Say '''Famy''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
 
 == Listaan na Barangay ==
 
 Say Famy walay 20 ya [[barangay]]:
 
-{{div col|cols=2}}
 * Asana (Pob.)
 * Bacong-Sigsigan
 * Bagong Pag-Asa (Pob.)
@@ -57,10 +38,11 @@ Say Famy walay 20 ya [[barangay]]:
 * Minayutan
 * Salangbato ([[Salambato]])
 * Tunhac
-{{div col end}}
 
+== Saray reperensiya ==
+{{Reflist}}
 
-{{philippines-geo-stub}}
 {{Laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

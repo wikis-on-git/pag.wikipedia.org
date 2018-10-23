@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Lumbán|
- sealfile     = |
- locatormapfile = Ph_locator_laguna lumban.png |
- caption      = Map of [[Laguna]] showing the location of Lumbán. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = none |
- barangays    = 18 |
- class        = 4th class |
- mayor        = Carlos D. Kennedy III |
- founded      = - |
- cityhood     = - |
- areakm2      = 96.80 |
- pop2000      = 25,936 |
- popden2000   = 267.900|
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Lumban, Laguna
@@ -34,9 +15,7 @@
 
 Say '''Lumbán''' sakey baley diad [[Filipinas|Pilipino]] ed [[Laguna]].
 
-
 == Listaan na barangay ==
-
 
 Saray [[barangay]] no seventeen:
 
@@ -63,7 +42,10 @@ Saray [[barangay]] no seventeen:
 * Binayuyo(uninhabited)
 </td></tr></table>
 
-{{philippines-geo-stub}}
+== Saray reperensiya ==
+{{Reflist}}
+
 {{laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

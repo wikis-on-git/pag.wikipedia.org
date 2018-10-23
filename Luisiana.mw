@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Baley na Luisiana<br>''Municipality of Louisiana''<br>''Pueblo Municipal de Luisiana''<br>''Municipalité du Louisiana'' |
- sealfile     = |
- locatormapfile = Ph_locator_laguna_luisiana.png |
- caption      = Map of [[Laguna]] showing the location of Louisiana. |
- region       = [[CALABARZON]] (Region IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = 4th district of Laguna |
- barangays    = 11 |
- class        = 5th class |
- mayor        = Nicholas Benetton Dae-gun |
- founded      = Abril 3, 1854<br>[[December 11|Disiembre 11]], [[2009]] |
- cityhood     = -|
- areakm2      = 27.90 |
- pop2000      = 25,518 |
- popden2000   = 560 |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Luisiana, Laguna
@@ -32,12 +13,11 @@
 | 2030 = 		
 |}}
 
-Say '''Luisiana''' (odin ''Pueblo Municipal de Luisiana'' ed [[salitan Espanol]]; [[salitan Français|Français]]: ''Municipalité du Louisiana''), sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
+Say '''Luisiana''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
 
 == Listaan na Barangay ==
 
 Say Luisiana walay 23 ya [[barangay]]:
-
 
 <table border=0><tr>
 <td valign=top>
@@ -67,9 +47,10 @@ Say Luisiana walay 23 ya [[barangay]]:
 * Santo Tomas
 </td></tr></table>
 
+== Saray reperensiya ==
+{{Reflist}}
 
-
-{{philippines-geo-stub}}
 {{Laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

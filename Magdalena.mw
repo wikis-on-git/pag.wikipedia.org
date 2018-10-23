@@ -1,23 +1,4 @@
-{{translation}}
-
-{{Infobox Philippine city |
- infoboxtitle = Magdalena |
- sealfile     = |
- locatormapfile = Ph_locator_laguna magdalena.png |
- caption      = Map of [[Laguna]] showing the location of Magdalena. |
- region       = [[CALABARZON]] (Rehiyon IV-A) |
- province     = [[Laguna (luyag)]] |
- districts    = none |
- barangays    = 24 |
- class        = 4th class |
- mayor        = Teresa Nieva B. Reodica |
- founded      = Enero 18, 1820 |
- cityhood     = - |
- areakm2      = 34.88 |
- pop2000      = 22,976 |
- popden2000   = 6600 |
- coordinates  = |
-}}
+{{Infobox location}}
 
 {{Philippine Census			
 | title = Sensus na populasyon ed <br> Magdalena, Laguna
@@ -67,9 +48,10 @@ Saray [[barangay]] no twenty four:
 * Halayhayin
 </td></tr></table>
 
-[[image:Magdalena boundary.jpg|none|230px]]
+== Saray reperensiya ==
+{{Reflist}}
 
-{{philippines-geo-stub}}
 {{laguna}}
+{{philippines-geo-stub}}
 
 [[Category:Saray baley na Laguna]]

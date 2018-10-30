@@ -1,4 +1,3 @@
-<templatestyles src="Navbox/styles.css" />
 <includeonly>{{#invoke:Navbox|navbox}}</includeonly><noinclude>
 {{Documentation}}
 </noinclude>

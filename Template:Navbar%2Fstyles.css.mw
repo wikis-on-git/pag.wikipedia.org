@@ -37,6 +37,40 @@
 	margin-right: 0.5em;
 }
 
+/* Mobile css */
+body.skin-minerva .navbar {
+	display: inline;
+	font-size: 88%;
+	font-weight: normal;
+}
+body.skin-minerva .navbar ul {
+	display: inline;
+	white-space: nowrap;
+}
+body.skin-minerva .navbar li {
+	word-spacing: -0.125em;
+}
+.body.skin-minerva navbar.mini li span {
+	font-variant: small-caps;
+}
+/* Navbar styling when nested in infobox and navbox */
+body.skin-minerva .navbox .navbar,
+body.skin-minerva .infobox .navbar {
+	font-size: 100%;
+}
+body.skin-minerva .navbox .navbar {
+	display: block;
+}
+body.skin-minerva .navbox-title .navbar {
+	/* @noflip */
+	float: left;
+	/* @noflip */
+	text-align: left;
+	/* @noflip */
+	margin-right: 0.5em;
+	width: 6em;
+}
+
 /* Style for horizontal lists (separator following item).
    @source mediawiki.org/wiki/Snippets/Horizontal_lists
    @revision 8 (2016-05-21)

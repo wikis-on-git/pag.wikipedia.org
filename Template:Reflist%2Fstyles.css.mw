@@ -10,3 +10,9 @@ div.reflist ol.references {
 	margin-bottom: 0;          /* Avoid double margin when nested in div.reflist */
 	list-style-type: inherit;  /* Enable custom list style types */
 }
+
+/* Mobile css */
+/* Enable custom list style types for lists of references */
+body.skin-minerva .reflist ol.references {
+	list-style-type: inherit;
+}

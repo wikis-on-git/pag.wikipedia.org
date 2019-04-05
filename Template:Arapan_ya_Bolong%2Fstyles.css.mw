@@ -23,22 +23,18 @@
     background-color: #E0E0E0;
     background-image: linear-gradient(to right, #E0E0E0, #F2F2F2);
 }
-/* H150 */
-#mp-tfa-h2,
-#mp-tfl-h2,
-#mp-tfp-h2 {
+/* Category box*/
+#mp-cb-h2 {
     background-color: #CEF2E0;
     background-image: linear-gradient(to right, #CEF2E0, #F2F2F2);
 }
-/* H210 */
-#mp-itn-h2,
-#mp-otd-h2 {
+/* Featured box*/
+#mp-fb-h2 {
     background-color: #CEDFF2;
     background-image: linear-gradient(to right, #CEDFF2, #F2F2F2);
 }
-/* H270 */
-#mp-dyk-h2,
-#mp-bae-h2 {
+/* You are needed box */
+#mp-yan-h2 {
     background-color: #E0CEF2;
     background-image: linear-gradient(to right, #E0CEF2, #F2F2F2);
 }
@@ -91,25 +87,5 @@
     }
     #mp-topbanner-right br {
         display: none;
-    }
-}
-
-/* Dynamic layout for Picture of the Day */
-@media screen and (max-width: 880px) {
-    .potd-container {
-        flex-direction: column !important;
-    }
-    .potd-image {
-        float: none !important;
-        margin: 0 0 0.5em 0 !important;
-    }
-}
-@media screen and (min-width: 1280px) {
-    .potd-container {
-        flex-direction: row !important;
-    }
-    .potd-image {
-        float: left !important;
-        margin: 0 1em 0 0 !important;
     }
 }

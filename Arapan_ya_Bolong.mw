@@ -1,61 +1,50 @@
-<!-- WELCOME BOX  --> 
-<table cellpadding=0 cellspacing=0 style="background:none">
-<tr><td width="45%" style="padding-right:10px">
-{| width=100% cellspacing="0"  style="border:1px solid #B3B3FF; background-color:#ffffff; height:267px"
-| <div style="font-size:20px;text-align:center; padding:10px">'''Masantos ya Agew ed Sikayon Amin'''</div>
-|--
-|<div style="text-align:justify; padding:10px;">Say  [[Wikipedia]] nausar ed intiron talba. Aga labat nabasa ray nanduruman artikulo,  sarag to met ya dumaen so content da ra. Say salitan wikipedia, pinantekep ya salitan nanlapod wiki tan encyclopedia. 
-
-* Akasulat ed [[Salitan Pangasinan]] so ayan Wikipedia. Karaklan ya makapansalita na [[Salitan Pangasinan|Pangasinan]], manaayam ed [[Luyag na Pangasinan]]. Balet dakel met ran Pangasinan so manaayam ed arom ran parte ed mundo.
-
-*Bilang na Artikulo: Walay [[Special:Statistics|{{NUMBEROFARTICLES}}]] ya artikulon akasulat ed Wikipedia natan.
-
+<templatestyles src="Arapan ya Bolong/styles.css"/>
+<!-- START OF MAIN PAGE: -->
+<!--
+        BANNER ACROSS TOP OF PAGE
+-->
+<div role="banner" class="mp-panel" id="mp-topbanner">
+<div id="mp-topbanner-inner" style="max-width: 960px; margin: 0 auto; text-align: center;">
+<!--
+        WIKIPEDIA WORDMARK
+-->
+<div id="mp-topbanner-left" style="float: left; width: 35%; min-width: 250px; margin-bottom: 0.5em;">
+[[File:Wikipedia wordmark.svg|250px|alt=|link=]]</div>
+<!--
+        WELCOME TO WIKIPEDIA
+-->
+<div id="mp-topbanner-right" style="float: right; width: 65%; min-width: 250px; margin-bottom: 0.5em;">
+Masantos ya Agew ed Sikayon Amin. Say bolos ya ensayklopedia. <br />Bilang na artikulo: walay [[Special:Statistics|{{NUMBEROFARTICLES}}]] ya artikulon akasulat ed Wikipedia natan.<br />Pinablin atateng, agagi, san kaluyagan, tuloy kayo!
 </div>
-|}
-{| width=100%  cellspacing="0" cellpadding="3" style="padding:1px; background-color:#F0FFCF; border:1px solid #B3B3FF; border-top: 0px; height:36px"
-|<center> <div style="margin: 0; background-color:#E1F1FF; font-family: sans-serif; font-size:91%; font-weight:bold; border:1px solid #C4C40F; text-align:center; color:#030; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;"> <font color="#3366BB">Pinablin atateng, agagi, san kaluyagan, tuloy kayo!</div>
-|}
-</td>
-<!-- /WELCOME BOX END  -->
+</div>
+</div>
+<!--
+        LEFT SECTION
+-->
+<div class="mp-flex" style="clear: both; {{display-flex}}">
+<div class="mp-float-left" style="float: left; width: 55%; {{display-flex}} {{box-flex|1 1 55%}}">
+<!--
+        FEATURED BOX
+-->
+<div role="region" aria-labelledby="mp-fb-h2" class="mp-panel" id="mp-fb" style="width: 100%;">
+<h2 class="mp-h2" id="mp-fb-h2">Pinili ran gawing</h2>
+{{Pinili ran Gawing}}
+</div>
+</div>
+<!--
+        RIGHT SECTION
+-->
+<div class="mp-float-right" style="float: right; width: 45%; {{display-flex}} {{box-flex|1 1 45%}}">
+<div class="mp-margin-left" style="{{display-flex}} margin-left: 1em;">
+<!--
+        YOU ARE NEEDED BOX
+-->
+<div role="region" aria-labelledby="mp-yan-h2" class="mp-panel" id="mp-yan" style="width: 100%;">
+<h2 class="mp-h2" id="mp-yan-h2">Nakaukulan ka na Wikipedian Pangasinan!</h2>
+Say  [[Wikipedia]] nausar ed intiron talba. Aga labat nabasa ray nanduruman artikulo, sarag to met ya dumaen so napera da ra. Say salitan Wikipedia, pinantekep ya salitan nanlapod wiki tan ensayklopedia.
 
-<!-- FEATURED BOX  -->
-<td  style="vertical-align:top; align: right" width="45%">
-{| width=100%  cellspacing="0" cellpadding="3" style="padding:1px; background-color:#DEECEF; border:1px solid #42808C; border-bottom: 0; height:36px"
-|<div style="margin: 0; background-color:#C4FFE4; font-family: sans-serif; font-size:91%; font-weight:bold; border:1px solid #7BB4BF; text-align:center; color:#386872; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Pinili ran Gawing</div>
-|}
-{| width="100%"  cellspacing=0  cellpadding="10" style="  border:1px solid #42808C; background-color:#ffffff; height:267px"
-|
-* [[Index na Amin na Artikulo]]
-* [[Listaan na Antikey ya Estoria ed Pangasinan]]
-* [[Listaan na Salitan Pangasinan|Dictionary na Salitan Pangasinan]]
-* [[Listaan na Salitan English|Dictionary na English-Pangasinan]]
-* [[Cancion ed Pangasinan]]
-* [[Anlong ed Pangasinan|Saray Anlong (Poems) ed Pangasinan]] 
-* [[Baley san Siyudad ed Luyag na Pangasinan]]
-* [[Nipaakar ed Parte na Laman]]
-* [[Wikipedia:listaan_na_nakaukulan_ed_balang_salita | Listaan na nakaukulan ya artikulo ed Pangasinan]]
-* [[Salitan Pangasinan]]
-* [[Totoon Pangasinan]]
-* [[Luyag na Pangasinan]]
-* [[Biblia]]
-* [[Dasal ed Pangasinan|Saray Dasal na Romano Katoliko ed Pangasinan]]
-* [[Rito|Saray Rito na Romano Katoliko]]
-* [[Learning Salitan Pangasinan|Learning Pangasinan]]
-* ''[[Wikipedia:Guestbook and Help for Non-Pangasinense Speakers|Guestbook and Help for Non-Pangasinense Speakers]]''
-|}
-</td>
-</tr>
-</table>
-<!-- /FEATURED BOX END -->
+Akasulat ed [[Salitan Pangasinan]] so ayan Wikipedia. Karaklan ya makapansalita na [[Salitan Pangasinan|Pangasinan]], manaayam ed [[Luyag na Pangasinan]]. Balet dakel met ran Pangasinan so manaayam ed arom ran parte ed mundo.
 
-
-<!-- YOU ARE NEEDED BOX  -->
-
-{| width=100%  cellspacing="0" cellpadding="3" style="padding:1px; background-color:#ffDfEf; border:1px solid #42808C; border-bottom: 0; height:36px"
-|<div style="margin: 0; background-color:#EfffDf; font-family: sans-serif; font-size:130%; font-weight:bold; border:1px solid #7BB4BF; text-align:center; color:#0300A0; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Nakaukulan  ka  na  Wikipedian  Pangasinan!</div>
-|}
-{| width="100%"  cellspacing=0  cellpadding="10" style="  border:1px solid #42808C; background-color:#ffffff; height:0px"
-|
 '''Sarag mon naitulong ed Wikipedian Pangasinan'''
 * Mansulat na balon artikulo. Basa yo yan [[m:Help:Starting a new page|artikulo]] umpian naaralan yoy mansulat na balon artikulo.  
 * Man-edit na asulat lan artikulo. Basa yo yan [[m:Help:Editing|artikulo]] umpian naaralan yoy man-edit na asulat lan artikulo. 
@@ -64,95 +53,44 @@
 '''Ulupan tayo ed Wikipedian Pangasinan'''
 * Diad [[Wikipedia:kaleskesan|kaleskesan]] tayo pantongtongan so amin ya bagay nipakar ed Wikipedian Pangasinan.
 * Diad [[Wikipedia:pankabatan|pankabatan]] tayo mikabat ed ulupan tayo diad Wikipedia.
-|}
-
-
-<!-- /YOU ARE NEEDED BOX END --><br>
-
-<!-- CATEGORY BOX  -->
-{| width="100%"  border="0" cellspacing="0" cellpadding="5" style="  background-color:#FFFFE8; border:1px solid #DDDD00; border-bottom: 0px;"
-| |<div style="margin: 0; background-color:#FFFFCE; font-family: sans-serif; font-size:100%; font-weight:bold; border:1px solid #ECEC00; text-align:center; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em; color: #8C8C00;"><font color="#8C8C00">Kompog  ed  Wikipedian  Pangasinan</font></div>
-|}
-{| width="100%"    border="0" cellspacing="0" cellpadding="5" style="background:#FFFFFF; border:1px solid #DDDD00;"
-| [[Image:Nuvola_apps_bug.png|50px]]
-| width="45%" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Biology]]'''<br/><font color="green">
-[[Nipaakar ed Parte na Laman]] • [[Nipaakar ed Anthropology]] • [[Nipaakar ed Talaman]]</font>
-| [[Image:Nuvola_apps_kdmconfig.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Totoo san Ulupan]]'''<br/><font color="green">
-[[Kabat ran Totoo]] • [[Grupon Ethnic]] • [[Ulupan]]
-'''</big><br/>
-|- 
-| [[  File:Religious syms.svg|35px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;  " | '''[[Pananisia]]'''<br/><font color="green">
-[[Biblia]] • [[Dasal]] • [[Rito]] • [[Kankanta]] • [[Bilay na Saray Santo]] • [[Arom ran Reliyon]] </font>
-| width="10%" | [[Image:Nuvola_filesystems_www.png|50px]]
-| width="90%" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Geography]]'''<br/><font color="green"> 
-[[Asia]] • [[Amerika]] • [[Europe]] • [[Australya]]• [[Afrika]]</font>
-|- 
-| [[Image:Nuvola_apps_colors.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Panaon san Klima]]'''<br/>
-<font color="green">[[ecology]] • [[klima]] </font> 
-
-| 
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small" | '''[[Kultura tan Aral]]'''<br/><font color="green">
-[[Kultura]] • [[Eskwelaan]] • [[Librari]] • [[Sayaw]] 
-|- 
-| [[Image:Nuvola_apps_kchart.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Negosyo]]'''<br/><font color="green">[[Agro-Industrial]] • [[Trading]] • [[Banko san Finance]]</font>
- 
-| [[Image:Nuvola apps ktip.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Philosophy]]'''<br/><font color="green">[[Ideology]]<br/><font color="green"></font>
-|- 
-| [[Image:Nuvola_apps_kalzium.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Physics]]'''<br/>
-| [[Image:P parthenon.svg|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Klase na Gobyerno]]'''<br/><font color="green">[[Republic]] • [[Kaarian]] • [[Federalist]] </font>
-|- 
-| [[Image:Nuvola_apps_package_graphics.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Art]]'''<br/><font color="green"><br/><font color="green">[[Painting]] • [[Sculpture]]• [[Arkitekture]] </font>
-| [[Image:Nuvola_apps_edu_science.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Chemistry]]'''<br/><font color="green"></font>
-|- 
-| [[Image:Nuvola_apps_edu_mathematics.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Mathematics]]'''<br/><font color="green"></font>
-| [[Image:Nuvola_apps_knewsticker.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Media]]'''<br/><font color="green">[[Internet]] • [[Diaryo]] • [[Telebisyon]] • [[Radio]] • [[Magasin]]</font>
-|- 
-| [[Image:Nuvola apps kworldclock.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Season]]'''<br/><font color="green">[[Season na Petang|Panaon na Petang]] • [[Season na Uran|Panaon na Uran]]</font>
-| [[Image:Nuvola_apps_juk.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Music]]'''<br/><font color="green">[[Cancion ed Pangasinan]] • [[Pop]] • [[Kankanta|Cancion na Simbaan]] • [[Jazz]]</font>
-|- 
-| [[Image:Nuvola_apps_kmines.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Sports]]'''<br/><font color="green"></font> [[Basketball]]• [[Bisikleta]]• [[Boxing]]• [[Futball]]
-
-
-| [[Image:Nuvola_apps_edu_languages.png|50px]]
-| style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;" | '''[[Salita]]'''<br/><font color="green"></font>[[Grammar]] • [[Diktionario]] • [[Listaan na Lingguahi]] </font>
-|}<br>
-<!-- /CATEGORY BOX END  -->
-
-
-<!-- LANGUAGE BOX -->
-{| width=100%  cellspacing="0" cellpadding="3" style="padding:1px; background-color:#FFF3DD; border:1px solid #FFC253; border-bottom: 0;"
-|<div style="margin: 0; background-color:#FFEAC1; font-family: sans-serif; font-size:100%; font-weight:bold; border:1px solid #FFCF77; text-align:center; color:#C17D05; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">Salita  ya  Uusarin  ed  Wikipedia</div>
-
-|}
-{| width="100%"  cellspacing=0  cellpadding="10" style="margin:0; height:100%px;  border:1px solid #FFC253; background-color:#ffffff;"
-|{{SalitadWikipedia}}
-|}
-<!-- /LANGUAGE BOX END -->
-
-
-<!-- /SISTER PROJECT BOX -->
-{| width="100%"  border="0" cellspacing="0" cellpadding="5" style="  background-color:#FFFFE8; border:1px solid #DDDD00; border-bottom: 0px;"
-| |<div style="margin: 0; background-color:#FFFFCE; font-family: sans-serif; font-size:100%; font-weight:bold; border:1px solid #ECEC00; text-align:center; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em; color: #8C8C00;"><font color="#8C8C00">Arom ran Proyekton Agi na Wikipedia</font></div>
-|}
-{| width="100%"    border="0" cellspacing="0" cellpadding="5" style="background:#FFFFFF; border:1px solid #DDDD00;"
-
-
-{| width="100%"  cellspacing=0  cellpadding="10" style="margin:0; height:100%px;  border:1px solid #FFC253; background-color:#ffffff;"
-
-|{{Agin Proyekto}}<br/>
-|}
-<!-- /SISTER PROJECT BOX END -->
+</div>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+<!--
+        CATEGORY BOX
+-->
+<div role="region" aria-labelledby="mp-cb-h2" class="mp-panel" id="mp-cb">
+<h2 class="mp-h2" id="mp-cb-h2">Kompog ed Wikipedian Pangasinan</h2>
+{{Kategorya}}
+</div>
+<!--
+        LEFT SECTION
+-->
+<div class="mp-flex" style="clear: both; {{display-flex}}">
+<div class="mp-float-left" style="float: left; width: 40%; {{display-flex}} {{box-flex|1 1 40%}}">
+<!--
+        IN OTHER LANGUAGES
+-->
+<div role="navigation" aria-labelledby="mp-lang-h2" class="mp-panel" id="mp-lang" style="width: 100%;">
+<h2 class="mp-h2" id="mp-lang-h2">Salita ya uusarin ed Wikipedia</h2>
+{{SalitadWikipedia}}
+</div>
+</div>
+<!--
+        RIGHT SECTION
+-->
+<div class="mp-float-right" style="float: right; width: 60%; {{display-flex}} {{box-flex|1 1 60%}}">
+<div class="mp-margin-left" style="{{display-flex}} margin-left: 1em;">
+<!--
+        SISTER PROJECTS
+-->
+<div role="navigation" aria-labelledby="mp-sister-h2" class="mp-panel" id="mp-sister" style="width: 100%;">
+<h2 class="mp-h2" id="mp-sister-h2">Arom ran proyekton agi na Wikipedia</h2>
+{{Agin Proyekto‎}}
+</div>
+</div>
+</div>
+</div>
+__NOTOC____NOEDITSECTION__

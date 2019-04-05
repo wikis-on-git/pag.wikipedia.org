@@ -1,3 +1,31 @@
+/* Don't display some stuff on Vector main page  */
+body.skin-vector .page-Arapan_ya_bolong #deleteconfirm,
+body.skin-vector .page-Arapan_ya_bolong #t-cite,
+body.skin-vector .page-Arapan_ya_bolong #footer-info-lastmod,
+body.skin-vector .action-view.page-Arapan_ya_bolong #siteSub,
+body.skin-vector .action-view.page-Arapan_ya_bolong #contentSub,
+body.skin-vector .action-view.page-Arapan_ya_bolong .firstHeading {
+    display: none !important;
+}
+
+/* Don't display some stuff on Monobook main page  */
+body.skin-monobook .page-Arapan_ya_bolong #deleteconfirm,
+body.skin-monobook .page-Arapan_ya_bolong #t-cite,
+body.skin-monobook .page-Arapan_ya_bolong #lastmod,
+body.skin-monobook .action-view.page-Arapan_ya_bolong #siteSub,
+body.skin-monobook .action-view.page-Arapan_ya_bolong #contentSub,
+body.skin-monobook .action-view.page-Arapan_ya_bolong h1.firstHeading {
+    display: none !important;
+}
+/* Don't display some stuff on Modern main page  */
+
+body.skin-modern .page-Arapan_ya_bolong #t-cite,
+body.skin-modern .page-Arapan_ya_bolong #lastmod,
+body.skin-modern .page-Arapan_ya_bolong #siteSub {
+	display: none !important;
+}
+
+
 /* Basic panel styling */
 .mp-panel {
     margin-top: 1em;

@@ -1,0 +1,115 @@
+/* Basic panel styling */
+.mp-panel {
+    margin-top: 1em;
+    padding: 1em;
+    overflow: hidden;
+    box-shadow:  0.25em 0.25em 0.5em rgba(0, 0, 0, 0.05);
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E0E0E0 #B1B1B1 #B1B1B1 #E0E0E0;
+    background-color: #FAFAFA;
+    background-image: linear-gradient(to bottom left, #F2F2F2, #FAFAFA);
+}
+
+/* Basic heading styling */
+.mp-h2 {
+    border-bottom: none;
+    margin: -1em -1em .6em -1em;
+    padding: .5em 1em .2em 1em;
+    font-family: "Linux Libertine", "Nimbus Roman No9 L", "Times New Roman", Times, serif;
+    font-size: 1.7em;
+    line-height: 1.3;
+    text-shadow: 0.1em 0.1em 0.2em rgba(0, 0, 0, 0.1);
+    background-color: #E0E0E0;
+    background-image: linear-gradient(to right, #E0E0E0, #F2F2F2);
+}
+/* H150 */
+#mp-tfa-h2,
+#mp-tfl-h2,
+#mp-tfp-h2 {
+    background-color: #CEF2E0;
+    background-image: linear-gradient(to right, #CEF2E0, #F2F2F2);
+}
+/* H210 */
+#mp-itn-h2,
+#mp-otd-h2 {
+    background-color: #CEDFF2;
+    background-image: linear-gradient(to right, #CEDFF2, #F2F2F2);
+}
+/* H270 */
+#mp-dyk-h2,
+#mp-bae-h2 {
+    background-color: #E0CEF2;
+    background-image: linear-gradient(to right, #E0CEF2, #F2F2F2);
+}
+
+/* Top banner */
+#mp-topbanner {
+    padding: 0;
+}
+#mp-topbanner-inner {
+    padding: 1em;
+    overflow: hidden;
+    background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/250px-Wikipedia-logo-v2-o10.svg.png);
+    background-position: 1em 1em;
+    background-repeat: no-repeat;
+    background-size: 250px auto;
+}
+@media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
+    #mp-topbanner-inner {
+        background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/375px-Wikipedia-logo-v2-o10.svg.png)
+    }
+}
+@media (min-resolution: 2dppx), (min-resolution: 192dpi) {
+    #mp-topbanner-inner {
+        background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/500px-Wikipedia-logo-v2-o10.svg.png)
+    }
+}
+#mp-topbanner-left img {
+    opacity: 0.8;
+}
+#mp-topbanner-right {
+    font-family: "Linux Libertine", "Nimbus Roman No9 L", "Times New Roman", Times, serif;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+/* Stack panels when screen width is 68em or less */
+@media screen and (max-width: 68em) {
+    .mp-flex {
+        display: block !important;
+    }
+    .mp-margin-left {
+        margin-left: 0 !important;
+    }        
+    .mp-float-left,
+    .mp-float-right,
+    #mp-topbanner-left,
+    #mp-topbanner-right {
+        float: none !important;
+        width: auto !important;
+    }
+    #mp-topbanner-right br {
+        display: none;
+    }
+}
+
+/* Dynamic layout for Picture of the Day */
+@media screen and (max-width: 880px) {
+    .potd-container {
+        flex-direction: column !important;
+    }
+    .potd-image {
+        float: none !important;
+        margin: 0 0 0.5em 0 !important;
+    }
+}
+@media screen and (min-width: 1280px) {
+    .potd-container {
+        flex-direction: row !important;
+    }
+    .potd-image {
+        float: left !important;
+        margin: 0 1em 0 0 !important;
+    }
+}

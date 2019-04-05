@@ -1,21 +1,42 @@
 Say Wikipedia, manhohost so [[Wikipedia Foundation|Wikipedia Foundation]], sakey ya organisyon ya angapoy-tubo (Non-Profit Organization odino NPO). Wadyad English ni so amin iran akasulat ed lepsab. 
 
-{| align="center" cellpadding="2" width="100%" style="text-align:left"
-| [[Image:Wiktionary-logo-en.png|35px|<nowiki></nowiki>]]
-| [[wiktionary:en:Main Page|'''Wiktionary''']]<br />Diksionari san Tesaurus
-| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
-| [[wikibooks:en:Main Page|'''Wikibooks''']]<br />Libren Textbook san Manual
-| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
-| [[wikiquote:en:Main Page|'''Wikiquote''']]<br />Collection na Quote
-| [[Image:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
-| [[wikisource:Main Page:English|'''Wikisource''']]<br />Free Content ya Librari
-|-
-| [[Image:Wikispecies-logo-en.png|35px|<nowiki></nowiki>]]
-| [[Wikispecies:|'''Wikispecies''']]<br />Listaan na specie
-| [[Image:Wikinews-logo.png|35px|<nowiki></nowiki>]]
-| [[wikinews:Main Page|'''Wikinews''']]<br />Free Content ya News
-| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
-| [[commons:Main Page|'''Commons''']]<br />Shi-nare na Media
-| [[Image:Wikimedia-logo.svg|35px|<nowiki></nowiki>]]
-| [[m:Main Page|'''Meta-Wiki''']]<br /> Coordination na saray proyekto ed Wikipedia
-|}
+<ul id="mp-sister-container" style="overflow: hidden; margin: 1em 0 0; line-height: 1.3em; text-align: left;">
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Commons-logo.svg|30px|link=commons:|Commons]]</div>[[commons:|'''Commons''']]<br /><small style="font-size: small;">Shi-nare na Media</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Mediawiki-logo.png|50px|link=mw:|MediaWiki]]</div>[[mw:|'''MediaWiki''']]<br /><small style="font-size: small;">Wiki software</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikimedia Community Logo.svg|35px|link=m:|Meta-Wiki]]</div>[[m:|'''Meta-Wiki''']]<br /><small style="font-size: small;">Coordination na saray proyekto ed Wikipedia</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikibooks-logo.svg|35px|link=b:|Wikibooks]]</div>[[b:|'''Wikibooks''']]<br /><small style="font-size: small;">Libren Textbook san Manual</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikidata-logo.svg|50px|link=d:|Wikidata]]</div>[[d:|'''Wikidata''']]<br /><small style="font-size: small;">Knowledge base</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikinews-logo.svg|50px|link=n:|Wikinews]]</div>[[n:|'''Wikinews''']]<br /><small style="font-size: small;">Free Content ya News</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikiquote-logo.svg|35px|link=q:|Wikiquote]]</div>[[q:|'''Wikiquote''']]<br /><small style="font-size: small;">Collection na Quote</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikisource-logo.svg|35px|link=s:|Wikisource]]</div>[[s:|'''Wikisource''']]<br /><small style="font-size: small;">Free Content ya Librari</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikispecies-logo.svg|35px|link=wikispecies:|Wikispecies]]</div>[[wikispecies:|'''Wikispecies''']]<br /><small style="font-size: small;">Listaan na specie</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikiversity-logo.svg|45px|link=v:|Wikiversity]]</div>[[v:|'''Wikiversity''']]<br /><small style="font-size: small;">Learning resources</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wikivoyage-Logo-v3-icon.svg|35px|link=wikivoyage:|Wikivoyage]]</div>[[wikivoyage:|'''Wikivoyage''']]<br /><small style="font-size: small;">Travel guide</small>
+</li>
+<li class="mp-sistericon" style="display: block; float: left; vertical-align: top; width: 16em; height: 4.5em;">
+<div style="float: left; width: 60px; height: 60px; text-align: center;">[[File:Wiktionary-logo-v2.svg|35px|link=wikt:|Wiktionary]]</div>[[wikt:|'''Wiktionary''']]<br /><small style="font-size: small;">Diksionari san Tesaurus</small>
+</li>
+</ul><noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,5 +1,7 @@
 <templatestyles src="Arapan ya Bolong/styles.css"/>
-<!-- START OF MAIN PAGE: -->
+<div id="mp-enable" style="margin-bottom: 1.5em;">
+{{DISPLAYTITLE:<span style="color:transparent;position:absolute;top:-9999px;left:-9999px">Arapan ya Bolong</span>}}
+</div><!-- START OF MAIN PAGE: -->
 <!--
         BANNER ACROSS TOP OF PAGE
 -->

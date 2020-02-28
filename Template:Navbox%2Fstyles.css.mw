@@ -75,5 +75,5 @@ th.navbox-group,
 }
 
 .mw-collapsible-toggle {
-	font-weight: normal;     /* Do not inherit the nabox title's font-weight */
+	font-weight: normal;     /* Do not inherit navbox title's font-weight */
 }

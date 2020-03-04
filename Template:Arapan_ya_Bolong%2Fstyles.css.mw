@@ -1,5 +1,5 @@
 /* Basic panel styling */
-.mp-panel {
+.ab-panel {
     margin-top: 1em;
     padding: 1em;
     overflow: hidden;
@@ -12,7 +12,7 @@
 }
 
 /* Basic heading styling */
-.mp-h2 {
+.ab-h2 {
     border-bottom: none;
     margin: -1em -1em .6em -1em;
     padding: .5em 1em .2em 1em;
@@ -24,26 +24,26 @@
     background-image: linear-gradient(to right, #E0E0E0, #F2F2F2);
 }
 /* Category box*/
-#mp-cb-h2 {
+#ab-cb-h2 {
     background-color: #CEF2E0;
     background-image: linear-gradient(to right, #CEF2E0, #F2F2F2);
 }
 /* Featured box*/
-#mp-fb-h2 {
+#ab-fb-h2 {
     background-color: #CEDFF2;
     background-image: linear-gradient(to right, #CEDFF2, #F2F2F2);
 }
 /* You are needed box */
-#mp-yan-h2 {
+#ab-yan-h2 {
     background-color: #E0CEF2;
     background-image: linear-gradient(to right, #E0CEF2, #F2F2F2);
 }
 
 /* Top banner */
-#mp-topbanner {
+#ab-topbanner {
     padding: 0;
 }
-#mp-topbanner-inner {
+#ab-topbanner-inner {
     padding: 1em;
     overflow: hidden;
     background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/250px-Wikipedia-logo-v2-o10.svg.png);
@@ -52,19 +52,19 @@
     background-size: 250px auto;
 }
 @media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
-    #mp-topbanner-inner {
+    #ab-topbanner-inner {
         background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/375px-Wikipedia-logo-v2-o10.svg.png)
     }
 }
 @media (min-resolution: 2dppx), (min-resolution: 192dpi) {
-    #mp-topbanner-inner {
+    #ab-topbanner-inner {
         background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wikipedia-logo-v2-o10.svg/500px-Wikipedia-logo-v2-o10.svg.png)
     }
 }
-#mp-topbanner-left img {
+#ab-topbanner-left img {
     opacity: 0.8;
 }
-#mp-topbanner-right {
+#ab-topbanner-right {
     font-family: "Linux Libertine", "Nimbus Roman No9 L", "Times New Roman", Times, serif;
     font-size: 17px;
     line-height: 1.3;
@@ -72,20 +72,20 @@
 
 /* Stack panels when screen width is 68em or less */
 @media screen and (max-width: 68em) {
-    .mp-flex {
+    .ab-flex {
         display: block !important;
     }
-    .mp-margin-left {
+    .ab-margin-left {
         margin-left: 0 !important;
     }        
-    .mp-float-left,
-    .mp-float-right,
-    #mp-topbanner-left,
-    #mp-topbanner-right {
+    .ab-float-left,
+    .ab-float-right,
+    #ab-topbanner-left,
+    #ab-topbanner-right {
         float: none !important;
         width: auto !important;
     }
-    #mp-topbanner-right br {
+    #ab-topbanner-right br {
         display: none;
     }
 }

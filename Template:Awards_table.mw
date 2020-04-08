@@ -1,0 +1,13 @@
+<templatestyles src="Template:Awards table/styles.css" />
+{| class="{{#if: {{{sortable|}}} | {{yesno|{{{sortable|}}}|yes=sortable}} | {{#ifeq: {{{1|}}} | 5 | sortable }} }} wikitable plainrowheaders {{#ifeq: {{{1|}}} | 5 | awards-table }}" style="table-layout: fixed; margin-right: 0; {{{style|}}}"
+|+ {{{caption|}}}
+|-
+! scope="col" | Year
+! scope="col" | {{#switch:{{{1|1}}}|1=Nominee / work|2|4=Nominated work|3=Category|5=Award}}
+! scope="col" | {{#switch:{{{1|1}}}|1=Award|2|4|5=Category|3=Institution or publication}}<!--
+-->{{#switch:{{{1|1}}}|4|5=!! scope="col" {{!}} }}{{#switch:{{{1|1}}}|4=Award|5=Nominee(s)}}
+! scope="col" | Result<!--
+-->{{#switch:{{{1|1}}}|2|3|4=!! scope="col" class="unsortable" {{!}} Notes}}<!--
+-->{{#switch:{{{1|1}}}|3|4|5=!! scope="col" class="unsortable" {{!}} {{Abbr|Ref.|Reference}}}}<noinclude>
+|}
+{{Documentation}}</noinclude>

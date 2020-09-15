@@ -155,12 +155,33 @@
   }}
  }}
 
-| revenue = {{safesubst:#invoke:String|replace|{{safesubst:#invoke:String|replace|{{safesubst:#if:{{{2|}}}
+| revenue = {{#if:{{#property:P3087}}| ₱{{safesubst:#invoke:String|replace|{{safesubst:#invoke:String|replace|{{safesubst:#if:{{{2|}}}
   |{{safesubst:#invoke:Wikidata|getValueFromID|{{{2}}}|P3087|FETCH_WIKIDATA}}
   |{{safesubst:#invoke:Wikidata|getValue|P3087|FETCH_WIKIDATA}}
-  }}| %D+||plain=false}}|±[%d%.][%d%.]*||plain=false}}
+  }}| %D+||plain=false}}|±[%d%.][%d%.]*||plain=false}}}}
 
-| revenue_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P3087|qualifier=P585}} | ({{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P3087|qualifier=P585}}}}){{safesubst:#if:{{safesubst:#Property:P854}}|<ref>{{NCC detail}}</ref>}} }}
+| revenue_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P3087|qualifier=P585}} | ({{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P3087|qualifier=P585}}}}){{safesubst:#if:{{safesubst:#Property:P973}}|}} }}
+
+| assets = {{#if:{{#property:P2403}}| ₱{{safesubst:#invoke:String|replace|{{safesubst:#invoke:String|replace|{{safesubst:#if:{{{2|}}}
+  |{{safesubst:#invoke:Wikidata|getValueFromID|{{{2}}}|P2403|FETCH_WIKIDATA}}
+  |{{safesubst:#invoke:Wikidata|getValue|P2403|FETCH_WIKIDATA}}
+  }}| %D+||plain=false}}|±[%d%.][%d%.]*||plain=false}}}}
+
+| assets_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P2403|qualifier=P585}} | ({{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P2403|qualifier=P585}}}}){{safesubst:#if:{{safesubst:#Property:P973}}|}} }}
+
+| liabilities = {{#if:{{#property:P2138}}| ₱{{safesubst:#invoke:String|replace|{{safesubst:#invoke:String|replace|{{safesubst:#if:{{{2|}}}
+  |{{safesubst:#invoke:Wikidata|getValueFromID|{{{2}}}|P2138|FETCH_WIKIDATA}}
+  |{{safesubst:#invoke:Wikidata|getValue|P2138|FETCH_WIKIDATA}}
+  }}| %D+||plain=false}}|±[%d%.][%d%.]*||plain=false}}}}
+
+| liabilities_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P2138|qualifier=P585}} | ({{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P2138|qualifier=P585}}}}){{safesubst:#if:{{safesubst:#Property:P973}}|}} }}
+
+| expenditure = {{#if:{{#property:P2402}}| ₱{{safesubst:#invoke:String|replace|{{safesubst:#invoke:String|replace|{{safesubst:#if:{{{2|}}}
+  |{{safesubst:#invoke:Wikidata|getValueFromID|{{{2}}}|P2402|FETCH_WIKIDATA}}
+  |{{safesubst:#invoke:Wikidata|getValue|P2402|FETCH_WIKIDATA}}
+  }}| %D+||plain=false}}|±[%d%.][%d%.]*||plain=false}}}}
+
+| expenditure_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P2402|qualifier=P585}} | ({{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P2402|qualifier=P585}}}}){{safesubst:#if:{{safesubst:#Property:P973}}|}} }}
 
 | osm = {{safesubst:#property:P402}}
 

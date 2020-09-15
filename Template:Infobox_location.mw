@@ -102,11 +102,11 @@
 |area_code = {{{area_code|{{#invoke:wd|properties|raw|{{{qid|}}}|P473}}}}}
 |website = {{{website|{{#if:{{main other|{{#property:P856}}|{{#property:P856|from={{{qid|}}}}}}}|{{URL|{{#invoke:wd|property|raw|best|{{{qid|}}}|P856}}}}|}}}}}
 | demographics_type1     = {{#if:{{#property:P3087}}| Economia}}
-| demographics1_title1   = Uryan
+| demographics1_title1   = Clase
 | demographics1_info1    = {{PH wikidata|income_class}}
 | demographics1_title2   = 
 | demographics1_info2    = 
-| demographics1_title3   = Panakitan
+| demographics1_title3   = Ingresos
 | demographics1_info3    = {{#if:{{#property:P3087}}| {{PH wikidata|revenue}} ({{wikidata|qualifier|single|P3087|P585}})}} 
 | demographics1_title4   = 
 | demographics1_info4    = 

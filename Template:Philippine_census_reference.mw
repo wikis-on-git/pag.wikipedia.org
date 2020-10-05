@@ -42,7 +42,7 @@
     | 16         = https://archive.org/download/PhilippinesCensusofPopulationLGUs19032007/Caraga%20Philippines%20Census%20of%20Population%201903%20-%202007.xls
     | 17         = https://archive.org/download/PhilippinesCensusofPopulationLGUs19032007/Region%204B%20Mimaropa%20Philippines%20Census%20of%20Population%201903%20-%202007.xls
    }}
-   | deadurl     = no
+   | url-status     = live
    | title       = {{#switch: {{#if:{{{2|}}}|{{{2}}}|{{#invoke:String|sub|{{#property:P988}}|1|2}} }}
     | 01 | 02 | 03 | 04 | 05 | 06 | 07| 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 = Table 1. Population Enumerated in Various Censuses by Province/Highly Urbanized City: 1903 to 2007								
    | #default =  Table 1. Population Enumerated in Various Censuses by Region: 1903 to 2007

@@ -1,0 +1,3 @@
+<includeonly><div class="center" style="width:auto; margin-left:auto; margin-right:auto;{{#if: {{{style|}}} | {{{style}}};}}">{{{1}}}</div>{{#if:{{{1|}}}||[[Category:Pages using center with no arguments]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

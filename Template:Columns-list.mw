@@ -1,8 +1,11 @@
-<includeonly>{{div col
- | cols = {{{cols|{{{1|}}}}}}
- | colwidth = {{{colwidth|}}}
+<includeonly>{{#if:{{{1|}}}|{{div col
+ <!-- Support for previous parameter 1= aka cols= has been removed after being deprecated for compatibility reasons; use the more accessible parameter colwidth= instead. -->
+ | colwidth = {{{colwidth|30em}}}
+ | gap = {{{gap|}}}
  | rules = {{{rules|}}}
  | small = {{{small|}}}
  | style = {{{style|}}}
- | content = {{{2|{{{1|}}}}}}
-}}</includeonly><noinclude>{{documentation}}</noinclude>
+ | content = {{{1|}}}{{#if:{{{2|}}}|<div class="hatnote" style="color:red">The unnamed parameter 2= is no longer supported. Please see the documentation for {{tl|columns-list}}.</div>{{{2|}}}}}
+}}}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using columns-list with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Columns-list]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | colwidth | gap | rules | small | style }}<noinclude>
+{{documentation}}
+</noinclude>

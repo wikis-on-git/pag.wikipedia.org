@@ -1,0 +1,8 @@
+{{#switch: {{lc:{{{1|center}}}}}
+|left = <div style="float: left;">{{{2}}}</div>
+|right = <div style="float: right;">{{{2}}}</div>
+|center = {{center|{{{2}}} }}
+|#default = Error in [[Template:Align]]: the alignment setting "{{{1}}}" is invalid.
+}}<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,4 @@
+<templatestyles src = "Columns/styles.css" />{{#if:{{{1|}}}|<div class="columns-{{{num|2}}} {{{class|}}}" style="background-color: {{{bgColor|{{{bgcolor|transparent}}}}}}; width: {{{width|100%}}}"><div class="column">{{#invoke:separated entries|main|separator=</div><div class="column">}}</div><div style="clear: both"></div></div>|</div><div class="column">}}<noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
+</noinclude>

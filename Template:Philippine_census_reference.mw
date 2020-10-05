@@ -53,7 +53,7 @@
   {{cite encyclopedia
    | publisher   = [[Philippine Statistics Authority#National Statistics Office|NSO]]
    | last1       = Census of Population and Housing (2010)
-   | accessdate  = {{date|29 jun 2016}}
+   | accessdate  = 29 June 2016
    | chapter     = {{#switch: {{#if:{{{2|}}}|{{{2}}}|{{#invoke:String|sub|{{#property:P988}}|1|2}} }}
     | 01         = Region I (Ilocos Region)
     | 02         = Region II (Cagayan Valley)
@@ -105,7 +105,7 @@
   {{cite encyclopedia
    | publisher   = [[:en:Philippine Statistics Authority|PSA]]
    | last1       = Census of Population (2015)
-   | accessdate  = {{date|20 jun 2016}}
+   | accessdate  = 29 June 2016
    | chapter     = {{#switch: {{#if:{{{2|}}}|{{{2}}}|{{#invoke:String|sub|{{#property:P988}}|1|2}} }}
     | 01         = Region I (Ilocos Region)
     | 02         = Region II (Cagayan Valley)

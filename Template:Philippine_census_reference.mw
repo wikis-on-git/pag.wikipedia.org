@@ -103,7 +103,7 @@
  }}
  | 2015 = {{refn| name=PSA15–{{#if:{{{2|}}}|{{{2}}}|{{#invoke:String|sub|{{#property:P988}}|1|2}} }}   |
   {{cite encyclopedia
-   | publisher   = [[Philippine Statistics Authority|PSA]]
+   | publisher   = [[:en:Philippine Statistics Authority|PSA]]
    | last1       = Census of Population (2015)
    | accessdate  = {{date|20 jun 2016}}
    | chapter     = {{#switch: {{#if:{{{2|}}}|{{{2}}}|{{#invoke:String|sub|{{#property:P988}}|1|2}} }}

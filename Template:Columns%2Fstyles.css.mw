@@ -1,0 +1,26 @@
+/* Content in columns with CSS instead of tables ([[Template:Columns]]) */
+/* {{pp-template}} */
+div.columns-2 div.column {
+	/* @noflip */
+	float: left;
+	width: 50%;
+	min-width: 300px;
+}
+div.columns-3 div.column {
+	/* @noflip */
+	float: left;
+	width: 33.3%;
+	min-width: 200px;
+}
+div.columns-4 div.column {
+	/* @noflip */
+	float: left;
+	width: 25%;
+	min-width: 150px;
+}
+div.columns-5 div.column {
+	/* @noflip */
+	float: left;
+	width: 20%;
+	min-width: 120px;
+}

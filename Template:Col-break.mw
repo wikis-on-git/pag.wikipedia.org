@@ -1,4 +1,5 @@
-<p></p>
-| {{#if:{{{width<includeonly>|</includeonly>}}}|width="{{{width}}}"}} align="{{{align|left}}}" valign="{{{valign|top}}}" {{#if: {{{gap<includeonly>|</includeonly>}}} | style="padding-left:{{{gap}}};" }}|<noinclude>
+&#32;
+| style="{{#if:{{{width|}}}|width: {{{width}}}; }}text-align: {{{align|left}}}; vertical-align: {{{valign|top}}}; {{#if: {{{gap|}}}|padding-left: {{{gap}}};}} {{{style|}}}" |<noinclude>
 {{Documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
 </noinclude>

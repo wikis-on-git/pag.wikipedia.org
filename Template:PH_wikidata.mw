@@ -34,7 +34,7 @@
 | region = {{safesubst:PH wikidata/regionlink|{{safesubst:PH wikidata/region|{{safesubst:#property:P131}}}}}}
 | province = {{safesubst:#invoke:Wikidata|getValue|P131|FETCH_WIKIDATA}}
 
-| district = Legislative district: {{safesubst:#invoke:Wikidata|getValue|P131|FETCH_WIKIDATA}} {{safesubst:#if:{{safesubst:#property:P768}}|#{{safesubst:Ordinal|{{safesubst:#property:P768}}}} District}}
+| district = Legislative district: {{safesubst:#invoke:Wikidata|getValue|P131|FETCH_WIKIDATA}} {{safesubst:#if:{{safesubst:#property:P7938}}|#{{safesubst:Ordinal|{{safesubst:#property:P7938}}}} District}}
 
 | seat = {{safesubst:#if:{{safesubst:#property:P36}}|{{safesubst:#invoke:Wikidata|getValue|P36|FETCH_WIKIDATA}}}}
 | capital_of = {{safesubst:#if:{{safesubst:#property:P1376}}|{{safesubst:#invoke:Wikidata|getValue|P1376|FETCH_WIKIDATA}}}}
@@ -74,6 +74,13 @@
   |{{safesubst:#invoke:Wikidata|getValue|P1082|FETCH_WIKIDATA}}
   }}|([%d]), .*|%1|plain=false}}|±0|}} {{safesubst:#ifeq:{{safesubst:#invoke:string|replace|{{safesubst:#invoke:Wikidata|getValue|P1082|FETCH_WIKIDATA}}|([%d]), .*|%1|plain=false}}|{{safesubst:#invoke:Wikidata|getValue|P1082|FETCH_WIKIDATA}}|| {{safesubst:PH wikidata/deprecated parameter}}}}
 
+| household = {{safesubst:#invoke:string|replace|{{safesubst:#invoke:string|replace|{{safesubst:#if:{{{2|}}}
+  |{{safesubst:#invoke:Wikidata|getValueFromID|{{{2}}}|P1538|FETCH_WIKIDATA}}
+  |{{safesubst:#invoke:Wikidata|getValue|P1538|FETCH_WIKIDATA}}
+  }}|([%d]), .*|%1|plain=false}}|±0|}} {{safesubst:#ifeq:{{safesubst:#invoke:string|replace|{{safesubst:#invoke:Wikidata|getValue|P1538|FETCH_WIKIDATA}}|([%d]), .*|%1|plain=false}}|{{safesubst:#invoke:Wikidata|getValue|P1538|FETCH_WIKIDATA}}|| {{safesubst:PH wikidata/deprecated parameter}}}}
+
+| household_point_in_time = {{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P1538|qualifier=P585}} | {{safesubst:#time:Y|{{safesubst:#invoke:Wikidata|claim|P1538|qualifier=P585}}}} | ? }}
+
 | electorate_title = {{safesubst:nowrap|Voter{{safesubst:font|css=font-weight:normal;|{{safesubst:thinsp|{{safesubst:PH Comelec roll|({{safesubst:#if:{{safesubst:#invoke:Wikidata|claim|P1831|qualifier=P585}} |{{safesubst:#time:Y|{{Kalendaryo/bulan-en|{{safesubst:#invoke:Wikidata|claim|P1831|qualifier=P585}}}}}} | ? }})}}}}}}}}
 
 | electorate = {{safesubst:#invoke:string|replace|{{safesubst:#invoke:string|replace|{{safesubst:#if:{{{2|}}}
@@ -99,7 +106,8 @@
      |{{safesubst:#property:P1879}}
    }}
   }}
-| electoral_district = {{safesubst:#if:{{safesubst:#property:P768}}|{{safesubst:Ordinal|{{safesubst:#property:P768}}}}}}
+| district = Legislative district: {{safesubst:#invoke:Wikidata|getValue|P131|FETCH_WIKIDATA}} {{safesubst:#if:{{safesubst:#property:P7938}}|#{{safesubst:Ordinal|{{safesubst:#property:P7938}}}} District}}
+| number_of_subdivisions = {{safesubst:#if:{{safesubst:#property:P4253}}|{{safesubst:#property:P4253}}}}
 | short name = {{safesubst:#property:P1813}}
 | timezone   = [[Philippine Standard Time|PST]]
 | utc_offset = +08:00

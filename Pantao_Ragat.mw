@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Pantao Ragat, Lanao del Norte
-| 1990 = 9631		
-| 1995 = 14637		
-| 2000 = 16474		
-| 2007 = 20097		
-| 2010 = 23122		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Pantao Ragat''' et kumapat ya klase baley ed luyag na [[Lanao del Norte]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 23,122 totoo. Walay kabaleg tan sukat to ya 124.3 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 9216.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aloon
 * Banday
 * Bobonga Pantao Ragat
@@ -35,14 +24,18 @@ Say '''Pantao Ragat''' et kumapat ya klase baley ed luyag na [[Lanao del Norte]]
 * Poblacion West
 * Tangcal
 * Tongcopan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Lanao del Norte}}	
 												

@@ -1,11 +1,9 @@
 {{Infobox location}}					
 									
-Say '''Bacolod''' et unaan ya klase siyudad ed luyag na [[Negros Occidental]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 561,875 totoo. <br> 	
-Walay kabaleg tan sukat to ya 162.67 sq. km. Sikato et walad  alenleneg ya distrito. Say zip code to et 6100. 
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Alangilan
 * Alijis
 * Banago
@@ -27,7 +25,6 @@ Walay kabaleg tan sukat to ya 162.67 sq. km. Sikato et walad  alenleneg ya distr
 * Barangay 16 (Pob.)
 * Barangay 17 (Pob.)
 * Barangay 18 (Pob.)
-</td><td valign=top>
 * Barangay 19 (Pob.)
 * Barangay 20 (Pob.)
 * Barangay 21 (Pob.)
@@ -48,7 +45,6 @@ Walay kabaleg tan sukat to ya 162.67 sq. km. Sikato et walad  alenleneg ya distr
 * Barangay 36 (Pob.)
 * Barangay 37 (Pob.)
 * Barangay 38 (Pob.)
-</td><td valign=top>
 * Barangay 39 (Pob.)
 * Barangay 40 (Pob.)
 * Barangay 41 (Pob.)
@@ -69,8 +65,7 @@ Walay kabaleg tan sukat to ya 162.67 sq. km. Sikato et walad  alenleneg ya distr
 * Villamonte
 * Vista Alegre
 * Handumanan
-</td></tr></table>
-
+}}
 == Demograpiko ==
 {{Populasyon}}
 == Saray reperensiya ==
@@ -81,9 +76,6 @@ Walay kabaleg tan sukat to ya 162.67 sq. km. Sikato et walad  alenleneg ya distr
 * [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 * [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
 * {{PH wikidata|website}}	
-
-== Saray reperensiya ==
-{{Reflist}}	
 
 {{Negros Occidental}}	
 									

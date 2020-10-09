@@ -1,21 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Libertad, Antique
-| 1990 = 11049		
-| 1995 = 13274		
-| 2000 = 12955		
-| 2007 = 14653		
-| 2010 = 15669		
-| 2015 = 16429		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Libertad''' et kumalima ya klase baley ed luyag na [[Antique]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 16,429 totoo. Walay kabaleg tan sukat to ya 97 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5710.	
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Barusbus
 * Bulanao
 * Cubay
@@ -35,14 +23,17 @@ Say '''Libertad''' et kumalima ya klase baley ed luyag na [[Antique]], [[Filipin
 * Tinindugan
 * Taboc
 * Union
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Antique}}		
 													

@@ -1,22 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Malinao, Aklan
-| 1990 = 20180		
-| 1995 = 21509		
-| 2000 = 23699		
-| 2007 = 23921		
-| 2010 = 24108		
-| 2015 = 23194		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Malinao''' et kumapat ya klase baley ed luyag na [[Aklan]], [[Filipinas]]. <br>  
-Unong ed 2015 Census, say papulasyon to et 23,194 totoo. Walay kabaleg tan sukat to ya 186.01 sq. km. Sikato et walad alenleneg  distrito. Say zip code to et 5606.
-
-==Saray Barangay==
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Banaybanay
 * Biga-a
 * Bulabud
@@ -40,14 +27,18 @@ Unong ed 2015 Census, say papulasyon to et 23,194 totoo. Walay kabaleg tan sukat
 * Sugnod
 * Tambuan
 * Tigpalas
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Aklan}}
 

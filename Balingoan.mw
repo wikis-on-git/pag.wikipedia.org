@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Balingoan, Misamis Oriental
-| 1990 = 6689		
-| 1995 = 7548		
-| 2000 = 8197		
-| 2007 = 9021		
-| 2010 = 10175		
-| 2015 = 11051		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Balingoan''' et kumalima ya klase baley ed luyag na [[Misamis Oriental]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 11,051 totoo. Walay kabaleg tan sukat to ya 57.8 sq. km. Sikato et walad kumalima ya distrito. Say zip code to et 9011.	
-	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Baukbauk (Pob.)
 * Dahilig
 * Kabangasan
@@ -24,14 +13,17 @@ Say '''Balingoan''' et kumalima ya klase baley ed luyag na [[Misamis Oriental]],
 * Mantangale
 * Mapua
 * San Alonzo
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
-	
+
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Misamis Oriental}}
  													

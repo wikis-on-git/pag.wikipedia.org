@@ -1,31 +1,19 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Jose, Antique
-| 1990 = 40267		
-| 1995 = 42927		
-| 2000 = 48261		
-| 2007 = 54871		
-| 2010 = 57847		
-| 2015 = 62534		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Jose''' et unaan ya klase baley ed luyag na [[Antique]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 62,534 totoo. Walay kabaleg tan sukat to ya 48.56 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5700.	
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Atabay
 * Badiang
-* Baranggay 1 (Población)
-* Baranggay 2 (Población)
-* Baranggay 3 (Población)
-* Baranggay 4 (Población)
-* Baranggay 5 (Población)
-* Baranggay 6 (Población)
-* Baranggay 7 (Población)
-* Baranggay 8 (Población)
+* Barangay 1 (Población)
+* Barangay 2 (Población)
+* Barangay 3 (Población)
+* Barangay 4 (Población)
+* Barangay 5 (Población)
+* Barangay 6 (Población)
+* Barangay 7 (Población)
+* Barangay 8 (Población)
 * Bariri
 * Bugarot (Catungan-Bugarot)
 * Cansadan (Cansadan-Tubudan)
@@ -44,14 +32,18 @@ Say '''San Jose''' et unaan ya klase baley ed luyag na [[Antique]], [[Filipinas]
 * San Fernando
 * San Pedro
 * Supa
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Antique}}	
 														

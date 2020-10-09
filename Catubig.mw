@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Catubig, Northern Samar
-| 1990 = 22057		
-| 1995 = 25190		
-| 2000 = 26917		
-| 2007 = 29433		
-| 2010 = 31723		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Catubig''' et kumatlo ya klase baley ed luyag na [[Northern Samar]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 31,723 totoo. Walay kabaleg tan sukat to ya 214.99 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 6418.	
-	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 *Anongo
 *D. Mercader (Bongog)
 *Bonifacio
@@ -62,14 +51,18 @@ Say '''Catubig''' et kumatlo ya klase baley ed luyag na [[Northern Samar]], [[Fi
 *Barangay 6 (Pob.)
 *Barangay 7 (Pob.)
 *Barangay 8 (Pob.)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Northern Samar}}
  														

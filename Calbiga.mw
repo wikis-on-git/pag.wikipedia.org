@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Calbiga, Samar 
-| 1990 = 17116		
-| 1995 = 18070		
-| 2000 = 18890		
-| 2007 = 20309		
-| 2010 = 21434		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Calbiga''' et kumapat ya klase baley ed luyag na [[Samar]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 21,434 totoo. Walay kabaleg tan sukat to ya 283.7 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 6715.	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Antol
 * Bacyaran
 * Beri
@@ -42,14 +31,13 @@ Say '''Calbiga''' et kumapat ya klase baley ed luyag na [[Samar]], [[Filipinas]]
 * Panayuran
 * Pasigay
 * Patong
-* Baranggay 1 (Pob.)
-* Baranggay 2 (Pob.)
-| valign="top" |
-* Baranggay 3 (Pob.)
-* Baranggay 4 (Pob.)
-* Baranggay 5 (Pob.)
-* Baranggay 6 (Pob.)
-* Baranggay 7 (Pob.)
+* Barangay 1 (Pob.)
+* Barangay 2 (Pob.)
+* Barangay 3 (Pob.)
+* Barangay 4 (Pob.)
+* Barangay 5 (Pob.)
+* Barangay 6 (Pob.)
+* Barangay 7 (Pob.)
 * Polangi
 * Rawis
 * San Ignacio

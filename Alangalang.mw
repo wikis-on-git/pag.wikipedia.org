@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Alangalang, Leyte
-| 1990 = 33375		
-| 1995 = 38853		
-| 2000 = 41245		
-| 2007 = 43691		
-| 2010 = 46411		
-| 2015 = 55235		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Alangalang''' et kumadwa ya klase baley ed luyag na [[Leyte]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 55,235 totoo. Walay kabaleg tan sukat to ya 150.54 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 6517.	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aslum
 * Astorga (Burabod)
 * Bato
@@ -69,14 +58,17 @@ Say '''Alangalang''' et kumadwa ya klase baley ed luyag na [[Leyte]], [[Filipina
 * San Antonio Pob.
 * San Roque (Pob.)
 * Salvacion
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
-	
+
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Leyte}}	
 													

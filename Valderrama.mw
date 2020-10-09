@@ -1,21 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Valderrama, Antique
-| 1990 = 14197		
-| 1995 = 15433		
-| 2000 = 17874		
-| 2007 = 18878		
-| 2010 = 18442		
-| 2015 = 19124		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Valderrama''' et kumapat ya klase baley ed luyag na [[Antique]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 19,124 totoo. Walay kabaleg tan sukat to ya 273.79 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5703.	
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bakiang
 * Binanogan
 * Borocboroc
@@ -38,14 +26,18 @@ Say '''Valderrama''' et kumapat ya klase baley ed luyag na [[Antique]], [[Filipi
 * Tigmamale
 * Ubos (Pob.)
 * Alon
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Antique}}	
 														

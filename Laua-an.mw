@@ -1,21 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Laua-an, Antique
-| 1990 = 19865		
-| 1995 = 21069		
-| 2000 = 23258		
-| 2007 = 23808		
-| 2010 = 25211		
-| 2015 = 26072		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Laua-an''' et kumapat ya klase baley ed luyag na [[Antique]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 26,072 totoo. Walay kabaleg tan sukat to ya 100.72 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5705.	
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Banban
 * Bongbongan
 * Cabariwan
@@ -56,14 +44,18 @@ Say '''Laua-an''' et kumapat ya klase baley ed luyag na [[Antique]], [[Filipinas
 * Tigunhao
 * Virginia
 * Bagongbayan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Antique}}	
 														

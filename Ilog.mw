@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Ilog, Negros Occidental
-| 1990 = 46599		
-| 1995 = 43905		
-| 2000 = 46525		
-| 2007 = 53460		
-| 2010 = 54423		
-| 2015 = 57389		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Ilog''' et kumadwa ya klase baley ed luyag na [[Negros Occidental]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 57,389 totoo. Walay kabaleg tan sukat to ya 281.7 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 6109.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Andulauan
 * Balicotoc
 * Bocana
@@ -30,14 +19,17 @@ Say '''Ilog''' et kumadwa ya klase baley ed luyag na [[Negros Occidental]], [[Fi
 * Baranggay II (Pob.)
 * Tabu
 * Vista Alegre
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
-	
+
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Negros Occidental}}
  												

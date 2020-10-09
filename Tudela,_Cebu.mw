@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Tudela, Cebu
-| 1990 = 9537		
-| 1995 = 9358		
-| 2000 = 10401		
-| 2007 = 11266		
-| 2010 = 9859		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Tudela''' et kumalima ya klase baley ed luyag na [[Cebu]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 9,859 totoo. Walay kabaleg tan sukat to ya 33.02 sq. km. Sikato et walad kumalima ya distrito. Say zip code to et 6051.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Buenavista
 * Calmante
 * Daan Secante

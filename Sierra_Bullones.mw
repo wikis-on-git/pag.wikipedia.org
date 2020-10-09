@@ -1,21 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Sierra Bullones, Bohol
-| 1990 = 21101		
-| 1995 = 20787		
-| 2000 = 25499		
-| 2007 = 26398		
-| 2010 = 24698		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Sierra Bullones''' et kumatlo ya klase baley ed luyag na [[Bohol]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 24,698 totoo. Walay kabaleg tan sukat to ya 198.87 sq. km. Sikato et walad kumatlo ya distrito. Say zip code to et 6320.	
-				
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Abachanan
 * Anibongan
 * Bugsoc
@@ -38,14 +26,18 @@ Say '''Sierra Bullones''' et kumatlo ya klase baley ed luyag na [[Bohol]], [[Fil
 * San Juan
 * Santa Cruz
 * Villa Garcia
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Bohol}}	
 										

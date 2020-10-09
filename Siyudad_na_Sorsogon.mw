@@ -1,12 +1,11 @@
 {{Infobox location}}					
 									
-Say '''Siyudad na Sorsogon''' et unaan ya klase siyudad ed luyag na [[Sorsogon]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 155,144 totoo. Walay kabaleg tan sukat to ya 276.11 sq. km. Sikato et walad  unaan ya distrito. Say zip code to et 4700.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
 Walay 36 ya barangay ed distrito na Sorsogon
- 	
-<table border=0><tr>
-<td valign=top>
+
+{{columns-list|colwidth=12em|
 * Abuyog
 * Almendras-Cogon (Pob.)
 * Balogo
@@ -19,7 +18,6 @@ Walay 36 ya barangay ed distrito na Sorsogon
 * Buhatan
 * Bulabog
 * Burabod (Pob.)
-</td><td valign=top>
 * Cabid-An
 * Cambulaga
 * Capuy
@@ -32,7 +30,6 @@ Walay 36 ya barangay ed distrito na Sorsogon
 * Panlayaan
 * Peñafrancia
 * Piot (Pob.)
-</td><td valign=top>
 * Polvorista (Pob.)
 * Rizal
 * Salog (Pob.)
@@ -45,12 +42,11 @@ Walay 36 ya barangay ed distrito na Sorsogon
 * Talisay (Pob.)
 * Ticol
 * Tugos
-</td></tr></table>
+}}
 
 Walay 28 ya barangay ed distrito na Bacon
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Balete
 * Balogo
 * Bato
@@ -65,7 +61,6 @@ Walay 28 ya barangay ed distrito na Bacon
 * Maricrum
 * Osiao
 * Poblacion
-</td><td valign=top>
 * Rawis
 * Salvacion
 * San Isidro
@@ -80,7 +75,7 @@ Walay 28 ya barangay ed distrito na Bacon
 * Santo Niño
 * Sawanga
 * Sugod
-</td></tr></table>
+}}
 
 == Demograpiko ==
 {{Populasyon}}

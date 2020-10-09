@@ -1,22 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Matnog, Sorsogon
-| 1990 = 25957		
-| 1995 = 29309		
-| 2000 = 32712		
-| 2007 = 34517		
-| 2010 = 37641		
-| 2015 = 41101		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Matnog''' et kumatlo ya klase baley ed luyag na [[Sorsogon]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 41,101 
-totoo. Walay kabaleg tan sukat to ya 162.4 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 4708.	
-							
-==Saray barangay==
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Balocawe
 * Banogao
 * Banuangdaan

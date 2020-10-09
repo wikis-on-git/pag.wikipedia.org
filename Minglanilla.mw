@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Minglanilla, Cebu
-| 1990 = 50875		
-| 1995 = 62523		
-| 2000 = 77268		
-| 2007 = 101585		
-| 2010 = 113178		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Minglanilla''' et unaan ya klase baley ed luyag na [[Cebu]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 113,178 totoo. Walay kabaleg tan sukat to ya 65.6 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 6046.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Cadulawan
 * Calajo-an
 * Camp 7
@@ -34,14 +23,17 @@ Say '''Minglanilla''' et unaan ya klase baley ed luyag na [[Cebu]], [[Filipinas]
 * Tungkop
 * Vito
 * Tungkil
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cebu}}	
 												

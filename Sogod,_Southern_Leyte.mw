@@ -1,21 +1,9 @@
 {{Infobox location}}
       
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Sogod, Southern Leyte
-| 1990 = 31342		
-| 1995 = 31062		
-| 2000 = 37402		
-| 2007 = 39864		
-| 2010 = 41411		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}        
-Say '''Sogod''' et kumadwa ya klase baley ed luyag na [[Southern Leyte]], [[Filipinas]]. <br>  
-Unong ed 2010 Census, say papulasyon to et 41,411 totoo. Walay kabaleg tan sukat to ya 192.70 sq. km. Sikato et walad alenleneg  distrito. Say zip code to et 6616.
-        
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Benit
 * Buac Daku
 * Buac Gamay
@@ -61,14 +49,18 @@ Unong ed 2010 Census, say papulasyon to et 41,411 totoo. Walay kabaleg tan sukat
 * Suba
 * Tampoong
 * Olisihan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Southern Leyte}}
  

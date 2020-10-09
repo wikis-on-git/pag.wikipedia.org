@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Jose, Dinagat Islands
-| 1990 = 30405		
-| 1995 = 27481		
-| 2000 = 25532		
-| 2007 = 28398		
-| 2010 = 31035		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}	
-Say '''San Jose''' et kumapat ya klase baley ed luyag na [[Dinagat Islands]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 31,035 totoo. Walay kabaleg tan sukat to ya 27.8 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 8427.	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aurelio
 * Cuarenta
 * Don Ruben Ecleo (Baltazar)
@@ -27,14 +16,17 @@ Say '''San Jose''' et kumapat ya klase baley ed luyag na [[Dinagat Islands]], [[
 * San Juan
 * Santa Cruz
 * Wilson
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Dinagat Islands}}	
 														

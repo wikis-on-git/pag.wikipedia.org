@@ -1,39 +1,31 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Talalora, Samar 
-| 1990 = 6112		
-| 1995 = 6565		
-| 2000 = 6580		
-| 2007 = 7535		
-| 2010 = 7983		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Talalora''' et kumanem ya klase baley ed luyag na [[Samar]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 7,983 totoo. Walay kabaleg tan sukat to ya 27.96 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 6704.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bo. Independencia
 * Malaguining
 * Mallorga
 * Navatas Daku
 * Navatas Guti
 * Placer
-* Poblacion Baranggay I
-* Poblacion Baranggay II
+* Poblacion Barangay I
+* Poblacion Barangay II
 * San Juan
 * Tatabunan
 * Victory
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
-	
+
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Samar}}
  												

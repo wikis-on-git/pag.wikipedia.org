@@ -1,26 +1,10 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Buruanga, Aklan
-| 1990 = 12653		
-| 1995 = 12665		
-| 2000 = 15077		
-| 2007 = 15767		
-| 2010 = 16962		
-| 2015 = 19003		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Buruanga''' sakey 5th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Aklan]], [[Filipinas]].  Onong ed [[2000]] census, walay population to ya 15,077 ya too diad 2,758 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Buruanga 15 ya [[barangay]].
-
-{| border="0"
-|-
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Alegria
 * Bagongbayan
 * Balusbos
@@ -29,7 +13,6 @@ Say Buruanga 15 ya [[barangay]].
 * El Progreso
 * Habana
 * Katipunan
-| valign="top" |
 * Mayapay
 * Nazareth
 * Panilongan
@@ -37,15 +20,17 @@ Say Buruanga 15 ya [[barangay]].
 * Santander
 * Tag-osip
 * Tigum
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Aklan}}
 

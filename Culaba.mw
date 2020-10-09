@@ -1,21 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Culaba, Biliran
-| 1990 = 9822		
-| 1995 = 12703		
-| 2000 = 11506		
-| 2007 = 10962		
-| 2010 = 12252		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Culaba''' et kumalima ya klase baley ed luyag na [[Biliran]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 12,252 totoo. Walay kabaleg tan sukat to ya 73.42 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 6547.	
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Acaban
 * Bacolod
 * Binongtoan
@@ -33,14 +21,18 @@ Say '''Culaba''' et kumalima ya klase baley ed luyag na [[Biliran]], [[Filipinas
 * Salvacion
 * San Roque
 * Virginia (Pob.)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Biliran}}	
 														

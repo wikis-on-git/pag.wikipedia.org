@@ -3,12 +3,9 @@
 Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-{{columns-list|colwidth=12em|
-
 Say Mandaon walay 26 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Alas
 * Ayat
 * Bat-Ongan
@@ -22,7 +19,6 @@ Say Mandaon walay 26 ya [[barangay]].
 * Guincaiptan
 * Lantangan
 * Looc
-</td><td valign=top>
 * Mabatobato
 * Maolingon
 * Nailaban
@@ -37,6 +33,7 @@ Say Mandaon walay 26 ya [[barangay]].
 * Tumalaytay
 * Laguinbanwa
 }}
+
 == Demograpiko ==
 {{Populasyon}}
 == Saray reperensiya ==

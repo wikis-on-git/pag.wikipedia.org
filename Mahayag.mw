@@ -1,21 +1,9 @@
 {{Infobox location}}
    
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mahayag, Zamboanga del Sur
-| 1990 = 37690		
-| 1995 = 40806		
-| 2000 = 42462		
-| 2007 = 44087		
-| 2010 = 45015		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}        
-Say '''Mahayag''' et kumatlo ya klase baley ed luyag na [[Zamboanga del Sur]], [[Filipinas]]. <br>  
-Unong ed 2010 Census, say papulasyon to et 45,015 totoo. Walay kabaleg tan sukat to ya 194.90 sq. km. Sikato et walad unaan  distrito. Say zip code to et 7026.
-    
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bag-ong Balamban
 * Marabanan (Balanan)
 * Boniao
@@ -44,14 +32,17 @@ Unong ed 2010 Census, say papulasyon to et 45,015 totoo. Walay kabaleg tan sukat
 * Tumapic
 * Upper Santo Niño
 * Tulan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Zamboanga del Sur}}
     

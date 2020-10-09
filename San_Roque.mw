@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Roque, Northern Samar
-| 1990 = 13856		
-| 1995 = 18094		
-| 2000 = 19845		
-| 2007 = 22897		
-| 2010 = 26323		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Roque''' et kumapat ya klase baley ed luyag na [[Northern Samar]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 26,323 totoo. Walay kabaleg tan sukat to ya 152.98 sq. km. Sikato et walad kumadwa ya distrito. Say zip code to et 6415.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 *Balnasan 
 *Balud 
 *Bantayan 
@@ -31,14 +20,18 @@ Say '''San Roque''' et kumapat ya klase baley ed luyag na [[Northern Samar]], [[
 *Zone 4 (Pob.) 
 *Zone 5 (Pob.)
 *Zone 6 (Pob.)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Northern Samar}}
  												

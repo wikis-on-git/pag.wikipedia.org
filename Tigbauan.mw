@@ -1,22 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Tigbauan, Iloilo
-| 1990 = 43934		
-| 1995 = 47158		
-| 2000 = 50446		
-| 2007 = 54574		
-| 2010 = 58814		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-	
-Say '''Tigbauan''' et kumadwa ya klase baley ed luyag na [[Iloilo]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 58,814 totoo. Walay kabaleg tan sukat to ya 83.68 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 5021.	
-	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Alupidian
 * Atabayan
 * Bagacay
@@ -68,14 +55,17 @@ Say '''Tigbauan''' et kumadwa ya klase baley ed luyag na [[Iloilo]], [[Filipinas
 * Supa
 * Tan Pael
 * Taro
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Iloilo}}														
 [[Category:Saray baley na Iloilo]]

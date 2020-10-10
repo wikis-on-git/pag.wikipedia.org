@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Looc, Occidental Mindoro
-| 1990 = 7037		
-| 1995 = 9031		
-| 2000 = 9132		
-| 2007 = 11310		
-| 2010 = 9758		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Looc''' et kumalima ya klase baley ed luyag na [[Occidental Mindoro]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 9,758 totoo. Walay kabaleg tan sukat to ya 132.3 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5111.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Looc walay 9 ya barangay.
 
+{{columns-list|colwidth=12em|
 * Agkawayan
 * Ambil
 * Balikyas
@@ -27,13 +15,18 @@ Say Looc walay 9 ya barangay.
 * Guitna (Pob.)
 * Kanluran (Pob.)
 * Talaotao
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 
 {{Mindoro ed Sagor}}
 															

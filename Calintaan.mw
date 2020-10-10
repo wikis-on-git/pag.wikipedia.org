@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Calintaan, Occidental Mindoro
-| 1990 = 18117		
-| 1995 = 21687		
-| 2000 = 23503		
-| 2007 = 26779		
-| 2010 = 28148		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Calintaan''' et kumatlo ya klase baley ed luyag na [[Occidental Mindoro]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 28,148 totoo. Walay kabaleg tan sukat to ya 382.5 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5102.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Calintaan walay 7 ya barangay.
 
+{{columns-list|colwidth=12em|
 * Concepcion
 * Iriron
 * Malpalon
@@ -25,13 +13,17 @@ Say Calintaan walay 7 ya barangay.
 * Poblacion
 * Poypoy
 * Tanyag
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Mindoro ed Sagor}}	
 															

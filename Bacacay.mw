@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bacacay, Albay
-| 1990 = 49202		
-| 1995 = 56295		
-| 2000 = 58357		
-| 2007 = 61574		
-| 2010 = 65724		
-| 2015 = 68906		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bacacay''' et kumadwa ya klase baley ed luyag na [[Albay]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 68,906 totoo. Walay kabaleg tan sukat to ya 122.13 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 4509.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Bacacay walay 56 ya barangay.
 
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Baclayon
 * Banao
 * Bariw
@@ -40,7 +25,6 @@ Say Bacacay walay 56 ya barangay.
 * Igang
 * Langaton
 * Manaet
-| valign="top" |
 * Mapulang Daga
 * Mataas
 * Misibis
@@ -60,7 +44,6 @@ Say Bacacay walay 56 ya barangay.
 * Barangay 14 (Pob.)
 * Barangay 2 (Pob.)
 * Barangay 3 (Pob.)
-| valign="top" |
 * Barangay 4 (Pob.)
 * Barangay 5 (Pob.)
 * Barangay 6 (Pob.)
@@ -79,15 +62,18 @@ Say Bacacay walay 56 ya barangay.
 * Uson
 * Vinisitahan-Basud (Mainland)
 * Vinisitahan-Napao (Island)
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Albay}}	
 															

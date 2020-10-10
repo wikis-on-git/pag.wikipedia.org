@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Abra de Ilog, Occidental Mindoro
-| 1990 = 13609		
-| 1995 = 15253		
-| 2000 = 22212		
-| 2007 = 25152		
-| 2010 = 29225		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Abra de Ilog''' et kumadwa ya klase baley ed luyag na [[Occidental Mindoro]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 29,225 totoo. Walay kabaleg tan sukat to ya 533.7 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 5108.	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Abra De Ilóg walay 9 ya [[barangay]]: 
 
+{{columns-list|colwidth=18em|
 * Balao (San Felife)
 * Cabacao (Santissima Trinidad)
 * Lumangbayan (Kabayan)
@@ -27,14 +15,17 @@ Say Abra De Ilóg walay 9 ya [[barangay]]:
 * Udalo (Camurong)
 * Wawa (San Benito)
 * Armado (San Julian)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Occidental Mindoro}}
 

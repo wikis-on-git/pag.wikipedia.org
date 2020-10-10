@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Ocampo, Camarines Sur
-| 1990 = 30876		
-| 1995 = 34898		
-| 2000 = 36316		
-| 2007 = 39759		
-| 2010 = 43523		
-| 2015 = 45934		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Ocampo''' et kumatlo ya klase baley ed luyag na [[Camarines Sur]], [[Filipinas]]. Unong ed 2015 Census, say papulasyon to et 45,934 totoo. Walay kabaleg tan sukat to ya 118.33 sq. km. Sikato et walad kumatlo ya distrito. Say zip code to et 4419.	
-	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=12em|
 * Ayugan
 * Cabariwan
 * Cagmanaba
@@ -40,14 +29,18 @@ Say '''Ocampo''' et kumatlo ya klase baley ed luyag na [[Camarines Sur]], [[Fili
 * Santa Cruz
 * Santo Niño
 * Villaflorida
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Camarines Sur}}	
 													

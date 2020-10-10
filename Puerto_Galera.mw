@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Puerto Galera, Oriental Mindoro
-| 1990 = 17200		
-| 1995 = 19485		
-| 2000 = 21925		
-| 2007 = 28035		
-| 2010 = 32521		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Puerto Galera''' et unaan ya klase baley ed luyag na [[Oriental Mindoro]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 32,521 totoo. Walay kabaleg tan sukat to ya 247.85 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 5203.	
-															
-== Saray barangay ==
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aninuan
 * Balatero
 * Dulangan
@@ -29,14 +18,16 @@ Say '''Puerto Galera''' et unaan ya klase baley ed luyag na [[Oriental Mindoro]]
 * Villaflor
 * Poblacion
 * Baclayan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray inianak dia Puerto Galera ==
 
 * [[Hubbert Dolor]] - (Hunio 22, [[1973]] - ), sakey ofisial na [[mayor]] ed Puerto Galera 
 * [[Carolyn Rosales]] - (Hunio 11, [[1987]] - ), sakey arapan ya babai na surat tan modelo ed Kamangyan
 * [[Carolyn Grace Garcia]] - (Agosto 30, [[1988]] - ), sakey nag-lalaptop diad [[kompiuter]] ed baley
 
-==Image==
+==Imahe==
 <gallery class="center">
 Image:PH - Puerto Galera - White Beach - from sea 2.jpg|Puerto Galera white beach
 Image:PH - Puerto Galera - White Beach - from sea 1.jpg|White Beach from the sea
@@ -49,9 +40,10 @@ File:La Laguna Beach.jpg|La Laguna Beach, 2005
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic location
  | Centre    = Puerto Galera

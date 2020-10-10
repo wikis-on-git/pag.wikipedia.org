@@ -1,39 +1,32 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Vicente, Palawan
-| 1990 = 17795		
-| 1995 = 19449		
-| 2000 = 21654		
-| 2007 = 25218		
-| 2010 = 30919		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Vicente''' et unaan ya klase baley ed luyag na [[Palawan]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 30,919 totoo. Walay kabaleg tan sukat to ya 1462.94 sq. km. Sikato et walad unaan ya distrito. Say zip code to et 5309.	
-	
-==Saray barangay==
-* Bunog
-* Campong Ulay
-* Candawaga
-* Canipaan
-* Culasian
-* Iraan
-* Latud
-* Panalingaan
-* Punta Baja
-* Ransang
-* Taburi
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Alimanguan
+* Binga
+* Caruray
+* New Villa Fria (Kemdeng)
+* New Agutaya
+* New Canipo
+* Port Barton
+* Poblacion
+* Panindigan
+* San Isidro
+* Santo Niño
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Palawan}}	
 													

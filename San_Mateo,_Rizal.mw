@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Mateo, Rizal
-| 1990 = 82310		
-| 1995 = 99217		
-| 2000 = 135603		
-| 2007 = 184860		
-| 2010 = 205255		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Mateo''' et unaan ya klase baley ed luyag na [[Rizal]], [[Filipinas]]. <br>  
-Unong ed 2010 Census, say papulasyon to et 205,255 totoo. Walay kabaleg tan sukat to ya 55.09 sq. km. Sikato et walad kumadwa  distrito. Say zip code to et 1850.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
+==Saray barangay==
 Say San Mateo walay 15 ya [[barangay]]:
 
+{{columns-list|colwidth=12em|
 * Ampid I
 * Dulong Bayan 1
 * Dulong Bayan 2
@@ -33,6 +21,7 @@ Say San Mateo walay 15 ya [[barangay]]:
 * Pintong Bocawe
 * Santo Niño
 * Silangan
+}}
 
 ==Saray too diad San Mateo==
 * [[Cesar Apolinario]], TV host tan Reporter diad [[GMA Network]]
@@ -42,14 +31,17 @@ Say San Mateo walay 15 ya [[barangay]]:
 * [[Makisig Morales]], kanta tan bunso nen [[2005]]
 * [[Rhea Santos]], bareta diad [[GMA Network]], [[Quezon City]]
 * Sophie Delos Santos-Ignacio, model
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic Location
 |Centre    = San Mateo

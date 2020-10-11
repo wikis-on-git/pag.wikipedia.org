@@ -1,26 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Rosario, Cavite
-| 1990 = 45405		
-| 1995 = 54086		
-| 2000 = 73665		
-| 2007 = 94228		
-| 2010 = 92253		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-An '''Rosario''' (o '''Salinas''') sakey mataas ed urbanisado na [[baley]] ed [[luyag]] na [[Cavite]], [[Filipinas]].
-
-==Saray baranggay==
-
-Politikal kila dya so numero 20.
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Silangan I
 * Bagbag I
 * Kanluran
@@ -31,7 +14,6 @@ Politikal kila dya so numero 20.
 * Sapa I
 * Tejeros Convention
 * Wawa I
-</td><td valign=top>
 * Ligtong III
 * Bagbag II
 * Ligtong IV
@@ -42,8 +24,10 @@ Politikal kila dya so numero 20.
 * Silangan II
 * Wawa II
 * Wawa III
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 ==Gobierno==
 
 ===Saray ofisial===
@@ -136,6 +120,13 @@ Politikal kila dya so numero 20.
 
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 
 {{cavite}}

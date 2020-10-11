@@ -1,41 +1,34 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Carmona, Cavite
-| 1990 = 28247		
-| 1995 = 35686		
-| 2000 = 47856		
-| 2007 = 68135		
-| 2010 = 74986		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Carmona''' sakey kaddakkelan a baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Bancal
+* Barangay 1
+* Barangay 2
+* Barangay 3
+* Barangay 4
+* Barangay 5
+* Barangay 6
+* Barangay 7
+* Barangay 8
+* Cabilang Baybay
+* Lantic
+* Mabuhay
+* Maduya
+* Milagrosa
+}}
+== Demograpiko ==
+{{Populasyon}}
+== Saray reperensiya ==
+{{Reflist}}
 
-== Listaan na barangay ==
-
-Saray [[barangay]] no fourteen:
-
-* Barangay 1  '''Poblacion 1- San Pablo'''
-* Barangay 2  '''Poblacion 2- San Jose'''
-* Barangay 3  '''Poblacion 3- San Jose'''
-* Barangay 4  '''Poblacion 4- JM Loyola'''
-* Barangay 5  '''Poblacion 5- JM Loyola'''
-* Barangay 6  '''Poblacion 6- Magallanes'''
-* Barangay 7  '''Poblacion 7- Magallanes'''
-* Barangay 8  '''Poblacion 8- Rosario'''
-* Barangay 9  '''[[Maduya]]''' - Ang bungad na barangay ng Carmona mula sa Kamaynilaan. dito matatagpuan ang Labasan (''Exit'') ng ''South Luzon Expressway''.
-* Barangay 10 '''[[Cabilang Baybay]]''' - Nasa may gitnang bahagi ng bayan, at dito matatagpuan ang Libingang Bayan ng Carmona.
-* Barangay 11 '''[[Mabuhay]]'''- Kanluran ng kabayanan.
-* Barangay 12 '''[[Milagrosa]]''' - Timog-kanluran ng kabayanan .
-* Barangay 13 '''[[Lantic]]''' - Ang pinakamalaking barangay ng Carmona, kung saan karamihan sa mga lupain dito ay sakahan.
-* Barangay 14 '''[[Bancal]]''' - Ang pinakadulong barangay ng Carmona, matatagpuan sa katimugang bahagi ng bayan, at naghahanggan sa bayan ng [[Silang, Cavite|Silang]] sa timog at sa [[Gen. Mariano Alvarez, Cavite|Gen. Mariano Alvarez]] sa kanluran.
-
-
-== Lokasiyon ed Hiyograpiko ==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic Location
 |Centre    = Carmona
@@ -48,9 +41,6 @@ Saray [[barangay]] no fourteen:
 |West      = [[General Mariano Alvarez, Cavite|General Mariano Alvarez]]<br />via Bulihan, Metrobank and <br />Bancal Elementary School
 |Northwest = 
 }}
-
-== Saray reperensiya ==
-{{Reflist}}
 
 {{Cavite}}
 {{philippines-geo-stub}}

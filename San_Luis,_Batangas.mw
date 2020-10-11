@@ -1,29 +1,15 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Luis, Batangas
-| 1990 = 22143		
-| 1995 = 26423		
-| 2000 = 26924		
-| 2007 = 29645		
-| 2010 = 30701		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Luis''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
-Saray [[barangay]] no twenty-six:
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Abiacao
 * Bagong Tubig
 * Balagtasin
 * Balite
 * Banoyo
-* [[Boboy (San Luis)|Boboy]]
+* Boboy
 * Bonliw
 * Calumpang
 * Calumpang East
@@ -33,20 +19,28 @@ Saray [[barangay]] no twenty-six:
 * Luya
 * Mahabang Parang
 * Manggahan
-* [[Muzón (Batangas)|Muzón]]
-* Santo Antônio
+* Muzon
+* San Antonio
 * San Isidro
-* San José
-* San Martín
-* Saint Monique
-* Talibá
-* Talon de la Vlaize
+* San Jose
+* San Martin
+* Santa Monica
+* Taliba
+* Talon
 * Tejero
 * Tungal
-* Población de Santa Analina
-
+* Poblacion
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{batangas}}

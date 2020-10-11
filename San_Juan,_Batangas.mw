@@ -1,29 +1,12 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Juan, Batangas
-| 1990 = 67741		
-| 1995 = 71913		
-| 2000 = 78169		
-| 2007 = 87276		
-| 2010 = 94291		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''San Juan''' ([[salitan Filipino|Filipino]]: ''Bolboc''; [[salitan Tagalog|Tagalog]]: ''[[Bolbok]]'') sakey arapan ya klase na [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Batangas]]
-
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 [[image:Virgin Beach Laiya.jpg|left|thumb|200px|La Iya, San Juan]]
-
-==Listaan na Barangay==
 [[File:San_Juan_Nepomuceno_Church1.jpg|thumb|left|Simbaan diad San Juan Nepumoceno]] 
-Say San Juan walay 42 ya [[barangay]]:
 
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Abung
 * Balagbag
 * Barualte
@@ -38,7 +21,6 @@ Say San Juan walay 42 ya [[barangay]]:
 * Coloconto
 * Escribano
 * Hugom
-</td><td valign=top>
 * Imelda (Tubog)
 * Janaojanao
 * Laiya Ibabao
@@ -53,8 +35,7 @@ Say San Juan walay 42 ya [[barangay]]:
 * Palahanan II
 * Palingowak
 * Pinagbayanan
-</td><td valign=top>
-* Poblacion
+* Poblacion>
 * Poctol
 * Pulangbato
 * Putingbuhangin
@@ -68,10 +49,18 @@ Say San Juan walay 42 ya [[barangay]]:
 * Talahiban 2.0
 * Ticalan
 * Tipaz
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{stub}}
 {{batangas}}

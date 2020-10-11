@@ -1,24 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Guagua, Pampanga
-| 1990 = 88290		
-| 1995 = 95363		
-| 2000 = 96858		
-| 2007 = 104601		
-| 2010 = 111199		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Guagua''' sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Pampanga]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Guagua walay 31 ya [[barangay]]:
 
-<table><tr><td valign="top">
+{{columns-list|colwidth=12em|
 *Ascomo
 *Bancal
 *Jose Abad Santos
@@ -30,7 +17,6 @@ Say Guagua walay 31 ya [[barangay]]:
 *Pulungmasle
 *Rizal
 *San Agustin
-</td><td valign="top">
 *San Antonio
 *San Isidro
 *San José 
@@ -42,7 +28,6 @@ Say Guagua walay 31 ya [[barangay]]:
 *San Nicolas 2nd
 *San Pablo
 *San Pedro
-</td><td valign="top">
 *San Rafael
 *San Roque
 *San Vicente (Ebus)
@@ -52,10 +37,17 @@ Say Guagua walay 31 ya [[barangay]]:
 *Santa Ursula 
 *Santo Cristo
 *Santo Niño (Poblacion)
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pampanga}}
 {{philippines-geo-stub}}

@@ -1,26 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> General Mariano Alvarez, Cavite
-| 1990 = 65977		
-| 1995 = 86824		
-| 2000 = 112446		
-| 2007 = 136613		
-| 2010 = 138540		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Heneral Mariano Álvarez''' sakey baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
-
-== Listaan na barangay ==
-
-
-Saray [[barangay]] ed GMA no twenty seven:
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Aldiano Olaes
 * Barangay 1 Poblacion (Area I)
 * Barangay 2 Poblacion
@@ -35,7 +18,6 @@ Saray [[barangay]] ed GMA no twenty seven:
 * Fiorello Calimag (Area C)
 * Gavino Maderan (Area J)
 * Gregoria De Jesus
-</td><td valign=top>
 * Inocencio Salud (Area F)
 * Jacinto Lumbreras (Area J)
 * Kapitan Kua (Area F)
@@ -49,9 +31,17 @@ Saray [[barangay]] ed GMA no twenty seven:
 * San Jose
 * Severino De Las Alas (Area J)
 * Tiniente Tiago
-</td></tr></table>
+}}
+== Demograpiko ==
+{{Populasyon}}
+== Saray reperensiya ==
+{{Reflist}}
 
-==Lokasiyon ed Hiyograpiko==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic Location
 |Centre    = General Mariano Álvarez
@@ -64,10 +54,6 @@ Saray [[barangay]] ed GMA no twenty seven:
 |West      = [[Dasmariñas, Cavite|Dasmariñas]] 
 |Northwest = 
 }}
-
-
-== Saray reperensiya ==
-{{Reflist}}
 
 {{Cavite}}
 

@@ -1,139 +1,37 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Malvar, Batangas
-| 1990 = 24253		
-| 1995 = 27771		
-| 2000 = 32691		
-| 2007 = 41730		
-| 2010 = 45952		
-| 2015 = 56270		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Malvar''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
-
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Malvar walay 15 ya [[barangay]]: 
 
-<table border="0">
-<tr>
-<td width=150>'''Barangay'''</td>
-<td width=200>'''Barangay Kapitan'''</td>
-<td width=200>'''SK Chairman'''</td>
-</tr>
-<tr>
-<td width=150>
+{{columns-list|colwidth=12em|
 * Bagong Pook
-</td>
-<td width=200>Ernesto A. Cuenca</td>
-<td width=200>Mariecon Lat</td>
-</tr>
-<tr>
-<td width=150>
-* Bilucao
-</td>
-<td width=200>Deogracias V. Macalintal</td>
-<td width=200>Jan-Ken Eurimico Torres</td>
-</tr>
-<tr>
-<td width=150>
+* Bilucao (San Isidro West)
 * Bulihan
-</td>
-<td width=200>Restituto D. Lat</td>
-<td width=200>Christopher Tosino</td>
-</tr>
-<tr>
-<td width=150>
 * San Gregorio
-</td>
-<td width=200>Mario DM. Onte</td>
-<td width=200>Ian Jay De Villa</td>
-</tr>
-<tr>
-<td width=150>
 * Luta Del Norte
-</td>
-<td width=200>Renato Malabanan</td>
-<td width=200>Adriel Hernandez</td>
-</tr>
-<tr>
-<td width=150>
 * Luta Del Sur
-</td>
-<td width=200>Eduardo R. Endaya</td>
-<td width=200>Kevin Ray Garcia</td>
-</tr>
-<tr>
-<td width=150>
 * Poblacion
-</td>
-<td width=200>Joevel Latido</td>
-<td width=200>Paulo Leeanzo Hipolito</td>
-</tr>
-<tr>
-<td width=150>
-* San Andreas
-</td>
-<td width=200>Hedilito Morcilla</td>
-<td width=200>Ralph Julius Leo Morcilla</td>
-</tr>
-<tr>
-<td width=150>
+* San Andres Evangelista
 * San Fernando
-</td>
-<td width=200>Federico P. Basilan</td>
-<td width=200>Stephanie Buan</td>
-</tr>
-<tr>
-<td width=150>
 * San Isidro East
-</td>
-<td width=200>Rufino C. Enriquez</td>
-<td width=200>Edwin Magpantay</td>
-</tr>
-<tr>
-<td width=150>
 * San Juan
-</td>
-<td width=200>Lamberto Malabanan</td>
-<td width=200>Eunice Alvarez</td>
-</tr>
-<tr>
-<td width=150>
-* San Pedro I
-</td>
-<td width=200>Pedro Sayas</td>
-<td width=200>Jeric Platon</td>
-</tr>
-<tr>
-<td width=150>
-* San Pedro II
-</td>
-<td width=200>Aileen Saludo</td>
-<td width=200>Ralph Jordan Morfe</td>
-</tr>
-<tr>
-<td width=150>
+* San Pedro I (East)
+* San Pedro II (West)
 * San Pioquinto
-</td>
-<td width=200>Efren V. Hernandez</td>
-<td width=200>Mark Anthony Licarte</td>
-</tr>
-<tr>
-<td width=150>
 * Santiago
-</td>
-<td width=200>Araceli U. Mendoza</td>
-<td width=200>Adrean Lat</td>
-</tr>
-</table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{batangas}}

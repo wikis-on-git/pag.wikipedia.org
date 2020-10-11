@@ -1,93 +1,83 @@
 {{Infobox location}}
    
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Camiling, Tarlac
-| 1990 = 62716		
-| 1995 = 65340		
-| 2000 = 71598		
-| 2007 = 79941		
-| 2010 = 80241		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}       
-Say '''Camiling''' et unaan ya klase baley ed luyag na [[Tarlac]], [[Filipinas]]. <br>  
-Unong ed 2010 Census, say papulasyon to et 80,241 totoo. Walay kabaleg tan sukat to ya 140.53 sq. km. Sikato et walad unaan  distrito. Say zip code to et 2306.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na Barangay ==
-
+==Saray barangay==
 Say Camiling walay so 61 na [[barangay]]:
 
-* Anoling 1<sup>st</sup>
-* Anoling 2<sup>nd</sup>
-* Anoling 3<sup>rd</sup> 
+{{columns-list|colwidth=12em|
+* Anoling 1st
+* Anoling 2nd
+* Anoling 3rd
 * Bacabac
-* Bacsay 
-* Bancay 1<sup>st</sup>
-* Bancay 2<sup>nd</sup>
+* Bacsay
+* Bancay 1st
+* Bancay 2nd
 * Bilad
-* Birbira 
-* Bobon 1<sup>st</sup>
-* Bobon 2<sup>nd</sup>
+* Birbira
+* Bobon 1st
+* Bobon 2nd
 * Bobon Caarosipan
-* Cabanabaan 
+* Cabanabaan
 * Cacamilingan Norte
-* Cacamilingan Sur 
+* Cacamilingan Sur
 * Caniag
 * Carael
-* Cayaoan 
+* Cayaoan
 * Cayasan
-* Florida 
+* Florida
 * Lasong
-* Libueg 
+* Libueg
 * Malacampa
-* Manakem 
+* Manakem
 * Manupeg
-* Marawi 
+* Marawi
 * Matubog
-* Nagrambacan 
+* Nagrambacan
 * Nagserialan
-* Palimbo Proper 
+* Palimbo Proper
 * Palimbo-Caarosipan
-* Pao 1<sup>st </sup>
-* Pao 2<sup>nd</sup>
-* Pao 3<sup>rd</sup>
+* Pao 1st
+* Pao 2nd
+* Pao 3rd
 * Papaac
-* Pindangan 1<sup>st</sup>
-* Pindangan 2<sup>nd</sup>
-* Poblacion A 
+* Pindangan 1st
+* Pindangan 2nd
+* Poblacion A
 * Poblacion B
-* Poblacion C 
+* Poblacion C
 * Poblacion D
-* Poblacion E 
+* Poblacion E
 * Poblacion F
-* Poblacion G 
+* Poblacion G
 * Poblacion H
-* Poblacion I 
-* Poblacion J 
+* Poblacion I
+* Poblacion J
 * Santa Maria
-* Sawat 
-* Sinilian 1<sup>st</sup> (with sitio Cabaluangan and Nangalisan)
-* Sinilian 2<sup>nd</sup> with sitio Baricir) 
-* Sinilian 3<sup>rd</sup>
-* Sinilian Cacalibosuan 
-* Sinulatan 1<sup>st</sup>
-* Sinulatan 2<sup>nd </sup>
-* Surgui 1<sup>st</sup>
-* Surgui 2<sup>nd </sup>
-* Surgui 3<sup>rd</sup>
-* Tambugan 
+* Sawat
+* Sinilian 1st 
+* Sinilian 2nd
+* Sinilian 3rd
+* Sinilian Cacalibosuan
+* Sinulatan 1st
+* Sinulatan 2nd
+* Surgui 1st
+* Surgui 2nd
+* Surgui 3rd
+* Tambugan
 * Telbang
-* Tuec 
-
+* Tuec
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Tarlac}}
        

@@ -1,41 +1,36 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Santa Ana, Pampanga
-| 1990 = 32540		
-| 1995 = 37975		
-| 2000 = 42990		
-| 2007 = 49756		
-| 2010 = 52001		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Santa Ana''' sakey [[baley]] diad [[filipinas|Pilipino]] ed [[luyag]] na [[Pampanga]].
-
-==Listaan na barangay==
-
+==Saray barangay==
 Say Santa Ana walay 14 ya [[barangay]].
 
-* San Agustin (Oblation)
-* San Bartolome (Yapak)
-* San Isidro (Quenabwan)
-* San Joaquin (Poblacion)
-* (Julie Anne) San Jose 
-* San Juan (Janina)
-* San Nicolas (Sepung Ilug)
-* San Pablo (Sandugo)
-* San Pedro (Calumpang)
-* San Roque (Tuklung)
-* Santa Lucia (Calinan)
-* Santa Maria (Balen Bayu) 
-* Santiago (Verzosa)
-* Santo Rosario (Pagbatuan)
-
+{{columns-list|colwidth=12em|
+* San Agustin
+* San Bartolome
+* San Isidro
+* San Joaquin (Pob.)
+* San Jose
+* San Juan
+* San Nicolas
+* San Pablo
+* San Pedro
+* San Roque
+* Santa Lucia
+* Santa Maria
+* Santiago
+* Santo Rosario
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{pampanga}}
 

@@ -1,60 +1,39 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bauan, Batangas
-| 1990 = 59258		
-| 1995 = 64190		
-| 2000 = 72604		
-| 2007 = 79831		
-| 2010 = 81351		
-| 2015 = 91297		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bauan''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-
-== Listaan na barangay ==
-
-
-Saray [[barangay]] no forty:
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Alagao
 * Aplaya
 * As-Is
-* Bagong Silang (Balon Yanak)
+* Bagong Silang
 * Baguilawa
 * Balayong
-* Barangay I (Población)
-* Barangay II (Población)
-* Barangay III (Población)
-* Barangay IV (Población)
+* Barangay I (Pob.)
+* Barangay II (Pob.)
+* Barangay III (Pob.)
+* Barangay IV (Pob.)
 * Bolo
 * Colvo
 * Cupang
 * Durungao
-| valign="top" |
 * Gulibay
 * Inicbulan
 * Locloc
 * Magalang-Galang
 * Malindig
-* Manalupong (Santa Analina)
-* Manghinao Proper (Carolyn Boongaling and Villa Florentina)
+* Manalupang
+* Manghinao Proper
 * Manghinao Uno
 * New Danglayan
 * Orense
 * Pitugo
 * Rizal
 * Sampaguita
-| valign="top" |
 * San Agustin
-* San Andreas Proper
-* San Andreas Uno
+* San Andres Proper
+* San Andres Uno
 * San Diego
 * San Miguel
 * San Pablo
@@ -65,10 +44,17 @@ Saray [[barangay]] no forty:
 * Santa Maria
 * Santo Domingo
 * Sinala
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{batangas}}

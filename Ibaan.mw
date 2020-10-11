@@ -1,29 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Ibaan, Batangas
-| 1990 = 31220		
-| 1995 = 34757		
-| 2000 = 40165		
-| 2007 = 45649		
-| 2010 = 48482		
-| 2015 = 52970		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Ibaan'''  sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Batangas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Awaran==
-
-Saray paggagala ken [[Michael Verzosa]] ([[Michael Verzosa|Annalyn Garcia]]) nen pangpalipasen ed [[2010]].
-
-== Listaan na barangay ==
-
-Say Ibaán walay 26 ya [[barangay]]:
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bago
 * Balanga
 * Bungahan
@@ -37,7 +17,6 @@ Say Ibaán walay 26 ya [[barangay]]:
 * Malainin
 * Matala
 * Munting-Tubig
-</td><td valign=top>
 * Palindan
 * Pangao
 * Panghayaan
@@ -51,10 +30,17 @@ Say Ibaán walay 26 ya [[barangay]]:
 * Santo Niño
 * Talaibon
 * Tulay Na Patpat
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic location
 |Centre    = Ibaán

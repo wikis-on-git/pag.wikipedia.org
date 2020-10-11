@@ -1,24 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Pakil, Laguna
-| 1990 = 13438		
-| 1995 = 15663		
-| 2000 = 18021		
-| 2007 = 20242		
-| 2010 = 20822		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Pakil''' sakey baley diad [[Filipinas|Pilipino]] ed [[Laguna]].
-
-== Listaan na barangay ==
-
-Saray [[barangay]] no thirteen:
-
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Baño (Poblacion)
 * Banilan
 * Burgos (Poblacion)
@@ -32,9 +17,17 @@ Saray [[barangay]] no thirteen:
 * Saray
 * Taft (Poblacion)
 * Tavera (Poblacion)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{laguna}}
 {{philippines-geo-stub}}

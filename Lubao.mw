@@ -1,28 +1,15 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Lubao, Pampanga
-| 1990 = 99705		
-| 1995 = 109667		
-| 2000 = 125699		
-| 2007 = 143058		
-| 2010 = 150843		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Lubao''' ([[salitan Kapampangan|Kapampangan]]: ''Balen ning Rubaw''), sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Pampanga]]. Onong ed [[2000]] census, walay population to ya 125,699 ya too diad 23,446 ya pamilya. Kidala an baley daridan ed saray [[kanen]], [[tobo]], [[esda]] tan [[sampaquita]] kila nia.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
+Kidala an baley daridan ed saray [[kanen]], [[tobo]], [[esda]] tan [[sampaquita]] kila nia.
 
 Karagayan nina sigud ya pangulo ni [[Dionysus Macapagal]] tan presente diad pangulo ni [[Gloria Macapagal-Arroyo]] say saray kidalan ya too kila bangon dia.
 
-
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Lubao walay 44 ya [[barangay]]:
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=18em|
 * Balantacan
 * Bancal Sinubli
 * Bancal Pugad
@@ -38,7 +25,6 @@ Say Lubao walay 44 ya [[barangay]]:
 * San Agustin
 * San Antonio
 * San Francisco
-</td><td valign=top>
 * San Isidro
 * San Jose Apunan
 * San Jose Gumi
@@ -54,7 +40,6 @@ Say Lubao walay 44 ya [[barangay]]:
 * San Roque Arbol
 * San Roque Dau
 * San Vicente
-</td><td valign=top>
 * Santa Barbara
 * Santa Catalina
 * Santa Cruz
@@ -69,14 +54,21 @@ Say Lubao walay 44 ya [[barangay]]:
 * Santo Niño (Prado Saba)
 * Santo Cristo
 * Santo Tomas (Pob.)
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 ==Saray too diad Lubao==
 * [[Dionysus Macapagal]]
 * [[Rod Vitug]] (inianak Abril 25, [[1961]])
 
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pampanga}}
 {{philippines-geo-stub}}

@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Liliw, Laguna
-| 1990 = 21911		
-| 1995 = 24434		
-| 2000 = 27537		
-| 2007 = 32727		
-| 2010 = 33851		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Liliw''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Laguna]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na Barangay ==
-
+==Saray barangay==
 Say Liliw walay 33 ya [[barangay]]:
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=18em|
 * Bagong Anyo (Poblacion)
 * Bayate
 * Bubukal
@@ -31,7 +17,6 @@ Say Liliw walay 33 ya [[barangay]]:
 * Daniw (Danliw)
 * Dita
 * Ibabang Palina
-</td><td valign=top>
 * Ibabang San Roque
 * Ibabang Sungi
 * Ibabang Taykin
@@ -43,7 +28,6 @@ Say Liliw walay 33 ya [[barangay]]:
 * Laguan
 * Rizal (Poblacion)
 * Luquin
-</td><td valign=top>
 * Malabo-Kalantukan
 * Masikap (Poblacion)
 * Maslun (Poblacion)
@@ -55,16 +39,26 @@ Say Liliw walay 33 ya [[barangay]]:
 * San Isidro
 * Silangang Bukal
 * Tuy-Baanan
-</td></tr></table>
+}}
 
-== Saray reperensiya ==
-{{Reflist}}
+== Demograpiko ==
+{{Populasyon}}
 
-==Image==
+==Imahe==
 <gallery>
 Image:Church of Liliw, Facade.jpg|Facade of the Church of Liliw
 Image:Church of Liliw.jpg|[[Simbaan na Liliw|The Church of Liliw]]
 </gallery>
+
+== Saray reperensiya ==
+{{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Laguna}}
 {{philippines-geo-stub}}

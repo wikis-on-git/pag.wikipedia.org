@@ -1,15 +1,11 @@
 {{Infobox location}}
 					
-									
-Say '''Calamba''' et unaan ya klase siyudad ed luyag na [[Laguna]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 389,377 totoo. <br> 	
-Walay kabaleg tan sukat to ya 149.50 sq. km. Sikato et walad  kumadwa ya distrito. Say zip code to et 4027. 			
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
+Say Siyudad na Calamba walay 54 ya [[barangay]]:
 
-Say Siyudad na Kalamba walay 54 ya [[barangay]]:
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=18em|
 * Bagong Kalsada
 * Banadero
 * Banlic
@@ -22,13 +18,12 @@ Say Siyudad na Kalamba walay 54 ya [[barangay]]:
 * Canlubang
 * Halang
 * Hornalan
-* [[Kay-Anlog]]
+* Kay-Anlog
 * Laguerta
 * La Mesa
 * Lawa
 * Lecheria
 * Lingga
-</td><td valign=top>
 * Looc
 * Mabato
 * Makiling
@@ -47,7 +42,6 @@ Say Siyudad na Kalamba walay 54 ya [[barangay]]:
 * Barangay 4 (Poblacion)
 * Barangay 5 (Poblacion)
 * Barangay 6 (Poblacion)
-</td><td valign=top>
 * Barangay 7 (Poblacion)
 * Prinza
 * Punta
@@ -66,7 +60,7 @@ Say Siyudad na Kalamba walay 54 ya [[barangay]]:
 * Uwisan
 * Batino
 * Majada Labas
-</td></tr></table>
+}}
 
 == Demograpiko ==
 {{Populasyon}}

@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Magallanes, Cavite
-| 1990 = 12556		
-| 1995 = 17115		
-| 2000 = 18090		
-| 2007 = 18890		
-| 2010 = 21231		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Magallanes''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Cavite]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
- 
+==Saray barangay==
 Say Magallanes walay 16 ya [[barangay]]:
-{| border="0"
-|-----
-| valign="top" |
+
+{{columns-list|colwidth=15em|
 * Baliwag
 * Bendita I
 * Caluangan
@@ -27,8 +13,6 @@ Say Magallanes walay 16 ya [[barangay]]:
 * Pacheco
 * Barangay 1 (Pob.)
 * Barangay 2 (Pob.)
-* Barangay 3 (Pob.)
-| valign="top" |
 * Barangay 4 (Pob.)
 * Barangay 5 (Pob.)
 * Ramirez
@@ -37,10 +21,18 @@ Say Magallanes walay 16 ya [[barangay]]:
 * Kabulusan
 * Bendita II
 * San Agustin
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{cavite}}
 {{philippines-geo-stub}}

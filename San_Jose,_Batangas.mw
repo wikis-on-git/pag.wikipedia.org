@@ -1,38 +1,21 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Jose, Batangas
-| 1990 = 38680		
-| 1995 = 43886		
-| 2000 = 51965		
-| 2007 = 61307		
-| 2010 = 68517		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Jose''' sakey baley diad [[Filipinas|Pilipino]] ed [[Batangas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
-Saray [[barangay]] ed San José no thirty three:
-
-<table border=0><tr>
-<td valign=top>
-* [[Aguila (Batangas)|Aguila]]
-* [[Anus (Batangas)|Anus]]
-* [[Aya (San José, Batangas)|Aya]]
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Aguila
+* Anus
+* Aya
 * Bagong Pook
-* Balagtasin
 * Balagtasin I
-* [[Banaybanay I]]
-* [[Banaybanay II]]
+* Balagtasin II
+* Banay-banay I
+* Banay-banay II
 * Bigain I
 * Bigain II
-* [[Calansayan]]
-</td><td valign=top>
-* [[Dagatan (San José, Batangas)|Dagatan]]
+* Calansayan
+* Dagatan
 * Don Luis
 * Galamay-Amo
 * Lalayat
@@ -42,23 +25,29 @@ Saray [[barangay]] ed San José no thirty three:
 * Lumil
 * Natunuan
 * Palanca
-* [[Pinagtung-Ulán (San José, Batangas)|Pinagtung-Ulán]]
-</td><td valign=top>
+* Pinagtung-Ulan
 * Poblacion Barangay I
 * Poblacion Barangay II
 * Poblacion Barangay III
 * Poblacion Barangay IV
-* [[Sabang (San José, Batangas)|Sabang]]
-* [[Salaban (San José, Batangas)|Salaban]]
-* [[Santo Cristo (San José, Batangas)|Santo Cristo]]
+* Sabang
+* Salaban
+* Santo Cristo
 * Mojon-Tampoy
 * Taysan
 * Tugtug
-* [[Bigain ed Abalaten|Bigain South]]
-</td></tr></table>
-
+* Bigain South
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{Batangas}}

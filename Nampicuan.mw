@@ -1,20 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Nampicuan, Nueva Ecija
-| 1990 = 8426		
-| 1995 = 10708		
-| 2000 = 11033		
-| 2007 = 11786		
-| 2010 = 13303		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Nampicuan''' et kumalima ya klase baley ed luyag na [[Nueva Ecija]], [[Filipinas]]. Unong ed 2010 Census, say papulasyon to et 13,303 totoo. Walay kabaleg tan sukat to ya 52.6 sq. km. Sikato et walad kumalima ya distrito. Say zip code to et 3116.	
-		
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+
 ==Saray barangay==
+{{columns-list|colwidth=18em|
 * Alemania
 * Ambasador Alzate Village
 * Cabaducan East (Poblacion)
@@ -36,14 +25,17 @@ Say '''Nampicuan''' et kumalima ya klase baley ed luyag na [[Nueva Ecija]], [[Fi
 * Southwest Poblacion
 * Tony
 * West Central Poblacion
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
-	
+
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Nueva Ecija}}
  												

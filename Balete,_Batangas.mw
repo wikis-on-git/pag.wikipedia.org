@@ -1,24 +1,14 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Balete, Batangas
-| 1990 = 11678		
-| 1995 = 14383		
-| 2000 = 15792		
-| 2007 = 19252		
-| 2010 = 20214		
-| 2015 = 22661		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Balete'''  sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Batangas]]
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-
-== Listaan na barangay ==
 [[Image:Baleteshore.JPG|right|thumb|250px|Bambanka ya nang-esdaan son shore ed [[Dan-aw Taal]] ed Balete]]
+
+==Saray barangay==
+
 Say Balete walay 13 ya [[barangay]]:
 
+{{columns-list|colwidth=12em|
 * Alangilan
 * Calawit
 * Looc
@@ -32,9 +22,17 @@ Say Balete walay 13 ya [[barangay]]:
 * Sampalocan
 * Solis
 * San Sebastian
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{Batangas}}

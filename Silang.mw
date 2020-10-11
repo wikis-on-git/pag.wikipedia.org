@@ -1,24 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Silang, Cavite
-| 1990 = 93790		
-| 1995 = 124062		
-| 2000 = 156137		
-| 2007 = 199825		
-| 2010 = 213490		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Silang''' sakey primere a clase [[baley]] ed [[luyag]] na [[Cavite]], [[Filipinas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
- 
-Say Silang walay 64 ya [[barangay]]:
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Adlas
 * Balite I
 * Balite II
@@ -26,7 +11,7 @@ Say Silang walay 64 ya [[barangay]]:
 * Batas
 * Biga I
 * Biga II
-* [[Biluso]]
+* Biluso
 * Buho
 * Bucal
 * Bulihan
@@ -38,11 +23,10 @@ Say Silang walay 64 ya [[barangay]]:
 * Kalubkob
 * Kaong
 * Lalaan I
-* [[Lalaan II]]
+* Lalaan II
 * Litlit
 * Lucsuhin
 * Lumil
-</td><td valign=top>
 * Maguyam
 * Malabag
 * Mataas Na Burol
@@ -66,7 +50,6 @@ Say Silang walay 64 ya [[barangay]]:
 * Tartaria
 * Tibig
 * Toledo
-</td><td valign=top>
 * Tubuan I
 * Ulat
 * Acacia
@@ -85,10 +68,17 @@ Say Silang walay 64 ya [[barangay]]:
 * San Vicente II
 * Tubuan II
 * Tubuan III
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{cavite}}
 {{philippines-geo-stub}}

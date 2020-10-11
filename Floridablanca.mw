@@ -1,28 +1,11 @@
-{{translation}}
-
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Floridablanca, Pampanga
-| 1990 = 66146		
-| 1995 = 76683		
-| 2000 = 85394		
-| 2007 = 103388		
-| 2010 = 110846		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Floridablanca''' sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Pampanga]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Floridablanca walay 33 ya [[barangay]]:
 
-{|
-|-
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Anon
 * Apalit
 * Basa Air Base
@@ -34,7 +17,6 @@ Say Floridablanca walay 33 ya [[barangay]]:
 * Consuelo
 * Dampe
 * Del Carmen
-| valign="top |
 * Fortuna
 * Gutad
 * Mabical
@@ -46,7 +28,6 @@ Say Floridablanca walay 33 ya [[barangay]]:
 * Palmayo
 * Pandaguirig
 * Poblacion
-| valign="top |
 * San Antonio
 * San Isidro
 * San Jose
@@ -58,24 +39,17 @@ Say Floridablanca walay 33 ya [[barangay]]:
 * Solib
 * Valdez
 * Mawacat
-|}
-
-==Saray too diad Floridablanca==
-* [[Aber P. Canlas]], former deputy minister of the Ministry of Public Works and Highways of the Philippines;
-* [[Angeleno Medina]], was a Brigadier General of the Armed Forces of the Philippines;
-* [[Ayanstein Tolentino]], musician, multimedia artist, and information scientist.
-* [[Dante Rivero]], movie actor;
-* [[Edilio Montemayor]], director of Public Works in Pampanga;
-* [[Eduardo Guerrero]], municipal [[mayor]]
-* [[Col. Juan S. Aguas]], Philippine Military Academy and University of the Philippines professor;
-* [[Leandro Coronel]], news reporter/columnist and book author;
-* [[Liesel Mañaga]], [[literatura diad Kapampangan]]
-* [[Dr. Mariano Aguas]], a veterinarian who headed then Magalang Agricultural School In Pampanga which is now a national state college, and Lumbunao Agricultural College in Iloilo;
-* [[Reynaldo Vitug Reyes]], was a native of Maligaya, Floridablanca and son of the late Former Municipal Councilor Francisco S. Reyes who became Major General of the Philippine Air Force (PAF) and known as the first Floridablancan Air Force General;
-* [[Tito Morales Mendiola]], was a native of Fortuna, Floridablanca. He was the former mayor of the town (Floridablanca) and the Senior Vice President of Philippine Health (PHILHEALTH) Insurance for Operations and Area Vice President for Mindanao;
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Geographic location
  | Centre = Floridablanca

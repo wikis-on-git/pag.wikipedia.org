@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Porac, Pampanga
-| 1990 = 68215		
-| 1995 = 75408		
-| 2000 = 80757		
-| 2007 = 102962		
-| 2010 = 111441		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Porac''' sakey baley diad [[Filipinas|Pilipino]] ed luyag na [[Pampanga]]. Onong ed [[2000]] census, walay papulasyon to ya 80,757 ya too diad 15,686 ya pamilya. 
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
+==Saray barangay==
 Say Porac walay 29 ya [[barangay]]:
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Babo Pangulo
 * Babo Sacan
 * Balubad
@@ -35,7 +21,6 @@ Say Porac walay 29 ya [[barangay]]:
 * Manibaug Pasig
 * Manuali
 * Mitla Proper
-</td><td valign=top>
 * Palat
 * Pias
 * Pio
@@ -50,10 +35,17 @@ Say Porac walay 29 ya [[barangay]]:
 * Villa Maria (Aetas)
 * Inararo (Aetas)
 * Sapang Uwak (Aetas)
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pampanga}}
 {{philippines-geo-stub}}

@@ -1,26 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Naic, Cavite
-| 1990 = 51629		
-| 1995 = 58046		
-| 2000 = 72683		
-| 2007 = 87058		
-| 2010 = 88144		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Baley na Naic''' sakey 1st class ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[Cavite]], [[Filipinas]].  Onong ed [[2000]] census, walay populasyon to ya 72,683 ya too diad 15,230 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
-Say Naic walay 31 ya [[barangay]]:
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Bagong Kalsada
 * Balsahan
 * Bancaan
@@ -36,7 +19,6 @@ Say Naic walay 31 ya [[barangay]]:
 * Kanluran Rizal
 * Labac
 * La Toria
-| valign="top" |
 * Mabolo
 * Maquina
 * Malainen Bago
@@ -53,13 +35,18 @@ Say Naic walay 31 ya [[barangay]]:
 * Sapa
 * Timalan Balsahan
 * Timalan Concepxion
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Cavite}}
 {{stub}}

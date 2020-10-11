@@ -1,25 +1,13 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Rosario, Batangas
-| 1990 = 66923		
-| 1995 = 74976		
-| 2000 = 86110		
-| 2007 = 95785		
-| 2010 = 105561		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Rosario''' ([[salitan Espanol|Kastila]]: ''Municipalidad del Márquez'') sakey arapan ya klase na [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Batangas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na Barangay==
 [[File:Downtown Rosario, Batangas.jpg|right|thumb|250px|Downtown Márquez]] 
+
+==Saray barangay==
 Say Rosario walay 42 ya [[barangay]]:
 
-{| border=0
-| valign=top |
+{{columns-list|colwidth=12em|
 * Alupay
 * Anti-Polo
 * Bagong Pook
@@ -36,7 +24,6 @@ Say Rosario walay 42 ya [[barangay]]:
 * Mabató (Sebato)
 * Mabunga
 * Macalamcam A
-| valign=top |
 * Macalamcam B
 * Malaya
 * Maligaya
@@ -53,7 +40,6 @@ Say Rosario walay 42 ya [[barangay]]:
 * Pinagsibaán
 * Barangay A (Pob.)
 * Barangay B (Pob.)|}
-| valign=top |
 * Barangay C (Pob.)
 * Barangay D (Pob.)
 * Barangay E (Pob.)
@@ -70,10 +56,17 @@ Say Rosario walay 42 ya [[barangay]]:
 * Tiquiwan
 * Le Viste (Tubahan)
 * Tulos
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{batangas}}
 

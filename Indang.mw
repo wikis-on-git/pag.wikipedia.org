@@ -1,69 +1,58 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Indang, Cavite
-| 1990 = 39294		
-| 1995 = 42765		
-| 2000 = 51281		
-| 2007 = 60755		
-| 2010 = 62030		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Indang''' sakey [[baley]] diad [[Filipinas|Pilipino]] ed [[luyag]] na [[Cavite]].
-
-== Listaan na barangay ==
- 
-Say Indang walay 36 ya [[barangay]]:
-{| border="0"
-|-----
-| valign="top" |
-* [[Agus-os]]
-* [[Alulod]]
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Agus-us
+* Alulod
 * Banaba Cerca
 * Banaba Lejos
-* [[Bancod]]
-* [[Buna Cerca]]
-* [[Buna Lejos I]]
-* [[Buna Lejos II]]
-* [[Calumpang Cerca]]
-* [[Calumpang Lejos]] I
-* Carasuchi
-* [[Kayquit I]]
-* [[Daine I]]
-| valign="top" |
-* [[Guyam Malaki]]
+* Bancod
+* Buna Cerca
+* Buna Lejos I
+* Buna Lejos II
+* Calumpang Cerca
+* Calumpang Lejos I
+* Carasuchi 
+* Kayquit I
+* Daine I
+* Guyam Malaki
 * Guyam Munti
-* [[Harasan]]
-* [[Kaytambog]]
+* Harasan 
+* Kaytambog
 * Limbon
 * Lumampong Balagbag
-* [[Lumampong Halayhay]]
-* Mahabang Kahoy Lejos
-* [[Mahabang Kahoy Cerca]]
+* Lumampong Halayhay
+* Mahabangkahoy Lejos
+* Mahabangkahoy Cerca
 * Barangay 1 (Pob.)
 * Barangay 2 (Pob.)
-* [[Barangay 3 (Indang)|Barangay 3]] (Pob.)
-| valign="top" |
+* Barangay 3 (Pob.)
 * Barangay 4 (Pob.)
-* [[Pulo (Indang)|Pulo]]
+* Pulong malpit
+* Pulong malayo
 * Tambo Balagbag
-* [[Tambo Ilaya]]
-* [[Tambo Malaki]]
-* [[Tambo Kulit]]
+* Tambo Ilaya
+* Tambo Malaki
+* Tambo Kulit
 * Buna Lejos II
-* [[Daine II]]
-* [[Kayquit II]]
-* [[Kayquit III]]
-* [[Kaytapos]]
-* [[Mataas na Lupa (Checkpoint)]]
-|}
-
+* Daine II
+* Kayquit II
+* Kayquit III
+* Kaytapos
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{cavite}}
 {{philippines-geo-stub}}

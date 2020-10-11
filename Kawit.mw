@@ -1,28 +1,15 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Kawit, Cavite
-| 1990 = 47755		
-| 1995 = 56993		
-| 2000 = 62751		
-| 2007 = 76405		
-| 2010 = 78209		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-An '''Kawit''' (sigor ed ''Cavité el Viejo'') sakey arapan ya una a klase na [[baley]] ed [[luyag]] na [[Cavite]], [[Filipinas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 Dia ed baley na naianak ni [[Emilio Aquinaldo]], irapan na ed pangulo na [[Filipinas]]. Dia met naipatakder so [[Aquinaldo Shrine]].
 
-==Saray baranggay==
-[[File:Aguinaldo Shrine (Kawit, Cavite).jpg|thumb|right|[[Aguinaldo Shrine]], the birthplace of Philippine Independence.]]
-Say Kawit sakey nagudwa ed 23 na [[baranggay]].
+[[File:Aguinaldo Shrine (Kawit, Cavite).jpg|thumb|288px|rightAguinaldo Shrine]]
 
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+Say Kawit sakey nagudwa ed 23 na [[barangay]].
+
+{{columns-list|colwidth=12em|
 * Binakayan-Kanluran
 * Gahak
 * Kaingen
@@ -35,7 +22,6 @@ Say Kawit sakey nagudwa ed 23 na [[baranggay]].
 * Tabon I
 * Toclong
 * Wakas I
-</td><td valign=top>
 * Batong Dalig
 * Balsahan-Bisita
 * Binakayan-Aplaya
@@ -47,10 +33,18 @@ Say Kawit sakey nagudwa ed 23 na [[baranggay]].
 * Tabon III
 * Tramo-Bantayan
 * Wakas II
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Cavite}}
 {{philippines-geo-stub}}

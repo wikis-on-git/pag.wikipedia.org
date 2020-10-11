@@ -1,26 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Alfonso, Cavite
-| 1990 = 28944		
-| 1995 = 34613		
-| 2000 = 39674		
-| 2007 = 47973		
-| 2010 = 48567		
-| 2015 = 51839		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Alfonso''' sakey baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
-
-== Listaan na barangay ==
-
-Saray [[barangay]] ed Alfonso no thirty two:
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Barangay I (Pob.)
 * Barangay II (Pob.)
 * Barangay III (Pob.)
@@ -33,7 +16,6 @@ Saray [[barangay]] ed Alfonso no thirty two:
 * Luksuhin Ilaya
 * Luksuhin Ibaba
 * Mangas I
-| valign="top" |
 * Marahan I
 * Matagbak I
 * Pajo
@@ -45,7 +27,6 @@ Saray [[barangay]] ed Alfonso no thirty two:
 * Taywanak Ilaya
 * Upli
 * Kaysuyo
-| valign="top" |
 * Luksuhin Ilaya
 * Palumlum
 * Bilog
@@ -56,10 +37,18 @@ Saray [[barangay]] ed Alfonso no thirty two:
 * Marahan II
 * Matagbak II
 * Santa Teresa
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{philippines-geo-stub}}
 {{Cavite}}

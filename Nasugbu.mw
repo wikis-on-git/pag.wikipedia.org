@@ -1,29 +1,14 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Nasugbu, Batangas
-| 1990 = 75515		
-| 1995 = 83874		
-| 2000 = 96113		
-| 2007 = 113926		
-| 2010 = 122483		
-| 2015 = 134113		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Nasugbu''' so sakey baley diad [[Filipinas]] ed luyag na [[Batangas]].
-
-== Listaan na barangay ==
 [[File:Nasugbu 10 (Municipal Hall).JPG|right|thumb|200px|Municipio na Nazugbu, Batangas]]
 
-Saray [[barangay]] ed Nazugbu no forty two:
-{|
-|
-* [[Aga (Batangas)|Aga]]
-* [[Balaytigue]]
-* [[Banilad]]
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Aga
+* Balaytigui
+* Banilad
 * Barangay 1 (Pob.)
 * Barangay 2 (Pob.)
 * Barangay 3 (Pob.)
@@ -35,9 +20,8 @@ Saray [[barangay]] ed Nazugbu no forty two:
 * Barangay 9 (Pob.)
 * Barangay 10 (Pob.)
 * Barangay 11 (Pob.)
-|
 * Barangay 12 (Pob.)
-* [[Bilaran]]
+* Bilaran
 * Bucana
 * Bulihan
 * Bunducan
@@ -49,24 +33,24 @@ Saray [[barangay]] ed Nazugbu no forty two:
 * Cogunan
 * Dayap
 * Latag
-* [[Looc (Batangas)|Looc]]
-|
-* [[Lumbangan]]
+* Looc
+* Lumbangan
 * Malapad Na Bato
 * Mataas Na Pulo
 * Maugat
 * Munting Indang
-* [[Natipuan]]
+* Natipuan
 * Pantalan
-* [[Papaya (Batangas)|Papaya]]
+* Papaya
 * Putat
 * Reparo
 * Talangan
 * Tumalim
 * Utod
 * Wawa
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray lokasiyon ==
 === Tinda ===
 * [[Cresie Store]]
@@ -88,6 +72,12 @@ Saray [[barangay]] ed Nazugbu no forty two:
 
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{philippines-geo-stub}}
 {{Batangas}}

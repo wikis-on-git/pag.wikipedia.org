@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mendez, Cavite
-| 1990 = 17652		
-| 1995 = 20321		
-| 2000 = 22937		
-| 2007 = 26757		
-| 2010 = 28570		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Méndez''' sakey baley diad [[Filipinas|Pilipino]] ed [[Cavite]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na barangay ==
-
-Saray [[barangay]] no twenty five:
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Anuling Lejos I (Anuling)
 * Asis I
 * Galicia I
@@ -46,11 +30,17 @@ Saray [[barangay]] no twenty five:
 * Miguel Mojica
 * Palocpoc II
 * Panungyan II
-</td></tr></table>
-
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
+
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cavite}}
 {{philippines-geo-stub}}

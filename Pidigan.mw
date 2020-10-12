@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Pidigan, Abra
-| 1990 = 8807		
-| 1995 = 9098		
-| 2000 = 10183		
-| 2007 = 11280		
-| 2010 = 11528		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Pidigan''' sakey 5th class ya [[Saray baley na Filipinas|baley]] ed [[Saray luyag na Filipinas|luyag]] na [[Abra (luyag)|Abra]], [[Filipinas]]. Onong ed census [[2000]] walay populasyon to ya 10,183 ya too diad 1,875 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Pidigan walay 15 ya [[barangay]].
 
+{{columns-list|colwidth=12em|
 * Alinaya
 * Arab
 * Garreta
@@ -33,14 +21,17 @@ Say Pidigan walay 15 ya [[barangay]].
 * Sulbec
 * Suyo (Malidong)
 * Yuyeng
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 {{Abra}}
 
 [[Category:Abra]]

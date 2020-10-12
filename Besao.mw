@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Besao, Mountain Province
-| 1990 = 8473		
-| 1995 = 9147		
-| 2000 = 9875		
-| 2007 = 7295		
-| 2010 = 7818		
-| 2015 = 7040		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Besao''' sakey 5th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Luyag na Palandey|Mountain Province]] ([[Luyag na Palandey]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 9,875 ya too diad 1,735 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Besao walay 14 ya [[barangay]].
 
+{{columns-list|colwidth=12em|
 * Agawa
 * Ambaguio
 * Banguitan
@@ -32,13 +20,17 @@ Say Besao walay 14 ya [[barangay]].
 * Suquib
 * Tamboan
 * Kin-iway (Pob.)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 *[http://www.besao.gov.ph/ Opisyal ya Websayt na Besao, Mountain Province]
 
 {{Luyag na Palandey}}

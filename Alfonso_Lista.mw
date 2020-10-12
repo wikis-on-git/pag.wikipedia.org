@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Alfonso Lista, Ifugao
-| 1990 = 14816		
-| 1995 = 17552		
-| 2000 = 21167		
-| 2007 = 25323		
-| 2010 = 28410		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Alfonso Lista''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Ifugao|Ifugao]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 21,167 ya too diad 4,275 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Alfonso Lista walay 20 ya [[barangay]].
 
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Bangar
 * Busilac
 * Calimag
@@ -31,7 +16,6 @@ Say Alfonso Lista walay 20 ya [[barangay]].
 * Namnama
 * Namillangan
 * Pinto
-| valign="top" |
 * Poblacion
 * San Jose
 * San Juan
@@ -42,14 +26,17 @@ Say Alfonso Lista walay 20 ya [[barangay]].
 * Little Tadian
 * Ngileb
 * Laya
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ifugao}}
 

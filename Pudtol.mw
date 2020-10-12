@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Pudtol, Apayao
-| 1990 = 7621		
-| 1995 = 8656		
-| 2000 = 11039		
-| 2007 = 12595		
-| 2010 = 13305		
-| 2015 = 14925		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Pudtol''' sakey 4th class ya [[Saray baley na Filipinas|baley]] ed [[Saray luyag na Filipinas|luyag]] na [[Apayao]], [[Filipinas]]. Onong ed census [[2000]] walay populasyon to ya 11,039 ya too diad 2,066 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Pudtol walay 22 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Aga
 * Alem
 * Cabatacan
@@ -31,7 +17,6 @@ Say Pudtol walay 22 ya [[barangay]].
 * Poblacion
 * San Antonio (Pugo)
 * Swan
-</td><td valign=top>
 * Upper Maton
 * Amado
 * Aurora
@@ -43,14 +28,17 @@ Say Pudtol walay 22 ya [[barangay]].
 * San Jose
 * San Luis
 * San Mariano
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Apayao}}
 

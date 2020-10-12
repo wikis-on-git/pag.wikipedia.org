@@ -1,36 +1,20 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mariveles, Bataan
-| 1990 = 60761		
-| 1995 = 76626		
-| 2000 = 85779		
-| 2007 = 102844		
-| 2010 = 112707		
-| 2015 = 127536		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-		
-Say '''Mariveles''' sakey primere a clase na [[baley]] ed [[luyag]] na [[Bataan]], [[Filipinas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-== Listaan na Barangay ==
-
+==Saray barangay==
 Say Mariveles walay 18 ya [[barangay]]:
 
-<table border=0><tr>
-<td valign=top>
-* [[Alas-asin]]
-* [[Alion]]
-* [[Batangas II]]
+{{columns-list|colwidth=12em|
+* Alas-asin
+* Alion
+* Batangas II
 * Cabcaben
-* [[Lucanin]]
+* Lucanin
 * Baseco Country (Nassco)
 * Poblacion
-* [[San Carlos (Mariveles)|San Carlos]]
+* San Carlos
 * San Isidro
-</td><td valign=top>
 * Sisiman
 * Balon-Anito
 * Biaan
@@ -39,14 +23,18 @@ Say Mariveles walay 18 ya [[barangay]]:
 * Malaya
 * Maligaya
 * Mt. View
-* [[Townsite (Mariveles)|Townsite]]
-</td></tr></table>
-
+* Townsite
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-== Ofisial a websait ==
-
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.marivelesgovph.org Mariveles]
 
 {{stub}}

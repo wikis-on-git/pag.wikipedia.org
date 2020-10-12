@@ -1,27 +1,12 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Orion, Bataan
-| 1990 = 35263		
-| 1995 = 39537		
-| 2000 = 44067		
-| 2007 = 49164		
-| 2010 = 51454		
-| 2015 = 56002		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-	
-Say '''Orion''' sakey 2nd class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Bataan]], [[Filipinas]].  Onong ed [[2007]] census, walay population to ya 49,164 ya too diad 8,735 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+[[Image:Orion, Bataan (1308941891).jpg|right|thumb|288px|Simbaan na San Muigel Arkanhel ed Orion]]
 
 ==Saray barangay==
-[[Image:Orion, Bataan (1308941891).jpg|right|thumb|Simbaan na San Muigel Arkanhel ed Orion]]
 Say Orion walay 23 ya [[barangay]].
 
-{| border="0"
-|-
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Arellano (Pob.)
 * Bagumbayan (Pob.)
 * Balagtas (Pob.)
@@ -34,7 +19,6 @@ Say Orion walay 23 ya [[barangay]].
 * Daang Bilolo (Pob.)
 * Daang Pare
 * General Lim (Kaput)
-| valign="top" |
 * Kapunitan
 * Lati (Pob.)
 * Lusungan (Pob.)
@@ -46,17 +30,18 @@ Say Orion walay 23 ya [[barangay]].
 * Villa Angeles (Pob.)
 * Wakas (Pob.)
 * Wawa (Pob.)
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-*[http://www.orionbataan.com Orion Website]
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/data/census2007/index.html Philippine Census Information 2007]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-==Lokasiyon ed Hiyograpiko==
 
 {{Geographic location
  | Centre    = Orion

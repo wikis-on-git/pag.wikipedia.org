@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Lagawe, Ifugao
-| 1990 = 12437		
-| 1995 = 14898		
-| 2000 = 15269		
-| 2007 = 17477		
-| 2010 = 18077		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Lagawe''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Ifugao|Ifugao]], [[Filipinas]]. Sakey say kapital na Ifugao.  Onong ed [[2000]] census, walay population to ya 15,269 ya too diad 2,944 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Lagawe walay 20 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Abinuan
 * Banga
 * Boliwong
@@ -30,7 +16,6 @@ Say Lagawe walay 20 ya [[barangay]].
 * Dulao
 * Jucbong
 * Luta
-</td><td valign=top>
 * Montabiong
 * Olilicon
 * Poblacion South
@@ -41,14 +26,17 @@ Say Lagawe walay 20 ya [[barangay]].
 * Poblacion East
 * Poblacion North
 * Poblacion West
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ifugao}}
 

@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bayombong, Nueva Vizcaya
-| 1990 = 39886		
-| 1995 = 46315		
-| 2000 = 50563		
-| 2007 = 54417		
-| 2010 = 57416		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bayombong''' et unaan ya klase baley ed luyag na [[Nueva Vizcaya]], [[Filipinas]]. Sakey say kabesera o kapital na Nueva Vizcaya.  Unong ed 2010 Census, say papulasyon to et 57,416 totoo. Walay kabaleg tan sukat to ya 136 sq. km. Sikato et walad alenleneg ya distrito. Say zip code to et 3700.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Bayombong walay 25 ya barangay.
 
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Bonfal East
 * Bonfal Proper
 * Bonfal West
@@ -34,7 +19,6 @@ Say Bayombong walay 25 ya barangay.
 * Paitan
 * Don Domingo Maddela Pob.
 * Don Tomas Maddela Pob.
-| valign="top" |
 * District III Pob.
 * District IV (Pob.)
 * Bansing
@@ -47,15 +31,18 @@ Say Bayombong walay 25 ya barangay.
 * San Nicolas North (Luyang)
 * Santa Rosa
 * Vista Alegre (B. Baringin)
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
 ==Saray gawing ed labas==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/ Philippine Census Information]
-*[http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23&frmIdDcfCode=7&fLguType=CM&frmIdRegion=2&frmIdProvince=21&frmIdLgu=298 Local Governance Performance Management System]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 
 {{Nueva Vizcaya}}
  														

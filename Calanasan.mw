@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Calanasan, Apayao
-| 1990 = 10699		
-| 1995 = 11679		
-| 2000 = 12806		
-| 2007 = 9663		
-| 2010 = 11568		
-| 2015 = 12604		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-	
-Say '''Calanasan''' sakey 2nd class ya [[Saray baley na Filipinas|baley]] ed [[Saray luyag na Filipinas|luyag]] na [[Apayao]], [[Filipinas]]. Onong ed census [[2000]] walay populasyon to ya 12,806 ya too diad 2,034 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Calanasan walay 16 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Butao
 * Cadaclan
 * Langnao
@@ -29,7 +14,6 @@ Say Calanasan walay 16 ya [[barangay]].
 * Namaltugan
 * Poblacion
 * Sabangan
-</td><td valign=top>
 * Santa Filomena
 * Tubongan
 * Tanglagan
@@ -38,15 +22,17 @@ Say Calanasan walay 16 ya [[barangay]].
 * Eleazar
 * Eva Puzon
 * Kabugawan
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 {{Apayao}}
 
 [[Category:Saray baley na Apayao]]

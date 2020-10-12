@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Villaviciosa, Abra
-| 1990 = 4612		
-| 1995 = 4634		
-| 2000 = 4877		
-| 2007 = 5147		
-| 2010 = 5377		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Villaviciosa''' sakey 5th class ya [[Saray baley na Filipinas|baley]] ed [[Saray luyag na Filipinas|luyag]] na [[Abra (luyag)|Abra]], [[Filipinas]]. Onong ed census [[2000]] walay populasyon to ya  4,877 ya too diad 930 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Villaviciosa walay 8 ya [[barangay]].
 
+{{columns-list|colwidth=12em|
 * Ap-apaya
 * Bol-lilising
 * Cal-lao
@@ -26,13 +14,17 @@ Say Villaviciosa walay 8 ya [[barangay]].
 * Poblacion
 * Tamac
 * Tuquib
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Abra}}
 

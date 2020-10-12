@@ -1,23 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Natonin, Mountain Province
-| 1990 = 9813		
-| 1995 = 8997		
-| 2000 = 9065		
-| 2007 = 9431		
-| 2010 = 10048		
-| 2015 = 10272		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Natonin''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Luyag na Palandey|Mountain Province]] ([[Luyag na Palandey]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 9,065 ya too diad 1,768 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Natonin walay 11 ya [[barangay]]. 
 
+{{columns-list|colwidth=12em|
 * Alunogan
 * Balangao
 * Banao
@@ -29,13 +17,18 @@ Say Natonin walay 11 ya [[barangay]].
 * Santa Isabel
 * Tonglayan
 * Pudo
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 
 {{Luyag na Palandey}}
 

@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bauko, Mountain Province
-| 1990 = 21126		
-| 1995 = 24242		
-| 2000 = 27729		
-| 2007 = 29382		
-| 2010 = 30172		
-| 2015 = 31065		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bauko''' sakey 5th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Luyag na Palandey|Mountain Province]] ([[Luyag na Palandey]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 27,729 ya too diad 5,266 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Bauko walay 22 ya [[barangay]].
 
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Abatan
 * Bagnen Oriente
 * Bagnen Proper
@@ -32,7 +17,6 @@ Say Bauko walay 22 ya [[barangay]].
 * Guinzadan Sur
 * Lagawa
 * Leseb
-| valign="top" |
 * Mabaay
 * Mayag
 * Monamon Norte
@@ -44,14 +28,18 @@ Say Bauko walay 22 ya [[barangay]].
 * Sadsadan
 * Sinto
 * Tapapan
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 
 {{Luyag na Palandey}}
 

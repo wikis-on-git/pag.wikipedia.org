@@ -1,25 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Tanudan, Kalinga
-| 1990 = 9323		
-| 1995 = 11243		
-| 2000 = 10275		
-| 2007 = 8119		
-| 2010 = 8529		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Tanudan''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Kalinga]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 10,275 ya too diad 1,472 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Tanudan walay 16 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Anggacan
 * Babbanoy
 * Dacalan
@@ -28,7 +14,6 @@ Say Tanudan walay 16 ya [[barangay]].
 * Lower Taloctoc
 * Lower Lubo
 * Upper Lubo
-</td><td valign=top>
 * Mabaca
 * Pangol
 * Poblacion
@@ -37,14 +22,18 @@ Say Tanudan walay 16 ya [[barangay]].
 * Dupligan
 * Lay-asan
 * Mangali Centro
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 
 {{Kalinga}}
 

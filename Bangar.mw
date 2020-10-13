@@ -1,23 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bangar, La Union
-| 1990 = 25966		
-| 1995 = 28374		
-| 2000 = 31491		
-| 2007 = 33335		
-| 2010 = 34522		
-| 2015 = 35947		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bangar''' sakey 3rd class ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[La Union|La Union]], [[Filipinas]].  Onong ed [[2000]] census, walay population to ya 31,491 ya too diad 5,699 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Bangar walay 33 ya [[barangay]].
-
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Alzate
 * Barraca
 * Caggao
@@ -51,13 +37,17 @@ Say Bangar walay 33 ya [[barangay]].
 * Rissing
 * General Terrero
 * Consuegra
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/municipality.asp?muncode=013306000&regcode=01&provcode=33 Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{La Union}}
 

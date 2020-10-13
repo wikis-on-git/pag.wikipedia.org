@@ -1,12 +1,9 @@
 {{Infobox location}}
 
-An '''Pateros''' sakey [[baley]] so [[Metro Manila]], [[Filipinas]].
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Lagay so industriya ed taraknen na [[balot]] tan [[pato]], an napepesa so [[etlog]] na itik.
-
-==Listaan na barangay==
-Saray barangay so Pateros number ten:
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aguho
 * Magtanggol
 * Martires Del 96
@@ -17,24 +14,18 @@ Saray barangay so Pateros number ten:
 * Santo Rosario-Kanluran
 * Santo Rosario-Silangan
 * Tabacalera
-
-{{Philippine Census 
-| title = Sensus na populasyon ed <br> Pateros
-| 1990 = 51409
-| 1995 = 55286
-| 2000 = 57407
-| 2007 = 61940
-| 2010 = 64147
-| 2015 =
-| 2020 =
-| 2025 =
-| 2030 =
 }}
-
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-{{Metro Manila}}
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
+
 {{philippines-geo-stub}}
 
 [[Category:Baley na Metro Manila]]

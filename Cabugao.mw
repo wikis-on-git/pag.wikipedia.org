@@ -1,27 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Cabugao, Ilocos Sur
-| 1990 = 27997		
-| 1995 = 28567		
-| 2000 = 31459		
-| 2007 = 33847		
-| 2010 = 35706		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Cabugao''' sakey 3rd class ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[Ilocos ed Abalaten|Ilocos ed Abalaten]] ([[Ilocos ed Abalaten|Ilocos Sur]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 31,459 ya too diad 6,268 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Cabugao walay 33 ya [[barangay]].
-
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=15em|
 * Alinaay
 * Aragan
 * Arnap
@@ -33,7 +15,6 @@ Say Cabugao walay 33 ya [[barangay]].
 * Caellayan
 * Carusipan
 * Catucdaan
-| valign="top" |
 * Cuancabal
 * Cuantacla
 * Daclapan
@@ -45,7 +26,6 @@ Say Cabugao walay 33 ya [[barangay]].
 * Nagsincaoan
 * Namruangan
 * Pila
-| valign="top" |
 * Pug-os
 * Quezon (Pob.)
 * Reppaac
@@ -57,14 +37,17 @@ Say Cabugao walay 33 ya [[barangay]].
 * Sisim
 * Turod
 * Turod-Patac
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
-==Saray Gawing ed Labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ilocos Sur}}
 

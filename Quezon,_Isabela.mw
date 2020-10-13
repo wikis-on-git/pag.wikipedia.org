@@ -1,26 +1,13 @@
 {{Translation}}
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Quezon, Isabela
-| 1990 = 16280		
-| 1995 = 17617		
-| 2000 = 20090		
-| 2007 = 22050		
-| 2010 = 24522		
-| 2015 = 25860		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''Quezon''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Isabela|Isabela]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 20,090 ya too diad 3,887 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+[[image:Santiago–Tuguegarao Road circa 2006.jpg|right|thumb|288px|Santiago-Tuguegarao Road]]
 
 ==Saray barangay==
-[[image:Santiago–Tuguegarao Road circa 2006.jpg|right|thumb|250px|The Cagayan Valley National Highway.
-22 km. of which is straight, with no left or right turns.]]
 Say Quezon walay 15 ya [[barangay]].
 
+{{columns-list|colwidth=18em|
 * Abut
 * Alunan (Poblacion)
 * Arellano (Poblacion)
@@ -36,12 +23,17 @@ Say Quezon walay 15 ya [[barangay]].
 * Dummon
 * Calangigan (Calamagui)
 * San Juan
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Isabela}}
 

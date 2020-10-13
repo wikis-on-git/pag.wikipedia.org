@@ -1,27 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Quirino, Isabela
-| 1990 = 17070		
-| 1995 = 18320		
-| 2000 = 19986		
-| 2007 = 21192		
-| 2010 = 22285		
-| 2015 = 24501		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''Quirino''' sakey 5th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Isabela|Isabela]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 19,986 ya too diad 4,178 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Quirino walay 21 ya [[barangay]].
 
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=15em|
 * Binarzang
 * Cabaruan
 * Camaal
@@ -33,7 +17,6 @@ Say Quirino walay 21 ya [[barangay]].
 * San Jose
 * San Juan
 * San Mateo
-| valign="top" |
 * San Vicente
 * Santa Catalina
 * Santa Lucia (Pob.)
@@ -44,14 +27,17 @@ Say Quirino walay 21 ya [[barangay]].
 * Villa Bulusan
 * Villa Miguel (Ugak)
 * Vintar
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Isabela}}
 

@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Pinili, Ilocos Norte
-| 1990 = 14950		
-| 1995 = 14817		
-| 2000 = 15903		
-| 2007 = 16185		
-| 2010 = 16732		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Pinili''' sakey 5th class ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[Ilocos ed Baybay|Ilocos ed Baybay]] ([[Ilocos ed Baybay|Ilocos Norte]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 15,903 ya too diad 3,172 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Pinili walay 25 ya  [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Aglipay
 * Apatut-Lubong
 * Badio
@@ -33,7 +17,6 @@ Say Pinili walay 25 ya  [[barangay]].
 * Darat
 * Gulpeng
 * Liliputen
-</td><td valign=top>
 * Lumbaan-Bicbica
 * Nagtrigoan
 * Pagdilao (Pob.)
@@ -46,14 +29,17 @@ Say Pinili walay 25 ya  [[barangay]].
 * Puzol
 * Upon
 * Valbuena (Pob.)
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ilocos Norte}}
 

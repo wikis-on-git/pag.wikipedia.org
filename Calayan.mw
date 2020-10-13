@@ -1,42 +1,32 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Calayan, Cagayan
-| 1990 = 17276		
-| 1995 = 12243		
-| 2000 = 14309		
-| 2007 = 16233		
-| 2010 = 16200		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Calayan''' sakey isla san kumapat ya klase ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Cagayan |Cagayan]], [[Filipinas]].  Onong ed [[2000]] sensus, walay papulasyon to ya 27,534 ya too diad 2,270 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Calayan walay 12 ya [[barangay]].
-
-* [[Cabudadan]]
-* [[Balatubat]]
-* [[Dadao]]
-* [[Dibay]]
-* [[Dilam]]
-* [[Magsidel]]
-* [[Naguilian]]
+{{columns-list|colwidth=12em|
+* Cabudadan
+* Balatubat
+* Dadao
+* Dibay
+* Dilam
+* Magsidel
+* Naguilian
 * Poblacion/Centro I
-* [[Babuyan Claro]]
+* Babuyan Claro
 * Centro II
-* [[Dalupiri]]
-* [[Minabel]]
-
+* Dalupiri
+* Minabel
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cagayan}}
 

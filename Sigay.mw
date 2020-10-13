@@ -1,23 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Sigay, Ilocos Sur
-| 1990 = 28764		
-| 1995 = 2235		
-| 2000 = 2375		
-| 2007 = 2453		
-| 2010 = 2419		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Sigay''' sakey [[baley]] ed [[luyag na Filipinas|luyag]] na [[Ilocos ed Abalaten|Ilocos ed Abalaten]] ([[Ilocos ed Abalaten|Ilocos Sur]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 2,375 ya too diad 408 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Sigay walay 7 ya barangay.
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Abaccan
 * Mabileg
 * Matallucod
@@ -25,13 +11,17 @@ Say Sigay walay 7 ya barangay.
 * San Elias
 * San Ramon
 * Santo Rosario
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ilocos Sur}}
 

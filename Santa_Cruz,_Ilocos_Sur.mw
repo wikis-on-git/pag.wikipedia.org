@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Santa Cruz, Ilocos Sur
-| 1990 = 23821		
-| 1995 = 30145		
-| 2000 = 34433		
-| 2007 = 35906		
-| 2010 = 37911		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Santa Cruz''' sakey [[baley]] ed [[luyag na Filipinas|luyag]] na [[Ilocos ed Abalaten|Ilocos ed Abalaten]] ([[Ilocos ed Abalaten|Ilocos Sur]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 34,433 ya too diad 6,727 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Santa Cruz walay 49 ya barangay.
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Amarao
 * Babayoan
 * Bacsayan
@@ -36,7 +20,6 @@ Say Santa Cruz walay 49 ya barangay.
 * Coscosnong
 * Daligan
 * Gabor Norte
-</td><td valign=top>
 * Gabor Sur
 * Lalong
 * Lantag
@@ -53,7 +36,6 @@ Say Santa Cruz walay 49 ya barangay.
 * Poblacion Este
 * Poblacion Norte
 * Poblacion Weste
-</td><td valign=top>
 * Poblacion Sur
 * Quinfermin
 * Quinsoriano
@@ -70,15 +52,17 @@ Say Santa Cruz walay 49 ya barangay.
 * Villa Garcia
 * Villa Hermosa
 * Villa Laurencia
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 {{Ilocos Sur}}
 
 [[Category:Saray baley na Ilocos Sur]]

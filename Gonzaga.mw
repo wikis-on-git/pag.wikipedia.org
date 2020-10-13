@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Gonzaga, Cagayan
-| 1990 = 26536		
-| 1995 = 27997		
-| 2000 = 32079		
-| 2007 = 35424		
-| 2010 = 36303		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Gonzaga''' sakey kumatlo ya klase ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Cagayan |Cagayan]], [[Filipinas]].  Onong ed [[2000]] sensus, walay papulasyon to ya 32,079 ya too diad 6,039 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Gonzaga walay 25 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=18em|
 * Amunitan
 * Batangan
 * Baua
@@ -33,7 +17,6 @@ Say Gonzaga walay 25 ya [[barangay]].
 * Flourishing (Pob.)
 * Ipil
 * Isca
-</td><td valign=top>
 * Magrafil
 * Minanga
 * Rebecca (Nagbabalacan)
@@ -46,14 +29,17 @@ Say Gonzaga walay 25 ya [[barangay]].
 * Santa Maria
 * Smart (Pob.)
 * Tapel
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cagayan}}
 

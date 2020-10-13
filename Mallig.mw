@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mallig, Isabela
-| 1990 = 22060		
-| 1995 = 23344		
-| 2000 = 25918		
-| 2007 = 27245		
-| 2010 = 28345		
-| 2015 = 30459		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''Mallig''' sakey 4th class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Isabela|Isabela]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 25,918 ya too diad 5,064 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Mallig walay  18 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=15em|
 * San Pedro (Barucbuc Sur)
 * Binmonton
 * Casili
@@ -30,7 +15,6 @@ Say Mallig walay  18 ya [[barangay]].
 * Manano
 * Olango
 * Centro II (Pob.)
-</td><td valign=top>
 * Rang-ayan
 * San Jose Norte I
 * San Jose Sur
@@ -40,14 +24,17 @@ Say Mallig walay  18 ya [[barangay]].
 * San Jose Norte II
 * San Ramon
 * Siempre Viva Sur
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Isabela}}
 

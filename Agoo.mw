@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Agoo, La Union
-| 1990 = 42698		
-| 1995 = 47721		
-| 2000 = 51923		
-| 2007 = 57952		
-| 2010 = 60596		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Agoo''' sakey 2nd class ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[La Union|La Union]], [[Filipinas]].  Onong ed [[2000]] census, walay population to ya 51,923 ya too diad 9,945 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-Say Agoo walay 49 ya [[barangay]].
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Ambitacay
 * Balawarte
 * Capas
@@ -37,7 +21,6 @@ Say Agoo walay 49 ya [[barangay]].
 * San Francisco
 * San Isidro
 * San Joaquin Norte
-| valign="top" |
 * San Joaquin Sur
 * San Jose Norte
 * San Jose Sur
@@ -54,7 +37,6 @@ Say Agoo walay 49 ya [[barangay]].
 * San Nicolas East
 * San Nicolas Norte (Pob.)
 * San Nicolas West
-| valign="top" |
 * San Nicolas Sur (Pob.)
 * San Pedro
 * San Roque West
@@ -71,14 +53,17 @@ Say Agoo walay 49 ya [[barangay]].
 * Santa Rita Norte
 * Santa Rita Sur
 * Santa Rita West
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{La Union}}
 

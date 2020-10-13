@@ -1,25 +1,9 @@
 {{Infobox location}}
 		
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Santa Lucia, Ilocos Sur
-| 1990 = 14427		
-| 1995 = 20341		
-| 2000 = 22363		
-| 2007 = 23872		
-| 2010 = 24981		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Santa Lucia''' sakey [[baley]] ed [[luyag na Filipinas|luyag]] na [[Ilocos ed Abalaten|Ilocos ed Abalaten]] ([[Ilocos ed Abalaten|Ilocos Sur]]), [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 22,363 ya too diad 4,512 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Santa Lucia walay 36 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Alincaoeg
 * Angkileng
 * Arangin
@@ -32,7 +16,6 @@ Say Santa Lucia walay 36 ya [[barangay]].
 * Cabaritan
 * Catayagan
 * Conconig East
-</td><td valign=top>
 * Conconig West
 * Damacuag
 * Lubong
@@ -45,7 +28,6 @@ Say Santa Lucia walay 36 ya [[barangay]].
 * Palali Sur
 * Paoc Norte
 * Paoc Sur
-</td><td valign=top>
 * Paratong
 * Pila East
 * Pila West
@@ -58,15 +40,17 @@ Say Santa Lucia walay 36 ya [[barangay]].
 * Suagayan
 * Vical
 * Bani
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://clarafaie.net The Santa Lucia, Ilocos Sur Official Website Project]
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Ilocos Sur}}
 

@@ -1,25 +1,9 @@
 {{Infobox location}}
 			
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Solana, Cagayan
-| 1990 = 56366		
-| 1995 = 60346		
-| 2000 = 67512		
-| 2007 = 71475		
-| 2010 = 76596		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Solana''' sakey kumadwa ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Cagayan |Cagayan]], [[Filipinas]].  Onong ed [[2000]] sensus, walay papulasyon to ya 67,512 ya too diad 12,945 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Solana walay 38 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=18em|
 * Andarayan North
 * Lannig
 * Bangag
@@ -33,7 +17,6 @@ Say Solana walay 38 ya [[barangay]].
 * Centro Northeast (Pob.)
 * Centro Northwest (Pob.)
 * Centro Southeast (Pob.)
-</td><td valign=top>
 * Centro Southwest (Pob.)
 * Lanna
 * Lingu
@@ -47,7 +30,6 @@ Say Solana walay 38 ya [[barangay]].
 * Pataya
 * Sampaguita
 * Maddarulug (Santo Domingo)
-</td><td valign=top>
 * Ubong
 * Dassun
 * Furagui
@@ -60,14 +42,17 @@ Say Solana walay 38 ya [[barangay]].
 * Gen. Eulogio Balao
 * Natappian West
 * Malalam-Malacabibi
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cagayan}}
 

@@ -1,25 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Santo Niño, Cagayan
-| 1990 = 18608		
-| 1995 = 21151		
-| 2000 = 22752		
-| 2007 = 25688		
-| 2010 = 26126		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Santo Niño''' sakey kumapat ya klase ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Cagayan |Cagayan]], [[Filipinas]].  Onong ed [[2000]] sensus, walay papulasyon to ya 22,752 ya too diad 4,387 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Santo Niño walay 31 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=15em|
 * Abariongan Ruar
 * Abariongan Uneg
 * Balagan
@@ -31,7 +15,6 @@ Say Santo Niño walay 31 ya [[barangay]].
 * Centro Norte (Pob.)
 * Centro Sur (Pob.)
 * Dungao
-</td><td valign=top>
 * Lattac
 * Lipatan
 * Lubo
@@ -42,7 +25,6 @@ Say Santo Niño walay 31 ya [[barangay]].
 * Nag-uma(Nagbayugan)
 * Namuccayan
 * Niug Norte
-</td><td valign=top>
 * Niug Sur
 * Palusao
 * San Manuel
@@ -53,14 +35,17 @@ Say Santo Niño walay 31 ya [[barangay]].
 * Tabang
 * Tamucco
 * Virginia
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Cagayan}}
 

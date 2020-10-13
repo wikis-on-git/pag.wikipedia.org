@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Mariano, Isabela
-| 1990 = 36295		
-| 1995 = 37861		
-| 2000 = 41309		
-| 2007 = 44718		
-| 2010 = 51438		
-| 2015 = 55370		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''San Mariano''' sakey 1st class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Isabela|Isabela]], [[Filipinas]]. Onong ed [[2007]] census, walay population to ya 44,718 ya too diad 7,796 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say San Mariano walay 36 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=15em|
 * Alibadabad
 * Balagan
 * Binatug
@@ -33,7 +18,6 @@ Say San Mariano walay 36 ya [[barangay]].
 * Daragutan West
 * Del Pilar
 * Dibuluan
-</td><td valign=top>
 * Dicamay
 * Dipusu
 * Disulap
@@ -46,7 +30,6 @@ Say San Mariano walay 36 ya [[barangay]].
 * Marannao
 * Minanga
 * Old San Mariano
-</td><td valign=top>
 * Palutan
 * Panninan
 * Zone I (Pob.)
@@ -59,15 +42,17 @@ Say San Mariano walay 36 ya [[barangay]].
 * Tappa
 * Ueg
 * Zamora
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.census.gov.ph/data/census2007/index.html Philippine Census Information 2007]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Isabela}}
 

@@ -1,26 +1,11 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Roxas, Isabela
-| 1990 = 40230		
-| 1995 = 45187		
-| 2000 = 48929		
-| 2007 = 53461		
-| 2010 = 57699		
-| 2015 = 61773		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''Roxas''' sakey 2nd class ya [[baley na Filipinas|baley]] ed [[luyag na Filipinas|luyag]] na [[Isabela|Isabela]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 48,929 ya too diad 9,896 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
 Say Roxas walay 26 ya [[barangay]].
 
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Anao
 * Imbiao
 * Lanting
@@ -34,7 +19,6 @@ Say Roxas walay 26 ya [[barangay]].
 * Quiling
 * Rang-ayan
 * San Antonio
-</td><td valign=top>
 * San Jose
 * San Pedro
 * San Placido
@@ -48,14 +32,17 @@ Say Roxas walay 26 ya [[barangay]].
 * Muñoz West
 * Doña Concha
 * San Luis
-</td></tr></table>
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
 {{Reflist}}
 
-==Saray nipaway ya kawing==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Isabela}}
 

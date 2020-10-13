@@ -1,27 +1,9 @@
 {{Infobox location}}
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bacnotan, La Union
-| 1990 = 29568		
-| 1995 = 32634		
-| 2000 = 35419		
-| 2007 = 38743		
-| 2010 = 40307		
-| 2015 = 42078		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bacnotan''' sakey 1st class ya ya [[baley]] ed [[luyag na Filipinas|luyag]] na [[La Union|La Union]], [[Filipinas]].  Onong ed [[2000]] census, walay population to ya 35,419 ya too diad 7,183 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Bacnotan walay 47 ya [[barangay]].
-
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Agtipal
 * Arosip
 * Bacqui
@@ -38,7 +20,6 @@ Say Bacnotan walay 47 ya [[barangay]].
 * Cabugao
 * Calautit
 * Carcarmay
-| valign="top" |
 * Casiaman
 * Galongen
 * Guinabang
@@ -55,7 +36,6 @@ Say Bacnotan walay 47 ya [[barangay]].
 * Ortega
 * Paagan
 * Pandan
-| valign="top" |
 * Pang-pang
 * Poblacion
 * Quirino
@@ -71,14 +51,17 @@ Say Bacnotan walay 47 ya [[barangay]].
 * Ubbog
 * Oya-oy
 * Zaragosa
-|}
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{La Union}}
 

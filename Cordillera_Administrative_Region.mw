@@ -1,7 +1,8 @@
-[[File:Ph_locator_car.png|270px|right]]		
+{{Infobox location
+|zoom = 6
+}}	
 				
-Say '''Cordillera Administrative Region''' et rehiyon na [[Luzon]], [[Filipinas]]. <br>
-Unong ed 2010 Census, say papulasyon to et 1,616,867 totoo. Walay kabaleg tan sukat to ya 19,294.00 kilometro kuwadrado. 
+Say '''{{PH wikidata|name}}''' et rehiyon na [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. 
 
 ==Saray luyag, siyudad==
 <ul>{{wikidata|properties|qualifier|references|normal+|P150|format=<li>%p[%r][<ul><li>%q</li></ul>]</li>}}</ul>

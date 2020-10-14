@@ -1,9 +1,8 @@
 {{Infobox location
 |zoom = 6
-}}
+}}	
 				
-Say '''Western Visayas''' (salitan Pangasinan: '''Sagor na Visayas''') et rehiyon na [[Visayas]], [[Filipinas]]. <br>
-Unong ed 2010 sensus, say papulasyon to et 7,102,438 totoo. Walay kabaleg tan sukat to ya 20,614.00 kilometro kuwadrado. 
+Say '''{{PH wikidata|name}}''' et rehiyon na [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. 
 
 ==Saray luyag, siyudad==
 <ul>{{wikidata|properties|qualifier|references|normal+|P150|format=<li>%p[%r][<ul><li>%q</li></ul>]</li>}}</ul>

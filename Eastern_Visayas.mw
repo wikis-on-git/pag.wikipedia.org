@@ -1,9 +1,8 @@
 {{Infobox location
 |zoom = 6
-}}
+}}	
 				
-Say '''Eastern Visayas''' ([[salitan Pangasinan]]: '''Bokig na Visayas''', [[salitan Waraynon]]: ''Sinirangan nga Kabisay-an'', ''Sidlangan nga Kabisay-an'', ''Sirangan nga Kabisay-an'', ''Sinirangan Bisayas'', [[salitan Cebuano]]: ''Sidlakang Kabisay-an'') et rehiyon na [[Visayas]], [[Filipinas]]. <br>
-Unong ed 2010 sensus, say papulasyon to et 4,101,322 totoo. Walay kabaleg tan sukat to ya 21,562.90 kilometro kuwadrado. 
+Say '''{{PH wikidata|name}}''' et rehiyon na [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. 
 
 ==Saray luyag, siyudad==
 <ul>{{wikidata|properties|qualifier|references|normal+|P150|format=<li>%p[%r][<ul><li>%q</li></ul>]</li>}}</ul>

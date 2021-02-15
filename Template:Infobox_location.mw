@@ -105,7 +105,7 @@
 |website = {{{website|{{#if:{{main other|{{#property:P856}}|{{#property:P856|from={{{qid|}}}}}}}|{{URL|{{#invoke:wd|property|raw|best|{{{qid|}}}|P856}}}}|}}}}}
 | demographics_type1     = {{#if:{{#property:P3087}}| Economia}}
 | demographics1_title1   = Clase
-| demographics1_info1    = {{PH wikidata|income_class}}
+| demographics1_info1    = {{#ifeq:{{#property:P1879}}|no value|{{void}}|{{PH wikidata|income_class}}}}
 | demographics1_title2   = 
 | demographics1_info2    = 
 | demographics1_title3   = Ingresos

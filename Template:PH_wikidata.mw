@@ -16,6 +16,53 @@
    }}
   }}
  }}
+
+| settlement_type = {{safesubst:#switch:{{safesubst:Wikidata|property|raw|P31}}
+  | Q24746 = [[Saray luyag na Filipinas | Luyag]]
+  | Q104157 = [[Saray siyudad na Filipinas | Siyudad]]
+  | Q29946056 = [[Saray siyudad na Filipinas | Marakel ya siyudad]]
+  | Q106079704 = [[Saray siyudad na Filipinas | Independente komponente ya siyudad]]
+  | Q106078286 = [[Saray siyudad na Filipinas | Siyudad]]
+  | Q24764 = [[Saray baley ba Filipinas | Baley]]
+  | Q61878 = [[Barangay]]
+  | Q7261368 = [[Purok]]
+  | Q572784 = [[Sitio]]
+  }}
+
+| settlement_text = {{safesubst:#switch:{{safesubst:Wikidata|property|raw|P31}}
+  | Q24746 = luyag
+  | Q104157 = siyudad
+  | Q29946056 = marakel ya siyudad
+  | Q106079704 = independente komponente ya siyudad
+  | Q106078286 = siyudad
+  | Q24764 = baley
+  | Q61878 = barangay
+  | Q7261368 = purok
+  | Q572784 = sitio
+  }}
+
+| government_type = {{safesubst:#switch:{{safesubst:Wikidata|property|raw|P31}}
+  | Q24746 = [[Sangguniang Panlalawigan]]
+  | Q104157 = [[Sangguniang Panlungsod]]
+  | Q29946056 = [[Sangguniang Panlungsod]]
+  | Q106079704 = [[Sangguniang Panlungsod]]
+  | Q106078286 = [[Sangguniang Panlungsod]]
+  | Q24764 = [[Sangguniang Bayan]]
+  | Q61878 = [[Sangguniang Barangay]]
+  }}
+
+| council_title = {{safesubst:#switch:{{safesubst:Wikidata|property|raw|P31}}
+  | Q24746 = [[Sangguniang Panlalawigan]]
+  | Q104157 = [[Sangguniang Panlungsod]]
+  | Q29946056 = [[Sangguniang Panlungsod]]
+  | Q106079704 = [[Sangguniang Panlungsod]]
+  | Q106078286 = [[Sangguniang Panlungsod]]
+  | Q24764 = [[Sangguniang Bayan]]
+  | Q61878 = [[Sangguniang Barangay]]
+  | Q7261368 = Council
+  | Q572784 = Council
+  }}
+
 | nickname1 = {{safesubst:#if:{{safesubst:#property:P1449}}|{{safesubst:replace|{{safesubst:#property:P1449}}|,|{{safesubst:#invoke:String|rep|<br />|{{safesubst:#if:{{{lflf|}}}|{{{lflf|}}}|1}}}}}}}}
 | motto = {{safesubst:#property:P1451}}
 | image_skyline = {{safesubst:#invoke:Wikidata|claim|P18}}
@@ -141,20 +188,6 @@
      {{safesubst:#ifexpr:{{safesubst:#invoke:String|find|{{safesubst:#property:P31}}|barangay}}| barangay |
       {{safesubst:#ifexpr:{{safesubst:#invoke:String|find|{{safesubst:#property:P31}}|province of the Philippines}}| {{safesubst:#switch:{{{prefix}}}| is = island}} province |
        {{safesubst:#ifexpr:{{safesubst:#invoke:String|find|{{safesubst:#property:P31}}|purok}}|purok|
-       }}
-      }}
-     }}
-    }}
-   }}
-  }}
- }}
-| government_type = {{safesubst:#if:{{safesubst:#property:P31}}|
-  {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|baley na Filipinas}}| {{safesubst:nowrap|[[Sangguniang Bayan]]}} |
-   {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|siyudad na Filipinas}}| {{safesubst:nowrap|[[Sangguniang Panlungsod]]}} |
-    {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|highly urbanized city}}| {{safesubst:nowrap|[[Sangguniang Panlungsod]]}} |
-     {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|barangay}}| {{safesubst:nowrap| [[Sangguniang Barangay]]}} |
-      {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|luyag na Filipinas}}| [[Sangguniang Panlalawigan]] |
-       {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|purok}}| |
        }}
       }}
      }}

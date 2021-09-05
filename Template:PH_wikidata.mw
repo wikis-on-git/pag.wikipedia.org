@@ -1,21 +1,4 @@
 <includeonly>{{safesubst:#switch:{{safesubst:lc:{{{1|}}}}}
-| settlement_type = 
- {{safesubst:#if:{{safesubst:#property:P31}}|
-  {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|baley na Filipinas}}| [[Saray baley na Filipinas{{!}}Baley]]| 
-   {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|siyudad na Filipinas}}| [[Saray siyudad na Filipinas{{!}} {{safesubst:#switch:{{{prefix}}}{{!}} cc = Komponente{{!}} icc = Independente Komponente}} Siyudad]]|
-    {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|highly urbanized city}}|[[Saray siyudad na Filipinas{{!}}Highly Urbanized City]]|
-     {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|barangay}}|[[Barangay]]|
-      {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|luyag na Filipinas}}|[[Saray luyag na Filipinas{{!}}Luyag]]|
-       {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|purok}}|[[Purok]]|
-        {{safesubst:#ifexpr:{{#invoke:String|find|{{safesubst:#property:P31}}|grupo na isla}}|Saray isla|
-        }}
-       }}
-      }}
-     }}
-    }}
-   }}
-  }}
- }}
 
 | settlement_type = {{safesubst:#switch:{{safesubst:Wikidata|property|raw|P31}}
   | Q24746 = [[Saray luyag na Filipinas | Luyag]]

@@ -1,20 +1,7 @@
-{{translation}}
 {{Infobox location}}
-
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bayambang, Pangasinan
-| 1990 = 79027		
-| 1995 = 82913		
-| 2000 = 96609		
-| 2007 = 103145		
-| 2010 = 111521		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bayambang''' et unaan ya klase baley ed luyag na [[Pangasinan]], [[Filipinas]]. <br>  
-Onong ed 2010 Census, say papulasyon to et 111,521 totoo. Say kabaleg ton sukat et 143.94 sq. km. Sikato et walad kumatlo  distrito. Say zip code to et 2423. Say munisipalidad ya Bautista, Alcala, Sto. Tomas tan Rosales ay parte ya datin Bayambang. Say Salitan Bayambang ay Enagaran da dyad tanaman ya "Balangbang". Gaganapin day pistay baley da manlapod Abril 5 ya anggad 10 wala met dyay gaganapen dan festival kada ununan simbay Abril ya tatawagin dan  "Malangsi Fishtival". Wala met so produkto dan yellow corn, onion, fish buro, rice crackers, marakep met ya bisitain so  St. Vincent Ferrer Parish (1614) tan Mangabul Lake dyad Bayambang.
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
+Say munisipalidad ya Bautista, Alcala, Sto. Tomas tan Rosales ay parte ya datin Bayambang. Say Salitan Bayambang ay Enagaran da dyad tanaman ya "Balangbang". Gaganapin day pistay baley da manlapod Abril 5 ya anggad 10 wala met dyay gaganapen dan festival kada ununan simbay Abril ya tatawagin dan  "Malangsi Fishtival". Wala met so produkto dan yellow corn, onion, fish buro, rice crackers, marakep met ya bisitain so  St. Vincent Ferrer Parish (1614) tan Mangabul Lake dyad Bayambang.
 
 Say baley na bayambang natan ya  2017 et eselebra so 403rd Pistay Baley ya pinunaan ya balon mayor ya si Dr. Caesar T. Quiambao.
 Man umpisa so pistay baley ya Balon Bayambang jad Abril uno anggad Abril otso.
@@ -25,10 +12,8 @@ Say Bayambang et nala tod Guinness World Record so '''Longest Barbecue Grill''' 
 Agawa so ununaang '''Christmas Animated Display''' ed intiron Pangasinan, ya ginawa ed Public Plaza ya Balon Bayambang jad inbeneg ya taon 2016.
 Say Bayambang et kabat jad  produkto dan '''Buro'''.
 
-==Listaan na barangay==
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Alinggan
 * Amamperez
 * Amancosiling Norte
@@ -56,7 +41,6 @@ Say Bayambang et kabat jad  produkto dan '''Buro'''.
 * Carungay
 * Caturay
 * Duera
-</td><td valign=top>
 * Dusoc
 * Hermoza
 * Idong
@@ -83,7 +67,6 @@ Say Bayambang et kabat jad  produkto dan '''Buro'''.
 * Paragos
 * Poblacion Sur
 * Pugo
-</td><td valign=top>
 * Reynado
 * San Gabriel 1st
 * San Gabriel 2nd
@@ -109,14 +92,18 @@ Say Bayambang et kabat jad  produkto dan '''Buro'''.
 * Zone V (Pob.)
 * Zone VI (Pob.)
 * Zone VII (Pob.)
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [https://web.archive.org/web/20061201224147/http://www.psu.edu.ph/Bayambang.htm]
 * [http://www.pangasinan.gov.ph Official Website of the Provincial Government of Pangasinan]
 

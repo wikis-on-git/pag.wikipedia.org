@@ -1,26 +1,9 @@
 {{Infobox location}}
-
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Labrador, Pangasinan
-| 1990 = 15229		
-| 1995 = 16706		
-| 2000 = 19115		
-| 2007 = 20508		
-| 2010 = 21149		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
 	
-[[File:Labrador Pangasinan.JPG|right|250px]]
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-Say '''Labrador''' sakey kumalina ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 19,115 ya too diad 3,830 ya pamilya.
-
-==Listaan na barangay==
-
-Say Labrador walay 10 ya [[barangay]].
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bolo
 * Bongalon
 * Dulig
@@ -31,13 +14,18 @@ Say Labrador walay 10 ya [[barangay]].
 * San Jose
 * Tobuan
 * Uyong
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

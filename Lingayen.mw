@@ -1,22 +1,10 @@
 {{Infobox location}}
-
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Lingayen, Pangasinan
-| 1990 = 77837		
-| 1995 = 80758		
-| 2000 = 88891		
-| 2007 = 95773		
-| 2010 = 98740		
-| 2015 = 103278		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Lingayen''' sakey ya unaan ya klase ya [[siyudad]] ed [[luyag na Pangasinan]], [[Filipinas]].  Sakey kapital ya siyudad na Pangasinan. Onong ed [[2015]] sensus, walay populasyon to ya 103,278  ya too diad 16,467 ya pamilya (2000) census.
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.  Sakey kapital ya siyudad na Pangasinan. 
 
 Asensado so siyudad na Lingayen. Dakel so bangko, eskwelaan san ospital. Saray ospital ya sankakabatan a ospital dia so [[Urduja General Hospital]],  tan wala met lang [[Community Hospital]] ed sayan baley
 
-Say siyudad na Lingayen et kabat ed agawan Word War II. Kabat met lapud diyad Lingayen inyanank si [[President Fidel V. Ramos]].
+Say siyudad na Lingayen et kabat ed agawan Word War II. Kabat met lapud diyad Lingayen inyanank si Presidente [[Fidel V. Ramos]].
 
 Kabat met so Lingayen ed "[[Pista'y Dayat]]" ed English word "Sea Festival".  Sayan pista et gagawaen da lapud pisasalamat da et dayat ed saray naiiter to ed totoo. Wala met so Bangka Parada ya nagagawa ikdan da ya mararakep ya dikorasyon so amayamay ya baloto. iraraman ya baloto et nanlapu ed amin ya baranggay na Lingayen.. lapud satan ya parada datdakel so totoo ya maliket lapud masanting ed kamataan da.
 
@@ -35,12 +23,9 @@ Kabat so Lingayen ed "[[Bagoong]]" diya da naalmo so pinakamasamit ya bagoong la
 [[File:View fromLingayen Capitol Rooftop.jpg|thumb|Balebale ed Pakanengneng manlapud tuktok ya Kapitolyo ya Pangasinan]]
 [[File:Pangasinan Provincial Capitol Building Front View.jpg|thumb|Arapan na Kapitolyo na Lingayen Pangasinan]]
 
-==Listaan na barangay==
 
-Say Siyudad na Lingayen et walay 32 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Aliwekwek
 * Baay
 * Balangobong
@@ -52,7 +37,6 @@ Say Siyudad na Lingayen et walay 32 ya [[barangay]].
 * Domalandan East
 * Domalandan West
 * Dorongan
-</td><td valign=top>
 * Dulag
 * Estanza
 * Lasip
@@ -64,7 +48,6 @@ Say Siyudad na Lingayen et walay 32 ya [[barangay]].
 * Matalava
 * Naguelguel
 * Namolan
-</td><td valign=top>
 * Pangapisan North
 * Pangapisan Sur
 * Poblacion
@@ -75,14 +58,18 @@ Say Siyudad na Lingayen et walay 32 ya [[barangay]].
 * Tonton
 * Tumbar
 * Wawa
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.pangasinan.gov.ph Official Website of the Provincial Government of Pangasinan]
 * [http://www.kingfisher.edu.ph/ Kingfisher School of Business and Finance]
 

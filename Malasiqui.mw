@@ -1,27 +1,9 @@
-{{translation}}
 {{Infobox location}}
 	
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Malasiqui, Pangasinan
-| 1990 = 92053		
-| 1995 = 101056		
-| 2000 = 113190		
-| 2007 = 122820		
-| 2010 = 123566		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Malasiqui''' et unaan ya klase baley ed luyag na [[Pangasinan]], [[Filipinas]]. <br>  
-Unong ed 2010 sensus, say papulasyon to et 123,566 totoo. Walay kabaleg tan sukat to ya 131.37 sq. km. Sikato et walad kumatlon  distrito. Say zip code to et 2421.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 ==Saray barangay==
-
-Say Malasiqui et bubuuen a 73 [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Abonagan
 * Agdao
 * Alacan
@@ -47,7 +29,6 @@ Say Malasiqui et bubuuen a 73 [[barangay]].
 * Cabueldatan
 * Calbueg
 * Canan Norte
-</td><td valign=top>
 * Canan Sur
 * Cawayan Bogtong
 * Don Pedro
@@ -72,7 +53,6 @@ Say Malasiqui et bubuuen a 73 [[barangay]].
 * Nalsian Sur
 * Nansangaan
 * Olea
-</td><td valign=top>
 * Pacuan
 * Palapar Norte
 * Palapar Sur
@@ -97,14 +77,18 @@ Say Malasiqui et bubuuen a 73 [[barangay]].
 * Viado
 * Waig
 * Warey
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-* [http://www.pangasinan.gov.ph Official Website of the Provincial Government of Pangasinan]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

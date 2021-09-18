@@ -1,25 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Agno, Pangasinan
-| 1990 = 21197		
-| 1995 = 23326		
-| 2000 = 25077		
-| 2007 = 26023		
-| 2010 = 27508		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Agno''': sakey ya [[Saray baley na Filipinas|baley]] ed [[luyag na Pangasinan]]. Onong ed [[2000]] census, walay papulasyon to ya 25,077 ya too diad 5,493 ya pamilya. 
-
-==Listaan na barangay==
-
-Walay 17 ya [[barangay]] ed baley na Agno.
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Allabon
 * Aloleng
 * Bangan-Oda
@@ -29,7 +13,6 @@ Walay 17 ya [[barangay]] ed baley na Agno.
 * Dangley
 * Gayusan
 * Macaboboni
-</td><td valign=top>
 * Magsaysay
 * Namatucan
 * Patar
@@ -38,12 +21,18 @@ Walay 17 ya [[barangay]] ed baley na Agno.
 * San Juan
 * Tupa
 * Viga
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 * [https://web.archive.org/web/20181121203730/http://www.agno.pangasinan.info/  Agno, Pangasinan website]
 * [http://www.pangasinan.gov.ph Official Website of the Provincial Government of Pangasinan]

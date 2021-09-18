@@ -1,25 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mangatarem, Pangasinan
-| 1990 = 47714		
-| 1995 = 53603		
-| 2000 = 60943		
-| 2007 = 65366		
-| 2010 = 69969		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Mangatarem''' sakey kumadua ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 60,943 ya too diad 11,704 ya pamilya.
-
-==Listaan na barangay==
-
-Say Mangatarem walay 82 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Andangin
 * Arellano Street (Pob.)
 * Bantay
@@ -48,7 +32,6 @@ Say Mangatarem walay 82 ya [[barangay]].
 * Calumboyan Sur
 * Calvo (Pob.)
 * Casilagan
-</td><td valign=top>
 * Catarataraan
 * Caturay Norte
 * Caturay Sur
@@ -69,14 +52,13 @@ Say Mangatarem walay 82 ya [[barangay]].
 * Malibong
 * Malunec
 * Maravilla (Pob.)
-* Maravilla-Arellano Ext. (Pob
+* Maravilla-Arellano Ext. (Pob.)
 * Muelang
 * Naguilayan East
 * Naguilayan West
 * Nancasalan
 * Niog-Cabison-Bulaney
 * Olegario-Caoile (Pob.)
-</td><td valign=top>
 * Olo Cacamposan
 * Olo Cafabrosan
 * Olo Cagarlitan
@@ -104,14 +86,19 @@ Say Mangatarem walay 82 ya [[barangay]].
 * Torres Bugallon (Pob.)
 * Umangan
 * Zamora (Pob.)
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 {{Pangasinan}}
 
 [[Category:Saray baley na Pangasinan]]

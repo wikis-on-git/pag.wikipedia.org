@@ -1,25 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Nicolas, Pangasinan
-| 1990 = 27415		
-| 1995 = 29058		
-| 2000 = 31418		
-| 2007 = 33419		
-| 2010 = 34108		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Nicolas''' sakey kumapat ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 31,418 ya too diad 6,533 ya pamilya.
-
-==Listaan na barangay==
-
-Say San Nicolas walay 33 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Bensican
 * Cabitnongan
 * Caboloan
@@ -31,7 +15,6 @@ Say San Nicolas walay 33 ya [[barangay]].
 * Casaratan
 * Dalumpinas
 * Fianza
-</td><td valign=top>
 * Lungao
 * Malico
 * Malilion
@@ -43,7 +26,6 @@ Say San Nicolas walay 33 ya [[barangay]].
 * Salpad
 * San Felipe East
 * San Felipe West
-</td><td valign=top>
 * San Isidro (Sta. Cruzan)
 * San Jose
 * San Rafael Centro
@@ -55,16 +37,19 @@ Say San Nicolas walay 33 ya [[barangay]].
 * Santo Tomas
 * Siblot
 * Sobol
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.pasyalan.net/pangasinan/ Pasyalan Pangasinan]
-
 
 {{Pangasinan}}
 

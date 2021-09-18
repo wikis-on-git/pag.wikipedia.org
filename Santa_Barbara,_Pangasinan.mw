@@ -1,26 +1,9 @@
 {{Infobox location}}
-			
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Santa Barbara, Pangasinan
-| 1990 = 47746		
-| 1995 = 54116		
-| 2000 = 64261		
-| 2007 = 73025		
-| 2010 = 76637		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-}}
 	
-Say '''Santa Barbara''' sakey kumadua ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay bilang na totoo to ya 64,261 ya too diad 12,111 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say Santa Barbara walay 29 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=15em|
 * Alibago
 * Balingueo
 * Banaoang
@@ -36,7 +19,6 @@ Say Santa Barbara walay 29 ya [[barangay]].
 * Maningding
 * Maronong
 * Maticmatic
-</td><td valign=top>
 * Minien East
 * Minien West
 * Nilombot
@@ -51,14 +33,15 @@ Say Santa Barbara walay 29 ya [[barangay]].
 * Tuliao
 * Ventinilla (Ventinilla East)
 * Primicias (Ventinilla West)
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-
-{{Pangasinan}}
-
-[[Category:Saray baley na Pangasinan]]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}

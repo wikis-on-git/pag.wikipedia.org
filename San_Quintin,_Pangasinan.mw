@@ -1,25 +1,9 @@
-{{Infobox location}}	
-			
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Quintin, Pangasinan
-| 1990 = 24293		
-| 1995 = 26257		
-| 2000 = 28258		
-| 2007 = 30556		
-| 2010 = 32626		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Quintin''' sakey kumapat ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 28,258 ya too diad 5,667 ya pamilya.
+{{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
-
-Say San Quintin walay 21 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Alac
 * Baligayan
 * Bantog
@@ -31,7 +15,6 @@ Say San Quintin walay 21 ya [[barangay]].
 * Casantamarian
 * Gonzalo
 * Labuan
-</td><td valign=top>
 * Lagasit
 * Lumayao
 * Mabini
@@ -42,18 +25,20 @@ Say San Quintin walay 21 ya [[barangay]].
 * Poblacion Zone I
 * Poblacion Zone II
 * Poblacion Zone III
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.pasyalan.net/pangasinan/ Pasyalan Pangasinan]
 
-
 {{Pangasinan}}
-
 
 [[Category:Saray baley na Pangasinan]]

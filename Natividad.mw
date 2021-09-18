@@ -1,52 +1,55 @@
 {{Infobox location}}
 	
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Natividad, Pangasinan
-| 1990 = 17010		
-| 1995 = 18070		
-| 2000 = 19870		
-| 2007 = 21560		
-| 2010 = 22713		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Natividad''' sakey kumalima ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 19,870 ya too diad 4,153 ya pamilya.
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-==Listaan na barangay==
+==Saray barangay==
+{{columns-list|colwidth=12em|
+* Alipangpang
+* Amagbagan
+* Balacag
+* Banding
+* Bantugan
+* Batakil
+* Bobonan
+* Buneg
+* Cablong
+* Castaño
+* Dilan
+* Don Benito
+* Haway
+* Imbalbalatong
+* Inoman
+* Laoac
+* Maambal
+* Malasin
+* Malokiat
+* Manaol
+* Nama
+* Nantangalan
+* Palacpalac
+* Palguyod
+* Poblacion I
+* Poblacion II
+* Poblacion III
+* Poblacion IV
+* Rosario
+* Sugcong
+* Talogtog
+* Tulnac
+* Villegas
+* Casanfernandoan
+}}
 
-Say Natividad walay 18 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
-* Barangobong
-* Batchelor East
-* Batchelor West
-* Burgos (San Narciso)
-* Cacandungan
-* Calapugan
-* Canarem
-* Luna
-* Poblacion East
-</td><td valign=top>
-* Poblacion West
-* Rizal
-* Salud
-* San Eugenio
-* San Macario Norte
-* San Macario Sur
-* San Maximo
-* San Miguel
-* Silag
-</td></tr></table>
-
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

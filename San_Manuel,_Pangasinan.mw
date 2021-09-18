@@ -1,23 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> San Manuel, Pangasinan
-| 1990 = 34017		
-| 1995 = 36392		
-| 2000 = 41206		
-| 2007 = 46769		
-| 2010 = 46875		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''San Manuel''' sakey kumapat ya klase [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 41,206 ya too diad 8,644 ya pamilya.
-
-==Listaan na barangay==
-
-Say San Manuel walay 14 ya [[barangay]].
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * San Antonio-Arzadon
 * Cabacaraan
 * Cabaritan
@@ -32,13 +18,18 @@ Say San Manuel walay 14 ya [[barangay]].
 * San Roque
 * San Vicente
 * Santo Domingo
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

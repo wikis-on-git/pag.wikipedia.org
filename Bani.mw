@@ -1,26 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bani, Pangasinan
-| 1990 = 37180		
-| 1995 = 37463		
-| 2000 = 42824		
-| 2007 = 45652		
-| 2010 = 45758		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bani''' sakey kumatlo ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 42,824 ya too diad 8,910 ya pamilya.
-
-==Listaan na barangay==
-
-Say Bani walay 27 ya [[barangay]].
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Ambabaay
 * Aporao
 * Arwas
@@ -36,7 +19,6 @@ Say Bani walay 27 ya [[barangay]].
 * Luac
 * Macabit
 * Masidem
-| valign="top" |
 * Poblacion
 * Quinaoayanan
 * Ranao
@@ -49,14 +31,18 @@ Say Bani walay 27 ya [[barangay]].
 * Tipor
 * Tugui Grande
 * Tugui Norte
-|}
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [https://web.archive.org/web/20060510013539/http://www.bani.gov.ph/facts.htm Bani Facts]
 
 

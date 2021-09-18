@@ -1,27 +1,9 @@
-{{translation}}
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Sison, Pangasinan
-| 1990 = 32892		
-| 1995 = 35625		
-| 2000 = 40955		
-| 2007 = 42791		
-| 2010 = 43979		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-
-Say '''Sison''' sakey kumapat ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 40,955 ya too diad 8,015 ya pamilya.
-
-==Listaan na barangay==
-
-Say Sison walay 28 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Agat
 * Alibeng
 * Amagbagan
@@ -36,7 +18,6 @@ Say Sison walay 28 ya [[barangay]].
 * Cabaritan
 * Calunetan
 * Camangaan
-</td><td valign=top>
 * Cauringan
 * Dungon
 * Esperanza
@@ -51,14 +32,18 @@ Say Sison walay 28 ya [[barangay]].
 * Sagunto
 * Inmalog
 * Tara-tara
-</td></tr></table>
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 ==Lokasiyon ed Hiyograpiko==
 {{Geographic location

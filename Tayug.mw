@@ -1,25 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Tayug, Pangasinan
-| 1990 = 31575		
-| 1995 = 33881		
-| 2000 = 36199		
-| 2007 = 37954		
-| 2010 = 40018		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Tayug''' sakey kumapat ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 36,199 ya too diad 7,479 ya pamilya.
-
-==Listaan na barangay==
-
-Say Tayug walay 21 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Agno
 * Amistad
 * Barangobong
@@ -31,7 +15,6 @@ Say Tayug walay 21 ya [[barangay]].
 * Legaspi
 * Libertad
 * Magallanes
-</td><td valign=top>
 * Panganiban
 * Barangay A (Pob.)
 * Barangay B (Pob.)
@@ -42,17 +25,22 @@ Say Tayug walay 21 ya [[barangay]].
 * Toketec
 * Trenchera
 * Zamora
-</td></tr></table>
+}}
+
+== Demograpiko ==
+{{Populasyon}}
 
 ==Saray media==
 *[[DWCC-AM]] 756 kHz (Audiovisual Communicators)
 
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

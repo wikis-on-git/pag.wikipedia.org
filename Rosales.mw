@@ -1,28 +1,11 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Rosales, Pangasinan
-| 1990 = 45275		
-| 1995 = 47616		
-| 2000 = 52086		
-| 2007 = 57702		
-| 2010 = 59687		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Rosales''' sakey kumatlo ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 52,086 ya too diad 10,794 ya pamilya. Sakey  nen ngaran na Rosales et "[[Carmen]]" (inbiig ya dwara to bilay)..Amay [[Rosales]] ginawa ya inbiig municipality dyad Royal Decree in 1852.Say ngaran to ay si Don Antonio [[Rosales]].  
-Ang punong bayan ay si {{#property:P6}}.
+Sakey  nen ngaran na Rosales et "[[Carmen]]" (inbiig ya dwara to bilay)..Amay [[Rosales]] ginawa ya inbiig municipality dyad Royal Decree in 1852.Say ngaran to ay si Don Antonio [[Rosales]].  Kabat lapud say baley ya Rosales et sikatoy unaan ya walay SM mall ed interon Pangasinan.
 
-kabat lapud say baley ya Rosales et sikatoy unaan ya walay SM mall ed interon Pangasinan.
-
-==Listaan na barangay==
-
-Say Rosales walay 37 ya [[barangay]].
-
-<table border=0><tr>
-<td valign=top>
+==Saray barangay==
+{{columns-list|colwidth=18em|
 * Acop
 * Bakitbakit
 * Balingcanaway
@@ -36,7 +19,6 @@ Say Rosales walay 37 ya [[barangay]].
 * Casanicolasan
 * Coliling
 * Calanutan (Don Felix Coloma)
-</td><td valign=top>
 * Guiling
 * Palakipak
 * Pangaoan
@@ -49,7 +31,6 @@ Say Rosales walay 37 ya [[barangay]].
 * San Luis
 * San Pedro East
 * San Pedro West
-</td><td valign=top>
 * San Vicente
 * San Angel
 * Station District
@@ -62,17 +43,18 @@ Say Rosales walay 37 ya [[barangay]].
 * Zone II (Pob.)
 * Zone III (Pob.)
 * Zone V (Pob.)
-</td></tr></table>
+}}
 
-== Saray Media ==
-*[[DWMC-AM]] ([[DZIK]]) 1260 kHz (Magiliw Community Broadcasting Company / Audiovisual Communicators, Inc.)
-
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

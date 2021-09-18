@@ -1,26 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Balungao, Pangasinan
-| 1990 = 21473		
-| 1995 = 21274		
-| 2000 = 23813		
-| 2007 = 25214		
-| 2010 = 26678		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Balungao''' sakey ya [[baley]] ed [[luyag na Pangasinan]]. Onong ed [[2000]] census, walay population to ya 23,813 ya too diad 5,102 ya pamilya.
-
-==Listaan na barangay==
-
-Walay 20 ya [[barangay]] ed Balungao.
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Angayan Norte
 * Angayan Sur
 * Capulaan
@@ -31,7 +14,6 @@ Walay 20 ya [[barangay]] ed Balungao.
 * Poblacion
 * Pugaro
 * Rajal
-| valign="top" |
 * San Andres
 * San Aurelio 1st
 * San Aurelio 2nd
@@ -42,12 +24,18 @@ Walay 20 ya [[barangay]] ed Balungao.
 * San Marcelino
 * San Miguel
 * San Raymundo
-|}
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 * [http://www.balungao.org Balungao Pangasinan]
 * [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 

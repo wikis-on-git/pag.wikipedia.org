@@ -1,47 +1,9 @@
-{{translation}}
 {{Infobox location}}
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Alcala, Pangasinan
-| 1990 = 30684		
-| 1995 = 31974		
-| 2000 = 35734		
-| 2007 = 38934		
-| 2010 = 41077		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Alcala''' sakey ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] census, walay population to ya 35,734 ya too diad 7,181 ya pamilya.
-<!--
-==History==
-Alcala as a municipality has its own share to historical evolution. What is known now as Alcala was then just a flourishing barrio of [[Bayambang, Pangasinan|Bayambang]] formerly called "DANGLA", a vernacular term referring to a medicinal shrub which grows abudantly in the place. As a barrio, it was subdivided into several smaller units called sitios, namely: Bugyao, Bacud, Cupi, Bitulao, Guinawedan, Anulid, Cabicalan, Pindangan, Camanggaan and Sinabaan 
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-It was on April 1, 1873 when the early settlers thought of establishing commmunity they can govern and call their own. Through their own initiative, they submitted a petition calling for the cessation of Dangla into a separate township, but it took more than two years for the Spanish Authorities to take cognizance to the settlers' demand. 
-
-Finally, on September 20, 1875, a Royal Decree No. 682 was issued making the place an official municipality to be named ALCALA, the name of a town in Spain where then the Governor of Pangasinan hailed from.
-
-==Historical Roles and Events== 
-
-During the outbreak of the [[Philippine-American]] War, the place was the site of the field headquarters of General Malone of the United States Army. 
-
-Again, when the Filipinos and Americans were fighting against the Japanese during [[World War II]], the place was the site for the American Field Headquarters under the commandership of General [[Jonathan Mayhew Wainwright IV|Johnathan Wainwright]]. It is here where the first Guerilla Combat Training School was established. The same school produced an Infantry Battalion composed mostly of Alcaleneans who played an important role in defending the whole of Northern Luzon from the more superior Japanese Forces.
-
-==Mayor==
-
-The current mayor is Manuel Collado, who succeeded Butch Collado, his brother.
-
-==World Record==
-
-Alcala recently broke the world record for longest grill measuring about 3 km.
--->
-==Listaan na barangay==
-
-Say Alcala walay 21 ya [[barangay]].
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Anulid
 * Atainan
 * Bersamin
@@ -53,7 +15,6 @@ Say Alcala walay 21 ya [[barangay]].
 * Laoac
 * Macayo
 * Pindangan Centro
-| valign="top" |
 * Pindangan East
 * Pindangan West
 * Poblacion East
@@ -64,15 +25,18 @@ Say Alcala walay 21 ya [[barangay]].
 * San Pedro IlI
 * San Vicente
 * Vacante
-|}
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[https://web.archive.org/web/20070212212804/http://www.alcalapangasinan.gov.ph/ AlcalaPangasinan]
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

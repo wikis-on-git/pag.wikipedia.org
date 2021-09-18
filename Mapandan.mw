@@ -1,26 +1,14 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Mapandan, Pangasinan
-| 1990 = 25622		
-| 1995 = 27439		
-| 2000 = 30775		
-| 2007 = 32905		
-| 2010 = 34439		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
 [[File:Mapandan Pangasinan 2.JPG|right|250px]]
 [[File:Mapandan Pangasinan 1.JPG|right|250px]]
 
 Say '''Mapandan''' sakey kumapat ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 30,775 ya too diad 5,751 ya pamilya.
 
-==Listaan na barangay==
-
-Say Mapandan walay 15 ya [[barangay]].
-
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Amanoaoac
 * Apaya
 * Aserda
@@ -36,14 +24,18 @@ Say Mapandan walay 15 ya [[barangay]].
 * Primicias
 * Santa Maria
 * Torres
+}}
 
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

@@ -1,15 +1,11 @@
-{{Infobox location}}						
-									
-Say '''Alaminos''' et kumapat ya klase siyudad ed luyag na [[Pangasinan]], [[Filipinas]]. Unong ed 2010 sensus, say papulasyon to et 85,025 totoo. Walay kabaleg tan sukat to ya 164.26 sq. km. Sikato et walad  unaan ya distrito. Say zip code to et 2404.  
+{{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
 Dyad siyudad na Alaminos nanengneng so Hundred Islands National Park ya buboeen na 123 ya angkekelag ya isla.
 
 ==Saray barangay==
-Say Siyudad na Alaminos walay 39 ya [[barangay]].
-		
-{| border="0"
-|-----
-| valign="top" |
+{{columns-list|colwidth=12em|
 * Alos
 * Amandiego
 * Amangbangan
@@ -23,7 +19,6 @@ Say Siyudad na Alaminos walay 39 ya [[barangay]].
 * Cayucay
 * Dulacac
 * Inerangan
-| valign="top" |
 * Linmansangan
 * Lucap
 * Macatiw
@@ -37,7 +32,6 @@ Say Siyudad na Alaminos walay 39 ya [[barangay]].
 * Polo
 * Quibuar
 * Sabangan
-| valign="top" |
 * San Jose
 * San Roque
 * San Vicente
@@ -51,17 +45,14 @@ Say Siyudad na Alaminos walay 39 ya [[barangay]].
 * Maawi
 * Pandan
 * San Antonio
-|}
-
-== Saray fast food ==
-*KFC
-
-[[File:The Islets of Hundred Islands National Park, Pangasinan.jpg|thumb|The_Islets_of_Hundred_Islands_National_Park,_Pangasinan]]
-[[File:Hundred Islands Park in Alaminos Pangasinan.jpg|thumb|Hundred_Islands_Park_in_Alaminos_Pangasinan]]
-<gallery>
+}}
 
 == Demograpiko ==
 {{Populasyon}}
+<gallery>
+[[File:The Islets of Hundred Islands National Park, Pangasinan.jpg|thumb|The_Islets_of_Hundred_Islands_National_Park,_Pangasinan]]
+[[File:Hundred Islands Park in Alaminos Pangasinan.jpg|thumb|Hundred_Islands_Park_in_Alaminos_Pangasinan]]
+</gallery>
 
 == Saray media ==
 * [[DWIJ-AM]] 549 kHz (Rajah Broadcasting Network)
@@ -77,7 +68,7 @@ Say Siyudad na Alaminos walay 39 ya [[barangay]].
 * [https://www.philatlas.com/ PhilAtlas.com]
 * [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 * [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
-* {{PH wikidata|website}}	
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 							

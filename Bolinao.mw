@@ -1,25 +1,9 @@
 {{Infobox location}}
+	
+Say '''{{PH wikidata|name}}''' et {{PH wikidata|income_class}} ed luyag na {{PH wikidata|province}}, [[Filipinas]]. Unong ed {{wikidata|qualifier|single|P1082|P585}} census, say populasyon to et {{PH wikidata|population_total}} totoo tan {{PH wikidata|household}} abong. Walay kabaleg tan sukat to ya {{PH wikidata|area}} sq. km. Say zip code to et {{PH wikidata|postal_code}}.
 
-{{Philippine Census			
-| title = Sensus na populasyon ed <br> Bolinao, Pangasinan
-| 1990 = 49202		
-| 1995 = 53127		
-| 2000 = 61068		
-| 2007 = 69568		
-| 2010 = 74545		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
-Say '''Bolinao''' sakey unaan ya klase ya [[baley]] ed [[luyag na Pangasinan]], [[Filipinas]]. Onong ed [[2000]] sensus, walay populasyon to ya 61,068 ya too diad 12,182 ya pamilya.
-
-== Listaan na barangay ==
-Say Bolinao walay 30 ya [[barangay]].
-
-{| border="0"
-|-----
-| valign="top" |
+==Saray barangay==
+{{columns-list|colwidth=12em|
 * Arnedo
 * Balingasay
 * Binabalian
@@ -35,7 +19,6 @@ Say Bolinao walay 30 ya [[barangay]].
 * Ilogmalino
 * Lambes (Lames)
 * Liwa-liwa (Aliw-Aliw)
-| valign="top" |
 * Lucero
 * Luciente 1.0 (J.Celeste)
 * Luciente 2.0 (Lipong)
@@ -51,21 +34,17 @@ Say Bolinao walay 30 ya [[barangay]].
 * Tupa
 * Victory
 * Zaragoza
-|}
-
-== Saray AM transmitter ==
-*[[DZSC-AM]] 621 kHz (Audiovisual Communicators)
-*DZGO-AM 648 kHz (Audiovisual Communicators, Inc.)
-*[[1377 AM (Bolinao)|DZ__]] 1377 kHz (Audiovisual Communicators)
-
+}}
+== Demograpiko ==
+{{Populasyon}}
 == Saray reperensiya ==
-{{Reflist}}	
+{{Reflist}}
 
 ==Saray gawing ed labas==
-
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-* [http://www.pangasinan.gov.ph Official Website of the Provincial Government of Pangasinan]
-* https://web.archive.org/web/20070206174316/http://www.pangasinan.gov.ph/images/lighthouse.jpg
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+* {{PH wikidata|website}}
 
 {{Pangasinan}}
 

@@ -2,6 +2,208 @@
 
 Say '''baybayin''' sakey [[salita]]n diad [[Filipinas|Pilipino]] ed mondo.
 
+=== Characters ===
+{|class="wikitable" style="text-align:center"
+|+
+|-
+!colspan="3"| Independent vowels
+|rowspan="2" style="border-top:hidden;border-bottom:hidden;background:white;padding:1px"|
+!colspan="17"| Base consonants (with implicit vowel a)
+|-
+|style="width:36px"| [[File:BAYBAYIN A.png|36x36px|a]]<br /> a
+|style="width:36px"| [[File:Baybayin E-I.svg|36x36px|i/e]]<br /> i/''e''
+|style="width:36px"| [[File:Baybayin O-U.svg|36x36px|u/o]]<br /> u/''o''
+
+|style="width:36px"| [[File:Baybayin Ka.svg|36x36px|ka]]<br /> ka
+|style="width:36px"| [[File:Baybayin Ga.svg|36x36px|ga]]<br /> ga
+|style="width:36px"| [[File:Baybayin Nga.svg|36x36px|nga]]<br /> nga
+|style="background:white;padding:1px"|
+|style="width:36px"| [[File:Baybayin Ta.svg|36x36px|ta]]<br /> ta
+|style="width:36px"| [[File:Baybayin Da.svg|36x36px|da]]<br /> da/''ra''
+|style="width:36px"| [[File:Baybayin Na.svg|36x36px|na]]<br /> na
+|style="background:white;padding:1px"|
+|style="width:36px"| [[File:Baybayin Pa.svg|36x36px|pa]]<br /> pa
+|style="width:36px"| [[File:Baybayin Ba.svg|36x36px|ba]]<br /> ba
+|style="width:36px"| [[File:Baybayin Ma.svg|36x36px|ma]]<br /> ma
+|style="background:white;padding:1px"|
+|style="width:36px"| [[File:Baybayin Ya.svg|36x36px|ya]]<br /> ya
+|style="width:36px"| [[File:Baybayin La.svg|36x36px|la]]<br /> la
+|style="width:36px"| [[File:Baybayin Wa.svg|36x36px|wa]]<br /> wa
+|style="width:36px"| [[File:Baybayin Sa.svg|36x36px|sa]]<br /> sa
+|style="width:36px"| [[File:Baybayin Ha.svg|36x36px|ha]]<br /> ha
+|}
+
+{|border="0" cellspacing="0" cellpadding="1" style="text-align:center"
+|+ 
+|-valign="top"
+| '''Vowels'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| a ||  ᜀ
+|-
+| i<br /> ''e'' ||  ᜁ
+|-
+| u<br /> ''o'' ||  ᜂ
+|-
+| ''virama'' || ᜕<br/> ᜔
+|}
+
+| '''Ba/Va'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ba''/''va''  || ᜊ
+|-
+| ''bi/be''<br/>''vi/ve''|| ᜊᜒ
+|-
+| ''bu/bo''<br/>''vu/vo'' || ᜊᜓ
+|-
+| /b/<br/>/v/ || ᜊ᜕<br>ᜊ᜔
+|}
+| '''Ka'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ka''  || ᜃ
+|-
+| ki<br /> ''ke'' || ᜃᜒ
+|-
+| ku<br /> ''ko'' || ᜃᜓᜓ
+|-
+| <br/>/k/ || ᜃ᜕<br/>ᜃ᜔
+|}
+| '''Da/Ra'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''da/ra'' || ᜇ
+|-
+| ''di/ri''<br /> ''de/re'' || ᜇᜒ
+|-
+| ''du/ru''<br /> ''do/ro'' || ᜇᜓ
+|-
+| /d/<br/>/r/ || ᜇ᜕<br/>ᜇ᜔
+|}
+| '''Ga'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ga'' || ᜄ
+|-
+| ''gi''<br /> ''ge'' || ᜄᜒ
+|-
+| ''gu''<br /> ''go'' || ᜄᜓ
+|-
+| <br/>/g/ || ᜄ᜕<br/>ᜄ᜔
+|}
+| '''Ha'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ha'' || ᜑ
+|-
+| ''hi''<br /> ''he'' || ᜑᜒ
+|-
+| ''hu''<br /> ''ho'' || ᜑᜓ
+|-
+| <br/>/h/ || ᜑ᜕<br/>ᜑ᜔
+|}
+| '''La'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''la'' || ᜎ
+|-
+| ''li''<br /> ''le'' || ᜎᜒ
+|-
+| ''lu''<br /> ''lo'' || ᜎᜓ
+|-
+| <br/>/l/ || ᜎ᜕<br/>ᜎ᜔
+|}
+| '''Ma'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ma'' || ᜋ
+|-
+| ''mi''<br /> ''me'' || ᜋᜒ
+|-
+| ''mu''<br /> ''mo'' || ᜋᜓ
+|-
+| <br/>/m/ || ᜋ᜕<br/>ᜋ᜔
+|}
+| ''' Na'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''na'' || ᜈ
+|-
+| ''ni''<br /> ''ne'' ||ᜈᜒ
+|-
+| ''nu''<br /> ''no'' ||ᜈᜓ
+|-
+| <br/>/n/ || ᜈ᜕<br/>ᜈ᜔
+|}
+| '''Nga'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''nga'' || ᜅ
+|-
+| ''ngi''<br /> ''nge'' ||ᜅᜒ
+|-
+| ''ngu''<br /> ''ngo'' ||ᜅᜓ
+|-
+| <br/>/ŋ/ || ᜅ᜕<br/>ᜅ᜔
+|}
+| '''Pa/Fa'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''pa''/''fa'' || ᜉ
+|-
+| ''pi/pe''<br/>''fi/fe'' || ᜉᜒ
+|-
+| ''pu/po''<br>''fu/fo''|| ᜉᜓ
+|-
+| /p/<br/>/f/ || ᜉ᜕<br/>ᜉ᜔
+|}
+| '''Sa/Za'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''sa''/''za'' || ᜐ
+|-
+| ''si/se''<br/>''zi/ze'' || ᜐᜒ
+|-
+| ''su/so''<br/>''zu/zo'' || ᜐᜓ
+|-
+| /s/<br/>/z/ || ᜐ᜕<br/>ᜐ᜔
+|}
+| '''Ta'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ta'' || ᜆ
+|-
+| ''ti''<br /> ''te'' || ᜆᜒ
+|-
+| ''tu''<br /> ''to'' || ᜆᜓ
+|-
+| <br/>/t/ || ᜆ᜕<br/>ᜆ᜔
+|}
+| '''Wa'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''wa'' || ᜏ
+|-
+| ''wi''<br /> ''we'' || ᜏᜒ
+|-
+| ''wu''<br /> ''wo'' || ᜏᜓ
+|-
+| <br/>/w/ || ᜏ᜕<br/>ᜏ᜔
+|}
+| '''Ya'''
+{|class="wikitable" style="margin:.5em auto"
+|-
+| ''ya'' || ᜌ
+|-
+| ''yi''<br /> ''ye'' || ᜌᜒ
+|-
+| ''yu''<br /> ''yo'' || ᜌᜓ
+|-
+| <br/>/j/ || ᜌ᜕<br/>ᜌ᜔
+|}
+|}
+
 [[category:Saray salitan na Filipinas|Baybayin]]
 [[category:Script diad Pilipino|Baybayin]]
 [[category:Script diad Brahmika|Baybayin]]

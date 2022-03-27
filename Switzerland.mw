@@ -1,13 +1,14 @@
-{{Infobox Country  |common_name = Switzerland
+{{Infobox Country
+  |common_name = Switzerland
   |native_name = ''Schweizerische Eidgenossenschaft''<br />''Confédération suisse''<br />''Confederazione Svizzera''<br />''Confederaziun svizra''<br />''Confoederatio Helvetica''
   |image_flag = Flag of Switzerland (Pantone).svg|image_coat = Coat of Arms of Switzerland (Pantone).svg
-  |symbol_type = Coat of arms  
+  |symbol_type = Coat of arms
   |image_map = LocationSwitzerland.png
   |national_anthem = [[Swiss Psalm]]
   |national_motto = [[Latin]]: ''[[Unus pro omnibus, omnes pro uno]]''<!-- IF YOU FEEL TEMPTED TO REPLACE THIS WITH "none", PLEASE CHECK THE TALK PAGE AND ITS ARCHIVES FIRST, and also read the linked article! Thank you. --> (traditional)<ref>The motto is traditional; it does not have an official status that was defined by the Swiss constitution or a Swiss law. See [[Unus pro omnibus, omnes pro uno]] for more information.</ref><br />([[Salitan Pangasinan|Pangasinan]]: "Sakey para amin, amin para sakey")
   |official_languages = [[German language|German]], [[French language|French]], [[Italian language|Italian]]
 <ref>http://www.oefre.unibe.ch/law/icl/sz00000_.html Switzerland Constitution], article 70, "Languages": (1) The official languages of the Federation are German, French, and Italian. Romansh is an official language for communicating with persons of Romansh language. (2) The Cantons designate their official languages. In order to preserve harmony between linguistic communities, they respect the traditional territorial distribution of languages, and take into account the indigenous linguistic minorities.</ref>
-  |common_languages = [[Serbo-Croatian]], [[Albanian language|Albanian]], [[Portuguese language|Portuguese]], [[Spanish language|Spanish]], [[English language|English]] <ref>http://www.bfs.admin.ch/bfs/portal/fr/index/themen/bevoelkerung/sprachen__religionen/blank/medienmitteilungen.Document.24786.html </ref>
+  |common_languages = [[Serbo-Croatian]], [[Albanian language|Albanian]], [[Portuguese language|Portuguese]], [[Spanish language|Spanish]], [[English language|English]] <ref>http://www.bfs.admin.ch/bfs/portal/fr/index/themen/bevoelkerung/sprachen__religionen/blank/medienmitteilungen.Document.24786.html</ref>
   |capital = [[Bern]] (federal capital) |latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E
   |largest_city = [[Zürich]]
   |government_type = [[Direct democracy]], [[Federal republic]]
@@ -28,7 +29,7 @@
   |GDP_nominal = $309 billion|GDP_nominal_year=2003|GDP_nominal_rank=kuma-17
   |GDP_PPP_per_capita = $35,300|GDP_PPP_per_capita_rank=kuma-10
   |GDP_nominal_per_capita = $50,524|GDP_nominal_per_capita_rank=4th
-  |HDI_year=2003|HDI=0.947|HDI_rank=7th |HDI_category=<font color="#009900">high</font>
+  |HDI_year=2003|HDI=0.947|HDI_rank=7th |HDI_category=<span style="color:#009900;">high</span>
   |sovereignty_type =[[Independence]]
   |sovereignty_note = [[Federal Charter of 1291|Federal Charter]]
   |established_event1 = Declared

@@ -1,10 +1,10 @@
 {{Infobox Country
 |native_name                 = <span style="line-height:1.33em;">{{lang|de|''Bundesrepublik Deutschland''}}</span>
 |conventional_long_name      = <span style="line-height:1.33em;">Federal Republic of Germany</span>
-|common_name                 = Germany 
+|common_name                 = Germany
 |national_motto              = "{{lang|de|Einigkeit und Recht und Freiheit}}"<br /><small>"Unity and justice and freedom"</small>
 |national_anthem             = {{lang|de|''[[Das Lied der Deutschen]]''}} (third [[stanza]])<br /><small>also called {{lang|de|''Einigkeit und Recht und Freiheit''}} </small><!--The official national anthem of Germany is ONLY the third stanza! Source: http://www.bundesregierung.de/Bundesregierung/-,8394/Nationalhymne.htm-->
-|image_flag                  = Flag of Germany.svg‎
+|image_flag                  = Flag of Germany.svg
 |image_coat                  = Coat of arms of Germany.svg
 |image_map                   = Location Germany EU Europe.png
 |capital                     = [[Berlin]]
@@ -32,7 +32,7 @@
 |established_date6           = [[3 October]] [[1990]]
 |accessionEUdate             = [[25 March]] [[1957]]
 |EUseats                     = 99
-|area                        = 357,168 
+|area                        = 357,168
 |areami²                     = 137,858 <!--Do not remove per [[WP:MOSNUM]]-->
 |area_rank                   = 61rd
 |area_magnitude              = 1 E11
@@ -46,7 +46,7 @@
 |population_densitymi²       = 583 <!--Do not remove per [[WP:MOSNUM]]-->
 |population_density_rank     = 58th
 |GDP_PPP_year                = 2006
-|GDP_PPP                     = $2.585 trillion 
+|GDP_PPP                     = $2.585 trillion
 |GDP_PPP_rank                = 5th
 |GDP_PPP_per_capita          = $31,400
 |GDP_PPP_per_capita_rank     = 17th
@@ -58,10 +58,10 @@
 |HDI_year                    = 2004
 |HDI                         = {{increase}} 0.932
 |HDI_rank                    = 21st
-|HDI_category                = <font color="#009900">high</font>
+|HDI_category                = <span style="color:#009900;">high</span>
 |Gini                        = 28.3
 |Gini_year                   = 2000
-|Gini_category               = <font color="#009900">low</font>
+|Gini_category               = <span style="color:#009900;">low</span>
 |currency                    = [[Euro]] ([[Euro sign|€]])
 |currency_code               = EUR
 |time_zone                   = CET

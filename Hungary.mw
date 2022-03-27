@@ -1,12 +1,12 @@
-{{Infobox_Country|
+{{Infobox Country|
 |native_name = ''Magyar Köztársaság''
 |conventional_long_name = Republic na Hungary
 |common_name = Hungary
 |image_flag = Flag of Hungary.svg
 |image_coat = Coat of Arms of Hungary.svg
-|image_map = Europe_location_HUN.png
+|image_map = Europe location HUN.png
 |national_motto = none<br />Historical: [[Latin]]: ''Regnum Mariae Patrona Hungariae'' <br />([[English language|English]]: "Kaarian nen Mary ya Patrona na Hungary")
-|national_anthem = ''[[Himnusz|Himnusz (Isten, áldd meg a magyart)]]''<br /> "Hymn (Dios, bless yo ray Hungarian)"
+|national_anthem = ''[[Himnusz]] (Isten, áldd meg a magyart)''<br /> "Hymn (Dios, bless yo ray Hungarian)"
 |official_languages = [[Hungarian language|Hungarian]] (''Magyar'')
 |capital = [[Budapest]]
 |latd=47 |latm=26 |latNS=N |longd=19 |longm=15 |longEW=E |
@@ -41,7 +41,7 @@
 |HDI_year = 2003
 |HDI = 0.862
 |HDI_rank = 35th
-|HDI_category = <font color="#009900">high</font>
+|HDI_category = <span style="color:#009900;">high</span>
 |currency = [[Hungarian forint|Forint]]
 |currency_code = HUF
 |country_code = hu

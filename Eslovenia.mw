@@ -4,7 +4,7 @@ conventional_long_name = Republic na Slovenia |
 common_name = Slovenia |
 image_flag = Flag of Slovenia.svg |
 image_coat = Coat of Arms of Slovenia.svg |
-image_map = SVN_highlighted_map.png |
+image_map = SVN highlighted map.png |
 national_motto (unofficial) = Žive naj vsi narodi (Blessing na Dios ed amin ya nasyon)|
 national_anthem = [[Zdravljica]] |
 official_languages = [[Slovenian language|Slovenian]], [[Italian language|Italian]]<sup>1</sup>, [[Hungarian language|Hungarian]]<sup>1</sup> |
@@ -38,7 +38,7 @@ GDP_PPP_per_capita_rank = 31st |
 HDI_year = 2003 |
 HDI = 0.904 |
 HDI_rank = 26th |
-HDI_category = <font color="#009900">high</font> |
+HDI_category = <span style="color:#009900;">high</span> |
 sovereignty_type = [[Independence]] |
 sovereignty_note = From [[Socialist Federal Republic of Yugoslavia|Yugoslavia]] |
 established_event1 = Declared |

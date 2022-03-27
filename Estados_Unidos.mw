@@ -5,7 +5,7 @@
 |image_coat                  = US-GreatSeal-Obverse.svg
 |symbol_type                 = Great Seal
 |national_motto              = <!--Please read the talk page before editing these mottoes:-->"[[In God We Trust]]"{{spaces|2}}<small>(since 1956)</small><br />{{lang|la|''"[[E pluribus unum|E Pluribus Unum]]"''}}{{spaces|2}}<small>("From Many, One"; [[Salitan Latin|Latin]], traditional)</small>
-|image_map                   = Location_United_States.svg
+|image_map                   = Location United States.svg
 |national_anthem             = ''[[The Star-Spangled Banner]]''
 |official_languages          = [[Salitan English|English]] (''[[de facto]])''{{smallsup|1}}
 |capital                     = [[Washington, D.C.]]
@@ -44,7 +44,7 @@
 |GDP_PPP_per_capita          = $43,444
 |GDP_PPP_per_capita_rank     = 4th
 |GDP_nominal                 = $13,244,550m
-<ref name="IMF GDP"/>
+<ref name="IMF GDP" />
 |GDP_nominal_rank            = 1st
 |GDP_nominal_year            = 2006
 |GDP_nominal_per_capita      = $44,190
@@ -52,16 +52,16 @@
 |HDI_year                    = 2004
 |HDI                         = {{increase}} 0.948
 |HDI_rank                    = 8th
-|HDI_category = <font color="#009900">high</font>
+|HDI_category = <span style="color:#009900;">high</span>
 |Gini                        = 46.9<ref name="USCB HINC">{{cite web|url=http://www.census.gov/hhes/www/income/histinc/p60no231_tablea3.pdf|title=Household Income Distribution, 1967 to 2005|publisher=U.S. Census Bureau|date=2006|accessdate = 2006-12-28}}</ref>
-|Gini_year                   = 2005 
-|Gini_category               = <font color="#ffcc00">medium</font>
+|Gini_year                   = 2005
+|Gini_category               = <span style="color:#ffcc00;">medium</span>
 |currency                    = [[United States dollar]] ($)
 |currency_code               = USD
 |country_code                = USA
 |utc_offset                  = -5 to -10
 |utc_offset_DST              = -4 to -10
-|cctld                       = [[.us]] [[.gov]] [[.mil]] [[.edu]] 
+|cctld                       = [[.us]] [[.gov]] [[.mil]] [[.edu]]
 |calling_code                = 1
 |demonym                     = [[American (word)|American]]
 |footnote1                   = English is the ''[[de facto]]'' language of American government; [[Spanish language|Spanish]] is the second most common. English, Spanish, [[French language|French]], [[Carolinian language|Carolinian]], [[Chamorro language|Chamorro]], [[Hawaiian language|Hawaiian]] and [[Samoan language|Samoan]] are officially recognized by various states and territories.

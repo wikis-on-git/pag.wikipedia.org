@@ -1,4 +1,4 @@
-{{Infobox_Country|
+{{Infobox Country|
 common_name 		= Austria|
 native_name 		= ''Republik Österreich''|
 conventional_long_name  = Republic of Austria|
@@ -46,7 +46,7 @@ GDP_nominal_per_capita_rank=kuma-10|
 HDI_year                = 2003|
 HDI                     = 0.936|
 HDI_rank                = kuma-17|
-HDI_category            = <font color="#009900">high</font>|
+HDI_category            = <span style="color:#009900;">high</span>|
 currency 	 	= [[Austrian euro coins|Euro]]<sup>[1]</sup>|
 currency_code           = EUR|
 time_zone 	 	= [[Central European Time|CET]]|

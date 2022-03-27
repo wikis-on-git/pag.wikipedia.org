@@ -1,4 +1,4 @@
-{{Infobox_Country|
+{{Infobox Country|
 native_name = {{lang|cs|''Česká republika''}} |
 conventional_long_name = Czech Republic |
 common_name = Czech Republic |
@@ -39,7 +39,7 @@ GDP_PPP_per_capita_rank = 38th<sup>2</sup> <!--2005 rank-->|
 HDI_year = 2003 |
 HDI = 0.874 |
 HDI_rank = 31st |
-HDI_category = <font color="#009900">high</font> |
+HDI_category = <span style="color:#009900;">high</span> |
 sovereignty_type = [[Formation]] |
 sovereignty_note =  [[9th century]] |
 established_event1 = [[Kawayangen]] manlapod [[Austria-Hungary]] |

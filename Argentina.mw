@@ -1,4 +1,4 @@
-{{Infobox_Country|
+{{Infobox Country|
 native_name = ''República Argentina'' |
 conventional_long_name = Argentine Republic |
 common_name = Argentina |
@@ -32,7 +32,7 @@ GDP_PPP_per_capita_rank = 50th |
 HDI_year = 2003 |
 HDI = 0.863 |
 HDI_rank = 34th |
-HDI_category = <font color="#009900">high</font> |
+HDI_category = <span style="color:#009900;">high</span> |
 sovereignty_type = [[Independence]]|
 sovereignty_note = From [[Spain]] |
 established_event1 = [[May Revolution]] |
